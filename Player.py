@@ -148,56 +148,6 @@ class Player:
 
     #RIVER
 #Good idea to vary betting strategies to become less predictable
-
-    #PREFLOP
-                if len(boardCards) == 0:
-                    print holeCard1.__str__()
-                    print holeCard2.__str__()
-                    if twoCardValuation(holeCard1, holeCard2) >= 4:
-                        if 'CHECK' in avail_actions.keys():
-                            reply('CHECK', 'CHECK', s)
-                        elif 'CALL' in avail_actions.keys():
-                            reply('CALL', avail_actions['CALL'][0], s)
-                        elif 'RAISE' in avail_actions.keys() and twoCardValuation(holeCard1, holeCard2) >= 6:
-                            reply('RAISE', avail_actions['RAISE'][0], s)
-                        else:
-                            reply('FOLD', 'FOLD', s)
-
-
-
-                    if twoCardValuation(holeCard1, holeCard2) <= 3:
-                        if 'CHECK' in avail_actions.keys():
-                            reply('CHECK', 'CHECK', s)
-                        elif 'CALL' in avail_actions.keys() and avail_actions['CALL'][0] <= 15:
-                            reply('CALL', avail_actions['CALL'][0], s)
-                        else:
-                            reply('FOLD', 'FOLD', s)
-
-    #FLOP
-                if len(boardCards) == 3:
-                    cards.extend(boardCards)
-                    o = pokerHand(cards)
-                    score = 15*o[1][0] + o[1][1]
-                    print score
-                
-                # Currently CHECK on every move. You'll want to change this.
-                    if 'CHECK' in legalActions:
-                        reply('CHECK', 'CHECK', s)
-                    elif 'CALL' in avail_actions.keys() and score >= 30:
-                        reply('CALL', avail_actions['CALL'][0], s)
-                    elif 'RAISE' in avail_actions.keys() and score >= 30:
-                        reply('RAISE', avail_actions['RAISE'][0], s)
-                    else:
-                        reply('FOLD', 'FOLD', s)
-
-                        
-                if len(boardCards) >= 3:
-                    if 'CHECK' in legalActions:
-                        reply('CHECK', 'CHECK', s)
-                    else:
-                        reply('FOLD', 'FOLD', s)
-
-
                         
             elif packet_values[0] == "REQUESTKEYVALUES":
                 # At the end, the engine will allow your bot save key/value pairs.
