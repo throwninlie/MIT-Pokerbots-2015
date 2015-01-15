@@ -115,39 +115,6 @@ class Player:
                     elif action[0] == 'BET' or action[0] == 'RAISE':
                         avail_actions[action[0]] = range(int(action[1]), int(action[2])+1)
                 #print avail_actions
-
-
-
-    #PREFLOP
-                if len(board) == 0:
-                    
-                    print holeCard1, holeCard2, equities2
-                
-                #random basic preflop strategy, should be changed
-                #seems to beat the random bots
-                    if equity2 > .34:
-                        if "CHECK" in avail_actions.keys():
-                            reply("CHECK", "CHECK", s)
-                        elif "RAISE" in avail_actions.keys():
-                            reply("RAISE", avail_actions["RAISE"][0], s)
-                        elif "CALL" in avail_actions.keys():
-                            reply("CALL", avail_actions["CALL"][0], s)
-                        else:
-                            reply("FOLD", "FOLD", s)
-                    elif equity2 <= .34:
-                        reply("FOLD", "FOLD", s)
-                    
-    #FLOP
-
-                
-                # Currently CHECK on every move. You'll want to change this.
-                reply("CHECK", "CHECK", s)
-
-    #TURN
-
-
-    #RIVER
-#Good idea to vary betting strategies to become less predictable
                         
             elif packet_values[0] == "REQUESTKEYVALUES":
                 # At the end, the engine will allow your bot save key/value pairs.
@@ -164,6 +131,25 @@ def reply(action, amount, socket):
 
 
 def preflop():
+    #PREFLOP
+    if len(board) == 0:
+        
+        print holeCard1, holeCard2, equities2
+    
+    #random basic preflop strategy, should be changed
+    #seems to beat the random bots
+        if equity2 > .34:
+            if "CHECK" in avail_actions.keys():
+                reply("CHECK", "CHECK", s)
+            elif "RAISE" in avail_actions.keys():
+                reply("RAISE", avail_actions["RAISE"][0], s)
+            elif "CALL" in avail_actions.keys():
+                reply("CALL", avail_actions["CALL"][0], s)
+            else:
+                reply("FOLD", "FOLD", s)
+        elif equity2 <= .34:
+            reply("FOLD", "FOLD", s)
+    
 
 def turn():
 
