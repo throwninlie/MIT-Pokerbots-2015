@@ -1,8 +1,11 @@
 import argparse
 import socket
 import sys
+
 import pbots_calc
 import calculatorTest
+
+
 """
 Simple example pokerbot, written in python.
 
@@ -36,6 +39,7 @@ class Player:
             
     #BEGIN VARIABLE DEFINITIONS
             if packet_values[0] == "NEWHAND":
+
                 global seat
                 global holeCard1
                 global holeCard2
@@ -50,6 +54,7 @@ class Player:
                 #pbots_calc.calc(hands,board,dead,iters)
                 equities2 = calculatorTest.equityCalculator(holecard1,holecard2,"",1000)
                 #equities2 := 2-card equities, only computed once
+                
 
             if packet_values[0] == "GETACTION":
                 #Obtain all the values from the strings input
@@ -60,9 +65,11 @@ class Player:
                 #num_board_cards:= number of shown cards (0,3,4,5)
                 num_board_cards = int(packet_values[2])
                 board = []
+
                 #boardCards = []
                 if num_board_cards > 0:
                     board = packet_values[3: 3+num_board_cards]
+
                     offset += num_board_cards
 
                 #stack_sizes: list of 3 ints, 1st seat to 3rd seat
@@ -96,7 +103,6 @@ class Player:
 
                 #timeBank: amt. of time left
                 timeBank = packet_values[9+offset]
-    #END VARIABLE DEFINITIONS
 
                 avail_actions = {}
                 for action in legalActions:
@@ -109,6 +115,7 @@ class Player:
                     elif action[0] == 'BET' or action[0] == 'RAISE':
                         avail_actions[action[0]] = range(int(action[1]), int(action[2])+1)
                 #print avail_actions
+
 
 
     #PREFLOP
@@ -140,6 +147,57 @@ class Player:
 
 
     #RIVER
+#Good idea to vary betting strategies to become less predictable
+
+    #PREFLOP
+                if len(boardCards) == 0:
+                    print holeCard1.__str__()
+                    print holeCard2.__str__()
+                    if twoCardValuation(holeCard1, holeCard2) >= 4:
+                        if 'CHECK' in avail_actions.keys():
+                            reply('CHECK', 'CHECK', s)
+                        elif 'CALL' in avail_actions.keys():
+                            reply('CALL', avail_actions['CALL'][0], s)
+                        elif 'RAISE' in avail_actions.keys() and twoCardValuation(holeCard1, holeCard2) >= 6:
+                            reply('RAISE', avail_actions['RAISE'][0], s)
+                        else:
+                            reply('FOLD', 'FOLD', s)
+
+
+
+                    if twoCardValuation(holeCard1, holeCard2) <= 3:
+                        if 'CHECK' in avail_actions.keys():
+                            reply('CHECK', 'CHECK', s)
+                        elif 'CALL' in avail_actions.keys() and avail_actions['CALL'][0] <= 15:
+                            reply('CALL', avail_actions['CALL'][0], s)
+                        else:
+                            reply('FOLD', 'FOLD', s)
+
+    #FLOP
+                if len(boardCards) == 3:
+                    cards.extend(boardCards)
+                    o = pokerHand(cards)
+                    score = 15*o[1][0] + o[1][1]
+                    print score
+                
+                # Currently CHECK on every move. You'll want to change this.
+                    if 'CHECK' in legalActions:
+                        reply('CHECK', 'CHECK', s)
+                    elif 'CALL' in avail_actions.keys() and score >= 30:
+                        reply('CALL', avail_actions['CALL'][0], s)
+                    elif 'RAISE' in avail_actions.keys() and score >= 30:
+                        reply('RAISE', avail_actions['RAISE'][0], s)
+                    else:
+                        reply('FOLD', 'FOLD', s)
+
+                        
+                if len(boardCards) >= 3:
+                    if 'CHECK' in legalActions:
+                        reply('CHECK', 'CHECK', s)
+                    else:
+                        reply('FOLD', 'FOLD', s)
+
+
                         
             elif packet_values[0] == "REQUESTKEYVALUES":
                 # At the end, the engine will allow your bot save key/value pairs.
@@ -153,6 +211,7 @@ def reply(action, amount, socket):
         socket.send(action + "\n")
     elif action == 'CALL' or action == 'BET' or action == 'RAISE':
         socket.send(action+":"+str(amount)+"\n")
+
 
 def preflop():
 
@@ -168,7 +227,6 @@ def bet():
 
 def check():
     
-
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='A Pokerbot.', add_help=False, prog='pokerbot')
     parser.add_argument('-h', dest='host', type=str, default='localhost', help='Host to connect to, defaults to localhost')
@@ -186,4 +244,3 @@ if __name__ == '__main__':
     bot = Player()
     bot.run(s)
 
-    
