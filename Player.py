@@ -13,6 +13,7 @@ This is an example of a bare bones pokerbot. It only sets up the socket
 necessary to connect with the engine and then always returns the same action.
 It is meant as an example of how a pokerbot should communicate with the engine.
 """
+
 class Player:
     def run(self, input_socket):
         # Get a file-object for reading packets from the socket.
@@ -43,19 +44,18 @@ class Player:
                 global seat
                 global holeCard1
                 global holeCard2
-                global equities2
-
+                global our_bets 
 
                 seat = packet_values[2]
                 holeCard1 = packet_values[3]
                 holeCard2 = packet_values[4]
-                #later add something to predict an opponents range
-                #of cards by how much they bet/playing style
-                #pbots_calc.calc(hands,board,dead,iters)
-                equities2 = calculatorTest.equityCalculator(holeCard1, holeCard2, "", 1000, None, None)
-                #equities2: Results instance
-                #2-card equity against random hand, only computed once
-
+                if seat == 1:
+                    our_bets = 0
+                elif seat == 2:
+                    our_bets = 1
+                elif seat == 3:
+                    our_bets = 2
+                
                 
 
             if packet_values[0] == "GETACTION":
@@ -105,7 +105,8 @@ class Player:
                 timeBank = packet_values[9+offset]
 
 
-                avail_actions = {}
+                
+                global avail_actions = {}
                 for action in legalActions:
                     action = action.split(':')
                     if action[0] == 'FOLD' or action[0] == 'CHECK':
@@ -117,33 +118,31 @@ class Player:
                         avail_actions[action[0]] = range(int(action[1]), int(action[2])+1)
                 #print avail_actions
 
-#PRE-FLOP
-#probably simpler to keep it like this, without the preflop, flop, turn, river
-#methods, since you'd have to take in 10+ inputs or make all variables global
-                if len(board) == 0:
-                    if equities2.ev[0] > .4:
-                        if "CHECK" in avail_actions.keys():
-                            reply("CHECK", "CHECK", s)
-                        elif "RAISE" in avail_actions.keys():
-                            reply("RAISE", avail_actions["RAISE"][0], s)
-                        elif "CALL" in avail_actions.keys():
-                            reply("CALL", avail_actions["CALL"][0], s)
-                        else:
-                            reply("FOLD", "FOLD", s)
-                    elif equities2.ev[0] <= .4:
-                        reply("FOLD", "FOLD", s)
+            
+#PREFLOP
+                if num_board_cards == 0:
+                    #later add something to predict an opponents range
+                    #of cards by how much they bet/playing style
+                    #pbots_calc.calc(hands,board,dead,iters)
+                    #equities2: Results instance
+                    #2-card equity against random hand, only computed once
 
+                    equities2 = calculatorTest.equityCalculator(holeCard1, holeCard2, "", 1000, None, None)
+                    preflop()
 #FLOP                       
-                elif len(board) == 3:
-                    reply("CHECK", "CHECK", s)
+                elif num_board_cards == 3:
+                    equities3 = calculatorTest.equityCalculator(holeCard1, holeCard2, board, 1000, None, None)
+                    flop()
                     
 #TURN
-                elif len(board) == 4:
-                    reply("CHECK", "CHECK", s)
+                elif num_board_cards == 4:
+                    equities4 = calculatorTest.equityCalculator(holeCard1, holeCard2, board, 1000, None, None)
+                    turn()
 
 #RIVER
-                elif len(board) == 5:
-                    reply("CHECK", "CHECK", s)
+                elif num_board_cards == 5:
+                    equities5 = calculatorTest.equityCalculator(holeCard1, holeCard2, board, 1000, None, None)
+                    river()
                     
                     
                         
@@ -160,20 +159,63 @@ def reply(action, amount, socket):
     elif action == 'CALL' or action == 'BET' or action == 'RAISE':
         socket.send(action+":"+str(amount)+"\n")
 
-
-    """
-def fold():
-    return None
-def raiseBet():
-    return None
-def bet():
-    return None
-def check():
-    return None
-    """
-
-
+def equityCalculator(holeCard1,holeCard2,board,iterations,theirCards = None, dead= None):
+    if theirCards == None:
+        theirCards = "xx"
+    if board == "":
+        pass
+    else:
+        board = ''.join(board)
+    print theirCards
     
+    if dead == None:
+        dead = ""
+        r= ""
+    word = holeCard1+holeCard2+":"+theirCards
+    
+    equities = pbots_calc.calc(word,board,dead,iterations)
+    return equities
+
+def estimatedValue(equities,pot_size,our_bets,bet):
+    ourEquity = equities.ev[0]
+    theirEquity = equities.ev[1]
+    minBet = 0
+    maxBet = 0
+
+        
+    winAmt = pot_size - our_bets - bet
+    loseAmt = our_bets + bet
+    estimated_value = ourEquity * winAmt - (1-ourEquity) * loseAmt
+    return estimated_value
+
+def impliedOdds(equities,pot_size,bet):
+    ourEquity = equities.ev[0]
+    x = (float) bet / ourEquity
+    y = pot_size + bet + bet
+    impliedOdds = x - y
+    return impliedOdds
+
+def bet(equities):
+    
+    bet = 0
+    if "CALL" in avail_actions:
+        bet = avail_actions["CALL"][0]
+    ev = estimatedValue(equities,pot_size,our_bets,bet)
+    if ev > 0:
+        
+    if "BET" in avail_actions:
+        minBet = avail_actions["BET"][0]
+        maxBet = avail_actions["BET"][-1]
+    elif "RAISE" in avail_actions:
+        minBet = avail_actions["RAISE"][0]
+        maxBet = avail_actions["RAISE"][-1]
+    
+    
+
+def preflop():
+     reply("CHECK", "CHECK", s)
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='A Pokerbot.', add_help=False, prog='pokerbot')
     parser.add_argument('-h', dest='host', type=str, default='localhost', help='Host to connect to, defaults to localhost')
