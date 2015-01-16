@@ -52,57 +52,58 @@ class Player:
                 #later add something to predict an opponents range
                 #of cards by how much they bet/playing style
                 #pbots_calc.calc(hands,board,dead,iters)
-                equities2 = calculatorTest.equityCalculator(holecard1,holecard2,"",1000)
-                #equities2 := 2-card equities, only computed once
+                equities2 = calculatorTest.equityCalculator(holeCard1, holeCard2, "", 1000, None, None)
+                #equities2: Results instance
+                #2-card equity against random hand, only computed once
+
                 
 
             if packet_values[0] == "GETACTION":
-                #Obtain all the values from the strings input
-                offset = 0 #handle offset/optional values
+                #Parse all inputs from the GETACTION packet
 
-                #pot_size:= total number of chips in pot
+                #pot_size: int representing size of pot
+                #num_board_cards: integer in {0,3,4,5}
+                #board: list of cards on board
+                #stack_sizes: list of 3 ints, starting from 1st seat to 3rd seat
+                #numActivePlayers: int number of players playing current hand
+                #activePlayers: list of 3 booleans
+                #numLastActions: int number of PerformedActions in lastActions
+                #lastActions: list of PerformedActions
+                #numLegalActions: int number of LegalActions
+                #legalActions: list of LegalActions e.g. CALL:2, RAISE:4:100, FOLD
+                #timeBank: time left in time bank
+                
+                offset = 0
+                
                 pot_size = int(packet_values[1])
-                #num_board_cards:= number of shown cards (0,3,4,5)
                 num_board_cards = int(packet_values[2])
+                
                 board = []
-
-                #boardCards = []
                 if num_board_cards > 0:
                     board = packet_values[3: 3+num_board_cards]
-
                     offset += num_board_cards
 
-                #stack_sizes: list of 3 ints, 1st seat to 3rd seat
                 stack_sizes = packet_values[3+offset: 6+offset]
-
-                #numActivePlayers: number of True players (0,1,2,3)
-                numActivePlayers = int(packet_values[6+offset])
-                
+                numActivePlayers = int(packet_values[6+offset])           
                 #if [activePlayers] list exists:
                 if type(packet_values[7+offset]) != int:
-                    #activePlayers: list of 3 booleans
                     activePlayers = packet_values[7+offset: 10+offset]
                     offset += 3
 
-                #numLastActions: int - # PerformedActions
-                numLastActions = int(packet_values[7+offset])
-                
+
+                numLastActions = int(packet_values[7+offset])          
                 if numLastActions > 0:
-                    #lastActions: list of PerformedActions
                     lastActions = packet_values[8+offset: 8+offset+numLastActions]
                     offset += numLastActions
-                #numLegalActions: int - # LegalActions
                 numLegalActions = int(packet_values[8+offset])
 
                 
                 if numLegalActions > 0:
-                    #legalActions: list of LegalActions
-
                     legalActions = packet_values[9+offset: 9+offset+numLegalActions]                  
                     offset += numLegalActions
 
-                #timeBank: amt. of time left
                 timeBank = packet_values[9+offset]
+
 
                 avail_actions = {}
                 for action in legalActions:
@@ -115,6 +116,36 @@ class Player:
                     elif action[0] == 'BET' or action[0] == 'RAISE':
                         avail_actions[action[0]] = range(int(action[1]), int(action[2])+1)
                 #print avail_actions
+
+#PRE-FLOP
+#probably simpler to keep it like this, without the preflop, flop, turn, river
+#methods, since you'd have to take in 10+ inputs or make all variables global
+                if len(board) == 0:
+                    if equities2.ev[0] > .4:
+                        if "CHECK" in avail_actions.keys():
+                            reply("CHECK", "CHECK", s)
+                        elif "RAISE" in avail_actions.keys():
+                            reply("RAISE", avail_actions["RAISE"][0], s)
+                        elif "CALL" in avail_actions.keys():
+                            reply("CALL", avail_actions["CALL"][0], s)
+                        else:
+                            reply("FOLD", "FOLD", s)
+                    elif equities2.ev[0] <= .4:
+                        reply("FOLD", "FOLD", s)
+
+#FLOP                       
+                elif len(board) == 3:
+                    reply("CHECK", "CHECK", s)
+                    
+#TURN
+                elif len(board) == 4:
+                    reply("CHECK", "CHECK", s)
+
+#RIVER
+                elif len(board) == 5:
+                    reply("CHECK", "CHECK", s)
+                    
+                    
                         
             elif packet_values[0] == "REQUESTKEYVALUES":
                 # At the end, the engine will allow your bot save key/value pairs.
@@ -130,38 +161,18 @@ def reply(action, amount, socket):
         socket.send(action+":"+str(amount)+"\n")
 
 
-def preflop():
-    #PREFLOP
-    if len(board) == 0:
-        
-        print holeCard1, holeCard2, equities2
-    
-    #random basic preflop strategy, should be changed
-    #seems to beat the random bots
-        if equity2 > .34:
-            if "CHECK" in avail_actions.keys():
-                reply("CHECK", "CHECK", s)
-            elif "RAISE" in avail_actions.keys():
-                reply("RAISE", avail_actions["RAISE"][0], s)
-            elif "CALL" in avail_actions.keys():
-                reply("CALL", avail_actions["CALL"][0], s)
-            else:
-                reply("FOLD", "FOLD", s)
-        elif equity2 <= .34:
-            reply("FOLD", "FOLD", s)
-    
-
-def turn():
-
-def river()
-
+    """
 def fold():
-    #you should never fold if everyone else has checked
+    return None
 def raiseBet():
-
+    return None
 def bet():
-
+    return None
 def check():
+    return None
+    """
+
+
     
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='A Pokerbot.', add_help=False, prog='pokerbot')
