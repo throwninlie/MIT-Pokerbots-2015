@@ -15,7 +15,7 @@ Erwin Hilton, Richard Spence, Gabriel Esayas, Vincent Anioke}
 This strategy report outlines the strategies that our pokerbot used for the 6.176 Pokerbots competition, including how we exploited other opponents to determine when to bet, raise, check, or fold.
 
 \section*{The \texttt{Opponent} class}
-We created a Python class \texttt{Opponent} that keeps track of player stats throughout the game. Thus, whenever \texttt{NEWGAME} is called, we create three \texttt{Opponent} objects, including one for our own player. Each opponent has several basic attributes, including name, stack size, what seat the opponent is at (1, 2, or 3), whether the opponent is playing the current hand, and whether the opponent is eliminated from the game. Additionally, each \texttt{Opponent} has the following attributes: \\
+We created a Python class \texttt{Opponent} that keeps track of player stats throughout the game. Thus, whenever \texttt{NEWGAME} is received, we create three \texttt{Opponent} objects, including one for our own player. Each opponent has several basic attributes, including name, stack size, what seat the opponent is at (1, 2, or 3), whether the opponent is playing the current hand, and whether the opponent is eliminated from the game. Additionally, each \texttt{Opponent} has the following attributes: \\
 
 \begin{tabular}{|l|l|}  \hline
 \texttt{bot.foldPer} & percentage of hands folded pre-flop \\ \hline
@@ -29,11 +29,14 @@ We created a Python class \texttt{Opponent} that keeps track of player stats thr
 
 These attributes allow us to classify an opponent one of several categories: calling machine (one who calls very often, easy to win money from), rock (conservative player, usually only plays premium hands), fish (poor player who often likes to go to showdown), tight-aggressive (TAG), loose-aggressive (LAG). Because playing styles might change, we also evaluate based on the last $h$ hands. 
 
+%http://www.myholdempokertips.com/hud-stats-wtsd-won-money-at-showdown
+%http://www.thepokerbank.com/articles/software/vpip/
+
 We also use the M-ratio, so a player's M-ratio (denoted \texttt{bot.MRatio}) is defined by
 \[ M = \frac{\text{stack}}{\text{small blind} + \text{big blind} + \text{total antes}} \]
 However, the M-ratio simplifies in this game, since the antes are zero, and the small blind is always 1 and the big blind is always 2. Hence, the M-ratio is simply $\frac{\text{stack}}{3}$.
 
 \section*{Strategy}
-Once we parse the inputs from each \texttt{GETACTION} packet,
+First, we parse the inputs from each \texttt{GETACTION} packet. Then we use the given equity calculator to determine the hand equity, given our hole cards, the board, and possibly what the opponent has.
 
 \end{document}
