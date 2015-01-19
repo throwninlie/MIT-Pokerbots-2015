@@ -185,6 +185,20 @@ class Opponent:
         PFR_threshold = 0
         WTSD_threshold = 0
         vpip_range = 0
+        #higher the player's vpip, the looser the player
+        #the lower the player's vpip, the tighter
+
+        #rock if high fold percentage
+        #fish 
+
+        #bigger the gap between vpip and pfr, the more often a pleyr cold calls
+        #low WTSD means he either folds very often before showdown or he makes opponents fold very often before showdown
+        #use WTSD with AF -- if passive and doesn't go to showdown, he's weak tight
+        #if aggressive and low wtsd, he makes people fold before showdown very often
+        #more than 0.35 WTSD he likes to go to showdown
+        #if aggressive and has a high WTSD, then he calls too often with weak hands on the river
+
+
         if self.VPIP > VPIP_threshold:
             if self.PFR >= PFR_threshold:
                 self.playerType = "LAG"
@@ -199,6 +213,9 @@ class Opponent:
             self.playerType = "CALL"
         else:
             self.playerType = "ROCK"
+    #returns the player type/"read"
+    def read(self):
+        return self.playerType
             
         
         
