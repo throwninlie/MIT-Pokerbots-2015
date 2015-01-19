@@ -1,0 +1,1918 @@
+
+C:\Users\Er\Dropbox\Pokerbot\players>python Player.py 3000 
+Connecting to localhost:3000
+Fishy6
+SomeOtherdude6
+Somedude6
+['NEWHAND', '1', '3', '8s', '7s', '200', '200', '200', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '10.000000']
+Stacks: 
+[200, 200, 200]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+SomeOtherdude6 VPIP: 1.000000
+Somedude6 VPIP: 0.000000
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 1.000000
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 1.000000
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 1.000000
+FoldEquities: 10.255000 , 5.000000
+EV: 2.372500
+SomeOtherdude6's estimated fold percentage is 1.000000
+Somedude6's estimated fold percentage is 1.000000
+Fishy6's estimated fold percentage is 1.000000
+FoldEquities: 12.035000 , 5.000000
+EV: 1.482500
+SomeOtherdude6's estimated fold percentage is 1.000000
+Somedude6's estimated fold percentage is 1.000000
+Fishy6's estimated fold percentage is 1.000000
+FoldEquities: 13.420000 , 5.000000
+EV: 0.790000
+SomeOtherdude6's estimated fold percentage is 1.000000
+Somedude6's estimated fold percentage is 1.000000
+Fishy6's estimated fold percentage is 1.000000
+FoldEquities: 14.156566 , 5.000000
+EV: 0.421717
+SomeOtherdude6's estimated fold percentage is 1.000000
+Somedude6's estimated fold percentage is 1.000000
+Fishy6's estimated fold percentage is 1.000000
+FoldEquities: 27.638384 , 8.000000
+EV: -1.819192
+['NEWHAND', '2', '1', 'Jc', '4s', '198', '203', '199', 'Fishy6', 'SomeOtherdude6', 'Somedude6', '3', 'true', 'true', 'true', '9.966339']
+Stacks: 
+[198, 203, 199]
+Players: 
+['Fishy6', 'SomeOtherdude6', 'Somedude6']
+Active Players:3
+SomeOtherdude6 is small blind
+Somedude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 1.000000
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 1.000000
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 1.000000
+FoldEquities: 3.000000 , 3.000000
+EV: 1.395000
+['NEWHAND', '3', '2', 'Qd', '5c', '200', '198', '202', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '3', 'true', 'true', 'true', '9.959590']
+Stacks: 
+[200, 198, 202]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:3
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.333333
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 1.000000
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 1.000000
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 1.000000
+FoldEquities: 7.437000 , 5.000000
+EV: 2.563000
+['NEWHAND', '4', '3', '5s', 'Ah', '198', '205', '197', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '9.953135']
+Stacks: 
+[198, 205, 197]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+['NEWHAND', '5', '1', 'Th', '3s', '198', '198', '204', 'Fishy6', 'SomeOtherdude6', 'Somedude6', '3', 'true', 'true', 'true', '9.953135']
+Stacks: 
+[198, 198, 204]
+Players: 
+['Fishy6', 'SomeOtherdude6', 'Somedude6']
+Active Players:3
+SomeOtherdude6 is small blind
+Somedude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.800000
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.800000
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.800000
+FoldEquities: 3.000000 , 2.596400
+EV: 0.982000
+['NEWHAND', '6', '2', 'Ac', 'Jd', '200', '198', '202', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '3', 'true', 'true', 'true', '9.946241']
+Stacks: 
+[200, 198, 202]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:3
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.166667
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.833333
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.833333
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.833333
+FoldEquities: 3.436000 , 2.927333
+EV: 2.564000
+['NEWHAND', '7', '3', 'Ah', '5c', '203', '200', '197', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '9.939259']
+Stacks: 
+[203, 200, 197]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+SomeOtherdude6 VPIP: 0.285714
+Somedude6 VPIP: 0.142857
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.857143
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.857143
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.857143
+FoldEquities: 23.684000 , 13.308286
+EV: 9.158000
+['NEWHAND', '8', '1', '4s', 'Ad', '195', '197', '208', 'Fishy6', 'SomeOtherdude6', 'Somedude6', '3', 'true', 'true', 'true', '9.932185']
+Stacks: 
+[195, 197, 208]
+Players: 
+['Fishy6', 'SomeOtherdude6', 'Somedude6']
+Active Players:3
+SomeOtherdude6 is small blind
+Somedude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.875000
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.875000
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.875000
+FoldEquities: 3.000000 , 2.848813
+EV: 1.790500
+['NEWHAND', '9', '2', 'Ks', '8c', '219', '195', '186', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '3', 'true', 'true', 'true', '9.925870']
+Stacks: 
+[219, 195, 186]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:3
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.222222
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.888889
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.888889
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.888889
+FoldEquities: 6.762000 , 4.804222
+EV: 3.238000
+['NEWHAND', '10', '3', '8h', 'Ad', '192', '214', '194', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '9.919381']
+Stacks: 
+[192, 214, 194]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+SomeOtherdude6 VPIP: 0.300000
+Somedude6 VPIP: 0.300000
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.900000
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.900000
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.900000
+FoldEquities: 17.225000 , 10.688750
+EV: 7.887500
+['NEWHAND', '11', '1', '3s', '9c', '192', '185', '223', 'Fishy6', 'SomeOtherdude6', 'Somedude6', '3', 'true', 'true', 'true', '9.912943']
+Stacks: 
+[192, 185, 223]
+Players: 
+['Fishy6', 'SomeOtherdude6', 'Somedude6']
+Active Players:3
+SomeOtherdude6 is small blind
+Somedude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.909091
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.909091
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.909091
+FoldEquities: 3.000000 , 2.793000
+EV: 0.723000
+['NEWHAND', '12', '2', '8d', 'Qd', '224', '192', '184', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '3', 'true', 'true', 'true', '9.906681']
+Stacks: 
+[224, 192, 184]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:3
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.250000
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.916667
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.916667
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.916667
+FoldEquities: 4.269000 , 2.894250
+EV: 1.731000
+['NEWHAND', '13', '3', '7d', '5d', '185', '224', '191', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '9.900053']
+Stacks: 
+[185, 224, 191]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+['NEWHAND', '14', '1', '3h', '7c', '192', '185', '223', 'Fishy6', 'SomeOtherdude6', 'Somedude6', '3', 'true', 'true', 'true', '9.900053']
+Stacks: 
+[192, 185, 223]
+Players: 
+['Fishy6', 'SomeOtherdude6', 'Somedude6']
+Active Players:3
+SomeOtherdude6 is small blind
+Somedude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.857143
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.857143
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.857143
+FoldEquities: 3.000000 , 2.639714
+EV: 0.478000
+['NEWHAND', '15', '2', 'Jh', '2s', '212', '192', '196', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '3', 'true', 'true', 'true', '9.893021']
+Stacks: 
+[212, 192, 196]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:3
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.200000
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.866667
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.866667
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.866667
+FoldEquities: 4.818500 , 2.757533
+EV: 1.181500
+['NEWHAND', '16', '3', '2s', '3c', '197', '212', '191', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '9.886427']
+Stacks: 
+[197, 212, 191]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+SomeOtherdude6 VPIP: 0.250000
+Somedude6 VPIP: 0.250000
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.875000
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.875000
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.875000
+FoldEquities: 32.150000 , 9.678125
+EV: 0.425000
+['NEWHAND', '17', '1', 'Jh', '9s', '189', '186', '225', 'Fishy6', 'SomeOtherdude6', 'Somedude6', '3', 'true', 'true', 'true', '9.878214']
+Stacks: 
+[189, 186, 225]
+Players: 
+['Fishy6', 'SomeOtherdude6', 'Somedude6']
+Active Players:3
+SomeOtherdude6 is small blind
+Somedude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.882353
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.882353
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.882353
+FoldEquities: 3.000000 , 2.857706
+EV: 1.790500
+['NEWHAND', '18', '2', '9s', 'Kh', '232', '189', '179', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '3', 'true', 'true', 'true', '9.871704']
+Stacks: 
+[232, 189, 179]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:3
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.277778
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.888889
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.888889
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.888889
+FoldEquities: 7.081500 , 4.768722
+EV: 2.918500
+['NEWHAND', '19', '3', 'Ac', '4c', '196', '216', '188', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '9.865286']
+Stacks: 
+[196, 216, 188]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+SomeOtherdude6 VPIP: 0.263158
+Somedude6 VPIP: 0.315789
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.894737
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.894737
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.894737
+FoldEquities: 15.950000 , 10.739474
+EV: 8.525000
+['NEWHAND', '20', '1', '8h', 'Qh', '186', '205', '209', 'Fishy6', 'SomeOtherdude6', 'Somedude6', '3', 'true', 'true', 'true', '9.858897']
+Stacks: 
+[186, 205, 209]
+Players: 
+['Fishy6', 'SomeOtherdude6', 'Somedude6']
+Active Players:3
+SomeOtherdude6 is small blind
+Somedude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.900000
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.900000
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.900000
+FoldEquities: 3.000000 , 2.884300
+EV: 1.843000
+['NEWHAND', '21', '2', 'Kc', '5s', '220', '186', '194', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '3', 'true', 'true', 'true', '9.852054']
+Stacks: 
+[220, 186, 194]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:3
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.333333
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.904762
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.904762
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.904762
+FoldEquities: 11.091000 , 7.705619
+EV: 4.909000
+['NEWHAND', '22', '3', '3s', 'Qd', '207', '208', '185', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '9.844920']
+Stacks: 
+[207, 208, 185]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+SomeOtherdude6 VPIP: 0.272727
+Somedude6 VPIP: 0.318182
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.909091
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.909091
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.909091
+FoldEquities: 10.460000 , 4.751818
+EV: 2.270000
+SomeOtherdude6's estimated fold percentage is 0.909091
+Somedude6's estimated fold percentage is 0.909091
+Fishy6's estimated fold percentage is 0.909091
+FoldEquities: 12.440000 , 4.661818
+EV: 1.280000
+SomeOtherdude6's estimated fold percentage is 0.909091
+Somedude6's estimated fold percentage is 0.909091
+Fishy6's estimated fold percentage is 0.909091
+FoldEquities: 19.368000 , 6.437818
+EV: 0.816000
+['NEWHAND', '23', '1', 'Ah', '8s', '183', '210', '207', 'Fishy6', 'SomeOtherdude6', 'Somedude6', '3', 'true', 'true', 'true', '9.824552']
+Stacks: 
+[183, 210, 207]
+Players: 
+['Fishy6', 'SomeOtherdude6', 'Somedude6']
+Active Players:3
+SomeOtherdude6 is small blind
+Somedude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.913043
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.913043
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.913043
+FoldEquities: 3.000000 , 2.921000
+EV: 2.091500
+['NEWHAND', '24', '2', 'Jh', 'Qc', '205', '183', '212', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '3', 'true', 'true', 'true', '9.816896']
+Stacks: 
+[205, 183, 212]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:3
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.291667
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.916667
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.916667
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.916667
+FoldEquities: 3.709000 , 2.940917
+EV: 2.291000
+['NEWHAND', '25', '3', 'Ks', '8s', '213', '205', '182', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '9.810372']
+Stacks: 
+[213, 205, 182]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+SomeOtherdude6 VPIP: 0.240000
+Somedude6 VPIP: 0.320000
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.920000
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.920000
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.920000
+FoldEquities: 10.804000 , 6.847840
+EV: 5.098000
+['NEWHAND', '26', '1', 'Js', '8c', '180', '213', '207', 'Fishy6', 'SomeOtherdude6', 'Somedude6', '3', 'true', 'true', 'true', '9.803892']
+Stacks: 
+[180, 213, 207]
+Players: 
+['Fishy6', 'SomeOtherdude6', 'Somedude6']
+Active Players:3
+SomeOtherdude6 is small blind
+Somedude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.923077
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.923077
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.923077
+FoldEquities: 3.000000 , 2.893500
+EV: 1.615500
+['NEWHAND', '27', '2', '4c', '9h', '208', '180', '212', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '3', 'true', 'true', 'true', '9.790617']
+Stacks: 
+[208, 180, 212]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:3
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.333333
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.925926
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.925926
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.925926
+FoldEquities: 8.512500 , 4.739815
+EV: 1.487500
+['NEWHAND', '28', '3', '5c', '6h', '224', '197', '179', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '9.780362']
+Stacks: 
+[224, 197, 179]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+SomeOtherdude6 VPIP: 0.250000
+Somedude6 VPIP: 0.321429
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.928571
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.928571
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.928571
+FoldEquities: 12.810000 , 5.756786
+EV: 2.595000
+SomeOtherdude6's estimated fold percentage is 0.928571
+Somedude6's estimated fold percentage is 0.928571
+Fishy6's estimated fold percentage is 0.928571
+FoldEquities: 15.576000 , 5.658000
+EV: 1.212000
+SomeOtherdude6's estimated fold percentage is 0.928571
+Somedude6's estimated fold percentage is 0.928571
+Fishy6's estimated fold percentage is 0.928571
+FoldEquities: 19.964000 , 9.644143
+EV: 5.018000
+['NEWHAND', '29', '1', '4h', '6h', '177', '232', '191', 'Fishy6', 'SomeOtherdude6', 'Somedude6', '3', 'true', 'true', 'true', '9.755305']
+Stacks: 
+[177, 232, 191]
+Players: 
+['Fishy6', 'SomeOtherdude6', 'Somedude6']
+Active Players:3
+SomeOtherdude6 is small blind
+Somedude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.931034
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.931034
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.931034
+FoldEquities: 3.000000 , 2.851655
+EV: 0.849000
+['NEWHAND', '30', '2', '5h', '4d', '216', '177', '207', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '3', 'true', 'true', 'true', '9.748841']
+Stacks: 
+[216, 177, 207]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:3
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.333333
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.933333
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.933333
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.933333
+FoldEquities: 12.202500 , 6.653167
+EV: 1.797500
+['NEWHAND', '31', '3', 'Ad', '2c', '234', '190', '176', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '9.742127']
+Stacks: 
+[234, 190, 176]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+SomeOtherdude6 VPIP: 0.258065
+Somedude6 VPIP: 0.322581
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.935484
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.935484
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.935484
+FoldEquities: 9.545000 , 4.853387
+EV: 2.727500
+SomeOtherdude6's estimated fold percentage is 0.935484
+Somedude6's estimated fold percentage is 0.935484
+Fishy6's estimated fold percentage is 0.935484
+FoldEquities: 10.505000 , 4.822419
+EV: 2.247500
+SomeOtherdude6's estimated fold percentage is 0.935484
+Somedude6's estimated fold percentage is 0.935484
+Fishy6's estimated fold percentage is 0.935484
+FoldEquities: 17.414000 , 7.696323
+EV: 3.293000
+['NEWHAND', '32', '1', '7d', 'Ad', '174', '237', '189', 'Fishy6', 'SomeOtherdude6', 'Somedude6', '3', 'true', 'true', 'true', '9.723535']
+Stacks: 
+[174, 237, 189]
+Players: 
+['Fishy6', 'SomeOtherdude6', 'Somedude6']
+Active Players:3
+SomeOtherdude6 is small blind
+Somedude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.937500
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.937500
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.937500
+FoldEquities: 3.000000 , 2.958531
+EV: 2.336500
+['NEWHAND', '33', '2', '4s', '4h', '194', '174', '232', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '3', 'true', 'true', 'true', '9.716127']
+Stacks: 
+[194, 174, 232]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:3
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.303030
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.939394
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.939394
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.939394
+FoldEquities: 3.961000 , 2.941758
+EV: 2.039000
+['NEWHAND', '34', '3', 'Jh', '5h', '233', '194', '173', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '9.709466']
+Stacks: 
+[233, 194, 173]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+SomeOtherdude6 VPIP: 0.264706
+Somedude6 VPIP: 0.323529
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.941176
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.941176
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.941176
+FoldEquities: 23.100000 , 10.644118
+EV: 4.950000
+['NEWHAND', '35', '1', '2h', '9c', '171', '73', '356', 'Fishy6', 'SomeOtherdude6', 'Somedude6', '3', 'true', 'true', 'true', '9.701467']
+Stacks: 
+[171, 73, 356]
+Players: 
+['Fishy6', 'SomeOtherdude6', 'Somedude6']
+Active Players:3
+SomeOtherdude6 is small blind
+Somedude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.942857
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.942857
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.942857
+FoldEquities: 3.000000 , 2.871486
+EV: 0.751000
+['NEWHAND', '36', '2', 'Th', '2c', '350', '171', '79', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '3', 'true', 'true', 'true', '9.694185']
+Stacks: 
+[350, 171, 79]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:3
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.333333
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.944444
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.944444
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.944444
+FoldEquities: 15.001500 , 8.666583
+EV: 2.998500
+['NEWHAND', '37', '3', '7c', '3s', '77', '353', '170', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '9.684991']
+Stacks: 
+[77, 353, 170]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+SomeOtherdude6 VPIP: 0.270270
+Somedude6 VPIP: 0.324324
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.945946
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.945946
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.945946
+FoldEquities: 11.550000 , 4.822973
+EV: 1.725000
+SomeOtherdude6's estimated fold percentage is 0.945946
+Somedude6's estimated fold percentage is 0.945946
+Fishy6's estimated fold percentage is 0.945946
+FoldEquities: 9.410000 , 4.880811
+EV: 2.795000
+SomeOtherdude6's estimated fold percentage is 0.945946
+Somedude6's estimated fold percentage is 0.945946
+Fishy6's estimated fold percentage is 0.945946
+FoldEquities: 10.935000 , 4.839595
+EV: 2.032500
+SomeOtherdude6's estimated fold percentage is 0.945946
+Somedude6's estimated fold percentage is 0.945946
+Fishy6's estimated fold percentage is 0.945946
+FoldEquities: 11.227273 , 4.831695
+EV: 1.886364
+['NEWHAND', '38', '1', '2h', '6h', '168', '80', '352', 'Fishy6', 'SomeOtherdude6', 'Somedude6', '3', 'true', 'true', 'true', '9.658208']
+Stacks: 
+[168, 80, 352]
+Players: 
+['Fishy6', 'SomeOtherdude6', 'Somedude6']
+Active Players:3
+SomeOtherdude6 is small blind
+Somedude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.947368
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.947368
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.947368
+FoldEquities: 3.000000 , 2.875368
+EV: 0.632000
+['NEWHAND', '39', '2', '3s', '5d', '310', '168', '122', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '3', 'true', 'true', 'true', '9.648681']
+Stacks: 
+[310, 168, 122]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:3
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.307692
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.948718
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.948718
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.948718
+FoldEquities: 5.560500 , 2.868692
+EV: 0.439500
+['NEWHAND', '40', '3', '8h', '4h', '123', '310', '167', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '9.639762']
+Stacks: 
+[123, 310, 167]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+SomeOtherdude6 VPIP: 0.275000
+Somedude6 VPIP: 0.325000
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.950000
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.950000
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.950000
+FoldEquities: 49.497000 , 20.287575
+EV: 6.751500
+['NEWHAND', '41', '1', '3c', '6h', '165', '139', '296', 'Fishy6', 'SomeOtherdude6', 'Somedude6', '3', 'true', 'true', 'true', '9.629736']
+Stacks: 
+[165, 139, 296]
+Players: 
+['Fishy6', 'SomeOtherdude6', 'Somedude6']
+Active Players:3
+SomeOtherdude6 is small blind
+Somedude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.951220
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.951220
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.951220
+FoldEquities: 3.000000 , 2.878171
+EV: 0.502500
+['NEWHAND', '42', '2', '5c', 'Th', '297', '165', '138', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '3', 'true', 'true', 'true', '9.621183']
+Stacks: 
+[297, 165, 138]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:3
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.333333
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.952381
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.952381
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.952381
+FoldEquities: 8.040000 , 4.855238
+EV: 1.960000
+['NEWHAND', '43', '3', '4c', '5d', '125', '311', '164', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '9.612910']
+Stacks: 
+[125, 311, 164]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+SomeOtherdude6 VPIP: 0.279070
+Somedude6 VPIP: 0.348837
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.953488
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.953488
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.953488
+FoldEquities: 36.975000 , 14.488953
+EV: 4.012500
+['NEWHAND', '44', '1', 'Kh', '4c', '162', '1', '437', 'Fishy6', 'SomeOtherdude6', 'Somedude6', '3', 'true', 'true', 'true', '9.598492']
+Stacks: 
+[162, 1, 437]
+Players: 
+['Fishy6', 'SomeOtherdude6', 'Somedude6']
+Active Players:3
+SomeOtherdude6 is small blind
+Somedude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.954545
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.954545
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.954545
+FoldEquities: 3.000000 , 2.944545
+EV: 1.780000
+['NEWHAND', '45', '2', '3s', 'Ah', '436', '162', '2', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '3', 'true', 'true', 'true', '9.588543']
+Stacks: 
+[436, 162, 2]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:3
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.355556
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.955556
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.955556
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.955556
+FoldEquities: 7.027500 , 4.909889
+EV: 2.972500
+['NEWHAND', '46', '3', 'Tc', '3d', '2', '437', '161', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '9.576285']
+Stacks: 
+[2, 437, 161]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+SomeOtherdude6 VPIP: 0.282609
+Somedude6 VPIP: 0.347826
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.956522
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.956522
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.956522
+FoldEquities: 12.816000 , 5.851826
+EV: 2.592000
+SomeOtherdude6's estimated fold percentage is 0.956522
+Somedude6's estimated fold percentage is 0.956522
+Fishy6's estimated fold percentage is 0.956522
+FoldEquities: 14.430000 , 5.816739
+EV: 1.785000
+SomeOtherdude6's estimated fold percentage is 0.956522
+Somedude6's estimated fold percentage is 0.956522
+Fishy6's estimated fold percentage is 0.956522
+FoldEquities: 15.768000 , 5.787652
+EV: 1.116000
+SomeOtherdude6's estimated fold percentage is 0.956522
+Somedude6's estimated fold percentage is 0.956522
+Fishy6's estimated fold percentage is 0.956522
+FoldEquities: 40.178788 , 10.365679
+EV: -3.589394
+['NEWHAND', '47', '1', 'Qs', 'Ks', '159', '6', '435', 'Fishy6', 'SomeOtherdude6', 'Somedude6', '3', 'true', 'true', 'true', '9.547137']
+Stacks: 
+[159, 6, 435]
+Players: 
+['Fishy6', 'SomeOtherdude6', 'Somedude6']
+Active Players:3
+SomeOtherdude6 is small blind
+Somedude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.957447
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.957447
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.957447
+FoldEquities: 3.000000 , 2.975638
+EV: 2.427500
+['NEWHAND', '48', '2', '6s', '9h', '429', '159', '12', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '3', 'true', 'true', 'true', '9.538430']
+Stacks: 
+[429, 159, 12]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:3
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.333333
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.958333
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.958333
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.958333
+FoldEquities: 4.797500 , 2.925104
+EV: 1.202500
+['NEWHAND', '49', '3', '9c', '9s', '13', '429', '158', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '9.529951']
+Stacks: 
+[13, 429, 158]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+SomeOtherdude6 VPIP: 0.285714
+Somedude6 VPIP: 0.326531
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.959184
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.959184
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.959184
+FoldEquities: 15.884000 , 13.961551
+EV: 13.058000
+['NEWHAND', '50', '1', '5c', '3c', '156', '26', '418', 'Fishy6', 'SomeOtherdude6', 'Somedude6', '3', 'true', 'true', 'true', '9.521202']
+Stacks: 
+[156, 26, 418]
+Players: 
+['Fishy6', 'SomeOtherdude6', 'Somedude6']
+Active Players:3
+SomeOtherdude6 is small blind
+Somedude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.960000
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.960000
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.960000
+FoldEquities: 3.000000 , 2.910460
+EV: 0.761500
+['NEWHAND', '51', '2', 'Jc', '2s', '419', '156', '25', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '3', 'true', 'true', 'true', '9.512961']
+Stacks: 
+[419, 156, 25]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:3
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.333333
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.960784
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.960784
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.960784
+FoldEquities: 11.235000 , 6.833922
+EV: 2.765000
+['NEWHAND', '52', '3', '2c', 'Kc', '23', '422', '155', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '9.500283']
+Stacks: 
+[23, 422, 155]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+SomeOtherdude6 VPIP: 0.288462
+Somedude6 VPIP: 0.326923
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.961538
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.961538
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.961538
+FoldEquities: 18.938000 , 9.828115
+EV: 5.531000
+['NEWHAND', '53', '1', 'Ts', 'Jc', '153', '24', '423', 'Fishy6', 'SomeOtherdude6', 'Somedude6', '3', 'true', 'true', 'true', '9.491466']
+Stacks: 
+[153, 24, 423]
+Players: 
+['Fishy6', 'SomeOtherdude6', 'Somedude6']
+Active Players:3
+SomeOtherdude6 is small blind
+Somedude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.962264
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.962264
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.962264
+FoldEquities: 3.000000 , 2.960170
+EV: 1.944500
+['NEWHAND', '54', '2', 'Kd', '6h', '421', '153', '26', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '3', 'true', 'true', 'true', '9.477160']
+Stacks: 
+[421, 153, 26]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:3
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.333333
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.962963
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.962963
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.962963
+FoldEquities: 9.532500 , 6.906204
+EV: 4.467500
+['NEWHAND', '55', '3', '6d', '9c', '31', '417', '152', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '9.468850']
+Stacks: 
+[31, 417, 152]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+SomeOtherdude6 VPIP: 0.272727
+Somedude6 VPIP: 0.327273
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.963636
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.963636
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.963636
+FoldEquities: 8.336000 , 3.921164
+EV: 1.832000
+SomeOtherdude6's estimated fold percentage is 0.963636
+Somedude6's estimated fold percentage is 0.963636
+Fishy6's estimated fold percentage is 0.963636
+FoldEquities: 4.516000 , 3.990618
+EV: 3.742000
+SomeOtherdude6's estimated fold percentage is 0.963636
+Somedude6's estimated fold percentage is 0.963636
+Fishy6's estimated fold percentage is 0.963636
+FoldEquities: 4.552000 , 3.989964
+EV: 3.724000
+SomeOtherdude6's estimated fold percentage is 0.963636
+Somedude6's estimated fold percentage is 0.963636
+Fishy6's estimated fold percentage is 0.963636
+FoldEquities: 4.085859 , 7.052984
+EV: 8.457071
+['NEWHAND', '56', '1', 'Ac', 'Qd', '150', '31', '419', 'Fishy6', 'SomeOtherdude6', 'Somedude6', '3', 'true', 'true', 'true', '9.442069']
+Stacks: 
+[150, 31, 419]
+Players: 
+['Fishy6', 'SomeOtherdude6', 'Somedude6']
+Active Players:3
+SomeOtherdude6 is small blind
+Somedude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.964286
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.964286
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.964286
+FoldEquities: 3.000000 , 2.978304
+EV: 2.392500
+['NEWHAND', '57', '2', 'Jd', '7c', '417', '150', '33', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '3', 'true', 'true', 'true', '9.433466']
+Stacks: 
+[417, 150, 33]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:3
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.333333
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.964912
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.964912
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.964912
+FoldEquities: 7.473000 , 4.913228
+EV: 2.527000
+['NEWHAND', '58', '3', '4d', '6c', '36', '415', '149', 'SomeOtherdude6', 'Somedude6', 'Fishy6', '3', 'true', 'true', 'true', '9.425165']
+Stacks: 
+[36, 415, 149]
+Players: 
+['SomeOtherdude6', 'Somedude6', 'Fishy6']
+Active Players:3
+Somedude6 is small blind
+Fishy6 is big blind
+SomeOtherdude6 VPIP: 0.275862
+Somedude6 VPIP: 0.327586
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.965517
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.965517
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.965517
+FoldEquities: 13.248000 , 5.875034
+EV: 2.376000
+SomeOtherdude6's estimated fold percentage is 0.965517
+Somedude6's estimated fold percentage is 0.965517
+Fishy6's estimated fold percentage is 0.965517
+FoldEquities: 20.764000 , 7.779931
+EV: 1.618000
+['NEWHAND', '59', '2', 'Tc', 'Jd', '453', '147', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.408130']
+Stacks: 
+[453, 147, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+['NEWHAND', '60', '1', '5s', '9s', '148', '452', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.408130']
+Stacks: 
+[148, 452, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.950000
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.950000
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.950000
+FoldEquities: 3.000000 , 2.905575
+EV: 1.111500
+['NEWHAND', '61', '2', '7d', '9d', '453', '147', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.399166']
+Stacks: 
+[453, 147, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+['NEWHAND', '62', '1', '9s', '9h', '148', '452', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.399166']
+Stacks: 
+[148, 452, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.935484
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.935484
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.935484
+FoldEquities: 3.000000 , 3.007323
+EV: 3.113500
+['NEWHAND', '63', '2', 'Tc', '5c', '453', '147', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.390382']
+Stacks: 
+[453, 147, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+['NEWHAND', '64', '1', 'Kd', '5c', '148', '452', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.390382']
+Stacks: 
+[148, 452, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.921875
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.921875
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.921875
+FoldEquities: 3.000000 , 2.886914
+EV: 1.552500
+['NEWHAND', '65', '2', 'Kd', '2h', '453', '147', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.382236']
+Stacks: 
+[453, 147, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+['NEWHAND', '66', '1', 'Kh', '2c', '148', '452', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.382236']
+Stacks: 
+[148, 452, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.909091
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.909091
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.909091
+FoldEquities: 3.000000 , 2.870000
+EV: 1.570000
+['NEWHAND', '67', '2', 'Ad', 'Qs', '453', '147', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.373933']
+Stacks: 
+[453, 147, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.298507
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.910448
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.910448
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.910448
+FoldEquities: 5.408000 , 3.873910
+EV: 2.592000
+Somedude6's estimated fold percentage is 0.910448
+Fishy6's estimated fold percentage is 0.910448
+SomeOtherdude6's estimated fold percentage is 0.910448
+FoldEquities: 5.042000 , 3.906687
+EV: 2.958000
+Somedude6's estimated fold percentage is 0.910448
+Fishy6's estimated fold percentage is 0.910448
+SomeOtherdude6's estimated fold percentage is 0.910448
+FoldEquities: 7.386500 , 6.965388
+EV: 6.613500
+['NEWHAND', '68', '1', '5d', '7h', '145', '455', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.350355']
+Stacks: 
+[145, 455, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.911765
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.911765
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.911765
+FoldEquities: 3.000000 , 2.800632
+EV: 0.740500
+['NEWHAND', '69', '2', '3h', 'Ah', '456', '144', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.342265']
+Stacks: 
+[456, 144, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.304348
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.913043
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.913043
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.913043
+FoldEquities: 5.782000 , 3.845043
+EV: 2.218000
+Somedude6's estimated fold percentage is 0.913043
+Fishy6's estimated fold percentage is 0.913043
+SomeOtherdude6's estimated fold percentage is 0.913043
+FoldEquities: 6.096000 , 3.817739
+EV: 1.904000
+Somedude6's estimated fold percentage is 0.913043
+Fishy6's estimated fold percentage is 0.913043
+SomeOtherdude6's estimated fold percentage is 0.913043
+FoldEquities: 6.342000 , 3.796348
+EV: 1.658000
+Somedude6's estimated fold percentage is 0.913043
+Fishy6's estimated fold percentage is 0.913043
+SomeOtherdude6's estimated fold percentage is 0.913043
+FoldEquities: 6.713131 , 3.764076
+EV: 1.286869
+['NEWHAND', '70', '1', '5d', '3h', '142', '458', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.313888']
+Stacks: 
+[142, 458, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.914286
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.914286
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.914286
+FoldEquities: 3.000000 , 2.783829
+EV: 0.478000
+['NEWHAND', '71', '2', '6d', '9h', '459', '141', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.305280']
+Stacks: 
+[459, 141, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.309859
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.915493
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.915493
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.915493
+FoldEquities: 6.284000 , 3.806986
+EV: 1.716000
+Somedude6's estimated fold percentage is 0.915493
+Fishy6's estimated fold percentage is 0.915493
+SomeOtherdude6's estimated fold percentage is 0.915493
+FoldEquities: 6.680000 , 3.773521
+EV: 1.320000
+Somedude6's estimated fold percentage is 0.915493
+Fishy6's estimated fold percentage is 0.915493
+SomeOtherdude6's estimated fold percentage is 0.915493
+FoldEquities: 12.710000 , 6.517465
+EV: 1.290000
+['NEWHAND', '72', '1', 'Qd', 'Kc', '139', '461', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.281218']
+Stacks: 
+[139, 461, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.916667
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.916667
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.916667
+FoldEquities: 3.000000 , 2.938583
+EV: 2.263000
+['NEWHAND', '73', '2', '5h', '2h', '462', '138', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.273015']
+Stacks: 
+[462, 138, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.315068
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.917808
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.917808
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.917808
+FoldEquities: 6.480000 , 3.796164
+EV: 1.520000
+Somedude6's estimated fold percentage is 0.917808
+Fishy6's estimated fold percentage is 0.917808
+SomeOtherdude6's estimated fold percentage is 0.917808
+FoldEquities: 5.908000 , 3.843178
+EV: 2.092000
+Somedude6's estimated fold percentage is 0.917808
+Fishy6's estimated fold percentage is 0.917808
+SomeOtherdude6's estimated fold percentage is 0.917808
+FoldEquities: 6.692000 , 3.778740
+EV: 1.308000
+Somedude6's estimated fold percentage is 0.917808
+Fishy6's estimated fold percentage is 0.917808
+SomeOtherdude6's estimated fold percentage is 0.917808
+FoldEquities: 12.749000 , 6.527479
+EV: 1.251000
+['NEWHAND', '74', '1', 'Ad', '8s', '136', '464', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.243687']
+Stacks: 
+[136, 464, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.918919
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.918919
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.918919
+FoldEquities: 3.000000 , 2.928892
+EV: 2.123000
+['NEWHAND', '75', '2', '3s', 'Ks', '465', '135', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.235237']
+Stacks: 
+[465, 135, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.320000
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.920000
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.920000
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.920000
+FoldEquities: 5.784000 , 3.857280
+EV: 2.216000
+Somedude6's estimated fold percentage is 0.920000
+Fishy6's estimated fold percentage is 0.920000
+SomeOtherdude6's estimated fold percentage is 0.920000
+FoldEquities: 4.132000 , 3.989440
+EV: 3.868000
+Somedude6's estimated fold percentage is 0.920000
+Fishy6's estimated fold percentage is 0.920000
+SomeOtherdude6's estimated fold percentage is 0.920000
+FoldEquities: 4.076000 , 3.993920
+EV: 3.924000
+Somedude6's estimated fold percentage is 0.920000
+Fishy6's estimated fold percentage is 0.920000
+SomeOtherdude6's estimated fold percentage is 0.920000
+FoldEquities: 4.028283 , 3.997737
+EV: 3.971717
+Somedude6's estimated fold percentage is 0.920000
+Fishy6's estimated fold percentage is 0.920000
+SomeOtherdude6's estimated fold percentage is 0.920000
+FoldEquities: 4.070707 , 6.154343
+EV: 7.929293
+['NEWHAND', '76', '1', '6s', '6c', '133', '467', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.206560']
+Stacks: 
+[133, 467, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.921053
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.921053
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.921053
+FoldEquities: 3.000000 , 2.955908
+EV: 2.441500
+['NEWHAND', '77', '2', '7c', 'As', '468', '132', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.196330']
+Stacks: 
+[468, 132, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+['NEWHAND', '78', '1', 'As', 'Td', '133', '467', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.196330']
+Stacks: 
+[133, 467, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.910256
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.910256
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.910256
+FoldEquities: 3.000000 , 2.941712
+EV: 2.350500
+['NEWHAND', '79', '2', '6s', '7s', '468', '132', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.188164']
+Stacks: 
+[468, 132, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+['NEWHAND', '80', '1', 'Ad', '7s', '133', '467', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.188164']
+Stacks: 
+[133, 467, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.900000
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.900000
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.900000
+FoldEquities: 3.000000 , 2.909850
+EV: 2.098500
+['NEWHAND', '81', '2', '2s', '2d', '468', '132', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.179994']
+Stacks: 
+[468, 132, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+['NEWHAND', '82', '1', '8c', 'Ad', '133', '467', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.179994']
+Stacks: 
+[133, 467, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.890244
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.890244
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.890244
+FoldEquities: 3.000000 , 2.924104
+EV: 2.308500
+['NEWHAND', '83', '2', '8s', '8h', '468', '132', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.171295']
+Stacks: 
+[468, 132, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.301205
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.891566
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.891566
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.891566
+FoldEquities: 5.282000 , 3.860988
+EV: 2.718000
+Somedude6's estimated fold percentage is 0.891566
+Fishy6's estimated fold percentage is 0.891566
+SomeOtherdude6's estimated fold percentage is 0.891566
+FoldEquities: 5.450000 , 3.842771
+EV: 2.550000
+Somedude6's estimated fold percentage is 0.891566
+Fishy6's estimated fold percentage is 0.891566
+SomeOtherdude6's estimated fold percentage is 0.891566
+FoldEquities: 7.625000 , 5.823795
+EV: 4.375000
+['NEWHAND', '84', '1', 'Qh', '2s', '130', '470', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.120767']
+Stacks: 
+[130, 470, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.892857
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.892857
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.892857
+FoldEquities: 3.000000 , 2.818661
+EV: 1.307500
+['NEWHAND', '85', '2', '4c', 'Qs', '471', '129', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.112111']
+Stacks: 
+[471, 129, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.305882
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.894118
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.894118
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.894118
+FoldEquities: 10.483000 , 6.631212
+EV: 3.517000
+['NEWHAND', '86', '1', 'Td', '4c', '127', '473', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.103540']
+Stacks: 
+[127, 473, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.895349
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.895349
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.895349
+FoldEquities: 3.000000 , 2.802000
+EV: 1.108000
+['NEWHAND', '87', '2', '7h', 'As', '474', '126', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.095297']
+Stacks: 
+[474, 126, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.310345
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.896552
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.896552
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.896552
+FoldEquities: 7.467000 , 5.848241
+EV: 4.533000
+['NEWHAND', '88', '1', '5c', '3d', '124', '476', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.086931']
+Stacks: 
+[124, 476, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.897727
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.897727
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.897727
+FoldEquities: 3.000000 , 2.754955
+EV: 0.604000
+['NEWHAND', '89', '2', '5d', 'Ac', '477', '123', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.078495']
+Stacks: 
+[477, 123, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.314607
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.898876
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.898876
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.898876
+FoldEquities: 9.182500 , 6.779298
+EV: 4.817500
+['NEWHAND', '90', '1', '8c', '5c', '121', '479', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.070137']
+Stacks: 
+[121, 479, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.900000
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.900000
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.900000
+FoldEquities: 3.000000 , 2.827950
+EV: 1.279500
+['NEWHAND', '91', '2', 'Tc', '3d', '480', '120', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.060010']
+Stacks: 
+[480, 120, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.318681
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.901099
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.901099
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.901099
+FoldEquities: 6.328000 , 3.769758
+EV: 1.672000
+Somedude6's estimated fold percentage is 0.901099
+Fishy6's estimated fold percentage is 0.901099
+SomeOtherdude6's estimated fold percentage is 0.901099
+FoldEquities: 6.796000 , 3.723473
+EV: 1.204000
+Somedude6's estimated fold percentage is 0.901099
+Fishy6's estimated fold percentage is 0.901099
+SomeOtherdude6's estimated fold percentage is 0.901099
+FoldEquities: 6.904000 , 3.712791
+EV: 1.096000
+Somedude6's estimated fold percentage is 0.901099
+Fishy6's estimated fold percentage is 0.901099
+SomeOtherdude6's estimated fold percentage is 0.901099
+FoldEquities: 7.446465 , 3.659141
+EV: 0.553535
+['NEWHAND', '92', '1', '2s', 'Js', '122', '478', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.034289']
+Stacks: 
+[122, 478, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.902174
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.902174
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.902174
+FoldEquities: 3.000000 , 2.831348
+EV: 1.276000
+['NEWHAND', '93', '2', 'Jh', 'Ks', '479', '121', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '9.025908']
+Stacks: 
+[479, 121, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.322581
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.903226
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.903226
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.903226
+FoldEquities: 5.596000 , 3.845548
+EV: 2.404000
+Somedude6's estimated fold percentage is 0.903226
+Fishy6's estimated fold percentage is 0.903226
+SomeOtherdude6's estimated fold percentage is 0.903226
+FoldEquities: 5.614000 , 3.843806
+EV: 2.386000
+Somedude6's estimated fold percentage is 0.903226
+Fishy6's estimated fold percentage is 0.903226
+SomeOtherdude6's estimated fold percentage is 0.903226
+FoldEquities: 8.035000 , 5.803065
+EV: 3.965000
+['NEWHAND', '94', '1', '8c', '3h', '119', '481', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '8.898203']
+Stacks: 
+[119, 481, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.904255
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.904255
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.904255
+FoldEquities: 3.000000 , 2.769590
+EV: 0.593500
+['NEWHAND', '95', '2', 'Kh', '8h', '482', '118', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '8.888065']
+Stacks: 
+[482, 118, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.326316
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.905263
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.905263
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.905263
+FoldEquities: 5.792000 , 3.830232
+EV: 2.208000
+Somedude6's estimated fold percentage is 0.905263
+Fishy6's estimated fold percentage is 0.905263
+SomeOtherdude6's estimated fold percentage is 0.905263
+FoldEquities: 4.920000 , 3.912842
+EV: 3.080000
+Somedude6's estimated fold percentage is 0.905263
+Fishy6's estimated fold percentage is 0.905263
+SomeOtherdude6's estimated fold percentage is 0.905263
+FoldEquities: 6.300000 , 5.971579
+EV: 5.700000
+['NEWHAND', '96', '1', '7d', '7c', '116', '484', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '8.849120']
+Stacks: 
+[116, 484, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.906250
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.906250
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.906250
+FoldEquities: 3.000000 , 2.973234
+EV: 2.714500
+['NEWHAND', '97', '2', 'Ts', '3d', '485', '115', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '8.839451']
+Stacks: 
+[485, 115, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.329897
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.907216
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.907216
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.907216
+FoldEquities: 6.302000 , 3.786412
+EV: 1.698000
+Somedude6's estimated fold percentage is 0.907216
+Fishy6's estimated fold percentage is 0.907216
+SomeOtherdude6's estimated fold percentage is 0.907216
+FoldEquities: 6.724000 , 3.747258
+EV: 1.276000
+Somedude6's estimated fold percentage is 0.907216
+Fishy6's estimated fold percentage is 0.907216
+SomeOtherdude6's estimated fold percentage is 0.907216
+FoldEquities: 7.018000 , 3.719979
+EV: 0.982000
+Somedude6's estimated fold percentage is 0.907216
+Fishy6's estimated fold percentage is 0.907216
+SomeOtherdude6's estimated fold percentage is 0.907216
+FoldEquities: 13.808500 , 6.368284
+EV: 0.191500
+['NEWHAND', '98', '1', '6h', 'Th', '113', '487', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '8.808527']
+Stacks: 
+[113, 487, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.908163
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.908163
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.908163
+FoldEquities: 3.000000 , 2.838781
+EV: 1.244500
+['NEWHAND', '99', '2', '7s', '3h', '488', '112', '0', 'Somedude6', 'Fishy6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '8.799969']
+Stacks: 
+[488, 112, 0]
+Players: 
+['Somedude6', 'Fishy6', 'SomeOtherdude6']
+Active Players:2
+Somedude6 is small blind
+Fishy6 is big blind
+Fishy6 is small blind
+SomeOtherdude6 is big blind
+Somedude6 VPIP: 0.333333
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.909091
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.909091
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.909091
+FoldEquities: 12.455000 , 6.504091
+EV: 1.545000
+['NEWHAND', '100', '1', '3s', 'Jh', '110', '490', '0', 'Fishy6', 'Somedude6', 'SomeOtherdude6', '2', 'true', 'true', 'false', '8.790649']
+Stacks: 
+[110, 490, 0]
+Players: 
+['Fishy6', 'Somedude6', 'SomeOtherdude6']
+Active Players:2
+Fishy6 is small blind
+Somedude6 is big blind
+Somedude6 is small blind
+SomeOtherdude6 is big blind
+Bot:Fishy6 folds...
+Fishy6's estimated fold percentage is 0.910000
+Bot:Somedude6 folds...
+Somedude6's estimated fold percentage is 0.910000
+Bot:SomeOtherdude6 folds...
+SomeOtherdude6's estimated fold percentage is 0.910000
+FoldEquities: 3.000000 , 2.829090
+EV: 1.101000
+Gameover, engine disconnected.
