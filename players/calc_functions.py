@@ -38,18 +38,16 @@ def foldBet():
         minBet = avail_actions["RAISE"][0]
         maxBet = avail_actions["RAISE"][-1]
     
-    
-    
-
 def expectedValue(equities,pot_size,bet):
     ourEquity = equities.ev[0]
     theirEquity = equities.ev[1]       
-    winAmt = pot_size + bet
+    winAmt = pot_size
     loseAmt =  bet
     estimated_value = ourEquity * winAmt - (1.0-ourEquity) * loseAmt
-    
     return estimated_value
 
+def potOdds(pot_size,bet):
+    return float(pot_size) / bet
 def impliedOdds(equities,pot_size,bet):
     ourEquity = equities.ev[0]
     x = float(bet) / ourEquity

@@ -3,7 +3,8 @@ class Opponent:
         self.name = name
         self.stackSize = stackSize
         self.bb = bb
-        self.handID = 1
+        #hands played (not counting when eliminated), not just handID
+        self.handsPlayed = 0
         self.seat = 0
         self.playingHand = True
         self.eliminated = False
@@ -44,14 +45,11 @@ class Opponent:
         #showdownWin is # of times win at showdown
         self.showdownWin = 0
 
-
-
-
-
-        
-
-
-
+        ##AGGRESSION FACTOR##
+        #AF is percentage of time (bet + raise)/calls
+        self.AF =0 
+        self.totalCalls=0
+        self.totalBetRaise = 0
 
     #updates stack value of player
     def updateStack(self,stack):
@@ -85,7 +83,7 @@ class Opponent:
         self.updateFoldPer()
     #updates fold percentage
     def updateFoldPer(self):
-        self.foldPer = (float(self.folds) / self.handID)
+        self.foldPer = (float(self.folds) / self.handsPlayed)
     #for any fold (not just preflop like foldHand, playingHand goes to false)
     def fold(self):
         self.playingHand = False
@@ -102,14 +100,16 @@ class Opponent:
     #returns whether a player is playing in a hand or not (bool value)
     def inHand(self):
         return self.playingHand
-    def newHand(self,handID,playingHand):
-        self.handID = handID
+    def newHand(self,playingHand):
+        
         #true unless they're out of the game
         self.playingHand = playingHand
         #reset this to false every new hand (preflop hasn't been called yet)
         self.preFlopCalled = False
         if not playingHand:
             self.updateEliminated()
+        else:
+            self.handsPlayed +=1
 
     #name of player
     def getName(self):
@@ -126,7 +126,7 @@ class Opponent:
 
     #besides bb and sb, number of times raise/call preflop (if bb or sb raises they count)
     def updateVPIP(self):
-        self.VPIP = float(self.preFlopCall) / self.handID
+        self.VPIP = float(self.preFlopCall) / self.handsPlayed
     def getVPIP(self):
         return self.VPIP
 
@@ -135,7 +135,7 @@ class Opponent:
     def getWTSD(self):
         return self.WTSD
     def updateWTSD(self):
-        self.WTSD = float(self.showdown) / self.handID
+        self.WTSD = float(self.showdown) / self.handsPlayed
         #adds to showdown value (one more showdown counted)
     def showdownAdd(self):   
         self.showdown += 1
@@ -144,7 +144,7 @@ class Opponent:
     def getWMSD(self):
         return self.WMSD
     def updateWMSD(self):
-        self.WMSD = float(self.showdownWin) / self.handID
+        self.WMSD = float(self.showdownWin) / self.handsPlayed
     #adds to showdown win value (one more showdown counted)
     def showdownWinAdd(self):   
         self.showdownWin += 1
@@ -153,7 +153,7 @@ class Opponent:
     def getPFR(self):
         return self.PFR
     def updatePFR(self):
-        self.PFR = float(self.preFlopRaises) / self.handID
+        self.PFR = float(self.preFlopRaises) / self.handsPlayed
 
     def preFlopRaise(self):
         #so as to not double count
@@ -163,7 +163,22 @@ class Opponent:
             self.preFlopRaises +=1
         self.preFlopRaised = True
 
-
+    #gets aggression factor
+    def getAF(self):
+        return self.AF
+    def updateAF(self):
+        if self.totalCalls == 0:
+            #can't divide by zero, so if calls never made,
+            #the af is just the number of aggressive acts done
+            self.AF = float(self.totalBetRaise)
+        else:
+            self.AF = float(self.totalBetRaise) / self.totalCalls
+    #total calls increments by one
+    def addCall(self):
+        self.totalCalls +=1
+    #total bets/raises increments by one
+    def addBetRaise(self):
+        self.totalBetRaise +=1
     #finds player type according to stats
     def findPlayerType():
         VPIP_threshold = 0

@@ -163,12 +163,14 @@ class Player:
                     bot.updateSeat(count+1)
                     
                     #initialize new hand in bot
-                    bot.newHand(handID,activePlayers[count])
+                    #add hand ID?
+                    bot.newHand(activePlayers[count])
 
                     count+=1
                     print name + "'s VPIP: %f"%bot.getVPIP()
                     print name + "'s PFR: %f"%bot.getPFR()
                     print name + "'s estimated fold percentage is %f"% bot.foldPercentage()
+                    print name + "'s AF: %f"%bot.getAF()
                     #print stuff
                     #delete this later
                     if bot.isEliminated():
@@ -296,7 +298,7 @@ class Player:
                         #if small blind called/raised or big blind called/raised larger than original big blind
                         #or dealer called/raised bb
                         #>= or > (since only call/bet/raise) --> check for bb not included?
-                        if bet >= big_blind:
+                        if bet >= bb:
                             if num_board_cards == 0:
                                 #take into account reraising (don't want to double count this)
                                 #if you look in Opponent class reraising has already been taken into account
@@ -304,6 +306,9 @@ class Player:
                                 bot.preFlopCallOrRaise()
                      
                         if action == 'RAISE':
+                            #counts towards af
+                            bot.addBetRaise()
+                            bot.updateAF()
                             #preflop raises - count towards pfr
                             if num_board_cards == 0:
                                 bot.preFlopRaise()
@@ -312,32 +317,21 @@ class Player:
 
                             
                         elif action == 'BET':
+                            #counts towards af
+                            bot.addBetRaise()
+                            bot.updateAF()
                             if not (name == our_name):
                                 print name + " bet %d."%bet
 
                         elif action == 'CALL':
+                            #counts towards inverse af
+                            bot.addCall()
+                            bot.updateAF()
                             if not (name == our_name):
                                 print name + " called %d."%bet
 
                         else:
                             print "\nnonsense happened\n"
-
-                count = 0
-                for name in playerNames:
-                    bot = playersDict[name]
-                    #update stacks of players once it gets to you
-                    bot.updateStack(stack_sizes[count])
-
-                    #update the bot's VPIP
-                    bot.updateVPIP()
-                    #update the bot's PFR
-                    bot.updatePFR()
-                    count+=1
-
-
-
-                                             
-                    
 
             
 #PREFLOP
@@ -406,11 +400,77 @@ class Player:
                 #look for SHOW to see their cards/what their hand was
                 #cards were shown
                 shown = False
-                for action in handOver_lastActions:
-                    actions = action.split(":")
-                    action = actions[0]
-                    if action == "SHOW":
-                        name = actions[3]
+                for lastAction in handOver_lastActions:
+                    lastAction = lastAction.split(':');
+                    #action is word
+                    action = lastAction[0]
+                    #if action is fold or check
+
+                    if action == 'FOLD' or action == 'CHECK':
+                        #name of bot who is doing action
+                        name = lastAction[1]
+                        #current bot who is doing action (from player dictionary)
+                        bot = playersDict[name]
+                        if action == 'FOLD':
+                            #if folded in preflop round
+                            if handOverNumCards == 0:       
+                                #although might have still be raising /calling thus VPIP might be greater now, and not counting this as 
+                                #a VPIP fold (until)
+                                bot.foldHandPreflop()
+                                #updates the bot's VPIP (willingness to call/raise preflop if not bb or sb (unless raise))       
+                            #bot folded, so fold
+                            if not (name == our_name):
+                                print name + " folds."
+                            bot.fold()
+                        elif action == 'CHECK':
+                            if not (name == our_name):
+                                print name + " checks."
+
+                    elif action == 'CALL' or action =='BET' or action =='RAISE':
+                        bet = int(lastAction[1])
+                        name = lastAction[2]
+                        bot = playersDict[name]
+                        #if small blind called/raised or big blind called/raised larger than original big blind
+                        #or dealer called/raised bb
+                        #>= or > (since only call/bet/raise) --> check for bb not included?
+                        if bet >= bb:
+                            if handOverNumCards == 0:
+                                #take into account reraising (don't want to double count this)
+                                #if you look in Opponent class reraising has already been taken into account
+                                #(look at self.preFlopCalled and the preFlopCall() function)
+                                bot.preFlopCallOrRaise()
+                     
+                        if action == 'RAISE':
+                            #counts towards af
+                            bot.addBetRaise()
+                            bot.updateAF()
+                            #preflop raises - count towards pfr
+                            if handOverNumCards == 0:
+                                bot.preFlopRaise()
+                            if not (name == our_name):
+                                print name + " raised to %d."%bet
+
+                            
+                        elif action == 'BET':
+                            #counts towards af
+                            bot.addBetRaise()
+                            bot.updateAF()
+                            if not (name == our_name):
+                                print name + " bet %d."%bet
+
+                        elif action == 'CALL':
+                            #counts towards inverse af
+                            bot.addCall()
+                            bot.updateAF()
+                            if not (name == our_name):
+                                print name + " called %d."%bet
+
+                        else:
+                            print "\nnonsense happened\n"
+                
+
+                    elif action == "SHOW":
+                        name = lastAction[3]
                         bot = playersDict[name]
                         bot.showdownAdd()
                         bot.updateWTSD()
@@ -419,18 +479,24 @@ class Player:
                         print name + " WTSD percentage is: %f"%bot.getWTSD()
 
                     elif action == "WIN" or action == "TIE":
-                        print actions
-                        name = actions[2]
+                        name = lastAction[2]
                         bot = playersDict[name]
                         #if cards were shown, then we can update showdownWins/WTSD
                         if shown:
                             bot.showdownWinAdd()
                             bot.updateWMSD()
                             print name + " W$SD percentage is: %f"%bot.getWMSD()
+                count = 0
+                for name in playerNames:
+                    bot = playersDict[name]
+                    #update stacks of players once it gets to you
+                    bot.updateStack(stack_sizes[count])
 
- 
-
-
+                    #update the bot's VPIP
+                    bot.updateVPIP()
+                    #update the bot's PFR
+                    bot.updatePFR()
+                    count+=1
 
             elif packet_values[0] == "REQUESTKEYVALUES":
                 # At the end, the engine will allow your bot save key/value pairs.
@@ -483,7 +549,7 @@ def betLogic(board,equities,pot_size,seat,bot1,bot2 = None):
         pass
     print our_name +"'s EV: %f"%ev
     print our_name +"'s Equity: %s"%equities.ev[0]
-    #also need to take into account stats
+    #also need to take into account stats/player types with impliedOdds
     impliedOdds = calc_functions.impliedOdds(equities,pot_size,their_bet)
     averageBetNeeded = impliedOdds / num_opp_players
     print our_name +"'s EV: %f"%ev
