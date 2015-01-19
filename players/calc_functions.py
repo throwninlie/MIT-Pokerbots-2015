@@ -41,7 +41,7 @@ def foldBet():
     
     
 
-def estimatedValue(equities,pot_size,bet):
+def expectedValue(equities,pot_size,bet):
     ourEquity = equities.ev[0]
     theirEquity = equities.ev[1]       
     winAmt = pot_size + bet
@@ -56,3 +56,5 @@ def impliedOdds(equities,pot_size,bet):
     y = pot_size + bet + bet
     impliedOdds = x - y
     return impliedOdds
+def potOdds(pot_size,bet):
+    return 1.0 - (float(bet) / pot_size)

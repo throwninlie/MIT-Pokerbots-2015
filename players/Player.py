@@ -44,12 +44,13 @@ class Player:
                 global our_name
                 global opp1_name
                 global opp2_name
+                global bb
                 
                 our_name = packet_values[1]
                 opp1_name = packet_values[2]
                 opp2_name = packet_values[3]
                 initStackSize = packet_values[4]
-                bb = packet_values[5]
+                bb = int(packet_values[5])
                 timeBank = packet_values[6]
 
                 print "Our name: %s"%our_name
@@ -79,6 +80,7 @@ class Player:
                 our_bets = 0
                 pot_size = 0
                 #handID is the nth hand
+                global handID
                 handID = int(packet_values[1])
                 #our seat
                 seat = int(packet_values[2])
@@ -99,21 +101,22 @@ class Player:
                 activePlayers = [packet_values[12],packet_values[13],packet_values[14]]
                 #our timebank
                 timeBank = packet_values[15]
-                count = 0
+                
 
 
                 print "\n"
                 print "NEWHAND:%d\n"%handID
                 print packet_values
                 print "Active Players:%d\n" % num_active_players
-                print "Our hand: %s %s\n"%(holeCard1,holeCard2)
+                print "Our hand: %s %s"%(holeCard1,holeCard2)
 
 
                 #initialize our bets depending on whether or not we are blinds (depends on number of players playing)
                 #taken into account in the for loop below
                 our_bets = 0
-
+                count = 0
                 for name in playerNames:
+                    bot = playersDict[name]
                     if num_active_players < 3:
                         #take into account heads up play (dealer posts sb, etc)
                         #update eliminated
@@ -124,43 +127,59 @@ class Player:
                                 #dealer/sb (Heads up)
                                 our_bets = 1
                             small_blind = name
-                        if count == 1:
+                            #updating bot stack sizes for each bot at the start of new hand
+                            bot.updateStack(int(initStackSizes[count]) - (bb/2))
+                        elif count == 1:
                             if name == our_name:
                                 #bb (heads up)
                                 our_bets = 2
                             big_blind = name
+                            #updating bot stack sizes for each bot at the start of new hand
+                            bot.updateStack(int(initStackSizes[count]) - bb)
+                        elif count == 2:
+                            #updating bot stack sizes for each bot at the start of new hand
+                            bot.updateStack(int(initStackSizes[count]))
+
                     else:
                         if count == 1:
                             small_blind = name
+                            #updating bot stack sizes for each bot at the start of new hand
+                            bot.updateStack(int(initStackSizes[count]) - (bb/2))
                             if name == our_name:
                                 our_bets = 1
                         elif count == 2:
                             big_blind = name
+                            #updating bot stack sizes for each bot at the start of new hand
+                            bot.updateStack(int(initStackSizes[count]) - bb)
                             if name == our_name:
                                 our_bets = 2
+                        else:
+                            #updating bot stack sizes for each bot at the start of new hand
+                            bot.updateStack(int(initStackSizes[count]))
                     
-                    bot = playersDict[name]
-                    #updating bot stack sizes for each bot at the start of new hand
-                    bot.updateStack(int(initStackSizes[count]))
+
+
                     #updating bot seat for each bot
                     bot.updateSeat(count+1)
                     
                     #initialize new hand in bot
                     bot.newHand(handID,activePlayers[count])
-                    count+=1
 
+                    count+=1
+                    print name + "'s VPIP: %f"%bot.getVPIP()
+                    print name + "'s PFR: %f"%bot.getPFR()
+                    print name + "'s estimated fold percentage is %f"% bot.foldPercentage()
                     #print stuff
                     #delete this later
                     if bot.isEliminated():
-                        print "\n"
                         print name + " is eliminated"
                 #print more
                 if num_active_players < 3:
-                    print small_blind + " posts small blind/and is dealer, stack size (%d)"%bot.getStack()
-                    print big_blind + " posts big blind, stack size (%d)\n"%bot.getStack()
+                    print "\n"+small_blind + " posts small blind/and is dealer, stack size (%d)"%playersDict[small_blind].getStack()
+                    print big_blind + " posts big blind, stack size (%d)\n"%playersDict[big_blind].getStack()
                 else:
-                    print small_blind + " posts small blind, stack size (%d)"%bot.getStack()
-                    print big_blind + " posts big blind, stack size (%d)\n"%bot.getStack()
+                    print "\n"+small_blind+ " posts small blind, stack size (%d)"%playersDict[small_blind].getStack()
+                    print big_blind + " posts big blind, stack size (%d)\n"%playersDict[big_blind].getStack()
 
 
 
@@ -230,11 +249,26 @@ class Player:
                         avail_actions[action[0]] = range(int(action[1]), int(action[2])+1)          
 
                 #check last actions
+
+
+                if num_board_cards == 0:
+                    print "\n***PREFLOP***(%d) Board:(%s)"%(pot_size,' '.join(board))
+                    print "Our hand: %s %s\n"%(holeCard1,holeCard2)
+                elif num_board_cards == 3:
+                    print "\n***FLOP***(%d) Board:(%s)"%(pot_size,' '.join(board))
+                    print "Our hand: %s %s\n"%(holeCard1,holeCard2)
+                elif num_board_cards == 4:
+                    print "\n***TURN***(%d) Board:(%s)"%(pot_size,' '.join(board))
+                    print "Our hand: %s %s\n"%(holeCard1,holeCard2)
+                elif num_board_cards == 5:
+                    print "\n***RIVER***(%d) Board:(%s)"%(pot_size,' '.join(board))
+                    print "Our hand: %s %s\n"%(holeCard1,holeCard2)
                 for lastAction in lastActions:
                     lastAction = lastAction.split(':');
                     #action is word
                     action = lastAction[0]
                     #if action is fold or check
+
                     if action == 'FOLD' or action == 'CHECK':
                         #name of bot who is doing action
                         name = lastAction[1]
@@ -248,10 +282,12 @@ class Player:
                                 bot.foldHandPreflop()
                                 #updates the bot's VPIP (willingness to call/raise preflop if not bb or sb (unless raise))       
                             #bot folded, so fold
-                            print name + " folds."
+                            if not (name == our_name):
+                                print name + " folds."
                             bot.fold()
                         elif action == 'CHECK':
-                            print name + " checks."
+                            if not (name == our_name):
+                                print name + " checks."
 
                     elif action == 'CALL' or action =='BET' or action =='RAISE':
                         bet = int(lastAction[1])
@@ -271,14 +307,17 @@ class Player:
                             #preflop raises - count towards pfr
                             if num_board_cards == 0:
                                 bot.preFlopRaise()
-                            print name + " raised to %d."%bet
+                            if not (name == our_name):
+                                print name + " raised to %d."%bet
 
                             
                         elif action == 'BET':
-                            print name + " bet %d."%bet
+                            if not (name == our_name):
+                                print name + " bet %d."%bet
 
                         elif action == 'CALL':
-                            print name + " called %d."%bet
+                            if not (name == our_name):
+                                print name + " called %d."%bet
 
                         else:
                             print "\nnonsense happened\n"
@@ -294,10 +333,7 @@ class Player:
                     #update the bot's PFR
                     bot.updatePFR()
                     count+=1
-                    print '\n'
-                    print name + "'s VPIP: %f"%bot.getVPIP()
-                    print name + "'s PFR: %f"%bot.getPFR()
-                    print name + "'s estimated fold percentage is %f"% bot.foldPercentage()
+
 
 
                                              
@@ -311,8 +347,7 @@ class Player:
                     #pbots_calc.calc(hands,board,dead,iters)
                     #equities2: Results instance
                     #2-card equity against random hand, only computed once
-                    print "\n***PREFLOP***(%d) Board:(%s)\n"%(pot_size,' '.join(board))
-                    print "Our hand: %s %s"%(holeCard1,holeCard2)
+
                     equities2 = calc_functions.equityCalculator(holeCard1, holeCard2, "", 1000, None, None)
                     if playersDict[opp1_name].inHand() == True and playersDict[opp2_name].inHand() == True:
                         betLogic(board,equities2,pot_size,seat,playersDict[opp1_name],playersDict[opp2_name])
@@ -322,8 +357,7 @@ class Player:
                         betLogic(board,equities2,pot_size,seat,playersDict[opp2_name])  
 #FLOP                       
                 elif num_board_cards == 3:
-                    print "\n***FLOP***(%d) Board:(%s)\n"%(pot_size,' '.join(board))
-                    print "Our hand: %s %s"%(holeCard1,holeCard2)
+
                     equities3 = calc_functions.equityCalculator(holeCard1, holeCard2, board, 1000, None, None)
                     if playersDict[opp1_name].inHand() == True and playersDict[opp2_name].inHand() == True:
                         betLogic(board,equities3,pot_size,seat,playersDict[opp1_name],playersDict[opp2_name])
@@ -334,8 +368,7 @@ class Player:
 
 #TURN
                 elif num_board_cards == 4:
-                    print "\n***TURN***(%d) Board:(%s)\n"%(pot_size,' '.join(board))
-                    print "Our hand: %s %s"%(holeCard1,holeCard2)
+
                     equities4 = calc_functions.equityCalculator(holeCard1, holeCard2, board, 1000, None, None)
                     if playersDict[opp1_name].inHand() == True and playersDict[opp2_name].inHand() == True:
                         betLogic(board,equities4,pot_size,seat,playersDict[opp1_name],playersDict[opp2_name])
@@ -346,8 +379,7 @@ class Player:
 
 #RIVER
                 elif num_board_cards == 5:
-                    print "\n***RIVER***(%d) Board:(%s)\n"%(pot_size,' '.join(board))
-                    print "Our hand: %s %s"%(holeCard1,holeCard2)
+
                     equities5 = calc_functions.equityCalculator(holeCard1, holeCard2, board, 1000, None, None)
                     if playersDict[opp1_name].inHand() == True and playersDict[opp2_name].inHand() == True:
                         betLogic(board,equities5,pot_size,seat,playersDict[opp1_name],playersDict[opp2_name])
@@ -382,21 +414,21 @@ class Player:
                         bot = playersDict[name]
                         bot.showdownAdd()
                         bot.updateWTSD()
-                        bot.updateWMSD()
-                        shown = True
+                        shown = True                           
+
                         print name + " WTSD percentage is: %f"%bot.getWTSD()
-                        print name + " W$SD percentage is: %f"%bot.getWMSD()
 
                     elif action == "WIN" or action == "TIE":
                         print actions
                         name = actions[2]
                         bot = playersDict[name]
+                        #if cards were shown, then we can update showdownWins/WTSD
                         if shown:
                             bot.showdownWinAdd()
-                            bot.updateWTSD()
                             bot.updateWMSD()
-                            print name + " WTSD percentage is: %f"%bot.getWTSD()
                             print name + " W$SD percentage is: %f"%bot.getWMSD()
+
+ 
 
 
 
@@ -408,9 +440,22 @@ class Player:
         s.close()
 
 def reply(action, amount, socket):
-    if action == 'FOLD' or action == 'CHECK':
+    if action == 'FOLD' or action == 'CHECK': 
+        if action == 'FOLD':
+            print our_name + " folds."
+        else:
+            print our_name + " checks."
+
         socket.send(action + "\n")
+
     elif action == 'CALL' or action == 'BET' or action == 'RAISE':
+        if action =='CALL':
+            print our_name + " calls %d."%amount
+        elif action == 'BET':
+            print our_name + " bets %d."%amount
+        else:
+            print our_name + " raise %d."%amount
+
         socket.send(action+":"+str(amount)+"\n")
 
 
@@ -418,34 +463,56 @@ def reply(action, amount, socket):
 def betLogic(board,equities,pot_size,seat,bot1,bot2 = None):
     their_bet = 0
     num_board_cards = len(board)
+    num_opp_players = 1
     if "CALL" in avail_actions:
         their_bet = avail_actions["CALL"][0]
-    ev = calc_functions.estimatedValue(equities,pot_size,their_bet)
-    if "BET" in avail_actions or "RAISE" in avail_actions:
-        if bot2 is not None:
-            foldEquities = calc_functions.foldEquity(pot_size,ev,bot1.foldPercentage(),bot2.foldPercentage())
-            print "FoldEquities: %f , %f"%(foldEquities[0],foldEquities[1])
-        else:
-            foldEquities = calc_functions.foldEquity(pot_size,ev,bot1.foldPercentage())
-            print "FoldEquities: %f "%foldEquities[0]
+    ev = calc_functions.expectedValue(equities,pot_size,their_bet)
+    #will want to change this later, not sure when we should start using stats
+    if handID >= 10:     
+        if "BET" in avail_actions or "RAISE" in avail_actions:
+            if bot2 is not None:
+                foldEquities = calc_functions.foldEquity(pot_size,ev,bot1.foldPercentage(),bot2.foldPercentage())
+                #print "FoldEquities: %f , %f"%(foldEquities[0],foldEquities[1])
+            else:
+                foldEquities = calc_functions.foldEquity(pot_size,ev,bot1.foldPercentage())
+                #print "FoldEquities: %f "%foldEquities[0]
 
-    print "EV: %f"%ev
-    
+    if bot2 is not None:
+        num_opp_players = 2
+    else:
+        pass
+    print our_name +"'s EV: %f"%ev
+    print our_name +"'s Equity: %s"%equities.ev[0]
+    #also need to take into account stats
+    impliedOdds = calc_functions.impliedOdds(equities,pot_size,their_bet)
+    averageBetNeeded = impliedOdds / num_opp_players
+    print our_name +"'s EV: %f"%ev
+    print our_name +"'s Equity: %s"%equities.ev[0]
+    print our_name +"'s Implied Odds: %d"%impliedOdds
     if ev >= 0:
-        if "CHECK" in avail_actions:
-            reply("CHECK", "CHECK", s)
-        elif "BET" in avail_actions:
-            minBet = avail_actions["BET"][0]
-            maxBet = avail_actions["BET"][-1]
-            reply("BET", minBet,s)
-        elif "CALL" in avail_actions:
-            minBet = avail_actions["CALL"][0]
-            reply("CALL",minBet,s)
+        if ev == 0:
+            if "CHECK" in avail_actions:
+                reply("CHECK", "CHECK", s)
+            elif "CALL" in avail_actions:
+                minBet = avail_actions["CALL"][0]
+                reply("CALL",minBet,s)
 
-        elif "RAISE" in avail_actions:
-            minBet = avail_actions["RAISE"][0]
-            maxBet = avail_actions["RAISE"][-1]
-            reply("RAISE", minBet,s)
+        else:
+            if "BET" in avail_actions:
+                minBet = avail_actions["BET"][0]
+                maxBet = avail_actions["BET"][-1]
+                reply("BET", minBet,s)
+            elif "RAISE" in avail_actions:
+                minBet = avail_actions["RAISE"][0]
+                maxBet = avail_actions["RAISE"][-1]
+
+                if ev > 10:
+                    reply("RAISE", maxBet,s)
+                else:
+                    reply("RAISE",minBet,s)
+            elif "CALL" in avail_actions:
+                minBet = avail_actions["CALL"][0]
+                reply("CALL",minBet,s)
     else:
         if "CHECK" in avail_actions:
             reply("CHECK", "CHECK", s)

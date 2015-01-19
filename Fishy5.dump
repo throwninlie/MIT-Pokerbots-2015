@@ -1,1897 +1,514 @@
 
 C:\Users\Er\Dropbox\Pokerbot\players>python Player.py 3000 
 Connecting to localhost:3000
-Fishy5
-Somedude5
-SomeOtherdude5
-['NEWHAND', '1', '2', '2h', '7d', '200', '200', '200', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '3', 'true', 'true', 'true', '10.000000']
-Stacks: 
-[200, 200, 200]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
+Our name: Fishy5
+Opp1 name: Somedude5
+Opp2 name: SomeOtherdude5
+
+
+NEWHAND:1
+
+['NEWHAND', '1', '2', '3h', '5d', '200', '200', '200', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '3', 'true', 'true', 'true', '10.000000']
 Active Players:3
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 1.000000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-FoldEquities: 12.840000 , 7.000000
-EV: 1.160000
-['NEWHAND', '2', '3', 'Ac', '4h', '198', '203', '199', 'Somedude5', 'SomeOtherdude5', 'Fishy5', '3', 'true', 'true', 'true', '9.991196']
-Stacks: 
-[198, 203, 199]
-Players: 
-['Somedude5', 'SomeOtherdude5', 'Fishy5']
+
+Our hand: 3h 5d
+SomeOtherdude5's VPIP: 0.000000
+SomeOtherdude5's PFR: 0.000000
+SomeOtherdude5's estimated fold percentage is 0.000000
+Fishy5's VPIP: 0.000000
+Fishy5's PFR: 0.000000
+Fishy5's estimated fold percentage is 0.000000
+Somedude5's VPIP: 0.000000
+Somedude5's PFR: 0.000000
+Somedude5's estimated fold percentage is 0.000000
+
+Fishy5 posts small blind, stack size (199)
+Somedude5 posts big blind, stack size (198)
+
+
+***PREFLOP***(5) Board:()
+Our hand: 3h 5d
+
+SomeOtherdude5 called 2.
+Fishy5's EV: 1.420000
+Fishy5's Equity: 0.38
+Fishy5's EV: 1.420000
+Fishy5's Equity: 0.38
+Fishy5's Implied Odds: -3
+Fishy5 raise 4.
+
+***FLOP***(10) Board:(6d Kd Qc)
+Our hand: 3h 5d
+
+Somedude5 folds.
+SomeOtherdude5 called 4.
+Fishy5's EV: 2.030000
+Fishy5's Equity: 0.203
+Fishy5's EV: 2.030000
+Fishy5's Equity: 0.203
+Fishy5's Implied Odds: -10
+Fishy5 bets 2.
+
+***TURN***(14) Board:(6d Kd Qc Ac)
+Our hand: 3h 5d
+
+SomeOtherdude5 called 2.
+Fishy5's EV: 1.386000
+Fishy5's Equity: 0.099
+Fishy5's EV: 1.386000
+Fishy5's Equity: 0.099
+Fishy5's Implied Odds: -14
+Fishy5 bets 2.
+
+***TURN***(27) Board:(6d Kd Qc Ac)
+Our hand: 3h 5d
+
+SomeOtherdude5 raised to 11.
+Fishy5's EV: -6.149000
+Fishy5's Equity: 0.099
+Fishy5's EV: -6.149000
+Fishy5's Equity: 0.099
+Fishy5's Implied Odds: 62
+Fishy5 folds.
+['WIN', '27', 'SomeOtherdude5']
+
+
+NEWHAND:2
+
+['NEWHAND', '2', '3', 'Tc', 'Ah', '198', '210', '192', 'Somedude5', 'SomeOtherdude5', 'Fishy5', '3', 'true', 'true', 'true', '9.944784']
 Active Players:3
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Somedude5 VPIP: 0.500000
-SomeOtherdude5 VPIP: 1.000000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-FoldEquities: 15.974000 , 10.000000
-EV: 7.013000
-['NEWHAND', '3', '1', '6d', '7c', '197', '139', '264', 'Fishy5', 'Somedude5', 'SomeOtherdude5', '3', 'true', 'true', 'true', '9.972970']
-Stacks: 
-[197, 139, 264]
-Players: 
-['Fishy5', 'Somedude5', 'SomeOtherdude5']
-Active Players:3
-Somedude5 is small blind
-SomeOtherdude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-FoldEquities: 3.000000 , 3.000000
-EV: 1.059000
-['NEWHAND', '4', '2', 'Qs', 'Js', '265', '197', '138', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '3', 'true', 'true', 'true', '9.963146']
-Stacks: 
-[265, 197, 138]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:3
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.500000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-FoldEquities: 3.814000 , 3.000000
-EV: 2.186000
-['NEWHAND', '5', '3', '6s', '8h', '139', '265', '196', 'Somedude5', 'SomeOtherdude5', 'Fishy5', '3', 'true', 'true', 'true', '9.955502']
-Stacks: 
-[139, 265, 196]
-Players: 
-['Somedude5', 'SomeOtherdude5', 'Fishy5']
-Active Players:3
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Somedude5 VPIP: 0.200000
-SomeOtherdude5 VPIP: 0.600000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-FoldEquities: 16.635000 , 7.000000
-EV: 2.182500
-['NEWHAND', '6', '1', 'Jh', '8s', '194', '139', '267', 'Fishy5', 'Somedude5', 'SomeOtherdude5', '3', 'true', 'true', 'true', '9.949038']
-Stacks: 
-[194, 139, 267]
-Players: 
-['Fishy5', 'Somedude5', 'SomeOtherdude5']
-Active Players:3
-Somedude5 is small blind
-SomeOtherdude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-FoldEquities: 3.000000 , 3.000000
-EV: 1.654000
-['NEWHAND', '7', '2', '8c', 'Kc', '268', '194', '138', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '3', 'true', 'true', 'true', '9.941956']
-Stacks: 
-[268, 194, 138]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:3
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.428571
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-FoldEquities: 3.968000 , 3.000000
-EV: 2.032000
-['NEWHAND', '8', '3', 'Jd', '3c', '139', '268', '193', 'Somedude5', 'SomeOtherdude5', 'Fishy5', '3', 'true', 'true', 'true', '9.932421']
-Stacks: 
-[139, 268, 193]
-Players: 
-['Somedude5', 'SomeOtherdude5', 'Fishy5']
-Active Players:3
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Somedude5 VPIP: 0.250000
-SomeOtherdude5 VPIP: 0.500000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-FoldEquities: 38.478000 , 18.000000
-EV: 7.761000
-['NEWHAND', '9', '1', '2s', '6h', '191', '157', '252', 'Fishy5', 'Somedude5', 'SomeOtherdude5', '3', 'true', 'true', 'true', '9.923881']
-Stacks: 
-[191, 157, 252]
-Players: 
-['Fishy5', 'Somedude5', 'SomeOtherdude5']
-Active Players:3
-Somedude5 is small blind
-SomeOtherdude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-FoldEquities: 3.000000 , 3.000000
-EV: 0.376500
-['NEWHAND', '10', '2', 'Kc', '4c', '250', '191', '159', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '3', 'true', 'true', 'true', '9.915672']
-Stacks: 
-[250, 191, 159]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:3
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.500000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-FoldEquities: 6.928500 , 5.000000
-EV: 3.071500
-['NEWHAND', '11', '3', 'Ks', '6c', '169', '241', '190', 'Somedude5', 'SomeOtherdude5', 'Fishy5', '3', 'true', 'true', 'true', '9.906187']
-Stacks: 
-[169, 241, 190]
-Players: 
-['Somedude5', 'SomeOtherdude5', 'Fishy5']
-Active Players:3
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Somedude5 VPIP: 0.272727
-SomeOtherdude5 VPIP: 0.454545
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-FoldEquities: 22.944000 , 12.000000
-EV: 6.528000
-['NEWHAND', '12', '1', '5c', '9c', '188', '186', '226', 'Fishy5', 'Somedude5', 'SomeOtherdude5', '3', 'true', 'true', 'true', '9.883019']
-Stacks: 
-[188, 186, 226]
-Players: 
-['Fishy5', 'Somedude5', 'SomeOtherdude5']
-Active Players:3
-Somedude5 is small blind
-SomeOtherdude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-FoldEquities: 3.000000 , 3.000000
-EV: 1.269000
-['NEWHAND', '13', '2', 'Ac', 'Ad', '216', '188', '196', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '3', 'true', 'true', 'true', '9.873264']
-Stacks: 
-[216, 188, 196]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:3
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.461538
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-FoldEquities: 4.417500 , 5.000000
-EV: 5.582500
-['NEWHAND', '14', '3', '9c', '9s', '109', '304', '187', 'Somedude5', 'SomeOtherdude5', 'Fishy5', '3', 'true', 'true', 'true', '9.859229']
-Stacks: 
-[109, 304, 187]
-Players: 
-['Somedude5', 'SomeOtherdude5', 'Fishy5']
-Active Players:3
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Somedude5 VPIP: 0.285714
-SomeOtherdude5 VPIP: 0.428571
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-FoldEquities: 11.324000 , 10.000000
-EV: 9.338000
-['NEWHAND', '15', '1', '6d', '4d', '185', '99', '316', 'Fishy5', 'Somedude5', 'SomeOtherdude5', '3', 'true', 'true', 'true', '9.845261']
-Stacks: 
-[185, 99, 316]
-Players: 
-['Fishy5', 'Somedude5', 'SomeOtherdude5']
-Active Players:3
-Somedude5 is small blind
-SomeOtherdude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-FoldEquities: 3.000000 , 3.000000
-EV: 0.940000
-['NEWHAND', '16', '2', 'As', 'Qh', '314', '185', '101', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '3', 'true', 'true', 'true', '9.837731']
-Stacks: 
-[314, 185, 101]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:3
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.437500
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-FoldEquities: 10.350000 , 9.000000
-EV: 7.650000
-['NEWHAND', '17', '3', '4d', 'Jc', '9', '407', '184', 'Somedude5', 'SomeOtherdude5', 'Fishy5', '3', 'true', 'true', 'true', '9.830143']
-Stacks: 
-[9, 407, 184]
-Players: 
-['Somedude5', 'SomeOtherdude5', 'Fishy5']
-Active Players:3
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Somedude5 VPIP: 0.294118
-SomeOtherdude5 VPIP: 0.411765
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-FoldEquities: 10.050000 , 5.000000
-EV: 2.475000
-Somedude5's estimated fold percentage is 1.000000
-SomeOtherdude5's estimated fold percentage is 1.000000
-Fishy5's estimated fold percentage is 1.000000
-FoldEquities: 11.840000 , 5.000000
-EV: 1.580000
-Somedude5's estimated fold percentage is 1.000000
-SomeOtherdude5's estimated fold percentage is 1.000000
-Fishy5's estimated fold percentage is 1.000000
-FoldEquities: 12.595000 , 5.000000
-EV: 1.202500
-Somedude5's estimated fold percentage is 1.000000
-SomeOtherdude5's estimated fold percentage is 1.000000
-Fishy5's estimated fold percentage is 1.000000
-FoldEquities: 12.833333 , 5.000000
-EV: 1.083333
-Somedude5's estimated fold percentage is 1.000000
-SomeOtherdude5's estimated fold percentage is 1.000000
-Fishy5's estimated fold percentage is 1.000000
-FoldEquities: 27.633333 , 9.000000
-EV: -0.316667
-['NEWHAND', '18', '1', '6c', '3s', '182', '12', '406', 'Fishy5', 'Somedude5', 'SomeOtherdude5', '3', 'true', 'true', 'true', '9.800755']
-Stacks: 
-[182, 12, 406]
-Players: 
-['Fishy5', 'Somedude5', 'SomeOtherdude5']
-Active Players:3
-Somedude5 is small blind
-SomeOtherdude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-FoldEquities: 3.000000 , 3.000000
-EV: 0.558500
-['NEWHAND', '19', '2', '8c', '6d', '398', '182', '20', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '3', 'true', 'true', 'true', '9.792346']
-Stacks: 
-[398, 182, 20]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:3
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.421053
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-FoldEquities: 11.535000 , 7.000000
-EV: 2.465000
-['NEWHAND', '20', '3', 'Ah', 'Ks', '12', '407', '181', 'Somedude5', 'SomeOtherdude5', 'Fishy5', '3', 'true', 'true', 'true', '9.783597']
-Stacks: 
-[12, 407, 181]
-Players: 
-['Somedude5', 'SomeOtherdude5', 'Fishy5']
-Active Players:3
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Somedude5 VPIP: 0.250000
-SomeOtherdude5 VPIP: 0.450000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-FoldEquities: 7.674000 , 6.000000
-EV: 5.163000
-['NEWHAND', '21', '1', '9d', 'Kd', '179', '12', '409', 'Fishy5', 'Somedude5', 'SomeOtherdude5', '3', 'true', 'true', 'true', '9.771211']
-Stacks: 
-[179, 12, 409]
-Players: 
-['Fishy5', 'Somedude5', 'SomeOtherdude5']
-Active Players:3
-Somedude5 is small blind
-SomeOtherdude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-FoldEquities: 3.000000 , 3.000000
-EV: 2.182500
-['NEWHAND', '22', '2', '8s', 'Jc', '410', '179', '11', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '3', 'true', 'true', 'true', '9.762969']
-Stacks: 
-[410, 179, 11]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:3
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.454545
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 1.000000
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 1.000000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 1.000000
-FoldEquities: 7.518000 , 5.000000
-EV: 2.482000
-['NEWHAND', '23', '3', 'Kc', '4d', '18', '404', '178', 'Somedude5', 'SomeOtherdude5', 'Fishy5', '3', 'true', 'true', 'true', '9.754496']
-Stacks: 
-[18, 404, 178]
-Players: 
-['Somedude5', 'SomeOtherdude5', 'Fishy5']
-Active Players:3
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-['NEWHAND', '24', '1', '6h', '5d', '179', '18', '403', 'Fishy5', 'Somedude5', 'SomeOtherdude5', '3', 'true', 'true', 'true', '9.754496']
-Stacks: 
-[179, 18, 403]
-Players: 
-['Fishy5', 'Somedude5', 'SomeOtherdude5']
-Active Players:3
-Somedude5 is small blind
-SomeOtherdude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.958333
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.958333
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.958333
-FoldEquities: 3.000000 , 2.906729
-EV: 0.761500
-['NEWHAND', '25', '2', 'Kc', 'Js', '413', '179', '8', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '3', 'true', 'true', 'true', '9.746075']
-Stacks: 
-[413, 179, 8]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:3
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.440000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.960000
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.960000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.960000
-FoldEquities: 6.577500 , 4.936900
-EV: 3.422500
-['NEWHAND', '26', '3', '4h', 'Td', '11', '411', '178', 'Somedude5', 'SomeOtherdude5', 'Fishy5', '3', 'true', 'true', 'true', '9.737795']
-Stacks: 
-[11, 411, 178]
-Players: 
-['Somedude5', 'SomeOtherdude5', 'Fishy5']
-Active Players:3
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Somedude5 VPIP: 0.230769
-SomeOtherdude5 VPIP: 0.423077
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.961538
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.961538
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.961538
-FoldEquities: 32.576000 , 13.642769
-EV: 4.712000
-['NEWHAND', '27', '2', '9d', '3h', '424', '176', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.729149']
-Stacks: 
-[424, 176, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.444444
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.962963
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.962963
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.962963
-FoldEquities: 10.554000 , 5.831333
-EV: 1.446000
-['NEWHAND', '28', '1', '7s', '6s', '174', '426', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.718729']
-Stacks: 
-[174, 426, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.964286
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.964286
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.964286
-FoldEquities: 3.000000 , 2.935554
-EV: 1.195500
-['NEWHAND', '29', '2', 'Td', '8h', '427', '173', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.709726']
-Stacks: 
-[427, 173, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.448276
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.965517
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.965517
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.965517
-FoldEquities: 9.140000 , 5.891724
-EV: 2.860000
-['NEWHAND', '30', '1', 'Kc', '3d', '171', '429', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.698736']
-Stacks: 
-[171, 429, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.966667
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.966667
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.966667
-FoldEquities: 3.000000 , 2.949300
-EV: 1.479000
-['NEWHAND', '31', '2', 'Qc', 'Kc', '430', '170', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.681053']
-Stacks: 
-[430, 170, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-['NEWHAND', '32', '1', '9d', '4h', '171', '429', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.681053']
-Stacks: 
-[171, 429, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.937500
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.937500
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.937500
-FoldEquities: 3.000000 , 2.871250
-EV: 0.940000
-['NEWHAND', '33', '2', '5h', '2s', '430', '170', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.670591']
-Stacks: 
-[430, 170, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.424242
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.939394
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.939394
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.939394
-FoldEquities: 13.526000 , 6.604485
-EV: 0.474000
-['NEWHAND', '34', '1', '5s', 'Kc', '168', '432', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.662398']
-Stacks: 
-[168, 432, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.941176
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.941176
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.941176
-FoldEquities: 3.000000 , 2.926588
-EV: 1.752000
-['NEWHAND', '35', '2', '8d', '4c', '433', '167', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.653824']
-Stacks: 
-[433, 167, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.428571
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.942857
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.942857
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.942857
-FoldEquities: 12.149000 , 6.705771
-EV: 1.851000
-['NEWHAND', '36', '1', '5d', '4d', '165', '435', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.645506']
-Stacks: 
-[165, 435, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.944444
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.944444
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.944444
-FoldEquities: 3.000000 , 2.882833
-EV: 0.891000
-['NEWHAND', '37', '2', 'Ah', '9h', '436', '164', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.636520']
-Stacks: 
-[436, 164, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.432432
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.945946
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.945946
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.945946
-FoldEquities: 7.899000 , 6.951405
-EV: 6.101000
-['NEWHAND', '38', '1', 'As', '4c', '162', '438', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.628130']
-Stacks: 
-[162, 438, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.947368
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.947368
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.947368
-FoldEquities: 3.000000 , 2.955868
-EV: 2.161500
-['NEWHAND', '39', '2', '6d', '9h', '439', '161', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.618600']
-Stacks: 
-[439, 161, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.435897
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.948718
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.948718
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.948718
-FoldEquities: 6.306000 , 3.881744
-EV: 1.694000
-SomeOtherdude5's estimated fold percentage is 0.948718
-Fishy5's estimated fold percentage is 0.948718
-Somedude5's estimated fold percentage is 0.948718
-FoldEquities: 5.504000 , 3.922872
-EV: 2.496000
-SomeOtherdude5's estimated fold percentage is 0.948718
-Fishy5's estimated fold percentage is 0.948718
-Somedude5's estimated fold percentage is 0.948718
-FoldEquities: 7.760000 , 5.909744
-EV: 4.240000
-['NEWHAND', '40', '1', '7d', 'Jc', '159', '441', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.595917']
-Stacks: 
-[159, 441, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.950000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.950000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.950000
-FoldEquities: 3.000000 , 2.928675
-EV: 1.573500
-['NEWHAND', '41', '2', '2d', '5d', '442', '158', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.587172']
-Stacks: 
-[442, 158, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.439024
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.951220
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.951220
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.951220
-FoldEquities: 10.974000 , 5.757366
-EV: 1.026000
-['NEWHAND', '42', '1', '9s', 'Qs', '156', '444', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.579686']
-Stacks: 
-[156, 444, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.952381
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.952381
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.952381
-FoldEquities: 3.000000 , 2.959071
-EV: 2.140500
-['NEWHAND', '43', '2', '3h', '3d', '445', '155', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.573250']
-Stacks: 
-[445, 155, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.441860
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.953488
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.953488
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.953488
-FoldEquities: 8.895000 , 5.865349
-EV: 3.105000
-['NEWHAND', '44', '1', '8c', 'Th', '153', '447', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.566315']
-Stacks: 
-[153, 447, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.954545
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.954545
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.954545
-FoldEquities: 3.000000 , 2.928636
-EV: 1.430000
-['NEWHAND', '45', '2', '3c', '7h', '448', '152', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.558091']
-Stacks: 
-[448, 152, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.444444
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.955556
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.955556
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.955556
-FoldEquities: 11.030000 , 5.776444
-EV: 0.970000
-['NEWHAND', '46', '1', 'Qc', '3c', '150', '450', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.550295']
-Stacks: 
-[150, 450, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.956522
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.956522
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.956522
-FoldEquities: 3.000000 , 2.939500
-EV: 1.608500
-['NEWHAND', '47', '2', '5c', '8d', '451', '149', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.543948']
-Stacks: 
-[451, 149, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-['NEWHAND', '48', '1', 'Qs', '6c', '150', '450', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.543948']
-Stacks: 
-[150, 450, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.937500
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.937500
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.937500
-FoldEquities: 3.000000 , 2.905156
-EV: 1.482500
-['NEWHAND', '49', '2', '2c', '7c', '451', '149', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.537067']
-Stacks: 
-[451, 149, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.428571
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.938776
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.938776
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.938776
-FoldEquities: 6.456000 , 3.849633
-EV: 1.544000
-SomeOtherdude5's estimated fold percentage is 0.938776
-Fishy5's estimated fold percentage is 0.938776
-Somedude5's estimated fold percentage is 0.938776
-FoldEquities: 7.262000 , 3.800286
-EV: 0.738000
-SomeOtherdude5's estimated fold percentage is 0.938776
-Fishy5's estimated fold percentage is 0.938776
-Somedude5's estimated fold percentage is 0.938776
-FoldEquities: 14.601500 , 6.534602
-EV: -0.601500
-['NEWHAND', '50', '1', '8d', 'Ts', '147', '453', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.483545']
-Stacks: 
-[147, 453, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.940000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.940000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.940000
-FoldEquities: 3.000000 , 2.912940
-EV: 1.549000
-['NEWHAND', '51', '2', 'Js', '5s', '454', '146', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.466666']
-Stacks: 
-[454, 146, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.431373
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.941176
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.941176
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.941176
-FoldEquities: 5.998000 , 3.882471
-EV: 2.002000
-SomeOtherdude5's estimated fold percentage is 0.941176
-Fishy5's estimated fold percentage is 0.941176
-Somedude5's estimated fold percentage is 0.941176
-FoldEquities: 6.628000 , 3.845412
-EV: 1.372000
-SomeOtherdude5's estimated fold percentage is 0.941176
-Fishy5's estimated fold percentage is 0.941176
-Somedude5's estimated fold percentage is 0.941176
-FoldEquities: 6.706000 , 3.840824
-EV: 1.294000
-SomeOtherdude5's estimated fold percentage is 0.941176
-Fishy5's estimated fold percentage is 0.941176
-Somedude5's estimated fold percentage is 0.941176
-FoldEquities: 7.141414 , 3.815211
-EV: 0.858586
-SomeOtherdude5's estimated fold percentage is 0.941176
-Fishy5's estimated fold percentage is 0.941176
-Somedude5's estimated fold percentage is 0.941176
-FoldEquities: 14.209596 , 6.575906
-EV: -0.209596
-['NEWHAND', '52', '1', 'Qc', '9s', '144', '456', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.429790']
-Stacks: 
-[144, 456, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.942308
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.942308
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.942308
-FoldEquities: 3.000000 , 2.945971
-EV: 2.063500
-['NEWHAND', '53', '2', '8s', '7h', '457', '143', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.423349']
-Stacks: 
-[457, 143, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-['NEWHAND', '54', '1', '5h', '4h', '144', '456', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.423349']
-Stacks: 
-[144, 456, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.925926
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.925926
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.925926
-FoldEquities: 3.000000 , 2.837815
-EV: 0.810500
-['NEWHAND', '55', '2', '4h', 'Qd', '457', '143', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.416017']
-Stacks: 
-[457, 143, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-['NEWHAND', '56', '1', '9c', '7s', '144', '456', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.416017']
-Stacks: 
-[144, 456, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.910714
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.910714
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.910714
-FoldEquities: 3.000000 , 2.845446
-EV: 1.269000
-['NEWHAND', '57', '2', '6d', '6c', '457', '143', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.408855']
-Stacks: 
-[457, 143, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.403509
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.912281
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.912281
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.912281
-FoldEquities: 8.196500 , 6.895044
-EV: 5.803500
-['NEWHAND', '58', '1', 'As', 'Jc', '141', '459', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.400183']
-Stacks: 
-[141, 459, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.913793
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.913793
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.913793
-FoldEquities: 3.000000 , 2.951552
-EV: 2.438000
-['NEWHAND', '59', '2', 'Js', 'Kd', '460', '140', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.391098']
-Stacks: 
-[460, 140, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.406780
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.915254
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.915254
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.915254
-FoldEquities: 5.654000 , 3.859831
-EV: 2.346000
-SomeOtherdude5's estimated fold percentage is 0.915254
-Fishy5's estimated fold percentage is 0.915254
-Somedude5's estimated fold percentage is 0.915254
-FoldEquities: 5.882000 , 3.840508
-EV: 2.118000
-SomeOtherdude5's estimated fold percentage is 0.915254
-Fishy5's estimated fold percentage is 0.915254
-Somedude5's estimated fold percentage is 0.915254
-FoldEquities: 10.116500 , 6.735890
-EV: 3.883500
-['NEWHAND', '60', '1', '8c', '4h', '138', '462', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.345105']
-Stacks: 
-[138, 462, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.916667
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.916667
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.916667
-FoldEquities: 3.000000 , 2.810833
-EV: 0.730000
-['NEWHAND', '61', '2', '9c', 'Qd', '463', '137', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.336916']
-Stacks: 
-[463, 137, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.409836
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.918033
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.918033
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.918033
-FoldEquities: 5.786000 , 3.853607
-EV: 2.214000
-SomeOtherdude5's estimated fold percentage is 0.918033
-Fishy5's estimated fold percentage is 0.918033
-Somedude5's estimated fold percentage is 0.918033
-FoldEquities: 6.500000 , 3.795082
-EV: 1.500000
-SomeOtherdude5's estimated fold percentage is 0.918033
-Fishy5's estimated fold percentage is 0.918033
-Somedude5's estimated fold percentage is 0.918033
-FoldEquities: 6.460000 , 3.798361
-EV: 1.540000
-SomeOtherdude5's estimated fold percentage is 0.918033
-Fishy5's estimated fold percentage is 0.918033
-Somedude5's estimated fold percentage is 0.918033
-FoldEquities: 6.305051 , 3.811061
-EV: 1.694949
-['NEWHAND', '62', '1', 'Ad', '6c', '135', '465', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.290536']
-Stacks: 
-[135, 465, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.919355
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.919355
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.919355
-FoldEquities: 3.000000 , 2.919113
-EV: 1.997000
-['NEWHAND', '63', '2', '6h', '9s', '466', '134', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.282135']
-Stacks: 
-[466, 134, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-['NEWHAND', '64', '1', '5s', '8s', '135', '465', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.282135']
-Stacks: 
-[135, 465, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.906250
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.906250
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.906250
-FoldEquities: 3.000000 , 2.832469
-EV: 1.213000
-['NEWHAND', '65', '2', '3c', '9s', '466', '134', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.272322']
-Stacks: 
-[466, 134, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.400000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.907692
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.907692
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.907692
-FoldEquities: 10.358000 , 5.597723
-EV: 1.642000
-['NEWHAND', '66', '1', '5h', 'Jh', '132', '468', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.254872']
-Stacks: 
-[132, 468, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.909091
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.909091
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.909091
-FoldEquities: 3.000000 , 2.869364
-EV: 1.563000
-['NEWHAND', '67', '2', 'Td', '3d', '469', '131', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.245217']
-Stacks: 
-[469, 131, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.402985
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.910448
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.910448
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.910448
-FoldEquities: 6.088000 , 3.813015
-EV: 1.912000
-SomeOtherdude5's estimated fold percentage is 0.910448
-Fishy5's estimated fold percentage is 0.910448
-Somedude5's estimated fold percentage is 0.910448
-FoldEquities: 5.664000 , 3.850985
-EV: 2.336000
-SomeOtherdude5's estimated fold percentage is 0.910448
-Fishy5's estimated fold percentage is 0.910448
-Somedude5's estimated fold percentage is 0.910448
-FoldEquities: 9.408000 , 6.784358
-EV: 4.592000
-['NEWHAND', '68', '1', '3d', 'Ac', '129', '471', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.219599']
-Stacks: 
-[129, 471, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.911765
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.911765
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.911765
-FoldEquities: 3.000000 , 2.920456
-EV: 2.098500
-['NEWHAND', '69', '2', 'Qh', 'Kc', '472', '128', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.210844']
-Stacks: 
-[472, 128, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.405797
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.913043
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.913043
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.913043
-FoldEquities: 5.490000 , 3.870435
-EV: 2.510000
-SomeOtherdude5's estimated fold percentage is 0.913043
-Fishy5's estimated fold percentage is 0.913043
-Somedude5's estimated fold percentage is 0.913043
-FoldEquities: 4.284000 , 3.975304
-EV: 3.716000
-SomeOtherdude5's estimated fold percentage is 0.913043
-Fishy5's estimated fold percentage is 0.913043
-Somedude5's estimated fold percentage is 0.913043
-FoldEquities: 4.504000 , 3.956174
-EV: 3.496000
-SomeOtherdude5's estimated fold percentage is 0.913043
-Fishy5's estimated fold percentage is 0.913043
-Somedude5's estimated fold percentage is 0.913043
-FoldEquities: 4.181818 , 3.984190
-EV: 3.818182
-['NEWHAND', '70', '1', '6c', '2c', '130', '470', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.182274']
-Stacks: 
-[130, 470, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.914286
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.914286
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.914286
-FoldEquities: 3.000000 , 2.785029
-EV: 0.492000
-['NEWHAND', '71', '2', 'Jd', '8d', '471', '129', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.173729']
-Stacks: 
-[471, 129, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.408451
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.915493
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.915493
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.915493
-FoldEquities: 8.426000 , 5.794986
-EV: 3.574000
-['NEWHAND', '72', '1', 'Jd', 'Ah', '127', '473', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.165301']
-Stacks: 
-[127, 473, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.916667
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.916667
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.916667
-FoldEquities: 3.000000 , 2.959000
-EV: 2.508000
-['NEWHAND', '73', '2', 'Js', 'Ac', '474', '126', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.156859']
-Stacks: 
-[474, 126, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.410959
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.917808
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.917808
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.917808
-FoldEquities: 5.514000 , 3.875562
-EV: 2.486000
-SomeOtherdude5's estimated fold percentage is 0.917808
-Fishy5's estimated fold percentage is 0.917808
-Somedude5's estimated fold percentage is 0.917808
-FoldEquities: 6.198000 , 3.819342
-EV: 1.802000
-SomeOtherdude5's estimated fold percentage is 0.917808
-Fishy5's estimated fold percentage is 0.917808
-Somedude5's estimated fold percentage is 0.917808
-FoldEquities: 11.143500 , 6.659438
-EV: 2.856500
-['NEWHAND', '74', '1', 'Kd', '4c', '124', '476', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.134338']
-Stacks: 
-[124, 476, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.918919
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.918919
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.918919
-FoldEquities: 3.000000 , 2.908743
-EV: 1.874500
-['NEWHAND', '75', '2', '5s', 'Kc', '477', '123', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.125350']
-Stacks: 
-[477, 123, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.413333
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.920000
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.920000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.920000
-FoldEquities: 10.219500 , 6.742440
-EV: 3.780500
-['NEWHAND', '76', '1', 'Jd', '5s', '121', '479', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.117057']
-Stacks: 
-[121, 479, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.921053
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.921053
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.921053
-FoldEquities: 3.000000 , 2.875500
-EV: 1.423000
-['NEWHAND', '77', '2', '2h', '3d', '480', '120', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.103251']
-Stacks: 
-[480, 120, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.415584
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.922078
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.922078
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.922078
-FoldEquities: 6.730000 , 3.787273
-EV: 1.270000
-SomeOtherdude5's estimated fold percentage is 0.922078
-Fishy5's estimated fold percentage is 0.922078
-Somedude5's estimated fold percentage is 0.922078
-FoldEquities: 7.270000 , 3.745195
-EV: 0.730000
-SomeOtherdude5's estimated fold percentage is 0.922078
-Fishy5's estimated fold percentage is 0.922078
-Somedude5's estimated fold percentage is 0.922078
-FoldEquities: 7.732000 , 3.709195
-EV: 0.268000
-SomeOtherdude5's estimated fold percentage is 0.922078
-Fishy5's estimated fold percentage is 0.922078
-Somedude5's estimated fold percentage is 0.922078
-FoldEquities: 16.129000 , 6.288649
-EV: -2.129000
-['NEWHAND', '78', '1', '2d', '9s', '118', '482', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.069757']
-Stacks: 
-[118, 482, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.923077
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.923077
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.923077
-FoldEquities: 3.000000 , 2.827808
-EV: 0.761500
-['NEWHAND', '79', '2', 'Jh', '9h', '483', '117', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.061372']
-Stacks: 
-[483, 117, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.417722
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.924051
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.924051
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.924051
-FoldEquities: 5.738000 , 3.868000
-EV: 2.262000
-SomeOtherdude5's estimated fold percentage is 0.924051
-Fishy5's estimated fold percentage is 0.924051
-Somedude5's estimated fold percentage is 0.924051
-FoldEquities: 6.906000 , 3.779291
-EV: 1.094000
-SomeOtherdude5's estimated fold percentage is 0.924051
-Fishy5's estimated fold percentage is 0.924051
-Somedude5's estimated fold percentage is 0.924051
-FoldEquities: 13.444500 , 6.510544
-EV: 0.555500
-['NEWHAND', '80', '1', 'Ah', 'Qs', '115', '485', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.037811']
-Stacks: 
-[115, 485, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.925000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.925000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.925000
-FoldEquities: 3.000000 , 2.969138
-EV: 2.588500
-['NEWHAND', '81', '2', '6h', 'Jc', '486', '114', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.028797']
-Stacks: 
-[486, 114, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.419753
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.925926
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.925926
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.925926
-FoldEquities: 9.903000 , 5.710889
-EV: 2.097000
-['NEWHAND', '82', '1', '9h', 'Ac', '112', '488', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.020675']
-Stacks: 
-[112, 488, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.926829
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.926829
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.926829
-FoldEquities: 3.000000 , 2.940695
-EV: 2.189500
-['NEWHAND', '83', '2', '5c', '5d', '489', '111', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.012086']
-Stacks: 
-[489, 111, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.421687
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.927711
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.927711
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.927711
-FoldEquities: 8.706500 , 6.876639
-EV: 5.293500
-['NEWHAND', '84', '1', 'Qc', 'Tc', '109', '491', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.002813']
-Stacks: 
-[109, 491, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.928571
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.928571
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.928571
-FoldEquities: 3.000000 , 2.941857
-EV: 2.186000
-['NEWHAND', '85', '2', 'As', 'Kd', '492', '108', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '8.994070']
-Stacks: 
-[492, 108, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.423529
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.929412
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.929412
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.929412
-FoldEquities: 6.634000 , 5.955247
-EV: 5.366000
-['NEWHAND', '86', '1', '7s', '7h', '106', '494', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '8.983408']
-Stacks: 
-[106, 494, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.930233
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.930233
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.930233
-FoldEquities: 3.000000 , 2.985209
-EV: 2.788000
-['NEWHAND', '87', '2', 'Ac', 'Tc', '495', '105', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '8.974968']
-Stacks: 
-[495, 105, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.425287
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.931034
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.931034
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.931034
-FoldEquities: 6.823000 , 5.943241
-EV: 5.177000
-['NEWHAND', '88', '1', '6d', '7c', '103', '497', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '8.965176']
-Stacks: 
-[103, 497, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.931818
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.931818
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.931818
-FoldEquities: 3.000000 , 2.854534
-EV: 0.866500
-['NEWHAND', '89', '2', '8h', '8c', '498', '102', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '8.957008']
-Stacks: 
-[498, 102, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-['NEWHAND', '90', '1', '6c', '7s', '103', '497', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '8.957008']
-Stacks: 
-[103, 497, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.922222
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.922222
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.922222
-FoldEquities: 3.000000 , 2.841139
-EV: 0.957500
-['NEWHAND', '91', '2', '3c', '7c', '498', '102', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '8.937967']
-Stacks: 
-[498, 102, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.417582
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.923077
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.923077
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.923077
-FoldEquities: 10.498000 , 5.654000
-EV: 1.502000
-['NEWHAND', '92', '1', '2h', '7d', '100', '500', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '8.928336']
-Stacks: 
-[100, 500, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.923913
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.923913
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.923913
-FoldEquities: 3.000000 , 2.808908
-EV: 0.488500
-['NEWHAND', '93', '2', 'Qd', '8c', '501', '99', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '8.915077']
-Stacks: 
-[501, 99, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-['NEWHAND', '94', '1', '9c', 'Qd', '100', '500', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '8.915077']
-Stacks: 
-[100, 500, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.914894
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.914894
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.914894
-FoldEquities: 3.000000 , 2.904213
-EV: 1.874500
-['NEWHAND', '95', '2', '9d', '4d', '501', '99', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '8.904264']
-Stacks: 
-[501, 99, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-['NEWHAND', '96', '1', '6d', '8d', '100', '500', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '8.904264']
-Stacks: 
-[100, 500, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.906250
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.906250
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.906250
-FoldEquities: 3.000000 , 2.842312
-EV: 1.318000
-['NEWHAND', '97', '2', '4c', '6s', '501', '99', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '8.894209']
-Stacks: 
-[501, 99, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.402062
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.907216
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.907216
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.907216
-FoldEquities: 6.484000 , 3.769526
-EV: 1.516000
-SomeOtherdude5's estimated fold percentage is 0.907216
-Fishy5's estimated fold percentage is 0.907216
-Somedude5's estimated fold percentage is 0.907216
-FoldEquities: 4.258000 , 3.976062
-EV: 3.742000
-SomeOtherdude5's estimated fold percentage is 0.907216
-Fishy5's estimated fold percentage is 0.907216
-Somedude5's estimated fold percentage is 0.907216
-FoldEquities: 4.282000 , 3.973835
-EV: 3.718000
-SomeOtherdude5's estimated fold percentage is 0.907216
-Fishy5's estimated fold percentage is 0.907216
-Somedude5's estimated fold percentage is 0.907216
-FoldEquities: 4.448485 , 3.958388
-EV: 3.551515
-['NEWHAND', '98', '1', 'Ac', 'Ad', '101', '499', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '8.865888']
-Stacks: 
-[101, 499, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.908163
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.908163
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.908163
-FoldEquities: 3.000000 , 3.101709
-EV: 4.107500
-['NEWHAND', '99', '2', 'Td', '4s', '500', '100', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '8.857602']
-Stacks: 
-[500, 100, 0]
-Players: 
-['SomeOtherdude5', 'Fishy5', 'Somedude5']
-Active Players:2
-SomeOtherdude5 is small blind
-Fishy5 is big blind
-Fishy5 is small blind
-Somedude5 is big blind
-SomeOtherdude5 VPIP: 0.404040
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.909091
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.909091
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.909091
-FoldEquities: 9.980000 , 5.638182
-EV: 2.020000
-['NEWHAND', '100', '1', '6d', '4d', '98', '502', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '8.848969']
-Stacks: 
-[98, 502, 0]
-Players: 
-['Fishy5', 'SomeOtherdude5', 'Somedude5']
-Active Players:2
-Fishy5 is small blind
-SomeOtherdude5 is big blind
-SomeOtherdude5 is small blind
-Somedude5 is big blind
-Bot:Fishy5 folds...
-Fishy5's estimated fold percentage is 0.910000
-Bot:SomeOtherdude5 folds...
-SomeOtherdude5's estimated fold percentage is 0.910000
-Bot:Somedude5 folds...
-Somedude5's estimated fold percentage is 0.910000
-FoldEquities: 3.000000 , 2.808300
-EV: 0.870000
+
+Our hand: Tc Ah
+Somedude5's VPIP: 0.000000
+Somedude5's PFR: 0.000000
+Somedude5's estimated fold percentage is 0.000000
+SomeOtherdude5's VPIP: 0.000000
+SomeOtherdude5's PFR: 0.000000
+SomeOtherdude5's estimated fold percentage is 0.000000
+Fishy5's VPIP: 0.000000
+Fishy5's PFR: 0.000000
+Fishy5's estimated fold percentage is 0.000000
+
+SomeOtherdude5 posts small blind, stack size (209)
+Fishy5 posts big blind, stack size (190)
+
+
+***PREFLOP***(14) Board:()
+Our hand: Tc Ah
+
+Somedude5 raised to 6.
+SomeOtherdude5 called 6.
+Fishy5's EV: 10.133000
+Fishy5's Equity: 0.6205
+Fishy5's EV: 10.133000
+Fishy5's Equity: 0.6205
+Fishy5's Implied Odds: -16
+Fishy5 raise 24.
+
+***PREFLOP***(150) Board:()
+Our hand: Tc Ah
+
+Somedude5 raised to 63.
+SomeOtherdude5 called 63.
+Fishy5's EV: 108.258000
+Fishy5's Equity: 0.6205
+Fishy5's EV: 108.258000
+Fishy5's Equity: 0.6205
+Fishy5's Implied Odds: -174
+Fishy5 raise 192.
+Somedude5 WTSD percentage is: 0.500000
+SomeOtherdude5 WTSD percentage is: 0.500000
+Fishy5 WTSD percentage is: 0.500000
+['WIN', '588', 'Fishy5']
+Fishy5 W$SD percentage is: 0.500000
+
+
+NEWHAND:3
+
+['NEWHAND', '3', '2', 'Tc', '9h', '12', '588', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.924655']
+Active Players:2
+
+Our hand: Tc 9h
+SomeOtherdude5's VPIP: 0.000000
+SomeOtherdude5's PFR: 0.000000
+SomeOtherdude5's estimated fold percentage is 0.000000
+Fishy5's VPIP: 0.000000
+Fishy5's PFR: 0.500000
+Fishy5's estimated fold percentage is 0.000000
+Somedude5's VPIP: 0.000000
+Somedude5's PFR: 0.500000
+Somedude5's estimated fold percentage is 0.000000
+Somedude5 is eliminated
+
+SomeOtherdude5 posts small blind/and is dealer, stack size (11)
+Fishy5 posts big blind, stack size (586)
+
+
+***PREFLOP***(7) Board:()
+Our hand: Tc 9h
+
+SomeOtherdude5 raised to 5.
+Fishy5's EV: 3.627500
+Fishy5's Equity: 0.5075
+Fishy5's EV: 3.627500
+Fishy5's Equity: 0.5075
+Fishy5's Implied Odds: -7
+Fishy5 raise 8.
+['WIN', '13', 'Fishy5']
+
+
+NEWHAND:4
+
+['NEWHAND', '4', '1', 'Ts', 'Kd', '593', '7', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.916655']
+Active Players:2
+
+Our hand: Ts Kd
+Fishy5's VPIP: 0.000000
+Fishy5's PFR: 0.333333
+Fishy5's estimated fold percentage is 0.000000
+SomeOtherdude5's VPIP: 0.000000
+SomeOtherdude5's PFR: 0.333333
+SomeOtherdude5's estimated fold percentage is 0.000000
+Somedude5's VPIP: 0.000000
+Somedude5's PFR: 0.333333
+Somedude5's estimated fold percentage is 0.000000
+Somedude5 is eliminated
+
+Fishy5 posts small blind/and is dealer, stack size (592)
+SomeOtherdude5 posts big blind, stack size (5)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ts Kd
+
+Fishy5's EV: 2.039000
+Fishy5's Equity: 0.577
+Fishy5's EV: 2.039000
+Fishy5's Equity: 0.577
+Fishy5's Implied Odds: -3
+Fishy5 raise 4.
+
+***PREFLOP***(10) Board:()
+Our hand: Ts Kd
+
+SomeOtherdude5 raised to 6.
+Fishy5's EV: 6.694000
+Fishy5's Equity: 0.577
+Fishy5's EV: 6.694000
+Fishy5's Equity: 0.577
+Fishy5's Implied Odds: -11
+Fishy5 raise 7.
+SomeOtherdude5 WTSD percentage is: 0.500000
+Fishy5 WTSD percentage is: 0.500000
+['WIN', '14', 'SomeOtherdude5']
+SomeOtherdude5 W$SD percentage is: 0.250000
+
+
+NEWHAND:5
+
+['NEWHAND', '5', '2', 'Ac', '8s', '14', '586', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.900309']
+Active Players:2
+
+Our hand: Ac 8s
+SomeOtherdude5's VPIP: 0.000000
+SomeOtherdude5's PFR: 0.250000
+SomeOtherdude5's estimated fold percentage is 0.000000
+Fishy5's VPIP: 0.000000
+Fishy5's PFR: 0.250000
+Fishy5's estimated fold percentage is 0.000000
+Somedude5's VPIP: 0.000000
+Somedude5's PFR: 0.250000
+Somedude5's estimated fold percentage is 0.000000
+Somedude5 is eliminated
+
+SomeOtherdude5 posts small blind/and is dealer, stack size (13)
+Fishy5 posts big blind, stack size (584)
+
+['WIN', '3', 'Fishy5']
+
+
+NEWHAND:6
+
+['NEWHAND', '6', '1', '4s', 'Ac', '587', '13', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.900309']
+Active Players:2
+
+Our hand: 4s Ac
+Fishy5's VPIP: 0.000000
+Fishy5's PFR: 0.250000
+Fishy5's estimated fold percentage is 0.000000
+SomeOtherdude5's VPIP: 0.000000
+SomeOtherdude5's PFR: 0.250000
+SomeOtherdude5's estimated fold percentage is 0.000000
+Somedude5's VPIP: 0.000000
+Somedude5's PFR: 0.250000
+Somedude5's estimated fold percentage is 0.000000
+Somedude5 is eliminated
+
+Fishy5 posts small blind/and is dealer, stack size (586)
+SomeOtherdude5 posts big blind, stack size (11)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 4s Ac
+
+Fishy5's EV: 1.881500
+Fishy5's Equity: 0.5545
+Fishy5's EV: 1.881500
+Fishy5's Equity: 0.5545
+Fishy5's Implied Odds: -3
+Fishy5 raise 4.
+['WIN', '6', 'Fishy5']
+
+
+NEWHAND:7
+
+['NEWHAND', '7', '2', '5h', '5s', '11', '589', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.886755']
+Active Players:2
+
+Our hand: 5h 5s
+SomeOtherdude5's VPIP: 0.000000
+SomeOtherdude5's PFR: 0.166667
+SomeOtherdude5's estimated fold percentage is 0.000000
+Fishy5's VPIP: 0.000000
+Fishy5's PFR: 0.166667
+Fishy5's estimated fold percentage is 0.000000
+Somedude5's VPIP: 0.000000
+Somedude5's PFR: 0.166667
+Somedude5's estimated fold percentage is 0.000000
+Somedude5 is eliminated
+
+SomeOtherdude5 posts small blind/and is dealer, stack size (10)
+Fishy5 posts big blind, stack size (587)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 5h 5s
+
+SomeOtherdude5 called 2.
+Fishy5's EV: 2.320000
+Fishy5's Equity: 0.58
+Fishy5's EV: 2.320000
+Fishy5's Equity: 0.58
+Fishy5's Implied Odds: -4
+Fishy5 raise 4.
+
+***FLOP***(8) Board:(Qc Kd Ah)
+Our hand: 5h 5s
+
+SomeOtherdude5 called 4.
+Fishy5's EV: 3.968000
+Fishy5's Equity: 0.496
+Fishy5's EV: 3.968000
+Fishy5's Equity: 0.496
+Fishy5's Implied Odds: -8
+Fishy5 bets 2.
+['WIN', '10', 'Fishy5']
+
+
+NEWHAND:8
+
+['NEWHAND', '8', '1', '6c', '4h', '593', '7', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.871656']
+Active Players:2
+
+Our hand: 6c 4h
+Fishy5's VPIP: 0.000000
+Fishy5's PFR: 0.142857
+Fishy5's estimated fold percentage is 0.000000
+SomeOtherdude5's VPIP: 0.000000
+SomeOtherdude5's PFR: 0.142857
+SomeOtherdude5's estimated fold percentage is 0.000000
+Somedude5's VPIP: 0.000000
+Somedude5's PFR: 0.142857
+Somedude5's estimated fold percentage is 0.000000
+Somedude5 is eliminated
+
+Fishy5 posts small blind/and is dealer, stack size (592)
+SomeOtherdude5 posts big blind, stack size (5)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 6c 4h
+
+Fishy5's EV: 0.653000
+Fishy5's Equity: 0.379
+Fishy5's EV: 0.653000
+Fishy5's Equity: 0.379
+Fishy5's Implied Odds: -1
+Fishy5 raise 4.
+
+***FLOP***(8) Board:(Qd Qs Kh)
+Our hand: 6c 4h
+
+SomeOtherdude5 called 4.
+SomeOtherdude5 checks.
+Fishy5's EV: 1.948000
+Fishy5's Equity: 0.2435
+Fishy5's EV: 1.948000
+Fishy5's Equity: 0.2435
+Fishy5's Implied Odds: -8
+Fishy5 bets 2.
+
+***FLOP***(13) Board:(Qd Qs Kh)
+Our hand: 6c 4h
+
+SomeOtherdude5 raised to 3.
+Fishy5's EV: 1.626500
+Fishy5's Equity: 0.2435
+Fishy5's EV: 1.626500
+Fishy5's Equity: 0.2435
+Fishy5's Implied Odds: -6
+Fishy5 calls 3.
+SomeOtherdude5 WTSD percentage is: 0.375000
+Fishy5 WTSD percentage is: 0.375000
+['WIN', '14', 'SomeOtherdude5']
+SomeOtherdude5 W$SD percentage is: 0.250000
+
+
+NEWHAND:9
+
+['NEWHAND', '9', '2', '6d', '7d', '14', '586', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.840045']
+Active Players:2
+
+Our hand: 6d 7d
+SomeOtherdude5's VPIP: 0.000000
+SomeOtherdude5's PFR: 0.125000
+SomeOtherdude5's estimated fold percentage is 0.000000
+Fishy5's VPIP: 0.000000
+Fishy5's PFR: 0.125000
+Fishy5's estimated fold percentage is 0.000000
+Somedude5's VPIP: 0.000000
+Somedude5's PFR: 0.125000
+Somedude5's estimated fold percentage is 0.000000
+Somedude5 is eliminated
+
+SomeOtherdude5 posts small blind/and is dealer, stack size (13)
+Fishy5 posts big blind, stack size (584)
+
+['WIN', '3', 'Fishy5']
+
+
+NEWHAND:10
+
+['NEWHAND', '10', '1', 'Ah', '4c', '587', '13', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.840045']
+Active Players:2
+
+Our hand: Ah 4c
+Fishy5's VPIP: 0.000000
+Fishy5's PFR: 0.125000
+Fishy5's estimated fold percentage is 0.000000
+SomeOtherdude5's VPIP: 0.000000
+SomeOtherdude5's PFR: 0.125000
+SomeOtherdude5's estimated fold percentage is 0.000000
+Somedude5's VPIP: 0.000000
+Somedude5's PFR: 0.125000
+Somedude5's estimated fold percentage is 0.000000
+Somedude5 is eliminated
+
+Fishy5 posts small blind/and is dealer, stack size (586)
+SomeOtherdude5 posts big blind, stack size (11)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ah 4c
+
+Fishy5's EV: 1.909500
+Fishy5's Equity: 0.5585
+Fishy5's EV: 1.909500
+Fishy5's Equity: 0.5585
+Fishy5's Implied Odds: -3
+Fishy5 raise 4.
+
+***PREFLOP***(10) Board:()
+Our hand: Ah 4c
+
+SomeOtherdude5 raised to 6.
+Fishy5's EV: 6.287000
+Fishy5's Equity: 0.5585
+Fishy5's EV: 6.287000
+Fishy5's Equity: 0.5585
+Fishy5's Implied Odds: -11
+Fishy5 raise 8.
+['WIN', '14', 'Fishy5']
+
+
+NEWHAND:11
+
+['NEWHAND', '11', '2', 'As', '9c', '7', '593', '0', 'SomeOtherdude5', 'Fishy5', 'Somedude5', '2', 'true', 'true', 'false', '9.795693']
+Active Players:2
+
+Our hand: As 9c
+SomeOtherdude5's VPIP: 0.000000
+SomeOtherdude5's PFR: 0.100000
+SomeOtherdude5's estimated fold percentage is 0.000000
+Fishy5's VPIP: 0.000000
+Fishy5's PFR: 0.100000
+Fishy5's estimated fold percentage is 0.000000
+Somedude5's VPIP: 0.000000
+Somedude5's PFR: 0.100000
+Somedude5's estimated fold percentage is 0.000000
+Somedude5 is eliminated
+
+SomeOtherdude5 posts small blind/and is dealer, stack size (6)
+Fishy5 posts big blind, stack size (591)
+
+
+***PREFLOP***(4) Board:()
+Our hand: As 9c
+
+SomeOtherdude5 called 2.
+Fishy5's EV: 2.334000
+Fishy5's Equity: 0.5835
+Fishy5's EV: 2.334000
+Fishy5's Equity: 0.5835
+Fishy5's Implied Odds: -4
+Fishy5 raise 4.
+['WIN', '6', 'Fishy5']
+
+
+NEWHAND:12
+
+['NEWHAND', '12', '1', 'Jc', '4d', '595', '5', '0', 'Fishy5', 'SomeOtherdude5', 'Somedude5', '2', 'true', 'true', 'false', '9.789136']
+Active Players:2
+
+Our hand: Jc 4d
+Fishy5's VPIP: 0.000000
+Fishy5's PFR: 0.090909
+Fishy5's estimated fold percentage is 0.000000
+SomeOtherdude5's VPIP: 0.000000
+SomeOtherdude5's PFR: 0.090909
+SomeOtherdude5's estimated fold percentage is 0.000000
+Somedude5's VPIP: 0.000000
+Somedude5's PFR: 0.090909
+Somedude5's estimated fold percentage is 0.000000
+Somedude5 is eliminated
+
+Fishy5 posts small blind/and is dealer, stack size (594)
+SomeOtherdude5 posts big blind, stack size (3)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Jc 4d
+
+Fishy5's EV: 1.122000
+Fishy5's Equity: 0.446
+Fishy5's EV: 1.122000
+Fishy5's Equity: 0.446
+Fishy5's Implied Odds: -2
+Fishy5 raise 4.
+
+***FLOP***(9) Board:(Ac Qc Kc)
+Our hand: Jc 4d
+
+SomeOtherdude5 called 4.
+SomeOtherdude5 bet 1.
+Fishy5's EV: 6.199500
+Fishy5's Equity: 0.6545
+Fishy5's EV: 6.199500
+Fishy5's Equity: 0.6545
+Fishy5's Implied Odds: -9
+Fishy5 calls 1.
+Fishy5 WTSD percentage is: 0.333333
+SomeOtherdude5 WTSD percentage is: 0.333333
+['WIN', '10', 'Fishy5']
+Fishy5 W$SD percentage is: 0.166667
 Gameover, engine disconnected.
