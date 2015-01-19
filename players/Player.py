@@ -4,6 +4,7 @@ import sys
 
 import pbots_calc
 import calc_functions
+import Opponent
 
 
 """
@@ -13,12 +14,6 @@ This is an example of a bare bones pokerbot. It only sets up the socket
 necessary to connect with the engine and then always returns the same action.
 It is meant as an example of how a pokerbot should communicate with the engine.
 """
-
-
-num_hands = 0
-ourOpponentP1Folds = 0
-ourrOpponentP2Folds = 0
-
 
 class Player:
     def run(self, input_socket):
@@ -57,15 +52,17 @@ class Player:
                 bb = packet_values[5]
                 timeBank = packet_values[6]
 
-                print our_name
-                print opp1_name
-                print opp2_name
-        
-                ourBot = Opponent(our_name,initStackSize,bb)
-                opp1 = Opponent(opp1_name,initStackSize,bb)
-                opp2 = Opponent(opp2_name,initStackSize,bb)
-                global playersDict
+                print "Our name: %s"%our_name
+                print "Opp1 name: %s"%opp1_name
+                print "Opp2 name: %s"%opp2_name
                 
+                #initialize a dictionary with all the bots playing
+                #initialize the bots as objects first
+                ourBot = Opponent.Opponent(our_name,initStackSize,bb)
+                opp1 = Opponent.Opponent(opp1_name,initStackSize,bb)
+                opp2 = Opponent.Opponent(opp2_name,initStackSize,bb)
+
+                global playersDict            
                 playersDict = {our_name: ourBot, opp1_name:opp1, opp2_name:opp2}
                 
             if packet_values[0] == "NEWHAND":
@@ -81,33 +78,41 @@ class Player:
                 
                 our_bets = 0
                 pot_size = 0
-
+                #handID is the nth hand
                 handID = int(packet_values[1])
+                #our seat
                 seat = int(packet_values[2])
+                #our hole cards (our hand)
                 holeCard1 = packet_values[3]
                 holeCard2 = packet_values[4]
-                if seat == 1:
-                    our_bets = 0
-                elif seat == 2:
-                    our_bets = 1
-                elif seat == 3:
-                    our_bets = 2
+
+
 
                 global playerNames 
-                global initStackSizes   
+                #initial stack sizes
                 initStackSizes = [int(packet_values[5]),int(packet_values[6]),int(packet_values[7])]
+                #player names ordering
                 playerNames = [packet_values[8],packet_values[9],packet_values[10]]
+                #number of active players in hand (if player eliminated < 3)
                 num_active_players = int(packet_values[11])
+                #booleans of active players (same ordering as player names, whether or not they are active in hand (eliminated or not in newhand))
                 activePlayers = [packet_values[12],packet_values[13],packet_values[14]]
+                #our timebank
                 timeBank = packet_values[15]
                 count = 0
+
+
                 print "\n"
+                print "NEWHAND:%d\n"%handID
                 print packet_values
-                print "Stacks: "
-                print initStackSizes
-                print "Players: "
-                print playerNames
-                print "Active Players:%d" % num_active_players
+                print "Active Players:%d\n" % num_active_players
+                print "Our hand: %s %s\n"%(holeCard1,holeCard2)
+
+
+                #initialize our bets depending on whether or not we are blinds (depends on number of players playing)
+                #taken into account in the for loop below
+                our_bets = 0
+
                 for name in playerNames:
                     if num_active_players < 3:
                         #take into account heads up play (dealer posts sb, etc)
@@ -116,138 +121,187 @@ class Player:
                         eliminated.updateEliminated()
                         if count == 0:
                             if name == our_name:
-                                #dealer/sb
+                                #dealer/sb (Heads up)
                                 our_bets = 1
                             small_blind = name
-                            print name + " is small blind"
                         if count == 1:
                             if name == our_name:
-                                #bb
+                                #bb (heads up)
                                 our_bets = 2
                             big_blind = name
-                            print name + " is big blind"
                     else:
                         if count == 1:
                             small_blind = name
-                            print name + " is small blind"
+                            if name == our_name:
+                                our_bets = 1
                         elif count == 2:
                             big_blind = name
-                            print name + " is big blind"
+                            if name == our_name:
+                                our_bets = 2
                     
                     bot = playersDict[name]
+                    #updating bot stack sizes for each bot at the start of new hand
                     bot.updateStack(int(initStackSizes[count]))
+                    #updating bot seat for each bot
                     bot.updateSeat(count+1)
+                    
+                    #initialize new hand in bot
                     bot.newHand(handID,activePlayers[count])
-
                     count+=1
-                            
-                
-                
+
+                    #print stuff
+                    #delete this later
+                    if bot.isEliminated():
+                        print "\n"
+                        print name + " is eliminated"
+                #print more
+                if num_active_players < 3:
+                    print small_blind + " posts small blind/and is dealer, stack size (%d)"%bot.getStack()
+                    print big_blind + " posts big blind, stack size (%d)\n"%bot.getStack()
+                else:
+                    print small_blind + " posts small blind, stack size (%d)"%bot.getStack()
+                    print big_blind + " posts big blind, stack size (%d)\n"%bot.getStack()
+
+
 
             if packet_values[0] == "GETACTION":
+
                 #Parse all inputs from the GETACTION packet
+                offset = 0
 
                 #pot_size: int representing size of pot
-                #num_board_cards: integer in {0,3,4,5}
-                #board: list of cards on board
-                #stack_sizes: list of 3 ints, starting from 1st seat to 3rd seat
-                #numActivePlayers: int number of players playing current hand
-                #activePlayers: list of 3 booleans
-                #numLastActions: int number of PerformedActions in lastActions
-                #lastActions: list of PerformedActions
-                #numLegalActions: int number of LegalActions
-                #legalActions: list of LegalActions e.g. CALL:2, RAISE:4:100, FOLD
-                #timeBank: time left in time bank
-                
-                offset = 0
-               
                 pot_size = int(packet_values[1])
+
+                #num_board_cards: integer in {0,3,4,5}
                 num_board_cards = int(packet_values[2])
-                
+
+                #board: list of cards on board
                 board = []
+
                 if num_board_cards > 0:
                     board = packet_values[3: 3+num_board_cards]
                     offset += num_board_cards
 
+                #stack_sizes: list of 3 ints, starting from 1st seat to 3rd seat
                 stack_sizes = packet_values[3+offset: 6+offset]
-                numActivePlayers = int(packet_values[6+offset])           
+
+                #numActivePlayers: int number of players playing current hand
+                numActivePlayers = int(packet_values[6+offset])
+
                 #if [activePlayers] list exists:
                 if type(packet_values[7+offset]) != int:
+                    #activePlayers: list of 3 booleans
                     activePlayers = packet_values[7+offset: 10+offset]
                     offset += 3
 
-                numLastActions = int(packet_values[7+offset])          
+                #numLastActions: int number of PerformedActions in lastActions
+                numLastActions = int(packet_values[7+offset])  
+
                 if numLastActions > 0:
+                    #lastActions: list of PerformedActions
                     lastActions = packet_values[8+offset: 8+offset+numLastActions]
                     offset += numLastActions
+
+                #numLegalActions: int number of LegalActions
                 numLegalActions = int(packet_values[8+offset])
 
-                
                 if numLegalActions > 0:
+                    #legalActions: list of LegalActions e.g. CALL:2, RAISE:4:100, FOLD
                     legalActions = packet_values[9+offset: 9+offset+numLegalActions]                  
                     offset += numLegalActions
 
+                #timeBank: time left in time bank
                 timeBank = packet_values[9+offset]
 
-
-                
+                #initialize dictionary of available actions
                 global avail_actions
                 avail_actions = {}
                 for action in legalActions:
                     action = action.split(':')
+                    #if fold or check is an available action, put in dictionary
                     if action[0] == 'FOLD' or action[0] == 'CHECK':
                         avail_actions[action[0]] = None
-
+                    #if call is an available action, put in dictionary as well as amount to call
                     elif action[0] == 'CALL':
                         avail_actions[action[0]] = [int(action[1])]
+                    #if bet or raise is an available action, put in dictionary
+                    #as well as range of values you can bet with 
                     elif action[0] == 'BET' or action[0] == 'RAISE':
-                        avail_actions[action[0]] = range(int(action[1]), int(action[2])+1)
-                #print avail_actions
-                
+                        avail_actions[action[0]] = range(int(action[1]), int(action[2])+1)          
 
-                
+                #check last actions
                 for lastAction in lastActions:
                     lastAction = lastAction.split(':');
+                    #action is word
                     action = lastAction[0]
+                    #if action is fold or check
                     if action == 'FOLD' or action == 'CHECK':
+                        #name of bot who is doing action
                         name = lastAction[1]
+                        #current bot who is doing action (from player dictionary)
                         bot = playersDict[name]
-
-                        if num_board_cards == 0:
-                            bot.updateVPIP()
-                            print name + " VPIP: %f"%bot.getVPIP()
+                        if action == 'FOLD':
+                            #if folded in preflop round
+                            if num_board_cards == 0:       
+                                #although might have still be raising /calling thus VPIP might be greater now, and not counting this as 
+                                #a VPIP fold (until)
+                                bot.foldHandPreflop()
+                                #updates the bot's VPIP (willingness to call/raise preflop if not bb or sb (unless raise))       
+                            #bot folded, so fold
+                            print name + " folds."
+                            bot.fold()
+                        elif action == 'CHECK':
+                            print name + " checks."
 
                     elif action == 'CALL' or action =='BET' or action =='RAISE':
-                        bet = lastAction[1]
+                        bet = int(lastAction[1])
                         name = lastAction[2]
                         bot = playersDict[name]
-                        if num_board_cards == 0:
-                            if action == 'RAISE' or (name != small_blind and name != big_blind):
-                                bot.preflopCall()
-                            bot.updateVPIP()
-                            print name + " VPIP: %f"%bot.getVPIP()
+                        #if small blind called/raised or big blind called/raised larger than original big blind
+                        #or dealer called/raised bb
+                        #>= or > (since only call/bet/raise) --> check for bb not included?
+                        if bet >= big_blind:
+                            if num_board_cards == 0:
+                                #take into account reraising (don't want to double count this)
+                                #if you look in Opponent class reraising has already been taken into account
+                                #(look at self.preFlopCalled and the preFlopCall() function)
+                                bot.preFlopCallOrRaise()
+                     
+                        if action == 'RAISE':
+                            #preflop raises - count towards pfr
+                            if num_board_cards == 0:
+                                bot.preFlopRaise()
+                            print name + " raised to %d."%bet
+
+                            
+                        elif action == 'BET':
+                            print name + " bet %d."%bet
+
+                        elif action == 'CALL':
+                            print name + " called %d."%bet
+
+                        else:
+                            print "\nnonsense happened\n"
 
                 count = 0
                 for name in playerNames:
                     bot = playersDict[name]
+                    #update stacks of players once it gets to you
                     bot.updateStack(stack_sizes[count])
-                    if activePlayers[count] == True:
-                        pass
-                    else:
-                        if num_board_cards == 0:
-                            #preflop fold percentage
-                            if not bot.inHand():
-                                pass
-                            else:
-                                bot.foldHandPreflop()
-                                print "Bot:" + name +" folds preflop..."
-                        bot.fold()
 
-                    bot.updateFoldPer()
+                    #update the bot's VPIP
+                    bot.updateVPIP()
+                    #update the bot's PFR
+                    bot.updatePFR()
+                    count+=1
+                    print '\n'
+                    print name + "'s VPIP: %f"%bot.getVPIP()
+                    print name + "'s PFR: %f"%bot.getPFR()
                     print name + "'s estimated fold percentage is %f"% bot.foldPercentage()
 
+
                                              
-                    count+=1
+                    
 
             
 #PREFLOP
@@ -257,7 +311,8 @@ class Player:
                     #pbots_calc.calc(hands,board,dead,iters)
                     #equities2: Results instance
                     #2-card equity against random hand, only computed once
-
+                    print "\n***PREFLOP***(%d) Board:(%s)\n"%(pot_size,' '.join(board))
+                    print "Our hand: %s %s"%(holeCard1,holeCard2)
                     equities2 = calc_functions.equityCalculator(holeCard1, holeCard2, "", 1000, None, None)
                     if playersDict[opp1_name].inHand() == True and playersDict[opp2_name].inHand() == True:
                         betLogic(board,equities2,pot_size,seat,playersDict[opp1_name],playersDict[opp2_name])
@@ -267,6 +322,8 @@ class Player:
                         betLogic(board,equities2,pot_size,seat,playersDict[opp2_name])  
 #FLOP                       
                 elif num_board_cards == 3:
+                    print "\n***FLOP***(%d) Board:(%s)\n"%(pot_size,' '.join(board))
+                    print "Our hand: %s %s"%(holeCard1,holeCard2)
                     equities3 = calc_functions.equityCalculator(holeCard1, holeCard2, board, 1000, None, None)
                     if playersDict[opp1_name].inHand() == True and playersDict[opp2_name].inHand() == True:
                         betLogic(board,equities3,pot_size,seat,playersDict[opp1_name],playersDict[opp2_name])
@@ -277,6 +334,8 @@ class Player:
 
 #TURN
                 elif num_board_cards == 4:
+                    print "\n***TURN***(%d) Board:(%s)\n"%(pot_size,' '.join(board))
+                    print "Our hand: %s %s"%(holeCard1,holeCard2)
                     equities4 = calc_functions.equityCalculator(holeCard1, holeCard2, board, 1000, None, None)
                     if playersDict[opp1_name].inHand() == True and playersDict[opp2_name].inHand() == True:
                         betLogic(board,equities4,pot_size,seat,playersDict[opp1_name],playersDict[opp2_name])
@@ -287,6 +346,8 @@ class Player:
 
 #RIVER
                 elif num_board_cards == 5:
+                    print "\n***RIVER***(%d) Board:(%s)\n"%(pot_size,' '.join(board))
+                    print "Our hand: %s %s"%(holeCard1,holeCard2)
                     equities5 = calc_functions.equityCalculator(holeCard1, holeCard2, board, 1000, None, None)
                     if playersDict[opp1_name].inHand() == True and playersDict[opp2_name].inHand() == True:
                         betLogic(board,equities5,pot_size,seat,playersDict[opp1_name],playersDict[opp2_name])
@@ -321,8 +382,10 @@ class Player:
                         bot = playersDict[name]
                         bot.showdownAdd()
                         bot.updateWTSD()
+                        bot.updateWMSD()
                         shown = True
                         print name + " WTSD percentage is: %f"%bot.getWTSD()
+                        print name + " W$SD percentage is: %f"%bot.getWMSD()
 
                     elif action == "WIN" or action == "TIE":
                         print actions
@@ -330,7 +393,9 @@ class Player:
                         bot = playersDict[name]
                         if shown:
                             bot.showdownWinAdd()
+                            bot.updateWTSD()
                             bot.updateWMSD()
+                            print name + " WTSD percentage is: %f"%bot.getWTSD()
                             print name + " W$SD percentage is: %f"%bot.getWMSD()
 
 
@@ -363,7 +428,6 @@ def betLogic(board,equities,pot_size,seat,bot1,bot2 = None):
         else:
             foldEquities = calc_functions.foldEquity(pot_size,ev,bot1.foldPercentage())
             print "FoldEquities: %f "%foldEquities[0]
-        
 
     print "EV: %f"%ev
     
@@ -388,161 +452,7 @@ def betLogic(board,equities,pot_size,seat,bot1,bot2 = None):
         else:
             reply("FOLD","FOLD",s)
 
-            
-
-class Opponent:
-    def __init__(self,name,stackSize,bb):
-        self.name = name
-        self.stackSize = stackSize
-        #folds preflop
-        self.folds = 0.0
-        self.bb = bb
-        self.handID = 1
-        self.seat = 0
-        self.playingHand = True
-        self.eliminated = False
-        self.playerType = ""
-        self.VPIP = 0
-
-        #preflop raising
-        self.PFR = 0
-        #number of times raised preflop
-        self.preFlopRaises = 0
-
-
-        self.WTSD = 0
-        self.preFlopCall = 0
-        self.foldPer = 0
-        self.showdown = 0
-
-        #wmsd is showdown wins percentage
-        #showdownWin is # of times win at showdown
-        self.WMSD = 0
-        self.showdownWin = 0
-
-
-
-    #updates stack value of player
-    def updateStack(self,stack):
-        self.stackSize = stack   
-    #retrieves stacksize of player     
-    def stack(self):
-        return self.stackSize
-
-    #updates whether eliminated or not
-    def updateEliminated(self):
-        #if eliminated this becomes true
-        self.eliminated = True
-
-    #whether the player is eliminated from tournament or not
-    def eliminated(self):
-        return self.eliminated
-
-    #m ratio of players (this affects play)
-    def MRatio(self):
-        return self.stackSize / (self.bb + self.bb / 2.0)
-
-    #foldPercentage is % of times fold preflop
-    
-    #self.playingHand is a bool for whether a player is playing a hand or not
-    def foldPercentage(self):
-        return self.foldPer
-    #foldHandPreflop is number of times fold preflop
-    def foldHandPreflop(self):
-        self.folds+= 1.0
-    #updates fold percentage
-    def updateFoldPer(self):
-        self.foldPer = (float(self.folds) / self.handID)
-    #for any fold (not just preflop like foldHand, playingHand goes to false)
-    def fold(self):
-        self.playingHand = False
-
-
-    #updates seat in newhand of player
-    def updateSeat(self,seat):
-        self.seat = seat
-    #returns seat of player
-
-    def seat(self):
-        return self.seat
-
-    #returns whether a player is playing in a hand or not (bool value)
-    def inHand(self):
-        return self.playingHand
-    def newHand(self,handID,playingHand):
-        self.handID = handID
-        #true unless they're out of the game
-        self.playingHand = playingHand
-
-    #name of player
-    def getName(self):
-        return self.name
-
-    #number of times call a bet if not bb or sb (unless raise from blind and call that)
-    def preflopCall(self):
-        self.preFlopCall += 1
-
-    #besides bb and sb, number of times raise/call preflop (if bb or sb raises they count)
-    def updateVPIP(self):
-        self.VPIP = float(self.preFlopCall) / self.handID
-    def getVPIP(self):
-        return self.VPIP
-
-    #WTSD = percentage of hands that went to showdown
-    #self.showdown = # of times went to showdown
-    def getWTSD(self):
-        return self.WTSD
-    def updateWTSD(self):
-        self.WTSD = float(self.showdown) / self.handID
-        #adds to showdown value (one more showdown counted)
-    def showdownAdd(self):   
-        self.showdown += 1
-
-    #WMSD = percentage of hands won money at showdown (inversely related to WTSD)
-    def getWMSD(self):
-        return self.WMSD
-    def updateWMSD(self):
-        self.WMSD = float(self.showdownWin) / self.handID
-    #adds to showdown win value (one more showdown counted)
-    def showdownWinAdd(self):   
-        self.showdownWin += 1
-
-    #PFR = preflop raising
-    def getPFR(self):
-        return self.PFR
-    def updatePFR(self):
-        self.PFR = float(self.preFlopRaises) / self.handID
-
-    def preFlopRaiseAdd(self):
-        self.preFlopRaises +=1
-
-
-    #finds player type according to stats
-    def findPlayerType():
-        VPIP_threshold = 0
-        PFR_threshold = 0
-        WTSD_threshold = 0
-        vpip_range = 0
-        if self.VPIP > VPIP_threshold:
-            if self.PFR >= PFR_threshold:
-                self.playerType = "LAG"
-
-            else:
-                self.playerType = "FISH"
-        elif self.VPIP > (VPIP_threshold - vpip_range) and self.VPIP < (VPIP_threshold + vpip_range):
-            #average VPIP and PFR
-            if self.PFR >= PFR_threshold:
-                self.playerType = "TAG"
-        if self.WTSD >= WTSD_threshold:
-            self.playerType = "CALL"
-        else:
-            self.playerType = "ROCK"
-            
-        
-        
-    
-        
-                                    
+                           
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='A Pokerbot.', add_help=False, prog='pokerbot')
