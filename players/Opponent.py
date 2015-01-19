@@ -51,6 +51,9 @@ class Opponent:
         self.totalCalls=0
         self.totalBetRaise = 0
 
+        #M ratio
+        self.M = 0
+
     #updates stack value of player
     def updateStack(self,stack):
         self.stackSize = stack   
@@ -68,8 +71,10 @@ class Opponent:
         return self.eliminated
 
     #m ratio of players (this affects play)
-    def MRatio(self):
-        return self.stackSize / (self.bb + self.bb / 2.0)
+    def updateMRatio(self):
+        self.M = self.stackSize / (self.bb + self.bb / 2.0)
+    def getMRatio(self):
+        return self.M
 
     #foldPercentage is % of times fold preflop
     
@@ -185,6 +190,7 @@ class Opponent:
         PFR_threshold = 0
         WTSD_threshold = 0
         vpip_range = 0
+
         #higher the player's vpip, the looser the player
         #the lower the player's vpip, the tighter
 

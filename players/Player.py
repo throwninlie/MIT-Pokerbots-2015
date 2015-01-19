@@ -333,6 +333,18 @@ class Player:
                         else:
                             print "\nnonsense happened\n"
 
+                count = 0
+                for name in playerNames:
+                    bot = playersDict[name]
+                    #update stacks of players once it gets to you
+                    bot.updateStack(stack_sizes[count])
+                    bot.updateMRatio()
+                    #update the bot's VPIP
+                    bot.updateVPIP()
+                    #update the bot's PFR
+                    bot.updatePFR()
+                    count+=1
+
             
 #PREFLOP
                 if num_board_cards == 0:
@@ -491,7 +503,8 @@ class Player:
                     bot = playersDict[name]
                     #update stacks of players once it gets to you
                     bot.updateStack(stack_sizes[count])
-
+                    #update m ratio
+                    bot.updateMRatio()
                     #update the bot's VPIP
                     bot.updateVPIP()
                     #update the bot's PFR
