@@ -219,17 +219,25 @@ class Opponent:
 
         #Mice are even tighter than the rocks, but also very passive.
         #make these suckers fold
-        if self.VPIP <= .08 and self.PFR <= .08 and self.AFflop <= 2:
-            self.playerType = "MOUSE"
-        #Rocks are very tight, but when they (rarely) see a flop they're after it. Aggressive post flop
-        #make these suckers fold, but know when they have good hands (you should have a better one)
-        elif self.VPIP <= .095 and self.PFR <= .08 and self.AFflop >= 3:
-            self.playerType = "ROCK"
+
+
+
+        # if self.VPIP <= .08 and self.PFR <= .08 and self.AFflop <= 2:
+        #     self.playerType = "MOUSE"
+        # #Rocks are very tight, but when they (rarely) see a flop they're after it. Aggressive post flop
+        # #make these suckers fold, but know when they have good hands (you should have a better one)
+        # elif self.VPIP <= .095 and self.PFR <= .08 and self.AFflop >= 3:
+        #     self.playerType = "ROCK"
+
+        #NIT player, combo of mouse and rock
+        if self.VPIP <= .13 and self.PFR <= .13:
+            self.playerType = "NIT"
 
         #A winning, tight aggressive player.
         #watch out for these.
-        elif self.VPIP <= .22 and self.VPIP >= .15 and self.PFR/self.VPIP >= .7 and self.AFflop >= 3 and self.WMSD >= .50:
-            self.playerType = "SHARK"
+        elif self.VPIP <= .22 and self.PFR/self.VPIP >= .65 and self.AFflop >= 2.5 and self.WMSD >= .50:
+            self.playerType = "TAG"
+
         #Bombs are loose preflop, but also aggressive pre- and postflop.
         elif self.VPIP <= .25 and self.PFR >= .13 and self.AFflop >= 5:
             self.playerType = "BOMB"
