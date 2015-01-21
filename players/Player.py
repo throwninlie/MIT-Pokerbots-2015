@@ -173,7 +173,7 @@ class Player:
                     print name + "'s VPIP: %f"%bot.getVPIP()
                     print name + "'s PFR: %f"%bot.getPFR()
                     print name + "'s estimated fold percentage is %f"% bot.foldPercentage()
-                    print name + "'s AF: %f"%bot.getAFflop()
+                    print name + "'s AF flop/postflop: %f"%bot.getAFflop()
                     print name + "'s Player Type: %s"%bot.read()
                     #print stuff
                     #delete this later
@@ -287,7 +287,7 @@ class Player:
                                 #a VPIP fold (until)
                                 bot.foldHandPreflop()
                                 #updates the bot's VPIP (willingness to call/raise preflop if not bb or sb (unless raise))       
-                            elif num_board_cards == 3:
+                            elif num_board_cards >= 3:
                                 #folds on the flop
                                 bot.updateTotalFoldsFlop()
                                 bot.updateAFqFlop()
@@ -321,9 +321,10 @@ class Player:
                             #preflop raises - count towards pfr
                             if num_board_cards == 0:
                                 bot.preFlopRaise()
-                            elif num_board_cards == 3:
+                            elif num_board_cards >= 3:
                                 bot.addBetRaiseFlop()
                                 bot.updateAFflop()
+                                bot.updateAFqFlop()
                             if not (name == our_name):
                                 print name + " raised to %d."%bet
 
@@ -333,7 +334,7 @@ class Player:
                             #bot.addBetRaise()
                             #bot.updateAF()
                             #bot.updateAFq()
-                            if num_board_cards == 3:
+                            if num_board_cards >= 3:
                                 bot.addBetRaiseFlop()
                                 bot.updateAFflop()
                                 bot.updateAFqFlop()
@@ -345,7 +346,7 @@ class Player:
                             #bot.addCall()
                             #bot.updateAF()
                             #bot.updateAFq()
-                            if num_board_cards == 3:
+                            if num_board_cards >= 3:
                                 bot.addCallFlop()
                                 bot.updateAFflop()
                                 bot.updateAFqFlop()
@@ -423,10 +424,10 @@ class Player:
                 handOver_lastActions = []
 
                 handover_stack_sizes = [packet_values[1],packet_values[2],packet_values[3]]
-                handOverNumCards = int(packet_values[4])
-                if handOverNumCards > 0:
-                    handOverBoardCards = packet_values[5:5+handOverNumCards]
-                    offset += handOverNumCards
+                num_board_cards = int(packet_values[4])
+                if num_board_cards > 0:
+                    handOverBoardCards = packet_values[5:5+num_board_cards]
+                    offset += num_board_cards
 
                 handOverNum_lastActions = int(packet_values[5+offset])
                 if handOverNum_lastActions > 0:
@@ -454,7 +455,7 @@ class Player:
                                 #a VPIP fold (until)
                                 bot.foldHandPreflop()
                                 #updates the bot's VPIP (willingness to call/raise preflop if not bb or sb (unless raise))       
-                            elif num_board_cards == 3:
+                            elif num_board_cards >= 3:
                                 #folds on the flop
                                 bot.updateTotalFoldsFlop()
                                 bot.updateAFqFlop()
@@ -488,9 +489,10 @@ class Player:
                             #preflop raises - count towards pfr
                             if num_board_cards == 0:
                                 bot.preFlopRaise()
-                            elif num_board_cards == 3:
+                            elif num_board_cards >= 3:
                                 bot.addBetRaiseFlop()
                                 bot.updateAFflop()
+                                bot.updateAFqFlop()
                             if not (name == our_name):
                                 print name + " raised to %d."%bet
 
@@ -500,10 +502,10 @@ class Player:
                             #bot.addBetRaise()
                             #bot.updateAF()
                             #bot.updateAFq()
-                            if num_board_cards == 3:
+                            if num_board_cards >= 3:
                                 bot.addBetRaiseFlop()
                                 bot.updateAFflop()
-                                bot.updateAfqFlop()
+                                bot.updateAFqFlop()
                             if not (name == our_name):
                                 print name + " bet %d."%bet
 
@@ -512,7 +514,7 @@ class Player:
                             #bot.addCall()
                             #bot.updateAF()
                             #bot.updateAFq()
-                            if num_board_cards == 3:
+                            if num_board_cards >= 3:
                                 bot.addCallFlop()
                                 bot.updateAFflop()
                                 bot.updateAFqFlop()
@@ -544,7 +546,7 @@ class Player:
                 for name in playerNames:
                     bot = playersDict[name]
                     #update stacks of players once it gets to you
-                    bot.updateStack(stack_sizes[count])
+                    bot.updateStack(handover_stack_sizes[count])
                     #update m ratio
                     bot.updateMRatio()
                     #update the bot's VPIP
@@ -581,22 +583,51 @@ def reply(action, amount, socket):
 
 
     
-def betLogic(board,equities,pot_size,seat,bot1,bot2 = None):
+def betLogic(board,equities,pot_size,our_seat,bot1,bot2 = None):
     their_bet = 0
     num_board_cards = len(board)
     num_opp_players = 1
+    aggressive_factor = 0.0
+    our_equity = equities.ev[0]
+    call = False
+    bluff = False
+
+    #both dealer/small_blind and 2 players (seat 1), we go first preflop and last post flop
+    #if small blind and 3 players, we go 2nd preflop and first postflop
+    #if big_blind, we always go last preflop and first post flop if 2 players
+    #if big_blind, we always go last preflop, and 2nd post flop if 3 players
+    #if dealer and any amount of players, we go first preflop and last postflop
+
+    #dealer is best position post flop
+    #big blind is good preflop but screwed postflop if 2 player(have to keep being aggressive if bluffing preflop)
+    #semi screwed in 3 player, small blind has to go first there (so they're screwed)
+     
     if "CALL" in avail_actions:
         their_bet = avail_actions["CALL"][0]
     ev = calc_functions.expectedValue(equities,pot_size,their_bet)
+    pot_odds = calc_functions.potOdds(pot_size,their_bet)
+    
+    if our_equity >= pot_odds:
+        call = True
+
     #will want to change this later, not sure when we should start using stats
-    if handID >= 10:     
-        if "BET" in avail_actions or "RAISE" in avail_actions:
-            if bot2 is not None:
-                foldEquities = calc_functions.foldEquity(pot_size,ev,bot1.foldPercentage(),bot2.foldPercentage())
-                #print "FoldEquities: %f , %f"%(foldEquities[0],foldEquities[1])
-            else:
-                foldEquities = calc_functions.foldEquity(pot_size,ev,bot1.foldPercentage())
-                #print "FoldEquities: %f "%foldEquities[0]
+    
+    if bot2 is not None:
+        #if nit, we can get them to fold preflop
+        #post flop respect their bets
+        #maniacs/calling station exploit them for money when we have good hands 
+        #cashcows we can exploit them in flop if we know they don't have the nuts / get them to fold, they like to raise preflop
+        #if calling station, and they raise, don't call unless you have something good
+        bot1_read = bot1.read()
+        bot2_read = bot2.read()
+
+        #need bet amount (how much we bet to get them to fold)
+        foldEquities = calc_functions.foldEquity(pot_size,ev,bot1.foldPercentage(),bot2.foldPercentage())
+        #print "FoldEquities: %f , %f"%(foldEquities[0],foldEquities[1])
+    else:
+        bot1_read = bot1.read()
+        foldEquities = calc_functions.foldEquity(pot_size,ev,bot1.foldPercentage())
+        #print "FoldEquities: %f "%foldEquities[0]
 
     if bot2 is not None:
         num_opp_players = 2
@@ -610,7 +641,28 @@ def betLogic(board,equities,pot_size,seat,bot1,bot2 = None):
     print our_name +"'s EV: %f"%ev
     print our_name +"'s Equity: %s"%equities.ev[0]
     print our_name +"'s Implied Odds: %d"%impliedOdds
-    if ev >= 0:
+
+
+                           
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='A Pokerbot.', add_help=False, prog='pokerbot')
+    parser.add_argument('-h', dest='host', type=str, default='localhost', help='Host to connect to, defaults to localhost')
+    parser.add_argument('port', metavar='PORT', type=int, help='Port on host to connect to')
+    args = parser.parse_args()
+
+    # Create a socket connection to the engine.
+    print 'Connecting to %s:%d' % (args.host, args.port)
+    try:
+        s = socket.create_connection((args.host, args.port))
+    except socket.error as e:
+        print 'Error connecting! Aborting'
+        exit()
+
+    bot = Player()
+    bot.run(s)
+
+"""    if ev >= 0:
         if ev == 0:
             if "CHECK" in avail_actions:
                 reply("CHECK", "CHECK", s)
@@ -641,24 +693,4 @@ def betLogic(board,equities,pot_size,seat,bot1,bot2 = None):
         if "CHECK" in avail_actions:
             reply("CHECK", "CHECK", s)
         else:
-            reply("FOLD","FOLD",s)
-
-                           
-
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='A Pokerbot.', add_help=False, prog='pokerbot')
-    parser.add_argument('-h', dest='host', type=str, default='localhost', help='Host to connect to, defaults to localhost')
-    parser.add_argument('port', metavar='PORT', type=int, help='Port on host to connect to')
-    args = parser.parse_args()
-
-    # Create a socket connection to the engine.
-    print 'Connecting to %s:%d' % (args.host, args.port)
-    try:
-        s = socket.create_connection((args.host, args.port))
-    except socket.error as e:
-        print 'Error connecting! Aborting'
-        exit()
-
-    bot = Player()
-    bot.run(s)
-
+            reply("FOLD","FOLD",s)"""

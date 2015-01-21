@@ -8,509 +8,1409 @@ Opp2 name: SomeOtherdude4
 
 NEWHAND:1
 
-['NEWHAND', '1', '3', '3c', '3s', '200', '200', '200', 'Somedude4', 'SomeOtherdude4', 'Fishy4', '3', 'true', 'true', 'true', '10.000000']
+['NEWHAND', '1', '3', '6h', 'Tc', '200', '200', '200', 'Somedude4', 'SomeOtherdude4', 'Fishy4', '3', 'true', 'true', 'true', '10.000000']
 Active Players:3
 
-Our hand: 3c 3s
+Our hand: 6h Tc
 Somedude4's VPIP: 0.000000
 Somedude4's PFR: 0.000000
 Somedude4's estimated fold percentage is 0.000000
+Somedude4's AF: 0.000000
+Somedude4's Player Type: NIT
 SomeOtherdude4's VPIP: 0.000000
 SomeOtherdude4's PFR: 0.000000
 SomeOtherdude4's estimated fold percentage is 0.000000
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: NIT
 Fishy4's VPIP: 0.000000
 Fishy4's PFR: 0.000000
 Fishy4's estimated fold percentage is 0.000000
+Fishy4's AF: 0.000000
+Fishy4's Player Type: NIT
 
 SomeOtherdude4 posts small blind, stack size (199)
 Fishy4 posts big blind, stack size (198)
 
-
-***PREFLOP***(10) Board:()
-Our hand: 3c 3s
-
-Somedude4 raised to 4.
-SomeOtherdude4 called 4.
-Fishy4's EV: 5.639000
-Fishy4's Equity: 0.5355
-Fishy4's EV: 5.639000
-Fishy4's Equity: 0.5355
-Fishy4's Implied Odds: -10
-Fishy4 raise 6.
-['WIN', '14', 'Fishy4']
+Somedude4 folds.
+SomeOtherdude4 folds.
 
 
 NEWHAND:2
 
-['NEWHAND', '2', '1', 'Jd', '7c', '208', '196', '196', 'Fishy4', 'Somedude4', 'SomeOtherdude4', '3', 'true', 'true', 'true', '9.989578']
+['NEWHAND', '2', '1', '5d', 'Ah', '201', '200', '199', 'Fishy4', 'Somedude4', 'SomeOtherdude4', '3', 'true', 'true', 'true', '10.000000']
 Active Players:3
 
-Our hand: Jd 7c
+Our hand: 5d Ah
 Fishy4's VPIP: 0.000000
 Fishy4's PFR: 0.000000
 Fishy4's estimated fold percentage is 0.000000
+Fishy4's AF: 0.000000
+Fishy4's Player Type: NIT
 Somedude4's VPIP: 0.000000
-Somedude4's PFR: 1.000000
-Somedude4's estimated fold percentage is 0.000000
+Somedude4's PFR: 0.000000
+Somedude4's estimated fold percentage is 1.000000
+Somedude4's AF: 0.000000
+Somedude4's Player Type: NIT
 SomeOtherdude4's VPIP: 0.000000
 SomeOtherdude4's PFR: 0.000000
-SomeOtherdude4's estimated fold percentage is 0.000000
+SomeOtherdude4's estimated fold percentage is 1.000000
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: NIT
 
-Somedude4 posts small blind, stack size (195)
-SomeOtherdude4 posts big blind, stack size (194)
+Somedude4 posts small blind, stack size (199)
+SomeOtherdude4 posts big blind, stack size (197)
 
 
 ***PREFLOP***(3) Board:()
-Our hand: Jd 7c
+Our hand: 5d Ah
 
-Fishy4's EV: 1.395000
-Fishy4's Equity: 0.485
-Fishy4's EV: 1.395000
-Fishy4's Equity: 0.485
-Fishy4's Implied Odds: -2
-Fishy4 raise 4.
-
-***FLOP***(17) Board:(As 5c 4c)
-Our hand: Jd 7c
-
-Somedude4 called 4.
-SomeOtherdude4 called 4.
-Somedude4 bet 5.
-SomeOtherdude4 folds.
-Fishy4's EV: 5.030500
-Fishy4's Equity: 0.3715
-Fishy4's EV: 5.030500
-Fishy4's Equity: 0.3715
-Fishy4's Implied Odds: -13
-Fishy4 raise 10.
-['WIN', '27', 'Fishy4']
-
-
-NEWHAND:3
-
-['NEWHAND', '3', '2', '9c', 'Qc', '192', '221', '187', 'SomeOtherdude4', 'Fishy4', 'Somedude4', '3', 'true', 'true', 'true', '9.957378']
-Active Players:3
-
-Our hand: 9c Qc
-SomeOtherdude4's VPIP: 0.000000
-SomeOtherdude4's PFR: 0.000000
-SomeOtherdude4's estimated fold percentage is 0.000000
-Fishy4's VPIP: 0.000000
-Fishy4's PFR: 0.000000
-Fishy4's estimated fold percentage is 0.000000
-Somedude4's VPIP: 0.000000
-Somedude4's PFR: 0.500000
-Somedude4's estimated fold percentage is 0.000000
-
-Fishy4 posts small blind, stack size (220)
-Somedude4 posts big blind, stack size (185)
-
-
-***PREFLOP***(3) Board:()
-Our hand: 9c Qc
-
-SomeOtherdude4 folds.
-Fishy4's EV: 1.979500
-Fishy4's Equity: 0.5685
-Fishy4's EV: 1.979500
-Fishy4's Equity: 0.5685
+Fishy4's EV: 0.820000
+Fishy4's Equity: 0.564
+Fishy4's EV: 0.820000
+Fishy4's Equity: 0.564
 Fishy4's Implied Odds: -3
 Fishy4 raise 4.
 
-***FLOP***(8) Board:(Ac Ks Qh)
-Our hand: 9c Qc
-
-Somedude4 called 4.
-Fishy4's EV: 5.600000
-Fishy4's Equity: 0.7
-Fishy4's EV: 5.600000
-Fishy4's Equity: 0.7
-Fishy4's Implied Odds: -8
-Fishy4 bets 2.
-['WIN', '10', 'Fishy4']
-
-
-NEWHAND:4
-
-['NEWHAND', '4', '3', 'Ks', '5d', '183', '192', '225', 'Somedude4', 'SomeOtherdude4', 'Fishy4', '3', 'true', 'true', 'true', '9.937628']
-Active Players:3
-
-Our hand: Ks 5d
-Somedude4's VPIP: 0.000000
-Somedude4's PFR: 0.333333
-Somedude4's estimated fold percentage is 0.000000
-SomeOtherdude4's VPIP: 0.000000
-SomeOtherdude4's PFR: 0.000000
-SomeOtherdude4's estimated fold percentage is 0.333333
-Fishy4's VPIP: 0.000000
-Fishy4's PFR: 0.000000
-Fishy4's estimated fold percentage is 0.000000
-
-SomeOtherdude4 posts small blind, stack size (191)
-Fishy4 posts big blind, stack size (223)
-
-
-***PREFLOP***(6) Board:()
-Our hand: Ks 5d
-
-Somedude4 folds.
-SomeOtherdude4 raised to 4.
-Fishy4's EV: 3.385000
-Fishy4's Equity: 0.5275
-Fishy4's EV: 3.385000
-Fishy4's Equity: 0.5275
-Fishy4's Implied Odds: -6
-Fishy4 raise 6.
-
-***FLOP***(19) Board:(8d 3s Ac)
-Our hand: Ks 5d
-
-SomeOtherdude4 called 6.
-SomeOtherdude4 bet 7.
-Fishy4's EV: 7.965500
-Fishy4's Equity: 0.4535
-Fishy4's EV: 7.965500
-Fishy4's Equity: 0.4535
-Fishy4's Implied Odds: -17
-Fishy4 raise 14.
-
-***TURN***(55) Board:(8d 3s Ac 4c)
-Our hand: Ks 5d
-
-SomeOtherdude4 called 14.
-SomeOtherdude4 bet 15.
-Fishy4's EV: 23.165000
-Fishy4's Equity: 0.449
-Fishy4's EV: 23.165000
-Fishy4's Equity: 0.449
-Fishy4's Implied Odds: -51
-Fishy4 raise 85.
-
-***TURN***(292) Board:(8d 3s Ac 4c)
-Our hand: Ks 5d
-
-SomeOtherdude4 raised to 167.
-Fishy4's EV: 114.074000
-Fishy4's Equity: 0.449
-Fishy4's EV: 114.074000
-Fishy4's Equity: 0.449
-Fishy4's Implied Odds: -254
-Fishy4 raise 172.
-['WIN', '379', 'Fishy4']
-
-
-NEWHAND:5
-
-['NEWHAND', '5', '1', '6c', '7s', '412', '183', '5', 'Fishy4', 'Somedude4', 'SomeOtherdude4', '3', 'true', 'true', 'true', '9.907308']
-Active Players:3
-
-Our hand: 6c 7s
-Fishy4's VPIP: 0.000000
-Fishy4's PFR: 0.000000
-Fishy4's estimated fold percentage is 0.000000
-Somedude4's VPIP: 0.000000
-Somedude4's PFR: 0.250000
-Somedude4's estimated fold percentage is 0.250000
-SomeOtherdude4's VPIP: 0.000000
-SomeOtherdude4's PFR: 0.250000
-SomeOtherdude4's estimated fold percentage is 0.333333
-
-Somedude4 posts small blind, stack size (182)
-SomeOtherdude4 posts big blind, stack size (3)
-
-
-***PREFLOP***(3) Board:()
-Our hand: 6c 7s
-
-Fishy4's EV: 1.125500
-Fishy4's Equity: 0.4465
-Fishy4's EV: 1.125500
-Fishy4's Equity: 0.4465
-Fishy4's Implied Odds: -2
-Fishy4 raise 4.
-
-***FLOP***(13) Board:(Ad Qs Jc)
-Our hand: 6c 7s
+***FLOP***(12) Board:(Th 9s 4d)
+Our hand: 5d Ah
 
 Somedude4 called 4.
 SomeOtherdude4 called 4.
 Somedude4 checks.
-SomeOtherdude4 bet 1.
-Fishy4's EV: 2.630000
-Fishy4's Equity: 0.242
-Fishy4's EV: 2.630000
-Fishy4's Equity: 0.242
-Fishy4's Implied Odds: -10
+SomeOtherdude4 checks.
+Fishy4's EV: 5.412000
+Fishy4's Equity: 0.451
+Fishy4's EV: 5.412000
+Fishy4's Equity: 0.451
+Fishy4's Implied Odds: -12
 Fishy4 raise 2.
+Fishy4 bets 2.
 
-***TURN***(25) Board:(Ad Qs Jc 4d)
-Our hand: 6c 7s
+***TURN***(12) Board:(Th 9s 4d 7h)
+Our hand: 5d Ah
+
+Somedude4 checks.
+SomeOtherdude4 checks.
+Fishy4's EV: 4.602000
+Fishy4's Equity: 0.3835
+Fishy4's EV: 4.602000
+Fishy4's Equity: 0.3835
+Fishy4's Implied Odds: -12
+Fishy4 raise 2.
+Fishy4 bets 2.
+
+***RIVER***(19) Board:(Th 9s 4d 7h 6c)
+Our hand: 5d Ah
+
+Somedude4 checks.
+SomeOtherdude4 bet 7.
+Fishy4's EV: -1.104040
+Fishy4's Equity: 0.226767676768
+Fishy4's EV: -1.104040
+Fishy4's Equity: 0.226767676768
+Fishy4's Implied Odds: -2
+Fishy4 folds.
+Somedude4 called 7.
+Somedude4 WTSD percentage is: 0.500000
+SomeOtherdude4 WTSD percentage is: 0.500000
+Somedude4 W$SD percentage is: 0.500000
+
+
+NEWHAND:3
+
+['NEWHAND', '3', '2', '2d', 'Ah', '188', '197', '215', 'SomeOtherdude4', 'Fishy4', 'Somedude4', '3', 'true', 'true', 'true', '9.970511']
+Active Players:3
+
+Our hand: 2d Ah
+SomeOtherdude4's VPIP: 0.000000
+SomeOtherdude4's PFR: 0.000000
+SomeOtherdude4's estimated fold percentage is 1.000000
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: NIT
+Fishy4's VPIP: 0.000000
+Fishy4's PFR: 0.000000
+Fishy4's estimated fold percentage is 0.000000
+Fishy4's AF: 1.000000
+Fishy4's Player Type: NIT
+Somedude4's VPIP: 0.000000
+Somedude4's PFR: 0.000000
+Somedude4's estimated fold percentage is 1.000000
+Somedude4's AF: 0.000000
+Somedude4's Player Type: NIT
+
+Fishy4 posts small blind, stack size (196)
+Somedude4 posts big blind, stack size (213)
+
+
+***PREFLOP***(5) Board:()
+Our hand: 2d Ah
+
+SomeOtherdude4 called 2.
+Fishy4's EV: 1.888500
+Fishy4's Equity: 0.5555
+Fishy4's EV: 1.888500
+Fishy4's Equity: 0.5555
+Fishy4's Implied Odds: -5
+Fishy4 raise 4.
+
+***PREFLOP***(16) Board:()
+Our hand: 2d Ah
+
+Somedude4 raised to 6.
+SomeOtherdude4 called 6.
+Fishy4's EV: 6.221000
+Fishy4's Equity: 0.5555
+Fishy4's EV: 6.221000
+Fishy4's Equity: 0.5555
+Fishy4's Implied Odds: -17
+Fishy4 raise 8.
+
+***PREFLOP***(24) Board:()
+Our hand: 2d Ah
+
+Somedude4 raised to 10.
+SomeOtherdude4 folds.
+Fishy4's EV: 8.887000
+Fishy4's Equity: 0.5555
+Fishy4's EV: 8.887000
+Fishy4's Equity: 0.5555
+Fishy4's Implied Odds: -25
+Fishy4 raise 12.
+Somedude4 folds.
+
+
+NEWHAND:4
+
+['NEWHAND', '4', '3', '2d', '2s', '205', '182', '213', 'Somedude4', 'SomeOtherdude4', 'Fishy4', '3', 'true', 'true', 'true', '9.937279']
+Active Players:3
+
+Our hand: 2d 2s
+Somedude4's VPIP: 0.333333
+Somedude4's PFR: 0.333333
+Somedude4's estimated fold percentage is 0.666667
+Somedude4's AF: 0.000000
+Somedude4's Player Type: NIT
+SomeOtherdude4's VPIP: 0.333333
+SomeOtherdude4's PFR: 0.000000
+SomeOtherdude4's estimated fold percentage is 0.666667
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: NIT
+Fishy4's VPIP: 0.333333
+Fishy4's PFR: 0.333333
+Fishy4's estimated fold percentage is 0.000000
+Fishy4's AF: 1.000000
+Fishy4's Player Type: NIT
+
+SomeOtherdude4 posts small blind, stack size (181)
+Fishy4 posts big blind, stack size (211)
+
+
+***PREFLOP***(5) Board:()
+Our hand: 2d 2s
 
 Somedude4 called 2.
-Somedude4 bet 8.
-Fishy4's EV: -1.542500
-Fishy4's Equity: 0.1575
-Fishy4's EV: -1.542500
-Fishy4's Equity: 0.1575
-Fishy4's Implied Odds: 9
+SomeOtherdude4 folds.
+Fishy4's EV: 2.527500
+Fishy4's Equity: 0.5055
+Fishy4's EV: 2.527500
+Fishy4's Equity: 0.5055
+Fishy4's Implied Odds: -5
+Fishy4 raise 4.
+
+***PREFLOP***(13) Board:()
+Our hand: 2d 2s
+
+Somedude4 raised to 8.
+Fishy4's EV: 2.615500
+Fishy4's Equity: 0.5055
+Fishy4's EV: 2.615500
+Fishy4's Equity: 0.5055
+Fishy4's Implied Odds: -13
+Fishy4 raise 12.
+
+***FLOP***(25) Board:(Js 9d 6s)
+Our hand: 2d 2s
+
+Somedude4 called 12.
+Fishy4's EV: 10.875000
+Fishy4's Equity: 0.435
+Fishy4's EV: 10.875000
+Fishy4's Equity: 0.435
+Fishy4's Implied Odds: -25
+Fishy4 raise 25.
+Fishy4 bets 2.
+
+***FLOP***(40) Board:(Js 9d 6s)
+Our hand: 2d 2s
+
+Somedude4 bet 15.
+Fishy4's EV: 8.925000
+Fishy4's Equity: 0.435
+Fishy4's EV: 8.925000
+Fishy4's Equity: 0.435
+Fishy4's Implied Odds: -35
+Fishy4 raise 30.
+
+***TURN***(85) Board:(Js 9d 6s Jd)
+Our hand: 2d 2s
+
+Somedude4 called 30.
+Fishy4's EV: 38.887500
+Fishy4's Equity: 0.4575
+Fishy4's EV: 38.887500
+Fishy4's Equity: 0.4575
+Fishy4's Implied Odds: -85
+Fishy4 raise 85.
+Fishy4 bets 2.
+
+***TURN***(131) Board:(Js 9d 6s Jd)
+Our hand: 2d 2s
+
+Somedude4 bet 46.
+Fishy4's EV: 34.977500
+Fishy4's Equity: 0.4575
+Fishy4's EV: 34.977500
+Fishy4's Equity: 0.4575
+Fishy4's Implied Odds: -122
+Fishy4 raise 163.
+
+
+NEWHAND:5
+
+['NEWHAND', '5', '1', '6c', '4s', '171', '248', '181', 'Fishy4', 'Somedude4', 'SomeOtherdude4', '3', 'true', 'true', 'true', '9.898742']
+Active Players:3
+
+Our hand: 6c 4s
+Fishy4's VPIP: 0.500000
+Fishy4's PFR: 0.250000
+Fishy4's estimated fold percentage is 0.000000
+Fishy4's AF: 2.000000
+Fishy4's Player Type: MANIAC
+Somedude4's VPIP: 0.500000
+Somedude4's PFR: 0.250000
+Somedude4's estimated fold percentage is 0.666667
+Somedude4's AF: 0.500000
+Somedude4's Player Type: NIT
+SomeOtherdude4's VPIP: 0.250000
+SomeOtherdude4's PFR: 0.000000
+SomeOtherdude4's estimated fold percentage is 0.750000
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+
+Somedude4 posts small blind, stack size (247)
+SomeOtherdude4 posts big blind, stack size (179)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 6c 4s
+
+Fishy4's EV: -0.087500
+Fishy4's Equity: 0.3825
+Fishy4's EV: -0.087500
+Fishy4's Equity: 0.3825
+Fishy4's Implied Odds: -1
 Fishy4 folds.
-Somedude4 WTSD percentage is: 0.200000
-SomeOtherdude4 WTSD percentage is: 0.200000
-['WIN', '15', 'SomeOtherdude4']
-SomeOtherdude4 W$SD percentage is: 0.200000
-['WIN', '10', 'Somedude4']
-Somedude4 W$SD percentage is: 0.200000
+Somedude4 folds.
 
 
 NEWHAND:6
 
-['NEWHAND', '6', '2', '2d', 'Kc', '15', '406', '179', 'SomeOtherdude4', 'Fishy4', 'Somedude4', '3', 'true', 'true', 'true', '9.878706']
+['NEWHAND', '6', '2', 'Kc', '6s', '182', '171', '247', 'SomeOtherdude4', 'Fishy4', 'Somedude4', '3', 'true', 'true', 'true', '9.879605']
 Active Players:3
 
-Our hand: 2d Kc
-SomeOtherdude4's VPIP: 0.000000
-SomeOtherdude4's PFR: 0.200000
-SomeOtherdude4's estimated fold percentage is 0.333333
-Fishy4's VPIP: 0.000000
-Fishy4's PFR: 0.000000
-Fishy4's estimated fold percentage is 0.000000
-Somedude4's VPIP: 0.000000
+Our hand: Kc 6s
+SomeOtherdude4's VPIP: 0.200000
+SomeOtherdude4's PFR: 0.000000
+SomeOtherdude4's estimated fold percentage is 0.750000
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+Fishy4's VPIP: 0.400000
+Fishy4's PFR: 0.200000
+Fishy4's estimated fold percentage is 0.200000
+Fishy4's AF: 2.000000
+Fishy4's Player Type: MANIAC
+Somedude4's VPIP: 0.400000
 Somedude4's PFR: 0.200000
-Somedude4's estimated fold percentage is 0.250000
+Somedude4's estimated fold percentage is 0.600000
+Somedude4's AF: 0.500000
+Somedude4's Player Type: NIT
 
-Fishy4 posts small blind, stack size (405)
-Somedude4 posts big blind, stack size (177)
+Fishy4 posts small blind, stack size (170)
+Somedude4 posts big blind, stack size (245)
 
 
-***PREFLOP***(9) Board:()
-Our hand: 2d Kc
+***PREFLOP***(7) Board:()
+Our hand: Kc 6s
 
-SomeOtherdude4 raised to 6.
-Fishy4's EV: 4.783500
-Fishy4's Equity: 0.5135
-Fishy4's EV: 4.783500
-Fishy4's Equity: 0.5135
-Fishy4's Implied Odds: -9
-Fishy4 raise 10.
+SomeOtherdude4 raised to 4.
+Fishy4's EV: 1.802500
+Fishy4's Equity: 0.5275
+Fishy4's EV: 1.802500
+Fishy4's Equity: 0.5275
+Fishy4's Implied Odds: -7
+Fishy4 raise 6.
 
-***FLOP***(30) Board:(5d 6h 5c)
-Our hand: 2d Kc
+***FLOP***(16) Board:(2d Ah 3c)
+Our hand: Kc 6s
 
-Somedude4 called 10.
-SomeOtherdude4 called 10.
-Fishy4's EV: 13.350000
-Fishy4's Equity: 0.445
-Fishy4's EV: 13.350000
-Fishy4's Equity: 0.445
-Fishy4's Implied Odds: -30
+Somedude4 called 6.
+SomeOtherdude4 folds.
+Fishy4's EV: 7.552000
+Fishy4's Equity: 0.472
+Fishy4's EV: 7.552000
+Fishy4's Equity: 0.472
+Fishy4's Implied Odds: -16
+Fishy4 raise 2.
 Fishy4 bets 2.
 
-***FLOP***(71) Board:(5d 6h 5c)
-Our hand: 2d Kc
+***FLOP***(29) Board:(2d Ah 3c)
+Our hand: Kc 6s
 
-Somedude4 raised to 34.
-SomeOtherdude4 called 5.
-Fishy4's EV: 27.855000
-Fishy4's Equity: 0.445
-Fishy4's EV: 27.855000
-Fishy4's Equity: 0.445
-Fishy4's Implied Odds: -62
-Fishy4 raise 137.
-SomeOtherdude4 WTSD percentage is: 0.333333
-Fishy4 WTSD percentage is: 0.166667
-['WIN', '206', 'Fishy4']
-Fishy4 W$SD percentage is: 0.166667
+Somedude4 bet 13.
+Fishy4's EV: 6.824000
+Fishy4's Equity: 0.472
+Fishy4's EV: 6.824000
+Fishy4's Equity: 0.472
+Fishy4's Implied Odds: -27
+Fishy4 raise 26.
 
 
 NEWHAND:7
 
-['NEWHAND', '7', '1', '4d', '5c', '465', '135', '0', 'Fishy4', 'Somedude4', 'SomeOtherdude4', '2', 'true', 'true', 'false', '9.852205']
-Active Players:2
+['NEWHAND', '7', '3', '7s', 'Js', '257', '178', '165', 'Somedude4', 'SomeOtherdude4', 'Fishy4', '3', 'true', 'true', 'true', '9.856288']
+Active Players:3
 
-Our hand: 4d 5c
-Fishy4's VPIP: 0.000000
-Fishy4's PFR: 0.000000
-Fishy4's estimated fold percentage is 0.000000
-Somedude4's VPIP: 0.000000
+Our hand: 7s Js
+Somedude4's VPIP: 0.333333
 Somedude4's PFR: 0.166667
-Somedude4's estimated fold percentage is 0.250000
-SomeOtherdude4's VPIP: 0.000000
+Somedude4's estimated fold percentage is 0.600000
+Somedude4's AF: 0.666667
+Somedude4's Player Type: NIT
+SomeOtherdude4's VPIP: 0.333333
 SomeOtherdude4's PFR: 0.166667
-SomeOtherdude4's estimated fold percentage is 0.333333
-SomeOtherdude4 is eliminated
+SomeOtherdude4's estimated fold percentage is 0.750000
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+Fishy4's VPIP: 0.333333
+Fishy4's PFR: 0.166667
+Fishy4's estimated fold percentage is 0.200000
+Fishy4's AF: 3.000000
+Fishy4's Player Type: MANIAC
 
-Fishy4 posts small blind/and is dealer, stack size (464)
-Somedude4 posts big blind, stack size (133)
+SomeOtherdude4 posts small blind, stack size (177)
+Fishy4 posts big blind, stack size (163)
 
 
-***PREFLOP***(3) Board:()
-Our hand: 4d 5c
+***PREFLOP***(7) Board:()
+Our hand: 7s Js
 
-Fishy4's EV: 0.702000
-Fishy4's Equity: 0.386
-Fishy4's EV: 0.702000
-Fishy4's Equity: 0.386
-Fishy4's Implied Odds: -1
-Fishy4 raise 4.
-
-***PREFLOP***(15) Board:()
-Our hand: 4d 5c
-
-Somedude4 raised to 11.
-Fishy4's EV: 3.282000
-Fishy4's Equity: 0.386
-Fishy4's EV: 3.282000
-Fishy4's Equity: 0.386
-Fishy4's Implied Odds: -8
-Fishy4 raise 18.
-['WIN', '29', 'Fishy4']
+Somedude4 folds.
+SomeOtherdude4 raised to 5.
+Fishy4's EV: 1.090000
+Fishy4's Equity: 0.5075
+Fishy4's EV: 1.090000
+Fishy4's Equity: 0.5075
+Fishy4's Implied Odds: -7
+Fishy4 raise 8.
 
 
 NEWHAND:8
 
-['NEWHAND', '8', '2', 'Ts', '2c', '124', '476', '0', 'Somedude4', 'Fishy4', 'SomeOtherdude4', '2', 'true', 'true', 'false', '9.831830']
-Active Players:2
+['NEWHAND', '8', '1', '5s', 'Ad', '163', '257', '180', 'Fishy4', 'Somedude4', 'SomeOtherdude4', '3', 'true', 'true', 'true', '9.845216']
+Active Players:3
 
-Our hand: Ts 2c
-Somedude4's VPIP: 0.000000
-Somedude4's PFR: 0.142857
-Somedude4's estimated fold percentage is 0.250000
-Fishy4's VPIP: 0.000000
+Our hand: 5s Ad
+Fishy4's VPIP: 0.285714
 Fishy4's PFR: 0.142857
-Fishy4's estimated fold percentage is 0.000000
-SomeOtherdude4's VPIP: 0.000000
+Fishy4's estimated fold percentage is 0.285714
+Fishy4's AF: 3.000000
+Fishy4's Player Type: MANIAC
+Somedude4's VPIP: 0.285714
+Somedude4's PFR: 0.142857
+Somedude4's estimated fold percentage is 0.571429
+Somedude4's AF: 0.666667
+Somedude4's Player Type: NIT
+SomeOtherdude4's VPIP: 0.428571
 SomeOtherdude4's PFR: 0.142857
-SomeOtherdude4's estimated fold percentage is 0.333333
-SomeOtherdude4 is eliminated
+SomeOtherdude4's estimated fold percentage is 0.750000
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
 
-Somedude4 posts small blind/and is dealer, stack size (123)
-Fishy4 posts big blind, stack size (474)
+Somedude4 posts small blind, stack size (256)
+SomeOtherdude4 posts big blind, stack size (178)
 
 
-***PREFLOP***(7) Board:()
-Our hand: Ts 2c
+***PREFLOP***(3) Board:()
+Our hand: 5s Ad
 
-Somedude4 raised to 5.
-Fishy4's EV: 1.961500
-Fishy4's Equity: 0.4095
-Fishy4's EV: 1.961500
-Fishy4's Equity: 0.4095
-Fishy4's Implied Odds: -4
-Fishy4 raise 8.
-
-***FLOP***(16) Board:(Qd Qs Kh)
-Our hand: Ts 2c
-
-Somedude4 called 8.
-Fishy4's EV: 6.496000
-Fishy4's Equity: 0.406
-Fishy4's EV: 6.496000
-Fishy4's Equity: 0.406
-Fishy4's Implied Odds: -16
-Fishy4 bets 2.
-['WIN', '18', 'Fishy4']
+Fishy4's EV: 0.830000
+Fishy4's Equity: 0.566
+Fishy4's EV: 0.830000
+Fishy4's Equity: 0.566
+Fishy4's Implied Odds: -3
+Fishy4 raise 4.
+Somedude4 folds.
 
 
 NEWHAND:9
 
-['NEWHAND', '9', '1', '5d', 'Ks', '484', '116', '0', 'Fishy4', 'Somedude4', 'SomeOtherdude4', '2', 'true', 'true', 'false', '9.797520']
-Active Players:2
+['NEWHAND', '9', '2', 'Ac', '2d', '181', '163', '256', 'SomeOtherdude4', 'Fishy4', 'Somedude4', '3', 'true', 'true', 'true', '9.815530']
+Active Players:3
 
-Our hand: 5d Ks
-Fishy4's VPIP: 0.000000
-Fishy4's PFR: 0.125000
-Fishy4's estimated fold percentage is 0.000000
-Somedude4's VPIP: 0.000000
-Somedude4's PFR: 0.125000
-Somedude4's estimated fold percentage is 0.250000
-SomeOtherdude4's VPIP: 0.000000
+Our hand: Ac 2d
+SomeOtherdude4's VPIP: 0.375000
 SomeOtherdude4's PFR: 0.125000
-SomeOtherdude4's estimated fold percentage is 0.333333
-SomeOtherdude4 is eliminated
+SomeOtherdude4's estimated fold percentage is 0.750000
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+Fishy4's VPIP: 0.250000
+Fishy4's PFR: 0.125000
+Fishy4's estimated fold percentage is 0.375000
+Fishy4's AF: 3.000000
+Fishy4's Player Type: MANIAC
+Somedude4's VPIP: 0.250000
+Somedude4's PFR: 0.125000
+Somedude4's estimated fold percentage is 0.625000
+Somedude4's AF: 0.666667
+Somedude4's Player Type: NIT
 
-Fishy4 posts small blind/and is dealer, stack size (483)
-Somedude4 posts big blind, stack size (114)
+Fishy4 posts small blind, stack size (162)
+Somedude4 posts big blind, stack size (254)
 
 
-***PREFLOP***(3) Board:()
-Our hand: 5d Ks
+***PREFLOP***(5) Board:()
+Our hand: Ac 2d
 
-Fishy4's EV: 1.944500
-Fishy4's Equity: 0.5635
-Fishy4's EV: 1.944500
-Fishy4's Equity: 0.5635
-Fishy4's Implied Odds: -3
+SomeOtherdude4 called 2.
+Fishy4's EV: 2.004000
+Fishy4's Equity: 0.572
+Fishy4's EV: 2.004000
+Fishy4's Equity: 0.572
+Fishy4's Implied Odds: -5
 Fishy4 raise 4.
 
-***PREFLOP***(10) Board:()
-Our hand: 5d Ks
+***FLOP***(10) Board:(9h 3c 4c)
+Our hand: Ac 2d
 
-Somedude4 raised to 6.
-Fishy4's EV: 6.397000
-Fishy4's Equity: 0.5635
-Fishy4's EV: 6.397000
-Fishy4's Equity: 0.5635
-Fishy4's Implied Odds: -11
+Somedude4 called 4.
+SomeOtherdude4 folds.
+Fishy4's EV: 5.470000
+Fishy4's Equity: 0.547
+Fishy4's EV: 5.470000
+Fishy4's Equity: 0.547
+Fishy4's Implied Odds: -10
+Fishy4 raise 2.
+Fishy4 bets 2.
+
+***TURN***(10) Board:(9h 3c 4c Ks)
+Our hand: Ac 2d
+
+Somedude4 checks.
+Fishy4's EV: 4.375000
+Fishy4's Equity: 0.4375
+Fishy4's EV: 4.375000
+Fishy4's Equity: 0.4375
+Fishy4's Implied Odds: -10
+Fishy4 raise 2.
+Fishy4 bets 2.
+
+***TURN***(14) Board:(9h 3c 4c Ks)
+Our hand: Ac 2d
+
+Somedude4 bet 4.
+Fishy4's EV: 3.875000
+Fishy4's Equity: 0.4375
+Fishy4's EV: 3.875000
+Fishy4's Equity: 0.4375
+Fishy4's Implied Odds: -12
 Fishy4 raise 8.
-
-***FLOP***(29) Board:(Kd 4c Ah)
-Our hand: 5d Ks
-
-Somedude4 called 8.
-Somedude4 bet 13.
-Fishy4's EV: 29.762500
-Fishy4's Equity: 0.7775
-Fishy4's EV: 29.762500
-Fishy4's Equity: 0.7775
-Fishy4's Implied Odds: -38
-Fishy4 raise 55.
-
-***FLOP***(177) Board:(Kd 4c Ah)
-Our hand: 5d Ks
-
-Somedude4 raised to 106.
-Fishy4's EV: 196.447500
-Fishy4's Equity: 0.7775
-Fishy4's EV: 196.447500
-Fishy4's Equity: 0.7775
-Fishy4's Implied Odds: -252
-Fishy4 raise 108.
-['WIN', '230', 'Fishy4']
 
 
 NEWHAND:10
 
-['NEWHAND', '10', '2', '2d', '3h', '2', '598', '0', 'Somedude4', 'Fishy4', 'SomeOtherdude4', '2', 'true', 'true', 'false', '9.762154']
+['NEWHAND', '10', '3', 'Kd', 'Kh', '262', '179', '159', 'Somedude4', 'SomeOtherdude4', 'Fishy4', '3', 'true', 'true', 'true', '9.763105']
+Active Players:3
+
+Our hand: Kd Kh
+Somedude4's VPIP: 0.222222
+Somedude4's PFR: 0.111111
+Somedude4's estimated fold percentage is 0.625000
+Somedude4's AF: 0.500000
+Somedude4's Player Type: NIT
+SomeOtherdude4's VPIP: 0.444444
+SomeOtherdude4's PFR: 0.111111
+SomeOtherdude4's estimated fold percentage is 0.750000
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+Fishy4's VPIP: 0.222222
+Fishy4's PFR: 0.111111
+Fishy4's estimated fold percentage is 0.375000
+Fishy4's AF: 4.000000
+Fishy4's Player Type: MANIAC
+
+SomeOtherdude4 posts small blind, stack size (178)
+Fishy4 posts big blind, stack size (157)
+
+
+***PREFLOP***(13) Board:()
+Our hand: Kd Kh
+
+Somedude4 raised to 4.
+SomeOtherdude4 raised to 7.
+Fishy4's EV: 9.990000
+Fishy4's Equity: 0.8495
+Fishy4's EV: 9.990000
+Fishy4's Equity: 0.8495
+Fishy4's Implied Odds: -18
+Fishy4 raise 10.
+Somedude4 called 7.
+SomeOtherdude4 checks.
+Somedude4 checks.
+SomeOtherdude4 checks.
+Somedude4 bet 6.
+SomeOtherdude4 raised to 13.
+Somedude4 raised to 46.
+SomeOtherdude4 folds.
+
+
+NEWHAND:11
+
+['NEWHAND', '11', '1', '6s', '4s', '157', '284', '159', 'Fishy4', 'Somedude4', 'SomeOtherdude4', '3', 'true', 'true', 'true', '9.741403']
+Active Players:3
+
+Our hand: 6s 4s
+Fishy4's VPIP: 0.200000
+Fishy4's PFR: 0.100000
+Fishy4's estimated fold percentage is 0.375000
+Fishy4's AF: 4.000000
+Fishy4's Player Type: MANIAC
+Somedude4's VPIP: 0.300000
+Somedude4's PFR: 0.100000
+Somedude4's estimated fold percentage is 0.625000
+Somedude4's AF: 0.500000
+Somedude4's Player Type: CALLING STATION
+SomeOtherdude4's VPIP: 0.500000
+SomeOtherdude4's PFR: 0.100000
+SomeOtherdude4's estimated fold percentage is 0.750000
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+
+Somedude4 posts small blind, stack size (283)
+SomeOtherdude4 posts big blind, stack size (157)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 6s 4s
+
+Fishy4's EV: 0.067500
+Fishy4's Equity: 0.4135
+Fishy4's EV: 0.067500
+Fishy4's Equity: 0.4135
+Fishy4's Implied Odds: -2
+Fishy4 raise 4.
+Somedude4 folds.
+SomeOtherdude4 folds.
+
+
+NEWHAND:12
+
+['NEWHAND', '12', '2', 'Jd', '8h', '157', '160', '283', 'SomeOtherdude4', 'Fishy4', 'Somedude4', '3', 'true', 'true', 'true', '9.728851']
+Active Players:3
+
+Our hand: Jd 8h
+SomeOtherdude4's VPIP: 0.454545
+SomeOtherdude4's PFR: 0.090909
+SomeOtherdude4's estimated fold percentage is 0.363636
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+Fishy4's VPIP: 0.272727
+Fishy4's PFR: 0.090909
+Fishy4's estimated fold percentage is 0.375000
+Fishy4's AF: 4.000000
+Fishy4's Player Type: MANIAC
+Somedude4's VPIP: 0.272727
+Somedude4's PFR: 0.090909
+Somedude4's estimated fold percentage is 0.545455
+Somedude4's AF: 0.500000
+Somedude4's Player Type: CALLING STATION
+
+Fishy4 posts small blind, stack size (159)
+Somedude4 posts big blind, stack size (281)
+
+
+***PREFLOP***(5) Board:()
+Our hand: Jd 8h
+
+SomeOtherdude4 called 2.
+Fishy4's EV: 1.510500
+Fishy4's Equity: 0.5015
+Fishy4's EV: 1.510500
+Fishy4's Equity: 0.5015
+Fishy4's Implied Odds: -5
+Fishy4 raise 4.
+
+***PREFLOP***(38) Board:()
+Our hand: Jd 8h
+
+Somedude4 raised to 12.
+SomeOtherdude4 raised to 22.
+Fishy4's EV: 8.090000
+Fishy4's Equity: 0.5015
+Fishy4's EV: 8.090000
+Fishy4's Equity: 0.5015
+Fishy4's Implied Odds: -38
+Fishy4 raise 32.
+
+***PREFLOP***(102) Board:()
+Our hand: Jd 8h
+
+Somedude4 folds.
+SomeOtherdude4 raised to 58.
+Fishy4's EV: 22.240000
+Fishy4's Equity: 0.5015
+Fishy4's EV: 22.240000
+Fishy4's Equity: 0.5015
+Fishy4's Implied Odds: -102
+Fishy4 raise 157.
+SomeOtherdude4 called 157.
+SomeOtherdude4 WTSD percentage is: 0.166667
+Fishy4 WTSD percentage is: 0.083333
+Fishy4 W$SD percentage is: 0.083333
+
+
+NEWHAND:13
+
+['NEWHAND', '13', '1', '7s', '4s', '329', '271', '0', 'Fishy4', 'Somedude4', 'SomeOtherdude4', '2', 'true', 'true', 'false', '9.702292']
 Active Players:2
 
-Our hand: 2d 3h
-Somedude4's VPIP: 0.000000
-Somedude4's PFR: 0.111111
-Somedude4's estimated fold percentage is 0.250000
-Fishy4's VPIP: 0.000000
-Fishy4's PFR: 0.111111
-Fishy4's estimated fold percentage is 0.000000
-SomeOtherdude4's VPIP: 0.000000
-SomeOtherdude4's PFR: 0.111111
-SomeOtherdude4's estimated fold percentage is 0.333333
+Our hand: 7s 4s
+Fishy4's VPIP: 0.333333
+Fishy4's PFR: 0.083333
+Fishy4's estimated fold percentage is 0.375000
+Fishy4's AF: 4.000000
+Fishy4's Player Type: MANIAC
+Somedude4's VPIP: 0.333333
+Somedude4's PFR: 0.083333
+Somedude4's estimated fold percentage is 0.583333
+Somedude4's AF: 0.500000
+Somedude4's Player Type: CALLING STATION
+SomeOtherdude4's VPIP: 0.500000
+SomeOtherdude4's PFR: 0.083333
+SomeOtherdude4's estimated fold percentage is 0.363636
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
 SomeOtherdude4 is eliminated
 
-Somedude4 posts small blind/and is dealer, stack size (1)
-Fishy4 posts big blind, stack size (596)
+Fishy4 posts small blind/and is dealer, stack size (328)
+Somedude4 posts big blind, stack size (269)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 7s 4s
+
+Fishy4's EV: 0.135000
+Fishy4's Equity: 0.427
+Fishy4's EV: 0.135000
+Fishy4's Equity: 0.427
+Fishy4's Implied Odds: -2
+Fishy4 raise 4.
+
+***FLOP***(8) Board:(Ks Qh 8c)
+Our hand: 7s 4s
+
+Somedude4 called 4.
+Somedude4 checks.
+Fishy4's EV: 2.104000
+Fishy4's Equity: 0.263
+Fishy4's EV: 2.104000
+Fishy4's Equity: 0.263
+Fishy4's Implied Odds: -8
+Fishy4 raise 2.
+Fishy4 bets 2.
+
+***TURN***(8) Board:(Ks Qh 8c 8h)
+Our hand: 7s 4s
+
+Somedude4 checks.
+Fishy4's EV: 1.808000
+Fishy4's Equity: 0.226
+Fishy4's EV: 1.808000
+Fishy4's Equity: 0.226
+Fishy4's Implied Odds: -8
+Fishy4 raise 2.
+Fishy4 bets 2.
+
+***RIVER***(8) Board:(Ks Qh 8c 8h 7h)
+Our hand: 7s 4s
+
+Somedude4 checks.
+Fishy4's EV: 4.573737
+Fishy4's Equity: 0.571717171717
+Fishy4's EV: 4.573737
+Fishy4's Equity: 0.571717171717
+Fishy4's Implied Odds: -8
+Fishy4 raise 2.
+Fishy4 bets 2.
+Somedude4 WTSD percentage is: 0.153846
+Fishy4 WTSD percentage is: 0.153846
+Fishy4 W$SD percentage is: 0.153846
+
+
+NEWHAND:14
+
+['NEWHAND', '14', '2', '8c', '3d', '267', '333', '0', 'Somedude4', 'Fishy4', 'SomeOtherdude4', '2', 'true', 'true', 'false', '9.672296']
+Active Players:2
+
+Our hand: 8c 3d
+Somedude4's VPIP: 0.307692
+Somedude4's PFR: 0.076923
+Somedude4's estimated fold percentage is 0.583333
+Somedude4's AF: 0.400000
+Somedude4's Player Type: CALLING STATION
+Fishy4's VPIP: 0.307692
+Fishy4's PFR: 0.076923
+Fishy4's estimated fold percentage is 0.375000
+Fishy4's AF: 5.000000
+Fishy4's Player Type: MANIAC
+SomeOtherdude4's VPIP: 0.461538
+SomeOtherdude4's PFR: 0.076923
+SomeOtherdude4's estimated fold percentage is 0.363636
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+SomeOtherdude4 is eliminated
+
+Somedude4 posts small blind/and is dealer, stack size (266)
+Fishy4 posts big blind, stack size (331)
+
+Somedude4 folds.
+
+
+NEWHAND:15
+
+['NEWHAND', '15', '1', 'Ad', '2s', '334', '266', '0', 'Fishy4', 'Somedude4', 'SomeOtherdude4', '2', 'true', 'true', 'false', '9.672296']
+Active Players:2
+
+Our hand: Ad 2s
+Fishy4's VPIP: 0.285714
+Fishy4's PFR: 0.071429
+Fishy4's estimated fold percentage is 0.375000
+Fishy4's AF: 5.000000
+Fishy4's Player Type: MANIAC
+Somedude4's VPIP: 0.285714
+Somedude4's PFR: 0.071429
+Somedude4's estimated fold percentage is 0.571429
+Somedude4's AF: 0.400000
+Somedude4's Player Type: CALLING STATION
+SomeOtherdude4's VPIP: 0.428571
+SomeOtherdude4's PFR: 0.071429
+SomeOtherdude4's estimated fold percentage is 0.363636
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+SomeOtherdude4 is eliminated
+
+Fishy4 posts small blind/and is dealer, stack size (333)
+Somedude4 posts big blind, stack size (264)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ad 2s
+
+Fishy4's EV: 0.862500
+Fishy4's Equity: 0.5725
+Fishy4's EV: 0.862500
+Fishy4's Equity: 0.5725
+Fishy4's Implied Odds: -3
+Fishy4 raise 4.
+Somedude4 folds.
+
+
+NEWHAND:16
+
+['NEWHAND', '16', '2', '2s', '4d', '264', '336', '0', 'Somedude4', 'Fishy4', 'SomeOtherdude4', '2', 'true', 'true', 'false', '9.665961']
+Active Players:2
+
+Our hand: 2s 4d
+Somedude4's VPIP: 0.266667
+Somedude4's PFR: 0.066667
+Somedude4's estimated fold percentage is 0.600000
+Somedude4's AF: 0.400000
+Somedude4's Player Type: CALLING STATION
+Fishy4's VPIP: 0.333333
+Fishy4's PFR: 0.066667
+Fishy4's estimated fold percentage is 0.375000
+Fishy4's AF: 5.000000
+Fishy4's Player Type: MANIAC
+SomeOtherdude4's VPIP: 0.400000
+SomeOtherdude4's PFR: 0.066667
+SomeOtherdude4's estimated fold percentage is 0.363636
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+SomeOtherdude4 is eliminated
+
+Somedude4 posts small blind/and is dealer, stack size (263)
+Fishy4 posts big blind, stack size (334)
+
+Somedude4 folds.
+
+
+NEWHAND:17
+
+['NEWHAND', '17', '1', '3s', 'Ts', '337', '263', '0', 'Fishy4', 'Somedude4', 'SomeOtherdude4', '2', 'true', 'true', 'false', '9.665961']
+Active Players:2
+
+Our hand: 3s Ts
+Fishy4's VPIP: 0.312500
+Fishy4's PFR: 0.062500
+Fishy4's estimated fold percentage is 0.375000
+Fishy4's AF: 5.000000
+Fishy4's Player Type: MANIAC
+Somedude4's VPIP: 0.250000
+Somedude4's PFR: 0.062500
+Somedude4's estimated fold percentage is 0.625000
+Somedude4's AF: 0.400000
+Somedude4's Player Type: CALLING STATION
+SomeOtherdude4's VPIP: 0.375000
+SomeOtherdude4's PFR: 0.062500
+SomeOtherdude4's estimated fold percentage is 0.363636
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+SomeOtherdude4 is eliminated
+
+Fishy4 posts small blind/and is dealer, stack size (336)
+Somedude4 posts big blind, stack size (261)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 3s Ts
+
+Fishy4's EV: 0.075000
+Fishy4's Equity: 0.415
+Fishy4's EV: 0.075000
+Fishy4's Equity: 0.415
+Fishy4's Implied Odds: -2
+Fishy4 raise 4.
+
+***PREFLOP***(15) Board:()
+Our hand: 3s Ts
+
+Somedude4 raised to 11.
+Fishy4's EV: -0.210000
+Fishy4's Equity: 0.415
+Fishy4's EV: -0.210000
+Fishy4's Equity: 0.415
+Fishy4's Implied Odds: -10
+Fishy4 folds.
+
+
+NEWHAND:18
+
+['NEWHAND', '18', '2', 'As', '5h', '267', '333', '0', 'Somedude4', 'Fishy4', 'SomeOtherdude4', '2', 'true', 'true', 'false', '9.650673']
+Active Players:2
+
+Our hand: As 5h
+Somedude4's VPIP: 0.294118
+Somedude4's PFR: 0.058824
+Somedude4's estimated fold percentage is 0.625000
+Somedude4's AF: 0.400000
+Somedude4's Player Type: CALLING STATION
+Fishy4's VPIP: 0.352941
+Fishy4's PFR: 0.058824
+Fishy4's estimated fold percentage is 0.235294
+Fishy4's AF: 5.000000
+Fishy4's Player Type: MANIAC
+SomeOtherdude4's VPIP: 0.352941
+SomeOtherdude4's PFR: 0.058824
+SomeOtherdude4's estimated fold percentage is 0.363636
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+SomeOtherdude4 is eliminated
+
+Somedude4 posts small blind/and is dealer, stack size (266)
+Fishy4 posts big blind, stack size (331)
+
+Somedude4 folds.
+
+
+NEWHAND:19
+
+['NEWHAND', '19', '1', '9h', '6s', '334', '266', '0', 'Fishy4', 'Somedude4', 'SomeOtherdude4', '2', 'true', 'true', 'false', '9.650673']
+Active Players:2
+
+Our hand: 9h 6s
+Fishy4's VPIP: 0.333333
+Fishy4's PFR: 0.055556
+Fishy4's estimated fold percentage is 0.235294
+Fishy4's AF: 5.000000
+Fishy4's Player Type: MANIAC
+Somedude4's VPIP: 0.277778
+Somedude4's PFR: 0.055556
+Somedude4's estimated fold percentage is 0.611111
+Somedude4's AF: 0.400000
+Somedude4's Player Type: CALLING STATION
+SomeOtherdude4's VPIP: 0.333333
+SomeOtherdude4's PFR: 0.055556
+SomeOtherdude4's estimated fold percentage is 0.363636
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+SomeOtherdude4 is eliminated
+
+Fishy4 posts small blind/and is dealer, stack size (333)
+Somedude4 posts big blind, stack size (264)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 9h 6s
+
+Fishy4's EV: 0.220000
+Fishy4's Equity: 0.444
+Fishy4's EV: 0.220000
+Fishy4's Equity: 0.444
+Fishy4's Implied Odds: -2
+Fishy4 raise 4.
+
+***FLOP***(8) Board:(3d 4s Js)
+Our hand: 9h 6s
+
+Somedude4 called 4.
+Somedude4 checks.
+Fishy4's EV: 2.236000
+Fishy4's Equity: 0.2795
+Fishy4's EV: 2.236000
+Fishy4's Equity: 0.2795
+Fishy4's Implied Odds: -8
+Fishy4 raise 2.
+Fishy4 bets 2.
+
+***TURN***(8) Board:(3d 4s Js Kd)
+Our hand: 9h 6s
+
+Somedude4 checks.
+Fishy4's EV: 1.424000
+Fishy4's Equity: 0.178
+Fishy4's EV: 1.424000
+Fishy4's Equity: 0.178
+Fishy4's Implied Odds: -8
+Fishy4 raise 2.
+Fishy4 bets 2.
+
+***RIVER***(10) Board:(3d 4s Js Kd 9s)
+Our hand: 9h 6s
+
+Somedude4 bet 2.
+Fishy4's EV: 5.381818
+Fishy4's Equity: 0.615151515152
+Fishy4's EV: 5.381818
+Fishy4's Equity: 0.615151515152
+Fishy4's Implied Odds: -10
+Fishy4 raise 4.
+
+***RIVER***(18) Board:(3d 4s Js Kd 9s)
+Our hand: 9h 6s
+
+Somedude4 raised to 6.
+Fishy4's EV: 8.763636
+Fishy4's Equity: 0.615151515152
+Fishy4's EV: 8.763636
+Fishy4's Equity: 0.615151515152
+Fishy4's Implied Odds: -20
+Fishy4 raise 8.
+Somedude4 called 8.
+Somedude4 WTSD percentage is: 0.157895
+Fishy4 WTSD percentage is: 0.157895
+Somedude4 W$SD percentage is: 0.105263
+
+
+NEWHAND:20
+
+['NEWHAND', '20', '2', '4s', 'Ac', '278', '322', '0', 'Somedude4', 'Fishy4', 'SomeOtherdude4', '2', 'true', 'true', 'false', '9.626523']
+Active Players:2
+
+Our hand: 4s Ac
+Somedude4's VPIP: 0.263158
+Somedude4's PFR: 0.052632
+Somedude4's estimated fold percentage is 0.611111
+Somedude4's AF: 0.333333
+Somedude4's Player Type: CALLING STATION
+Fishy4's VPIP: 0.315789
+Fishy4's PFR: 0.052632
+Fishy4's estimated fold percentage is 0.235294
+Fishy4's AF: 6.000000
+Fishy4's Player Type: MANIAC
+SomeOtherdude4's VPIP: 0.315789
+SomeOtherdude4's PFR: 0.052632
+SomeOtherdude4's estimated fold percentage is 0.363636
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+SomeOtherdude4 is eliminated
+
+Somedude4 posts small blind/and is dealer, stack size (277)
+Fishy4 posts big blind, stack size (320)
+
+Somedude4 folds.
+
+
+NEWHAND:21
+
+['NEWHAND', '21', '1', 'Td', '2h', '323', '277', '0', 'Fishy4', 'Somedude4', 'SomeOtherdude4', '2', 'true', 'true', 'false', '9.626523']
+Active Players:2
+
+Our hand: Td 2h
+Fishy4's VPIP: 0.300000
+Fishy4's PFR: 0.050000
+Fishy4's estimated fold percentage is 0.235294
+Fishy4's AF: 6.000000
+Fishy4's Player Type: MANIAC
+Somedude4's VPIP: 0.250000
+Somedude4's PFR: 0.050000
+Somedude4's estimated fold percentage is 0.600000
+Somedude4's AF: 0.333333
+Somedude4's Player Type: CALLING STATION
+SomeOtherdude4's VPIP: 0.300000
+SomeOtherdude4's PFR: 0.050000
+SomeOtherdude4's estimated fold percentage is 0.363636
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+SomeOtherdude4 is eliminated
+
+Fishy4 posts small blind/and is dealer, stack size (322)
+Somedude4 posts big blind, stack size (275)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Td 2h
+
+Fishy4's EV: 0.010000
+Fishy4's Equity: 0.402
+Fishy4's EV: 0.010000
+Fishy4's Equity: 0.402
+Fishy4's Implied Odds: -2
+Fishy4 raise 4.
+
+***PREFLOP***(12) Board:()
+Our hand: Td 2h
+
+Somedude4 raised to 8.
+Fishy4's EV: 0.040000
+Fishy4's Equity: 0.402
+Fishy4's EV: 0.040000
+Fishy4's Equity: 0.402
+Fishy4's Implied Odds: -8
+Fishy4 raise 12.
+
+***PREFLOP***(33) Board:()
+Our hand: Td 2h
+
+Somedude4 raised to 21.
+Fishy4's EV: 0.708000
+Fishy4's Equity: 0.402
+Fishy4's EV: 0.708000
+Fishy4's Equity: 0.402
+Fishy4's Implied Odds: -22
+Fishy4 raise 30.
+
+***PREFLOP***(77) Board:()
+Our hand: Td 2h
+
+Somedude4 raised to 47.
+Fishy4's EV: 2.848000
+Fishy4's Equity: 0.402
+Fishy4's EV: 2.848000
+Fishy4's Equity: 0.402
+Fishy4's Implied Odds: -54
+Fishy4 raise 64.
+
+***FLOP***(224) Board:(9s 3c 3d)
+Our hand: Td 2h
+
+Somedude4 called 64.
+Somedude4 bet 96.
+Fishy4's EV: -1.760000
+Fishy4's Equity: 0.2945
+Fishy4's EV: -1.760000
+Fishy4's Equity: 0.2945
+Fishy4's Implied Odds: -90
+Fishy4 folds.
+
+
+NEWHAND:22
+
+['NEWHAND', '22', '2', 'Qs', 'Js', '341', '259', '0', 'Somedude4', 'Fishy4', 'SomeOtherdude4', '2', 'true', 'true', 'false', '9.592376']
+Active Players:2
+
+Our hand: Qs Js
+Somedude4's VPIP: 0.285714
+Somedude4's PFR: 0.047619
+Somedude4's estimated fold percentage is 0.600000
+Somedude4's AF: 0.428571
+Somedude4's Player Type: CALLING STATION
+Fishy4's VPIP: 0.333333
+Fishy4's PFR: 0.047619
+Fishy4's estimated fold percentage is 0.235294
+Fishy4's AF: 7.000000
+Fishy4's Player Type: MANIAC
+SomeOtherdude4's VPIP: 0.285714
+SomeOtherdude4's PFR: 0.047619
+SomeOtherdude4's estimated fold percentage is 0.363636
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+SomeOtherdude4 is eliminated
+
+Somedude4 posts small blind/and is dealer, stack size (340)
+Fishy4 posts big blind, stack size (257)
+
+
+***PREFLOP***(7) Board:()
+Our hand: Qs Js
+
+Somedude4 raised to 5.
+Fishy4's EV: 2.044000
+Fishy4's Equity: 0.587
+Fishy4's EV: 2.044000
+Fishy4's Equity: 0.587
+Fishy4's Implied Odds: -8
+Fishy4 raise 8.
+Somedude4 folds.
+
+
+NEWHAND:23
+
+['NEWHAND', '23', '1', 'Ac', 'Qc', '264', '336', '0', 'Fishy4', 'Somedude4', 'SomeOtherdude4', '2', 'true', 'true', 'false', '9.585830']
+Active Players:2
+
+Our hand: Ac Qc
+Fishy4's VPIP: 0.363636
+Fishy4's PFR: 0.045455
+Fishy4's estimated fold percentage is 0.235294
+Fishy4's AF: 7.000000
+Fishy4's Player Type: MANIAC
+Somedude4's VPIP: 0.318182
+Somedude4's PFR: 0.045455
+Somedude4's estimated fold percentage is 0.590909
+Somedude4's AF: 0.428571
+Somedude4's Player Type: CALLING STATION
+SomeOtherdude4's VPIP: 0.272727
+SomeOtherdude4's PFR: 0.045455
+SomeOtherdude4's estimated fold percentage is 0.363636
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+SomeOtherdude4 is eliminated
+
+Fishy4 posts small blind/and is dealer, stack size (263)
+Somedude4 posts big blind, stack size (334)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ac Qc
+
+Fishy4's EV: 1.437500
+Fishy4's Equity: 0.6875
+Fishy4's EV: 1.437500
+Fishy4's Equity: 0.6875
+Fishy4's Implied Odds: -4
+Fishy4 raise 4.
+
+***PREFLOP***(13) Board:()
+Our hand: Ac Qc
+
+Somedude4 raised to 9.
+Fishy4's EV: 6.125000
+Fishy4's Equity: 0.6875
+Fishy4's EV: 6.125000
+Fishy4's Equity: 0.6875
+Fishy4's Implied Odds: -17
+Fishy4 raise 14.
+
+***PREFLOP***(45) Board:()
+Our hand: Ac Qc
+
+Somedude4 raised to 31.
+Fishy4's EV: 21.250000
+Fishy4's Equity: 0.6875
+Fishy4's EV: 21.250000
+Fishy4's Equity: 0.6875
+Fishy4's Implied Odds: -61
+Fishy4 raise 93.
+Somedude4 folds.
+
+
+NEWHAND:24
+
+['NEWHAND', '24', '2', 'Qc', '5c', '305', '295', '0', 'Somedude4', 'Fishy4', 'SomeOtherdude4', '2', 'true', 'true', 'false', '9.565859']
+Active Players:2
+
+Our hand: Qc 5c
+Somedude4's VPIP: 0.347826
+Somedude4's PFR: 0.043478
+Somedude4's estimated fold percentage is 0.608696
+Somedude4's AF: 0.428571
+Somedude4's Player Type: CALLING STATION
+Fishy4's VPIP: 0.391304
+Fishy4's PFR: 0.043478
+Fishy4's estimated fold percentage is 0.235294
+Fishy4's AF: 7.000000
+Fishy4's Player Type: MANIAC
+SomeOtherdude4's VPIP: 0.260870
+SomeOtherdude4's PFR: 0.043478
+SomeOtherdude4's estimated fold percentage is 0.363636
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+SomeOtherdude4 is eliminated
+
+Somedude4 posts small blind/and is dealer, stack size (304)
+Fishy4 posts big blind, stack size (293)
 
 
 ***PREFLOP***(4) Board:()
-Our hand: 2d 3h
+Our hand: Qc 5c
 
-Somedude4 raised to 2.
-Fishy4's EV: 0.488000
-Fishy4's Equity: 0.311
-Fishy4's EV: 0.488000
-Fishy4's Equity: 0.311
-Fishy4's Implied Odds: -1
-Fishy4 calls 2.
-Somedude4 WTSD percentage is: 0.200000
-Fishy4 WTSD percentage is: 0.200000
-['WIN', '4', 'Fishy4']
-Fishy4 W$SD percentage is: 0.200000
+Somedude4 called 2.
+Fishy4's EV: 1.998000
+Fishy4's Equity: 0.4995
+Fishy4's EV: 1.998000
+Fishy4's Equity: 0.4995
+Fishy4's Implied Odds: -4
+Fishy4 raise 4.
+
+***PREFLOP***(11) Board:()
+Our hand: Qc 5c
+
+Somedude4 raised to 7.
+Fishy4's EV: 1.991000
+Fishy4's Equity: 0.4995
+Fishy4's EV: 1.991000
+Fishy4's Equity: 0.4995
+Fishy4's Implied Odds: -10
+Fishy4 raise 10.
+
+***FLOP***(20) Board:(8c Ks 5s)
+Our hand: Qc 5c
+
+Somedude4 called 10.
+Fishy4's EV: 12.310000
+Fishy4's Equity: 0.6155
+Fishy4's EV: 12.310000
+Fishy4's Equity: 0.6155
+Fishy4's Implied Odds: -20
+Fishy4 raise 20.
+Fishy4 bets 2.
+
+***FLOP***(36) Board:(8c Ks 5s)
+Our hand: Qc 5c
+
+Somedude4 bet 16.
+Fishy4's EV: 16.006000
+Fishy4's Equity: 0.6155
+Fishy4's EV: 16.006000
+Fishy4's Equity: 0.6155
+Fishy4's Implied Odds: -42
+Fishy4 raise 68.
+
+***TURN***(156) Board:(8c Ks 5s 5d)
+Our hand: Qc 5c
+
+Somedude4 called 68.
+Fishy4's EV: 148.824000
+Fishy4's Equity: 0.954
+Fishy4's EV: 148.824000
+Fishy4's Equity: 0.954
+Fishy4's Implied Odds: -156
+Fishy4 raise 156.
+Fishy4 bets 2.
+
+***TURN***(310) Board:(8c Ks 5s 5d)
+Our hand: Qc 5c
+
+Somedude4 bet 154.
+Fishy4's EV: 288.656000
+Fishy4's Equity: 0.954
+Fishy4's EV: 288.656000
+Fishy4's Equity: 0.954
+Fishy4's Implied Odds: -456
+Fishy4 raise 217.
+Somedude4 called 217.
+Fishy4 WTSD percentage is: 0.166667
+Somedude4 WTSD percentage is: 0.166667
+Fishy4 W$SD percentage is: 0.125000
+
+
+NEWHAND:25
+
+['NEWHAND', '25', '1', '7c', 'Qc', '590', '10', '0', 'Fishy4', 'Somedude4', 'SomeOtherdude4', '2', 'true', 'true', 'false', '9.530266']
+Active Players:2
+
+Our hand: 7c Qc
+Fishy4's VPIP: 0.416667
+Fishy4's PFR: 0.041667
+Fishy4's estimated fold percentage is 0.235294
+Fishy4's AF: 8.000000
+Fishy4's Player Type: MANIAC
+Somedude4's VPIP: 0.375000
+Somedude4's PFR: 0.041667
+Somedude4's estimated fold percentage is 0.608696
+Somedude4's AF: 0.500000
+Somedude4's Player Type: CALLING STATION
+SomeOtherdude4's VPIP: 0.250000
+SomeOtherdude4's PFR: 0.041667
+SomeOtherdude4's estimated fold percentage is 0.363636
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+SomeOtherdude4 is eliminated
+
+Fishy4 posts small blind/and is dealer, stack size (589)
+Somedude4 posts big blind, stack size (8)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 7c Qc
+
+Fishy4's EV: 0.692500
+Fishy4's Equity: 0.5385
+Fishy4's EV: 0.692500
+Fishy4's Equity: 0.5385
+Fishy4's Implied Odds: -3
+Fishy4 raise 4.
+
+***FLOP***(13) Board:(8d 5c Td)
+Our hand: 7c Qc
+
+Somedude4 called 4.
+Somedude4 bet 5.
+Fishy4's EV: 1.975000
+Fishy4's Equity: 0.3875
+Fishy4's EV: 1.975000
+Fishy4's Equity: 0.3875
+Fishy4's Implied Odds: -10
+Fishy4 raise 6.
+Somedude4 folds.
+
+
+NEWHAND:26
+
+['NEWHAND', '26', '2', '4c', '5c', '1', '599', '0', 'Somedude4', 'Fishy4', 'SomeOtherdude4', '2', 'true', 'true', 'false', '9.516910']
+Active Players:2
+
+Our hand: 4c 5c
+Somedude4's VPIP: 0.360000
+Somedude4's PFR: 0.040000
+Somedude4's estimated fold percentage is 0.608696
+Somedude4's AF: 0.555556
+Somedude4's Player Type: CALLING STATION
+Fishy4's VPIP: 0.400000
+Fishy4's PFR: 0.040000
+Fishy4's estimated fold percentage is 0.235294
+Fishy4's AF: 10.000000
+Fishy4's Player Type: MANIAC
+SomeOtherdude4's VPIP: 0.240000
+SomeOtherdude4's PFR: 0.040000
+SomeOtherdude4's estimated fold percentage is 0.363636
+SomeOtherdude4's AF: 0.000000
+SomeOtherdude4's Player Type: CALLING STATION
+SomeOtherdude4 is eliminated
+
+Somedude4 posts small blind/and is dealer, stack size (0)
+Fishy4 posts big blind, stack size (597)
+
+Fishy4 WTSD percentage is: 0.192308
+Somedude4 WTSD percentage is: 0.192308
+Fishy4 W$SD percentage is: 0.153846
 Gameover, engine disconnected.

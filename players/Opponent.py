@@ -19,7 +19,7 @@ class Opponent:
         self.foldsPreFlop = 0.0
 
         #total folds at the flop, num board cards == 3
-        self.totalFoldsFlop = 0
+        self.totalFoldsFlop = 0.0
 
         ##VPIP##
         #percent of times voluntarily put money in pot
@@ -55,7 +55,7 @@ class Opponent:
         self.totalBetRaiseFlop = 0.0
 
         #FLOP AGGRESION FREQUENCY
-        self.AFq = 0
+        self.AFq = 0.0
 
         #M ratio
         self.M = 0.0
@@ -101,7 +101,7 @@ class Opponent:
         self.playingHand = False
     #updates total folds flop (for Afq flop)
     def updateTotalFoldsFlop(self):     
-        self.totalFoldsFlop += 1
+        self.totalFoldsFlop += 1.0
 
     #updates seat in newhand of player
     def updateSeat(self,seat):
@@ -123,7 +123,7 @@ class Opponent:
         if not playingHand:
             self.updateEliminated()
         else:
-            self.handsPlayed +=1
+            self.handsPlayed +=1.0
 
     #name of player
     def getName(self):
@@ -135,7 +135,7 @@ class Opponent:
         if self.preFlopCalled:
             pass
         else:
-            self.preFlopCall += 1
+            self.preFlopCall += 1.0
         self.preFlopCalled = True
 
     #besides bb and sb, number of times raise/call preflop (if bb or sb raises they count)
@@ -152,7 +152,7 @@ class Opponent:
         self.WTSD = float(self.showdown) / self.handsPlayed
         #adds to showdown value (one more showdown counted)
     def showdownAdd(self):   
-        self.showdown += 1
+        self.showdown += 1.0
 
     #WMSD = percentage of hands won money at showdown (inversely related to WTSD)
     def getWMSD(self):
@@ -161,7 +161,7 @@ class Opponent:
         self.WMSD = float(self.showdownWin) / self.handsPlayed
     #adds to showdown win value (one more showdown counted)
     def showdownWinAdd(self):   
-        self.showdownWin += 1
+        self.showdownWin += 1.0
 
     #PFR = preflop raising
     def getPFR(self):
@@ -174,21 +174,21 @@ class Opponent:
         if self.preFlopRaised:
             pass
         else:
-            self.preFlopRaises +=1
+            self.preFlopRaises +=1.0
         self.preFlopRaised = True
 
     #gets aggression factor
     def getAFflop(self):
         return self.AFflop
     def updateAFflop(self):
-        if self.totalCallsFlop == 0:
+        if self.totalCallsFlop == 0.0:
             #can't divide by zero, so if calls never made,
             #the af is just the number of aggressive acts done
             self.AFflop = float(self.totalBetRaiseFlop)
         else:
             self.AFflop = float(self.totalBetRaiseFlop) / self.totalCallsFlop
 
-    #gets flop aggresion frequency
+    #gets flop aggression frequency
     def updateAFqFlop(self):
         self.AFq = float(self.totalBetRaiseFlop)/(self.totalBetRaiseFlop + self.totalCallsFlop + self.totalFoldsFlop)
 
@@ -197,10 +197,10 @@ class Opponent:
 
     #total calls increments by one
     def addCallFlop(self):
-        self.totalCallsFlop +=1
+        self.totalCallsFlop +=1.0
     #total bets/raises increments by one
     def addBetRaiseFlop(self):
-        self.totalBetRaiseFlop +=1
+        self.totalBetRaiseFlop +=1.0
     #finds player type according to stats
     def findPlayerType(self):
         #higher the player's vpip, the looser the player
@@ -235,26 +235,38 @@ class Opponent:
 
         #A winning, tight aggressive player.
         #watch out for these.
-        elif self.VPIP <= .22 and self.PFR/self.VPIP >= .65 and self.AFflop >= 2.5 and self.WMSD >= .50:
-            self.playerType = "TAG"
+        elif (self.VPIP >= 0.10 and self.VPIP <= .22) and (self.PFR >= 0.6 and self.PFR <= 0.13) and (float(self.PFR)/self.VPIP >= .65) and (self.AFflop >= 2.5 )and (self.WMSD >= .50):
+            #TAG player type usually
+            self.playerType = "SHARK"
 
         #Bombs are loose preflop, but also aggressive pre- and postflop.
-        elif self.VPIP <= .25 and self.PFR >= .13 and self.AFflop >= 5:
+        #call, but don't raise as much
+        elif self.VPIP <= .25 and self.PFR >= .13 and self.AFflop >= 5:        
             self.playerType = "BOMB"
-        #They're loose passive and love to call you down.
-        #exploit these!
-        elif self.VPIP >= 20 and self.VPIP <= .30 and self.PFR <= 10 and self.WTSD >= 33 and self.AFflop <= 2.5:
-            self.playerType = "CALLING STATION"
+
         #Maniacs are very loose and aggressive.
+        #generally very loose after flop, go into them if you have something good cuz they will call that shit
+        #but you can also lose a lot of money to them early on
         elif self.VPIP >= .35 and self.PFR >= .25 and self.AFq >= .50:
             self.playerType = "MANIAC"
+
+        #They're loose passive and love to call you down.
+        #exploit these!
+        #their bets and raises are almost never bluffs though/ be careful, don't give them money
+        elif self.VPIP >= 0.20 and self.VPIP <= .30 and self.PFR <= 0.10 and self.WTSD >= 0.33 and self.AFflop <= 2.5:
+            self.playerType = "CALLING STATION"
+ 
         #Cashcows can probably only be found on microlimit. 
         #They're my favorite player class, cause they look at a lot of flops 
         #and even call a lot of preflop raises, but postflop they easily give up their hands.
-        elif self.VPIP >= .39 and self.PFR >= 30 and self.WTSD < .30 and self.AFq <= .50:
+        #call pfr - 
+        #The percentage of hands where the player called a preflop raise when they had the opportunity. This counts all hands where the player faced a preflop raise regardless of any previous or subsequent actions in that hand.
+        #Formula:    ( Total Hands Called Pre-Flop Raise / Total Hands Faced Pre-Flop Raise ) * 100
+        elif self.VPIP >= .39 and self.PFR >= 0.30 and self.WTSD < .30 and self.AFq <= .50:
             self.playerType = "CASHCOW"
         else:
             self.playerType = "UNKNOWN"
+            
 
     #returns the player type/"read"
     def read(self):

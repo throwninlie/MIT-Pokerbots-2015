@@ -47,7 +47,7 @@ def expectedValue(equities,pot_size,bet):
     return estimated_value
 
 def potOdds(pot_size,bet):
-    return float(pot_size) / bet
+    return float(bet)/pot_size
 def impliedOdds(equities,pot_size,bet):
     ourEquity = equities.ev[0]
     x = float(bet) / ourEquity

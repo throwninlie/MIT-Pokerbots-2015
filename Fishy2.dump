@@ -8,312 +8,3284 @@ Opp2 name: Somedude2
 
 NEWHAND:1
 
-['NEWHAND', '1', '1', '9h', '8c', '200', '200', '200', 'Fishy2', 'SomeOtherdude2', 'Somedude2', '3', 'true', 'true', 'true', '10.000000']
+['NEWHAND', '1', '1', 'Td', 'Ac', '200', '200', '200', 'Fishy2', 'SomeOtherdude2', 'Somedude2', '3', 'true', 'true', 'true', '10.000000']
 Active Players:3
 
-Our hand: 9h 8c
+Our hand: Td Ac
 Fishy2's VPIP: 0.000000
 Fishy2's PFR: 0.000000
 Fishy2's estimated fold percentage is 0.000000
+Fishy2's AF: 0.000000
+Fishy2's Player Type: NIT
 SomeOtherdude2's VPIP: 0.000000
 SomeOtherdude2's PFR: 0.000000
 SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
 Somedude2's VPIP: 0.000000
 Somedude2's PFR: 0.000000
 Somedude2's estimated fold percentage is 0.000000
+Somedude2's AF: 0.000000
+Somedude2's Player Type: NIT
 
 SomeOtherdude2 posts small blind, stack size (199)
 Somedude2 posts big blind, stack size (198)
 
 
 ***PREFLOP***(3) Board:()
-Our hand: 9h 8c
+Our hand: Td Ac
 
-Fishy2's EV: 1.461500
-Fishy2's Equity: 0.4945
-Fishy2's EV: 1.461500
-Fishy2's Equity: 0.4945
-Fishy2's Implied Odds: -2
+Fishy2's EV: 1.202500
+Fishy2's Equity: 0.6405
+Fishy2's EV: 1.202500
+Fishy2's Equity: 0.6405
+Fishy2's Implied Odds: -3
 Fishy2 raise 4.
 
-***FLOP***(12) Board:(6d Kd Qc)
-Our hand: 9h 8c
+***PREFLOP***(13) Board:()
+Our hand: Td Ac
 
-SomeOtherdude2 folds.
-Somedude2 called 4.
-Somedude2 bet 3.
-Fishy2's EV: 2.571000
-Fishy2's Equity: 0.3095
-Fishy2's EV: 2.571000
-Fishy2's Equity: 0.3095
-Fishy2's Implied Odds: -8
-Fishy2 raise 6.
-['WIN', '18', 'Fishy2']
+SomeOtherdude2 raised to 7.
+Somedude2 folds.
+Fishy2's EV: 5.810000
+Fishy2's Equity: 0.6405
+Fishy2's EV: 5.810000
+Fishy2's Equity: 0.6405
+Fishy2's Implied Odds: -16
+Fishy2 raise 10.
+
+***PREFLOP***(32) Board:()
+Our hand: Td Ac
+
+SomeOtherdude2 raised to 20.
+Fishy2's EV: 13.306000
+Fishy2's Equity: 0.6405
+Fishy2's EV: 13.306000
+Fishy2's Equity: 0.6405
+Fishy2's Implied Odds: -40
+Fishy2 raise 62.
+
+***PREFLOP***(249) Board:()
+Our hand: Td Ac
+
+SomeOtherdude2 raised to 185.
+Fishy2's EV: 92.977000
+Fishy2's Equity: 0.6405
+Fishy2's EV: 92.977000
+Fishy2's Equity: 0.6405
+Fishy2's Implied Odds: -330
+Fishy2 raise 200.
+SomeOtherdude2 called 200.
+Fishy2 WTSD percentage is: 1.000000
+SomeOtherdude2 WTSD percentage is: 1.000000
+Fishy2 W$SD percentage is: 1.000000
 
 
 NEWHAND:2
 
-['NEWHAND', '2', '2', '4d', '9s', '193', '208', '199', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '3', 'true', 'true', 'true', '9.982199']
-Active Players:3
+['NEWHAND', '2', '2', 'Ac', '8c', '198', '402', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.960969']
+Active Players:2
 
-Our hand: 4d 9s
+Our hand: Ac 8c
 Somedude2's VPIP: 0.000000
 Somedude2's PFR: 0.000000
-Somedude2's estimated fold percentage is 0.000000
-Fishy2's VPIP: 0.000000
-Fishy2's PFR: 0.000000
+Somedude2's estimated fold percentage is 1.000000
+Somedude2's AF: 0.000000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 1.000000
+Fishy2's PFR: 1.000000
 Fishy2's estimated fold percentage is 0.000000
-SomeOtherdude2's VPIP: 0.000000
-SomeOtherdude2's PFR: 0.000000
+Fishy2's AF: 0.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 1.000000
+SomeOtherdude2's PFR: 1.000000
 SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
 
-Fishy2 posts small blind, stack size (207)
-SomeOtherdude2 posts big blind, stack size (197)
-
-
-***PREFLOP***(3) Board:()
-Our hand: 4d 9s
+Somedude2 posts small blind/and is dealer, stack size (197)
+Fishy2 posts big blind, stack size (400)
 
 Somedude2 folds.
-Fishy2's EV: 0.873500
-Fishy2's Equity: 0.4105
-Fishy2's EV: 0.873500
-Fishy2's Equity: 0.4105
-Fishy2's Implied Odds: -2
-Fishy2 raise 4.
-['WIN', '6', 'Fishy2']
 
 
 NEWHAND:3
 
-['NEWHAND', '3', '3', '6s', 'Th', '197', '193', '210', 'SomeOtherdude2', 'Somedude2', 'Fishy2', '3', 'true', 'true', 'true', '9.971794']
-Active Players:3
+['NEWHAND', '3', '1', '3s', '2h', '403', '197', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.960969']
+Active Players:2
 
-Our hand: 6s Th
-SomeOtherdude2's VPIP: 0.000000
-SomeOtherdude2's PFR: 0.000000
-SomeOtherdude2's estimated fold percentage is 0.000000
+Our hand: 3s 2h
+Fishy2's VPIP: 0.500000
+Fishy2's PFR: 0.500000
+Fishy2's estimated fold percentage is 0.000000
+Fishy2's AF: 0.000000
+Fishy2's Player Type: NIT
 Somedude2's VPIP: 0.000000
 Somedude2's PFR: 0.000000
-Somedude2's estimated fold percentage is 0.500000
-Fishy2's VPIP: 0.000000
-Fishy2's PFR: 0.000000
-Fishy2's estimated fold percentage is 0.000000
+Somedude2's estimated fold percentage is 1.000000
+Somedude2's AF: 0.000000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.500000
+SomeOtherdude2's PFR: 0.500000
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
 
-Somedude2 posts small blind, stack size (192)
-Fishy2 posts big blind, stack size (208)
+Fishy2 posts small blind/and is dealer, stack size (402)
+Somedude2 posts big blind, stack size (195)
 
 
-***PREFLOP***(7) Board:()
-Our hand: 6s Th
+***PREFLOP***(3) Board:()
+Our hand: 3s 2h
 
-SomeOtherdude2 folds.
-Somedude2 raised to 5.
-Fishy2's EV: 2.582000
-Fishy2's Equity: 0.446
-Fishy2's EV: 2.582000
-Fishy2's Equity: 0.446
-Fishy2's Implied Odds: -5
-Fishy2 raise 8.
-
-***PREFLOP***(20) Board:()
-Our hand: 6s Th
-
-Somedude2 raised to 12.
-Fishy2's EV: 7.624000
-Fishy2's Equity: 0.446
-Fishy2's EV: 7.624000
-Fishy2's Equity: 0.446
-Fishy2's Implied Odds: -17
-Fishy2 raise 16.
-
-***PREFLOP***(58) Board:()
-Our hand: 6s Th
-
-Somedude2 raised to 42.
-Fishy2's EV: 21.332000
-Fishy2's Equity: 0.446
-Fishy2's EV: 21.332000
-Fishy2's Equity: 0.446
-Fishy2's Implied Odds: -47
-Fishy2 raise 126.
-['WIN', '168', 'Fishy2']
+Fishy2's EV: -0.357500
+Fishy2's Equity: 0.3285
+Fishy2's EV: -0.357500
+Fishy2's Equity: 0.3285
+Fishy2's Implied Odds: 0
+Fishy2 folds.
 
 
 NEWHAND:4
 
-['NEWHAND', '4', '1', '9h', '9c', '252', '197', '151', 'Fishy2', 'SomeOtherdude2', 'Somedude2', '3', 'true', 'true', 'true', '9.945214']
-Active Players:3
+['NEWHAND', '4', '2', '7d', '7h', '198', '402', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.951685']
+Active Players:2
 
-Our hand: 9h 9c
-Fishy2's VPIP: 0.000000
-Fishy2's PFR: 0.333333
-Fishy2's estimated fold percentage is 0.000000
-SomeOtherdude2's VPIP: 0.000000
-SomeOtherdude2's PFR: 0.000000
-SomeOtherdude2's estimated fold percentage is 0.333333
+Our hand: 7d 7h
 Somedude2's VPIP: 0.000000
-Somedude2's PFR: 0.333333
-Somedude2's estimated fold percentage is 0.500000
+Somedude2's PFR: 0.000000
+Somedude2's estimated fold percentage is 1.000000
+Somedude2's AF: 0.000000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.333333
+Fishy2's PFR: 0.333333
+Fishy2's estimated fold percentage is 0.333333
+Fishy2's AF: 0.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.333333
+SomeOtherdude2's PFR: 0.333333
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
 
-SomeOtherdude2 posts small blind, stack size (196)
-Somedude2 posts big blind, stack size (149)
+Somedude2 posts small blind/and is dealer, stack size (197)
+Fishy2 posts big blind, stack size (400)
 
-
-***PREFLOP***(3) Board:()
-Our hand: 9h 9c
-
-Fishy2's EV: 3.169500
-Fishy2's Equity: 0.7385
-Fishy2's EV: 3.169500
-Fishy2's Equity: 0.7385
-Fishy2's Implied Odds: -4
-Fishy2 raise 4.
-
-***PREFLOP***(24) Board:()
-Our hand: 9h 9c
-
-SomeOtherdude2 raised to 10.
-Somedude2 called 10.
-Fishy2's EV: 22.494000
-Fishy2's Equity: 0.7385
-Fishy2's EV: 22.494000
-Fishy2's Equity: 0.7385
-Fishy2's Implied Odds: -30
-Fishy2 raise 40.
-
-***PREFLOP***(183) Board:()
-Our hand: 9h 9c
-
-SomeOtherdude2 called 40.
-Somedude2 raised to 103.
-Fishy2's EV: 184.276500
-Fishy2's Equity: 0.7385
-Fishy2's EV: 184.276500
-Fishy2's Equity: 0.7385
-Fishy2's Implied Odds: -249
-Fishy2 raise 197.
-
-***PREFLOP***(545) Board:()
-Our hand: 9h 9c
-
-SomeOtherdude2 called 197.
-Somedude2 raised to 151.
-Fishy2's EV: 496.451500
-Fishy2's Equity: 0.7385
-Fishy2's EV: 496.451500
-Fishy2's Equity: 0.7385
-Fishy2's Implied Odds: -672
-Fishy2 raise 197.
-Fishy2 WTSD percentage is: 0.250000
-SomeOtherdude2 WTSD percentage is: 0.250000
-Somedude2 WTSD percentage is: 0.250000
-['WIN', '545', 'Somedude2']
-Somedude2 W$SD percentage is: 0.250000
+Somedude2 folds.
 
 
 NEWHAND:5
 
-['NEWHAND', '5', '2', '7h', '5s', '545', '55', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.895917']
+['NEWHAND', '5', '1', '4c', '7d', '403', '197', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.951685']
 Active Players:2
 
-Our hand: 7h 5s
-Somedude2's VPIP: 0.000000
-Somedude2's PFR: 0.250000
-Somedude2's estimated fold percentage is 0.500000
-Fishy2's VPIP: 0.000000
+Our hand: 4c 7d
+Fishy2's VPIP: 0.250000
 Fishy2's PFR: 0.250000
-Fishy2's estimated fold percentage is 0.000000
-SomeOtherdude2's VPIP: 0.000000
+Fishy2's estimated fold percentage is 0.333333
+Fishy2's AF: 0.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.000000
+Somedude2's PFR: 0.000000
+Somedude2's estimated fold percentage is 0.750000
+Somedude2's AF: 0.000000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.250000
 SomeOtherdude2's PFR: 0.250000
-SomeOtherdude2's estimated fold percentage is 0.333333
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
 SomeOtherdude2 is eliminated
 
-Somedude2 posts small blind/and is dealer, stack size (544)
-Fishy2 posts big blind, stack size (53)
+Fishy2 posts small blind/and is dealer, stack size (402)
+Somedude2 posts big blind, stack size (195)
 
-['WIN', '3', 'Fishy2']
+
+***PREFLOP***(3) Board:()
+Our hand: 4c 7d
+
+Fishy2's EV: -0.080000
+Fishy2's Equity: 0.384
+Fishy2's EV: -0.080000
+Fishy2's Equity: 0.384
+Fishy2's Implied Odds: -1
+Fishy2 folds.
 
 
 NEWHAND:6
 
-['NEWHAND', '6', '1', '8h', '6s', '56', '544', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.895917']
+['NEWHAND', '6', '2', '8c', '8d', '198', '402', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.939839']
 Active Players:2
 
-Our hand: 8h 6s
-Fishy2's VPIP: 0.000000
-Fishy2's PFR: 0.250000
-Fishy2's estimated fold percentage is 0.000000
+Our hand: 8c 8d
 Somedude2's VPIP: 0.000000
-Somedude2's PFR: 0.250000
-Somedude2's estimated fold percentage is 0.500000
-SomeOtherdude2's VPIP: 0.000000
-SomeOtherdude2's PFR: 0.250000
-SomeOtherdude2's estimated fold percentage is 0.333333
+Somedude2's PFR: 0.000000
+Somedude2's estimated fold percentage is 0.750000
+Somedude2's AF: 0.000000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.200000
+Fishy2's PFR: 0.200000
+Fishy2's estimated fold percentage is 0.400000
+Fishy2's AF: 0.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.200000
+SomeOtherdude2's PFR: 0.200000
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
 SomeOtherdude2 is eliminated
 
-Fishy2 posts small blind/and is dealer, stack size (55)
-Somedude2 posts big blind, stack size (542)
+Somedude2 posts small blind/and is dealer, stack size (197)
+Fishy2 posts big blind, stack size (400)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 8c 8d
+
+Somedude2 called 2.
+Fishy2's EV: 2.786000
+Fishy2's Equity: 0.6965
+Fishy2's EV: 2.786000
+Fishy2's Equity: 0.6965
+Fishy2's Implied Odds: -4
+Fishy2 raise 4.
+
+***PREFLOP***(13) Board:()
+Our hand: 8c 8d
+
+Somedude2 raised to 9.
+Fishy2's EV: 6.323000
+Fishy2's Equity: 0.6965
+Fishy2's EV: 6.323000
+Fishy2's Equity: 0.6965
+Fishy2's Implied Odds: -18
+Fishy2 raise 14.
+
+***FLOP***(28) Board:(2d Ah 3c)
+Our hand: 8c 8d
+
+Somedude2 called 14.
+Fishy2's EV: 18.732000
+Fishy2's Equity: 0.669
+Fishy2's EV: 18.732000
+Fishy2's Equity: 0.669
+Fishy2's Implied Odds: -28
+Fishy2 raise 28.
+Fishy2 bets 2.
+
+***FLOP***(48) Board:(2d Ah 3c)
+Our hand: 8c 8d
+
+Somedude2 bet 20.
+Fishy2's EV: 25.492000
+Fishy2's Equity: 0.669
+Fishy2's EV: 25.492000
+Fishy2's Equity: 0.669
+Fishy2's Implied Odds: -58
+Fishy2 raise 88.
+
+
+NEWHAND:7
+
+['NEWHAND', '7', '1', 'Ac', '3h', '388', '212', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.900936']
+Active Players:2
+
+Our hand: Ac 3h
+Fishy2's VPIP: 0.333333
+Fishy2's PFR: 0.166667
+Fishy2's estimated fold percentage is 0.400000
+Fishy2's AF: 1.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.166667
+Somedude2's PFR: 0.166667
+Somedude2's estimated fold percentage is 0.750000
+Somedude2's AF: 1.000000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.166667
+SomeOtherdude2's PFR: 0.166667
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (387)
+Somedude2 posts big blind, stack size (210)
 
 
 ***PREFLOP***(3) Board:()
-Our hand: 8h 6s
+Our hand: Ac 3h
 
-Fishy2's EV: 1.125500
-Fishy2's Equity: 0.4465
-Fishy2's EV: 1.125500
-Fishy2's Equity: 0.4465
+Fishy2's EV: 0.635000
+Fishy2's Equity: 0.527
+Fishy2's EV: 0.635000
+Fishy2's Equity: 0.527
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+
+
+NEWHAND:8
+
+['NEWHAND', '8', '2', 'Th', '8c', '213', '387', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.876932']
+Active Players:2
+
+Our hand: Th 8c
+Somedude2's VPIP: 0.142857
+Somedude2's PFR: 0.142857
+Somedude2's estimated fold percentage is 0.750000
+Somedude2's AF: 1.000000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.285714
+Fishy2's PFR: 0.142857
+Fishy2's estimated fold percentage is 0.428571
+Fishy2's AF: 1.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.142857
+SomeOtherdude2's PFR: 0.142857
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (212)
+Fishy2 posts big blind, stack size (385)
+
+Somedude2 folds.
+
+
+NEWHAND:9
+
+['NEWHAND', '9', '1', '7h', '6s', '388', '212', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.876932']
+Active Players:2
+
+Our hand: 7h 6s
+Fishy2's VPIP: 0.250000
+Fishy2's PFR: 0.125000
+Fishy2's estimated fold percentage is 0.428571
+Fishy2's AF: 1.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.125000
+Somedude2's PFR: 0.125000
+Somedude2's estimated fold percentage is 0.500000
+Somedude2's AF: 1.000000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.125000
+SomeOtherdude2's PFR: 0.125000
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (387)
+Somedude2 posts big blind, stack size (210)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 7h 6s
+
+Fishy2's EV: 0.072500
+Fishy2's Equity: 0.4145
+Fishy2's EV: 0.072500
+Fishy2's Equity: 0.4145
 Fishy2's Implied Odds: -2
 Fishy2 raise 4.
 
-***FLOP***(11) Board:(5d 6h 5c)
-Our hand: 8h 6s
+***FLOP***(8) Board:(9h 3c 4c)
+Our hand: 7h 6s
 
 Somedude2 called 4.
-Somedude2 bet 3.
-Fishy2's EV: 8.968000
-Fishy2's Equity: 0.704
-Fishy2's EV: 8.968000
-Fishy2's Equity: 0.704
-Fishy2's Implied Odds: -12
-Fishy2 raise 6.
-
-***TURN***(20) Board:(5d 6h 5c 2c)
-Our hand: 8h 6s
-
-Somedude2 called 6.
 Somedude2 checks.
-Fishy2's EV: 14.060000
-Fishy2's Equity: 0.703
-Fishy2's EV: 14.060000
-Fishy2's Equity: 0.703
-Fishy2's Implied Odds: -20
+Fishy2's EV: 2.640000
+Fishy2's Equity: 0.33
+Fishy2's EV: 2.640000
+Fishy2's Equity: 0.33
+Fishy2's Implied Odds: -8
+Fishy2 raise 2.
 Fishy2 bets 2.
 
-***RIVER***(24) Board:(5d 6h 5c 2c 2h)
-Our hand: 8h 6s
+***TURN***(13) Board:(9h 3c 4c Ks)
+Our hand: 7h 6s
+
+Somedude2 bet 5.
+Fishy2's EV: -1.373000
+Fishy2's Equity: 0.2015
+Fishy2's EV: -1.373000
+Fishy2's Equity: 0.2015
+Fishy2's Implied Odds: 1
+Fishy2 folds.
+
+
+NEWHAND:10
+
+['NEWHAND', '10', '2', 'Jc', 'As', '216', '384', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.841888']
+Active Players:2
+
+Our hand: Jc As
+Somedude2's VPIP: 0.111111
+Somedude2's PFR: 0.111111
+Somedude2's estimated fold percentage is 0.500000
+Somedude2's AF: 0.500000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.222222
+Fishy2's PFR: 0.111111
+Fishy2's estimated fold percentage is 0.428571
+Fishy2's AF: 2.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.111111
+SomeOtherdude2's PFR: 0.111111
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (215)
+Fishy2 posts big blind, stack size (382)
+
+Somedude2 folds.
+
+
+NEWHAND:11
+
+['NEWHAND', '11', '1', 'Td', 'Jc', '385', '215', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.841888']
+Active Players:2
+
+Our hand: Td Jc
+Fishy2's VPIP: 0.200000
+Fishy2's PFR: 0.100000
+Fishy2's estimated fold percentage is 0.428571
+Fishy2's AF: 2.000000
+Fishy2's Player Type: CALLING STATION
+Somedude2's VPIP: 0.100000
+Somedude2's PFR: 0.100000
+Somedude2's estimated fold percentage is 0.500000
+Somedude2's AF: 0.500000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.100000
+SomeOtherdude2's PFR: 0.100000
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (384)
+Somedude2 posts big blind, stack size (213)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Td Jc
+
+Fishy2's EV: 0.822500
+Fishy2's Equity: 0.5645
+Fishy2's EV: 0.822500
+Fishy2's Equity: 0.5645
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+
+
+NEWHAND:12
+
+['NEWHAND', '12', '2', 'Js', '9s', '216', '384', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.834393']
+Active Players:2
+
+Our hand: Js 9s
+Somedude2's VPIP: 0.090909
+Somedude2's PFR: 0.090909
+Somedude2's estimated fold percentage is 0.500000
+Somedude2's AF: 0.500000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.181818
+Fishy2's PFR: 0.090909
+Fishy2's estimated fold percentage is 0.363636
+Fishy2's AF: 2.000000
+Fishy2's Player Type: CALLING STATION
+SomeOtherdude2's VPIP: 0.090909
+SomeOtherdude2's PFR: 0.090909
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (215)
+Fishy2 posts big blind, stack size (382)
+
+
+***PREFLOP***(4) Board:()
+Our hand: Js 9s
 
 Somedude2 called 2.
-Somedude2 checks.
-Fishy2's EV: 17.139394
-Fishy2's Equity: 0.714141414141
-Fishy2's EV: 17.139394
-Fishy2's Equity: 0.714141414141
-Fishy2's Implied Odds: -24
+Fishy2's EV: 2.136000
+Fishy2's Equity: 0.534
+Fishy2's EV: 2.136000
+Fishy2's Equity: 0.534
+Fishy2's Implied Odds: -4
+Fishy2 raise 4.
+
+***FLOP***(4) Board:(3c 2h 8d)
+Our hand: Js 9s
+
+Fishy2's EV: 1.368000
+Fishy2's Equity: 0.342
+Fishy2's EV: 1.368000
+Fishy2's Equity: 0.342
+Fishy2's Implied Odds: -4
+Fishy2 raise 2.
 Fishy2 bets 2.
 
-***RIVER***(42) Board:(5d 6h 5c 2c 2h)
-Our hand: 8h 6s
+***FLOP***(7) Board:(3c 2h 8d)
+Our hand: Js 9s
 
-Somedude2 raised to 16.
-Fishy2's EV: 36.846465
-Fishy2's Equity: 0.714141414141
-Fishy2's EV: 36.846465
-Fishy2's Equity: 0.714141414141
-Fishy2's Implied Odds: -51
-Fishy2 raise 44.
-Somedude2 WTSD percentage is: 0.333333
-Fishy2 WTSD percentage is: 0.333333
-['WIN', '112', 'Somedude2']
-Somedude2 W$SD percentage is: 0.333333
+Somedude2 bet 3.
+Fishy2's EV: 0.420000
+Fishy2's Equity: 0.342
+Fishy2's EV: 0.420000
+Fishy2's Equity: 0.342
+Fishy2's Implied Odds: -4
+Fishy2 raise 6.
+
+
+NEWHAND:13
+
+['NEWHAND', '13', '1', '2s', '6h', '382', '218', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.793758']
+Active Players:2
+
+Our hand: 2s 6h
+Fishy2's VPIP: 0.166667
+Fishy2's PFR: 0.083333
+Fishy2's estimated fold percentage is 0.363636
+Fishy2's AF: 2.000000
+Fishy2's Player Type: CALLING STATION
+Somedude2's VPIP: 0.166667
+Somedude2's PFR: 0.083333
+Somedude2's estimated fold percentage is 0.500000
+Somedude2's AF: 1.000000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.083333
+SomeOtherdude2's PFR: 0.083333
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (381)
+Somedude2 posts big blind, stack size (216)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 2s 6h
+
+Fishy2's EV: -0.350000
+Fishy2's Equity: 0.33
+Fishy2's EV: -0.350000
+Fishy2's Equity: 0.33
+Fishy2's Implied Odds: 0
+Fishy2 folds.
+
+
+NEWHAND:14
+
+['NEWHAND', '14', '2', '5d', 'Ad', '219', '381', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.786024']
+Active Players:2
+
+Our hand: 5d Ad
+Somedude2's VPIP: 0.153846
+Somedude2's PFR: 0.076923
+Somedude2's estimated fold percentage is 0.500000
+Somedude2's AF: 1.000000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.153846
+Fishy2's PFR: 0.076923
+Fishy2's estimated fold percentage is 0.384615
+Fishy2's AF: 2.000000
+Fishy2's Player Type: CALLING STATION
+SomeOtherdude2's VPIP: 0.076923
+SomeOtherdude2's PFR: 0.076923
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (218)
+Fishy2 posts big blind, stack size (379)
+
+Somedude2 folds.
+
+
+NEWHAND:15
+
+['NEWHAND', '15', '1', 'Th', 'Js', '382', '218', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.786024']
+Active Players:2
+
+Our hand: Th Js
+Fishy2's VPIP: 0.142857
+Fishy2's PFR: 0.071429
+Fishy2's estimated fold percentage is 0.384615
+Fishy2's AF: 2.000000
+Fishy2's Player Type: CALLING STATION
+Somedude2's VPIP: 0.142857
+Somedude2's PFR: 0.071429
+Somedude2's estimated fold percentage is 0.428571
+Somedude2's AF: 1.000000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.071429
+SomeOtherdude2's PFR: 0.071429
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (381)
+Somedude2 posts big blind, stack size (216)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Th Js
+
+Fishy2's EV: 0.750000
+Fishy2's Equity: 0.55
+Fishy2's EV: 0.750000
+Fishy2's Equity: 0.55
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+
+
+NEWHAND:16
+
+['NEWHAND', '16', '2', 'Qh', '8c', '219', '381', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.769002']
+Active Players:2
+
+Our hand: Qh 8c
+Somedude2's VPIP: 0.133333
+Somedude2's PFR: 0.066667
+Somedude2's estimated fold percentage is 0.428571
+Somedude2's AF: 1.000000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.133333
+Fishy2's PFR: 0.066667
+Fishy2's estimated fold percentage is 0.400000
+Fishy2's AF: 2.000000
+Fishy2's Player Type: CALLING STATION
+SomeOtherdude2's VPIP: 0.066667
+SomeOtherdude2's PFR: 0.066667
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (218)
+Fishy2 posts big blind, stack size (379)
+
+
+***PREFLOP***(7) Board:()
+Our hand: Qh 8c
+
+Somedude2 raised to 5.
+Fishy2's EV: 1.300000
+Fishy2's Equity: 0.525
+Fishy2's EV: 1.300000
+Fishy2's Equity: 0.525
+Fishy2's Implied Odds: -7
+Fishy2 raise 8.
+
+
+NEWHAND:17
+
+['NEWHAND', '17', '1', '5c', '9d', '379', '221', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.755964']
+Active Players:2
+
+Our hand: 5c 9d
+Fishy2's VPIP: 0.125000
+Fishy2's PFR: 0.062500
+Fishy2's estimated fold percentage is 0.437500
+Fishy2's AF: 2.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.187500
+Somedude2's PFR: 0.062500
+Somedude2's estimated fold percentage is 0.428571
+Somedude2's AF: 1.000000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.062500
+SomeOtherdude2's PFR: 0.062500
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (378)
+Somedude2 posts big blind, stack size (219)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 5c 9d
+
+Fishy2's EV: -0.030000
+Fishy2's Equity: 0.394
+Fishy2's EV: -0.030000
+Fishy2's Equity: 0.394
+Fishy2's Implied Odds: -1
+Fishy2 folds.
+Somedude2 folds.
+
+
+NEWHAND:18
+
+['NEWHAND', '18', '2', '9s', '9d', '219', '381', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.745186']
+Active Players:2
+
+Our hand: 9s 9d
+Somedude2's VPIP: 0.176471
+Somedude2's PFR: 0.058824
+Somedude2's estimated fold percentage is 0.411765
+Somedude2's AF: 1.000000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.176471
+Fishy2's PFR: 0.058824
+Fishy2's estimated fold percentage is 0.437500
+Fishy2's AF: 2.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.058824
+SomeOtherdude2's PFR: 0.058824
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (218)
+Fishy2 posts big blind, stack size (379)
+
+Somedude2 folds.
+
+
+NEWHAND:19
+
+['NEWHAND', '19', '1', 'Td', 'Qc', '382', '218', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.745186']
+Active Players:2
+
+Our hand: Td Qc
+Fishy2's VPIP: 0.166667
+Fishy2's PFR: 0.055556
+Fishy2's estimated fold percentage is 0.437500
+Fishy2's AF: 2.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.166667
+Somedude2's PFR: 0.055556
+Somedude2's estimated fold percentage is 0.444444
+Somedude2's AF: 1.000000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.055556
+SomeOtherdude2's PFR: 0.055556
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (381)
+Somedude2 posts big blind, stack size (216)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Td Qc
+
+Fishy2's EV: 0.907500
+Fishy2's Equity: 0.5815
+Fishy2's EV: 0.907500
+Fishy2's Equity: 0.5815
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+
+
+NEWHAND:20
+
+['NEWHAND', '20', '2', '3d', 'Jh', '219', '381', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.736583']
+Active Players:2
+
+Our hand: 3d Jh
+Somedude2's VPIP: 0.157895
+Somedude2's PFR: 0.052632
+Somedude2's estimated fold percentage is 0.444444
+Somedude2's AF: 1.000000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.157895
+Fishy2's PFR: 0.052632
+Fishy2's estimated fold percentage is 0.421053
+Fishy2's AF: 2.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.052632
+SomeOtherdude2's PFR: 0.052632
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (218)
+Fishy2 posts big blind, stack size (379)
+
+
+***PREFLOP***(7) Board:()
+Our hand: 3d Jh
+
+Somedude2 raised to 5.
+Fishy2's EV: 0.526000
+Fishy2's Equity: 0.4605
+Fishy2's EV: 0.526000
+Fishy2's Equity: 0.4605
+Fishy2's Implied Odds: -6
+Fishy2 raise 8.
+
+
+NEWHAND:21
+
+['NEWHAND', '21', '1', '9h', '8c', '379', '221', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.726930']
+Active Players:2
+
+Our hand: 9h 8c
+Fishy2's VPIP: 0.150000
+Fishy2's PFR: 0.050000
+Fishy2's estimated fold percentage is 0.450000
+Fishy2's AF: 2.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.200000
+Somedude2's PFR: 0.050000
+Somedude2's estimated fold percentage is 0.444444
+Somedude2's AF: 1.000000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.050000
+SomeOtherdude2's PFR: 0.050000
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (378)
+Somedude2 posts big blind, stack size (219)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 9h 8c
+
+Fishy2's EV: 0.480000
+Fishy2's Equity: 0.496
+Fishy2's EV: 0.480000
+Fishy2's Equity: 0.496
+Fishy2's Implied Odds: -2
+Fishy2 raise 4.
+
+***FLOP***(8) Board:(9s 3c 3d)
+Our hand: 9h 8c
+
+Somedude2 called 4.
+Somedude2 checks.
+Fishy2's EV: 5.912000
+Fishy2's Equity: 0.739
+Fishy2's EV: 5.912000
+Fishy2's Equity: 0.739
+Fishy2's Implied Odds: -8
+Fishy2 raise 2.
+Fishy2 bets 2.
+
+***TURN***(8) Board:(9s 3c 3d 4h)
+Our hand: 9h 8c
+
+Somedude2 checks.
+Fishy2's EV: 6.180000
+Fishy2's Equity: 0.7725
+Fishy2's EV: 6.180000
+Fishy2's Equity: 0.7725
+Fishy2's Implied Odds: -8
+Fishy2 raise 2.
+Fishy2 bets 2.
+
+***RIVER***(12) Board:(9s 3c 3d 4h As)
+Our hand: 9h 8c
+
+Somedude2 bet 4.
+Fishy2's EV: 7.232323
+Fishy2's Equity: 0.70202020202
+Fishy2's EV: 7.232323
+Fishy2's Equity: 0.70202020202
+Fishy2's Implied Odds: -14
+Fishy2 raise 8.
+
+
+NEWHAND:22
+
+['NEWHAND', '22', '2', 'Ks', '8s', '225', '375', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.696128']
+Active Players:2
+
+Our hand: Ks 8s
+Somedude2's VPIP: 0.190476
+Somedude2's PFR: 0.047619
+Somedude2's estimated fold percentage is 0.444444
+Somedude2's AF: 0.666667
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.142857
+Fishy2's PFR: 0.047619
+Fishy2's estimated fold percentage is 0.450000
+Fishy2's AF: 3.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.047619
+SomeOtherdude2's PFR: 0.047619
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (224)
+Fishy2 posts big blind, stack size (373)
+
+
+***PREFLOP***(6) Board:()
+Our hand: Ks 8s
+
+Somedude2 raised to 4.
+Fishy2's EV: 1.635000
+Fishy2's Equity: 0.5635
+Fishy2's EV: 1.635000
+Fishy2's Equity: 0.5635
+Fishy2's Implied Odds: -6
+Fishy2 raise 6.
+
+
+NEWHAND:23
+
+['NEWHAND', '23', '1', '6s', 'Ks', '373', '227', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.691565']
+Active Players:2
+
+Our hand: 6s Ks
+Fishy2's VPIP: 0.136364
+Fishy2's PFR: 0.045455
+Fishy2's estimated fold percentage is 0.454545
+Fishy2's AF: 3.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.227273
+Somedude2's PFR: 0.045455
+Somedude2's estimated fold percentage is 0.444444
+Somedude2's AF: 0.666667
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.045455
+SomeOtherdude2's PFR: 0.045455
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (372)
+Somedude2 posts big blind, stack size (225)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 6s Ks
+
+Fishy2's EV: 0.760000
+Fishy2's Equity: 0.552
+Fishy2's EV: 0.760000
+Fishy2's Equity: 0.552
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+Somedude2 folds.
+
+
+NEWHAND:24
+
+['NEWHAND', '24', '2', '7h', '8s', '225', '375', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.687916']
+Active Players:2
+
+Our hand: 7h 8s
+Somedude2's VPIP: 0.217391
+Somedude2's PFR: 0.043478
+Somedude2's estimated fold percentage is 0.391304
+Somedude2's AF: 0.666667
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.173913
+Fishy2's PFR: 0.043478
+Fishy2's estimated fold percentage is 0.454545
+Fishy2's AF: 3.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.043478
+SomeOtherdude2's PFR: 0.043478
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (224)
+Fishy2 posts big blind, stack size (373)
+
+
+***PREFLOP***(7) Board:()
+Our hand: 7h 8s
+
+Somedude2 raised to 5.
+Fishy2's EV: 0.340000
+Fishy2's Equity: 0.445
+Fishy2's EV: 0.340000
+Fishy2's Equity: 0.445
+Fishy2's Implied Odds: -5
+Fishy2 raise 8.
+
+
+NEWHAND:25
+
+['NEWHAND', '25', '1', '5s', 'Qs', '373', '227', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.680242']
+Active Players:2
+
+Our hand: 5s Qs
+Fishy2's VPIP: 0.166667
+Fishy2's PFR: 0.041667
+Fishy2's estimated fold percentage is 0.458333
+Fishy2's AF: 3.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.250000
+Somedude2's PFR: 0.041667
+Somedude2's estimated fold percentage is 0.391304
+Somedude2's AF: 0.666667
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.041667
+SomeOtherdude2's PFR: 0.041667
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (372)
+Somedude2 posts big blind, stack size (225)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 5s Qs
+
+Fishy2's EV: 0.620000
+Fishy2's Equity: 0.524
+Fishy2's EV: 0.620000
+Fishy2's Equity: 0.524
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+
+
+NEWHAND:26
+
+['NEWHAND', '26', '2', 'Tc', '6s', '228', '372', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.675151']
+Active Players:2
+
+Our hand: Tc 6s
+Somedude2's VPIP: 0.240000
+Somedude2's PFR: 0.040000
+Somedude2's estimated fold percentage is 0.391304
+Somedude2's AF: 0.666667
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.160000
+Fishy2's PFR: 0.040000
+Fishy2's estimated fold percentage is 0.480000
+Fishy2's AF: 3.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.040000
+SomeOtherdude2's PFR: 0.040000
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (227)
+Fishy2 posts big blind, stack size (370)
+
+Somedude2 folds.
+
+
+NEWHAND:27
+
+['NEWHAND', '27', '1', '3d', '3h', '373', '227', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.675151']
+Active Players:2
+
+Our hand: 3d 3h
+Fishy2's VPIP: 0.153846
+Fishy2's PFR: 0.038462
+Fishy2's estimated fold percentage is 0.480000
+Fishy2's AF: 3.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.230769
+Somedude2's PFR: 0.038462
+Somedude2's estimated fold percentage is 0.384615
+Somedude2's AF: 0.666667
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.038462
+SomeOtherdude2's PFR: 0.038462
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (372)
+Somedude2 posts big blind, stack size (225)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 3d 3h
+
+Fishy2's EV: 0.692500
+Fishy2's Equity: 0.5385
+Fishy2's EV: 0.692500
+Fishy2's Equity: 0.5385
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+
+***FLOP***(8) Board:(5c 2h Ah)
+Our hand: 3d 3h
+
+Somedude2 called 4.
+Somedude2 checks.
+Fishy2's EV: 4.684000
+Fishy2's Equity: 0.5855
+Fishy2's EV: 4.684000
+Fishy2's Equity: 0.5855
+Fishy2's Implied Odds: -8
+Fishy2 raise 2.
+Fishy2 bets 2.
+
+***TURN***(15) Board:(5c 2h Ah 9c)
+Our hand: 3d 3h
+
+Somedude2 bet 7.
+Fishy2's EV: 5.133000
+Fishy2's Equity: 0.5515
+Fishy2's EV: 5.133000
+Fishy2's Equity: 0.5515
+Fishy2's Implied Odds: -16
+Fishy2 raise 14.
+
+
+NEWHAND:28
+
+['NEWHAND', '28', '2', '7s', 'Kc', '231', '369', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.649165']
+Active Players:2
+
+Our hand: 7s Kc
+Somedude2's VPIP: 0.222222
+Somedude2's PFR: 0.037037
+Somedude2's estimated fold percentage is 0.384615
+Somedude2's AF: 0.500000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.148148
+Fishy2's PFR: 0.037037
+Fishy2's estimated fold percentage is 0.480000
+Fishy2's AF: 4.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.037037
+SomeOtherdude2's PFR: 0.037037
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (230)
+Fishy2 posts big blind, stack size (367)
+
+Somedude2 folds.
+
+
+NEWHAND:29
+
+['NEWHAND', '29', '1', '3h', '3d', '370', '230', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.649165']
+Active Players:2
+
+Our hand: 3h 3d
+Fishy2's VPIP: 0.142857
+Fishy2's PFR: 0.035714
+Fishy2's estimated fold percentage is 0.480000
+Fishy2's AF: 4.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.214286
+Somedude2's PFR: 0.035714
+Somedude2's estimated fold percentage is 0.392857
+Somedude2's AF: 0.500000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.035714
+SomeOtherdude2's PFR: 0.035714
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (369)
+Somedude2 posts big blind, stack size (228)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 3h 3d
+
+Fishy2's EV: 0.692500
+Fishy2's Equity: 0.5385
+Fishy2's EV: 0.692500
+Fishy2's Equity: 0.5385
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+
+
+NEWHAND:30
+
+['NEWHAND', '30', '2', 'Qd', '4c', '231', '369', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.647849']
+Active Players:2
+
+Our hand: Qd 4c
+Somedude2's VPIP: 0.206897
+Somedude2's PFR: 0.034483
+Somedude2's estimated fold percentage is 0.392857
+Somedude2's AF: 0.500000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.137931
+Fishy2's PFR: 0.034483
+Fishy2's estimated fold percentage is 0.448276
+Fishy2's AF: 4.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.034483
+SomeOtherdude2's PFR: 0.034483
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (230)
+Fishy2 posts big blind, stack size (367)
+
+
+***PREFLOP***(6) Board:()
+Our hand: Qd 4c
+
+Somedude2 raised to 4.
+Fishy2's EV: 1.040000
+Fishy2's Equity: 0.504
+Fishy2's EV: 1.040000
+Fishy2's Equity: 0.504
+Fishy2's Implied Odds: -6
+Fishy2 raise 6.
+
+
+NEWHAND:31
+
+['NEWHAND', '31', '1', 'Qc', '4d', '367', '233', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.623535']
+Active Players:2
+
+Our hand: Qc 4d
+Fishy2's VPIP: 0.133333
+Fishy2's PFR: 0.033333
+Fishy2's estimated fold percentage is 0.466667
+Fishy2's AF: 4.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.233333
+Somedude2's PFR: 0.033333
+Somedude2's estimated fold percentage is 0.392857
+Somedude2's AF: 0.500000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.033333
+SomeOtherdude2's PFR: 0.033333
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (366)
+Somedude2 posts big blind, stack size (231)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Qc 4d
+
+Fishy2's EV: 0.580000
+Fishy2's Equity: 0.516
+Fishy2's EV: 0.580000
+Fishy2's Equity: 0.516
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+
+***PREFLOP***(11) Board:()
+Our hand: Qc 4d
+
+Somedude2 raised to 7.
+Fishy2's EV: 2.288000
+Fishy2's Equity: 0.516
+Fishy2's EV: 2.288000
+Fishy2's Equity: 0.516
+Fishy2's Implied Odds: -11
+Fishy2 raise 10.
+
+
+NEWHAND:32
+
+['NEWHAND', '32', '2', 'Tc', 'Jd', '237', '363', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.607605']
+Active Players:2
+
+Our hand: Tc Jd
+Somedude2's VPIP: 0.258065
+Somedude2's PFR: 0.032258
+Somedude2's estimated fold percentage is 0.392857
+Somedude2's AF: 0.500000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.161290
+Fishy2's PFR: 0.032258
+Fishy2's estimated fold percentage is 0.483871
+Fishy2's AF: 4.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.032258
+SomeOtherdude2's PFR: 0.032258
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (236)
+Fishy2 posts big blind, stack size (361)
+
+Somedude2 folds.
+
+
+NEWHAND:33
+
+['NEWHAND', '33', '1', '2h', 'Kd', '364', '236', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.607605']
+Active Players:2
+
+Our hand: 2h Kd
+Fishy2's VPIP: 0.156250
+Fishy2's PFR: 0.031250
+Fishy2's estimated fold percentage is 0.483871
+Fishy2's AF: 4.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.250000
+Somedude2's PFR: 0.031250
+Somedude2's estimated fold percentage is 0.375000
+Somedude2's AF: 0.500000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.031250
+SomeOtherdude2's PFR: 0.031250
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (363)
+Somedude2 posts big blind, stack size (234)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 2h Kd
+
+Fishy2's EV: 0.552500
+Fishy2's Equity: 0.5105
+Fishy2's EV: 0.552500
+Fishy2's Equity: 0.5105
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+
+
+NEWHAND:34
+
+['NEWHAND', '34', '2', '2c', '6c', '237', '363', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.603561']
+Active Players:2
+
+Our hand: 2c 6c
+Somedude2's VPIP: 0.242424
+Somedude2's PFR: 0.030303
+Somedude2's estimated fold percentage is 0.375000
+Somedude2's AF: 0.500000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.151515
+Fishy2's PFR: 0.030303
+Fishy2's estimated fold percentage is 0.484848
+Fishy2's AF: 4.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.030303
+SomeOtherdude2's PFR: 0.030303
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (236)
+Fishy2 posts big blind, stack size (361)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 2c 6c
+
+Somedude2 called 2.
+Fishy2's EV: 1.410000
+Fishy2's Equity: 0.3525
+Fishy2's EV: 1.410000
+Fishy2's Equity: 0.3525
+Fishy2's Implied Odds: -4
+Fishy2 raise 4.
+Somedude2 folds.
+
+
+NEWHAND:35
+
+['NEWHAND', '35', '1', 'Kh', 'Ts', '365', '235', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.595172']
+Active Players:2
+
+Our hand: Kh Ts
+Fishy2's VPIP: 0.176471
+Fishy2's PFR: 0.029412
+Fishy2's estimated fold percentage is 0.484848
+Fishy2's AF: 4.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.264706
+Somedude2's PFR: 0.029412
+Somedude2's estimated fold percentage is 0.382353
+Somedude2's AF: 0.500000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.029412
+SomeOtherdude2's PFR: 0.029412
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (364)
+Somedude2 posts big blind, stack size (233)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Kh Ts
+
+Fishy2's EV: 0.960000
+Fishy2's Equity: 0.592
+Fishy2's EV: 0.960000
+Fishy2's Equity: 0.592
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+
+***FLOP***(8) Board:(8d Tc 2c)
+Our hand: Kh Ts
+
+Somedude2 called 4.
+Somedude2 checks.
+Fishy2's EV: 6.152000
+Fishy2's Equity: 0.769
+Fishy2's EV: 6.152000
+Fishy2's Equity: 0.769
+Fishy2's Implied Odds: -8
+Fishy2 raise 2.
+Fishy2 bets 2.
+
+***TURN***(13) Board:(8d Tc 2c 4d)
+Our hand: Kh Ts
+
+Somedude2 bet 5.
+Fishy2's EV: 9.967000
+Fishy2's Equity: 0.8315
+Fishy2's EV: 9.967000
+Fishy2's Equity: 0.8315
+Fishy2's Implied Odds: -16
+Fishy2 raise 10.
+
+
+NEWHAND:36
+
+['NEWHAND', '36', '2', '9d', '3d', '239', '361', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.562339']
+Active Players:2
+
+Our hand: 9d 3d
+Somedude2's VPIP: 0.257143
+Somedude2's PFR: 0.028571
+Somedude2's estimated fold percentage is 0.382353
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.171429
+Fishy2's PFR: 0.028571
+Fishy2's estimated fold percentage is 0.484848
+Fishy2's AF: 5.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.028571
+SomeOtherdude2's PFR: 0.028571
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (238)
+Fishy2 posts big blind, stack size (359)
+
+
+***PREFLOP***(6) Board:()
+Our hand: 9d 3d
+
+Somedude2 raised to 4.
+Fishy2's EV: -0.045000
+Fishy2's Equity: 0.3955
+Fishy2's EV: -0.045000
+Fishy2's Equity: 0.3955
+Fishy2's Implied Odds: -3
+Fishy2 folds.
+
+
+NEWHAND:37
+
+['NEWHAND', '37', '1', '8s', 'Td', '359', '241', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.562041']
+Active Players:2
+
+Our hand: 8s Td
+Fishy2's VPIP: 0.166667
+Fishy2's PFR: 0.027778
+Fishy2's estimated fold percentage is 0.472222
+Fishy2's AF: 5.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.277778
+Somedude2's PFR: 0.027778
+Somedude2's estimated fold percentage is 0.382353
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.027778
+SomeOtherdude2's PFR: 0.027778
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (358)
+Somedude2 posts big blind, stack size (239)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 8s Td
+
+Fishy2's EV: 0.475000
+Fishy2's Equity: 0.495
+Fishy2's EV: 0.475000
+Fishy2's Equity: 0.495
+Fishy2's Implied Odds: -2
+Fishy2 raise 4.
+
+
+NEWHAND:38
+
+['NEWHAND', '38', '2', '2c', 'Kc', '242', '358', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.547451']
+Active Players:2
+
+Our hand: 2c Kc
+Somedude2's VPIP: 0.270270
+Somedude2's PFR: 0.027027
+Somedude2's estimated fold percentage is 0.382353
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.162162
+Fishy2's PFR: 0.027027
+Fishy2's estimated fold percentage is 0.486486
+Fishy2's AF: 5.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.027027
+SomeOtherdude2's PFR: 0.027027
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (241)
+Fishy2 posts big blind, stack size (356)
+
+
+***PREFLOP***(6) Board:()
+Our hand: 2c Kc
+
+Somedude2 raised to 4.
+Fishy2's EV: 1.320000
+Fishy2's Equity: 0.532
+Fishy2's EV: 1.320000
+Fishy2's Equity: 0.532
+Fishy2's Implied Odds: -6
+Fishy2 raise 6.
+
+
+NEWHAND:39
+
+['NEWHAND', '39', '1', '7h', '4s', '356', '244', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.526023']
+Active Players:2
+
+Our hand: 7h 4s
+Fishy2's VPIP: 0.157895
+Fishy2's PFR: 0.026316
+Fishy2's estimated fold percentage is 0.500000
+Fishy2's AF: 5.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.289474
+Somedude2's PFR: 0.026316
+Somedude2's estimated fold percentage is 0.382353
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.026316
+SomeOtherdude2's PFR: 0.026316
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (355)
+Somedude2 posts big blind, stack size (242)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 7h 4s
+
+Fishy2's EV: -0.117500
+Fishy2's Equity: 0.3765
+Fishy2's EV: -0.117500
+Fishy2's Equity: 0.3765
+Fishy2's Implied Odds: -1
+Fishy2 folds.
+Somedude2 folds.
+
+
+NEWHAND:40
+
+['NEWHAND', '40', '2', 'Ad', '6c', '242', '358', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.512175']
+Active Players:2
+
+Our hand: Ad 6c
+Somedude2's VPIP: 0.282051
+Somedude2's PFR: 0.025641
+Somedude2's estimated fold percentage is 0.358974
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.179487
+Fishy2's PFR: 0.025641
+Fishy2's estimated fold percentage is 0.500000
+Fishy2's AF: 5.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.025641
+SomeOtherdude2's PFR: 0.025641
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (241)
+Fishy2 posts big blind, stack size (356)
+
+Somedude2 folds.
+
+
+NEWHAND:41
+
+['NEWHAND', '41', '1', '2d', '6h', '359', '241', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.512175']
+Active Players:2
+
+Our hand: 2d 6h
+Fishy2's VPIP: 0.175000
+Fishy2's PFR: 0.025000
+Fishy2's estimated fold percentage is 0.500000
+Fishy2's AF: 5.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.275000
+Somedude2's PFR: 0.025000
+Somedude2's estimated fold percentage is 0.375000
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.025000
+SomeOtherdude2's PFR: 0.025000
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (358)
+Somedude2 posts big blind, stack size (239)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 2d 6h
+
+Fishy2's EV: -0.340000
+Fishy2's Equity: 0.332
+Fishy2's EV: -0.340000
+Fishy2's Equity: 0.332
+Fishy2's Implied Odds: 0
+Fishy2 folds.
+
+
+NEWHAND:42
+
+['NEWHAND', '42', '2', '4h', '7h', '242', '358', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.479421']
+Active Players:2
+
+Our hand: 4h 7h
+Somedude2's VPIP: 0.268293
+Somedude2's PFR: 0.024390
+Somedude2's estimated fold percentage is 0.375000
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.170732
+Fishy2's PFR: 0.024390
+Fishy2's estimated fold percentage is 0.487805
+Fishy2's AF: 5.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.024390
+SomeOtherdude2's PFR: 0.024390
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (241)
+Fishy2 posts big blind, stack size (356)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 4h 7h
+
+Somedude2 called 2.
+Fishy2's EV: 1.640000
+Fishy2's Equity: 0.41
+Fishy2's EV: 1.640000
+Fishy2's Equity: 0.41
+Fishy2's Implied Odds: -4
+Fishy2 raise 4.
+Somedude2 folds.
+
+
+NEWHAND:43
+
+['NEWHAND', '43', '1', '7h', '2d', '360', '240', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.466759']
+Active Players:2
+
+Our hand: 7h 2d
+Fishy2's VPIP: 0.190476
+Fishy2's PFR: 0.023810
+Fishy2's estimated fold percentage is 0.487805
+Fishy2's AF: 5.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.285714
+Somedude2's PFR: 0.023810
+Somedude2's estimated fold percentage is 0.380952
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.023810
+SomeOtherdude2's PFR: 0.023810
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (359)
+Somedude2 posts big blind, stack size (238)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 7h 2d
+
+Fishy2's EV: -0.330000
+Fishy2's Equity: 0.334
+Fishy2's EV: -0.330000
+Fishy2's Equity: 0.334
+Fishy2's Implied Odds: -1
+Fishy2 folds.
+
+
+NEWHAND:44
+
+['NEWHAND', '44', '2', '9h', 'As', '241', '359', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.458122']
+Active Players:2
+
+Our hand: 9h As
+Somedude2's VPIP: 0.279070
+Somedude2's PFR: 0.023256
+Somedude2's estimated fold percentage is 0.380952
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.186047
+Fishy2's PFR: 0.023256
+Fishy2's estimated fold percentage is 0.488372
+Fishy2's AF: 5.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.023256
+SomeOtherdude2's PFR: 0.023256
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (240)
+Fishy2 posts big blind, stack size (357)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 9h As
+
+Somedude2 called 2.
+Fishy2's EV: 2.386000
+Fishy2's Equity: 0.5965
+Fishy2's EV: 2.386000
+Fishy2's Equity: 0.5965
+Fishy2's Implied Odds: -4
+Fishy2 raise 4.
+
+***PREFLOP***(11) Board:()
+Our hand: 9h As
+
+Somedude2 raised to 7.
+Fishy2's EV: 3.737000
+Fishy2's Equity: 0.5965
+Fishy2's EV: 3.737000
+Fishy2's Equity: 0.5965
+Fishy2's Implied Odds: -13
+Fishy2 raise 10.
+
+***PREFLOP***(33) Board:()
+Our hand: 9h As
+
+Somedude2 raised to 23.
+Fishy2's EV: 10.404000
+Fishy2's Equity: 0.5965
+Fishy2's EV: 10.404000
+Fishy2's Equity: 0.5965
+Fishy2's Implied Odds: -40
+Fishy2 raise 69.
+
+***PREFLOP***(249) Board:()
+Our hand: 9h As
+
+Somedude2 raised to 180.
+Fishy2's EV: 75.898500
+Fishy2's Equity: 0.5965
+Fishy2's EV: 75.898500
+Fishy2's Equity: 0.5965
+Fishy2's Implied Odds: -307
+Fishy2 raise 241.
+Somedude2 folds.
+
+
+NEWHAND:45
+
+['NEWHAND', '45', '1', 'Td', '2s', '539', '61', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.407427']
+Active Players:2
+
+Our hand: Td 2s
+Fishy2's VPIP: 0.204545
+Fishy2's PFR: 0.022727
+Fishy2's estimated fold percentage is 0.488372
+Fishy2's AF: 5.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.295455
+Somedude2's PFR: 0.022727
+Somedude2's estimated fold percentage is 0.386364
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.022727
+SomeOtherdude2's PFR: 0.022727
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (538)
+Somedude2 posts big blind, stack size (59)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Td 2s
+
+Fishy2's EV: 0.020000
+Fishy2's Equity: 0.404
+Fishy2's EV: 0.020000
+Fishy2's Equity: 0.404
+Fishy2's Implied Odds: -2
+Fishy2 raise 4.
+
+***FLOP***(8) Board:(9c 8d 2h)
+Our hand: Td 2s
+
+Somedude2 called 4.
+Somedude2 checks.
+Fishy2's EV: 4.264000
+Fishy2's Equity: 0.533
+Fishy2's EV: 4.264000
+Fishy2's Equity: 0.533
+Fishy2's Implied Odds: -8
+Fishy2 raise 2.
+Fishy2 bets 2.
+
+***TURN***(13) Board:(9c 8d 2h 3h)
+Our hand: Td 2s
+
+Somedude2 bet 5.
+Fishy2's EV: 4.027000
+Fishy2's Equity: 0.5015
+Fishy2's EV: 4.027000
+Fishy2's Equity: 0.5015
+Fishy2's Implied Odds: -13
+Fishy2 raise 10.
+
+***TURN***(41) Board:(9c 8d 2h 3h)
+Our hand: Td 2s
+
+Somedude2 raised to 23.
+Fishy2's EV: 9.096000
+Fishy2's Equity: 0.5015
+Fishy2's EV: 9.096000
+Fishy2's Equity: 0.5015
+Fishy2's Implied Odds: -41
+Fishy2 raise 36.
+
+***RIVER***(83) Board:(9c 8d 2h 3h Ks)
+Our hand: Td 2s
+
+Somedude2 called 36.
+Somedude2 bet 3.
+Fishy2's EV: 36.525253
+Fishy2's Equity: 0.459595959596
+Fishy2's EV: 36.525253
+Fishy2's Equity: 0.459595959596
+Fishy2's Implied Odds: -82
+Fishy2 raise 21.
+Somedude2 folds.
+
+
+NEWHAND:46
+
+['NEWHAND', '46', '2', '8s', '2s', '18', '582', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.294343']
+Active Players:2
+
+Our hand: 8s 2s
+Somedude2's VPIP: 0.288889
+Somedude2's PFR: 0.022222
+Somedude2's estimated fold percentage is 0.386364
+Somedude2's AF: 0.333333
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.200000
+Fishy2's PFR: 0.022222
+Fishy2's estimated fold percentage is 0.488372
+Fishy2's AF: 6.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.022222
+SomeOtherdude2's PFR: 0.022222
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (17)
+Fishy2 posts big blind, stack size (580)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 8s 2s
+
+Somedude2 called 2.
+Fishy2's EV: 1.466000
+Fishy2's Equity: 0.3665
+Fishy2's EV: 1.466000
+Fishy2's Equity: 0.3665
+Fishy2's Implied Odds: -4
+Fishy2 raise 4.
+
+***FLOP***(8) Board:(2d 3h 8c)
+Our hand: 8s 2s
+
+Somedude2 called 4.
+Fishy2's EV: 7.028000
+Fishy2's Equity: 0.8785
+Fishy2's EV: 7.028000
+Fishy2's Equity: 0.8785
+Fishy2's Implied Odds: -8
+Fishy2 raise 2.
+Fishy2 bets 2.
+
+***FLOP***(15) Board:(2d 3h 8c)
+Our hand: 8s 2s
+
+Somedude2 bet 7.
+Fishy2's EV: 12.327000
+Fishy2's Equity: 0.8785
+Fishy2's EV: 12.327000
+Fishy2's Equity: 0.8785
+Fishy2's Implied Odds: -21
+Fishy2 raise 14.
+
+
+NEWHAND:47
+
+['NEWHAND', '47', '1', 'Td', 'Ad', '578', '22', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.275111']
+Active Players:2
+
+Our hand: Td Ad
+Fishy2's VPIP: 0.195652
+Fishy2's PFR: 0.021739
+Fishy2's estimated fold percentage is 0.488372
+Fishy2's AF: 7.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.304348
+Somedude2's PFR: 0.021739
+Somedude2's estimated fold percentage is 0.386364
+Somedude2's AF: 0.428571
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.021739
+SomeOtherdude2's PFR: 0.021739
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (577)
+Somedude2 posts big blind, stack size (20)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Td Ad
+
+Fishy2's EV: 1.302500
+Fishy2's Equity: 0.6605
+Fishy2's EV: 1.302500
+Fishy2's Equity: 0.6605
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+
+
+NEWHAND:48
+
+['NEWHAND', '48', '2', 'Ad', '3h', '23', '577', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.268185']
+Active Players:2
+
+Our hand: Ad 3h
+Somedude2's VPIP: 0.297872
+Somedude2's PFR: 0.021277
+Somedude2's estimated fold percentage is 0.386364
+Somedude2's AF: 0.428571
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.191489
+Fishy2's PFR: 0.021277
+Fishy2's estimated fold percentage is 0.468085
+Fishy2's AF: 7.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.021277
+SomeOtherdude2's PFR: 0.021277
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (22)
+Fishy2 posts big blind, stack size (575)
+
+Somedude2 folds.
+
+
+NEWHAND:49
+
+['NEWHAND', '49', '1', 'Th', 'Kd', '578', '22', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.268185']
+Active Players:2
+
+Our hand: Th Kd
+Fishy2's VPIP: 0.187500
+Fishy2's PFR: 0.020833
+Fishy2's estimated fold percentage is 0.468085
+Fishy2's AF: 7.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.291667
+Somedude2's PFR: 0.020833
+Somedude2's estimated fold percentage is 0.375000
+Somedude2's AF: 0.428571
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.020833
+SomeOtherdude2's PFR: 0.020833
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (577)
+Somedude2 posts big blind, stack size (20)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Th Kd
+
+Fishy2's EV: 1.052500
+Fishy2's Equity: 0.6105
+Fishy2's EV: 1.052500
+Fishy2's Equity: 0.6105
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+Somedude2 folds.
+
+
+NEWHAND:50
+
+['NEWHAND', '50', '2', '6d', '3s', '20', '580', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.220306']
+Active Players:2
+
+Our hand: 6d 3s
+Somedude2's VPIP: 0.285714
+Somedude2's PFR: 0.020408
+Somedude2's estimated fold percentage is 0.387755
+Somedude2's AF: 0.428571
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.204082
+Fishy2's PFR: 0.020408
+Fishy2's estimated fold percentage is 0.468085
+Fishy2's AF: 7.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.020408
+SomeOtherdude2's PFR: 0.020408
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (19)
+Fishy2 posts big blind, stack size (578)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 6d 3s
+
+Somedude2 called 2.
+Fishy2's EV: 1.484000
+Fishy2's Equity: 0.371
+Fishy2's EV: 1.484000
+Fishy2's Equity: 0.371
+Fishy2's Implied Odds: -4
+Fishy2 raise 4.
+Somedude2 folds.
+
+
+NEWHAND:51
+
+['NEWHAND', '51', '1', 'Jh', '6d', '582', '18', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.211740']
+Active Players:2
+
+Our hand: Jh 6d
+Fishy2's VPIP: 0.220000
+Fishy2's PFR: 0.020000
+Fishy2's estimated fold percentage is 0.468085
+Fishy2's AF: 7.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.300000
+Somedude2's PFR: 0.020000
+Somedude2's estimated fold percentage is 0.400000
+Somedude2's AF: 0.428571
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.020000
+SomeOtherdude2's PFR: 0.020000
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (581)
+Somedude2 posts big blind, stack size (16)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Jh 6d
+
+Fishy2's EV: 0.347500
+Fishy2's Equity: 0.4695
+Fishy2's EV: 0.347500
+Fishy2's Equity: 0.4695
+Fishy2's Implied Odds: -2
+Fishy2 raise 4.
+
+***PREFLOP***(15) Board:()
+Our hand: Jh 6d
+
+Somedude2 raised to 11.
+Fishy2's EV: 1.207000
+Fishy2's Equity: 0.4695
+Fishy2's EV: 1.207000
+Fishy2's Equity: 0.4695
+Fishy2's Implied Odds: -13
+Fishy2 raise 18.
+
+
+NEWHAND:52
+
+['NEWHAND', '52', '2', '6c', 'Td', '22', '578', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.168196']
+Active Players:2
+
+Our hand: 6c Td
+Somedude2's VPIP: 0.313725
+Somedude2's PFR: 0.019608
+Somedude2's estimated fold percentage is 0.400000
+Somedude2's AF: 0.428571
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.235294
+Fishy2's PFR: 0.019608
+Fishy2's estimated fold percentage is 0.450980
+Fishy2's AF: 7.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.019608
+SomeOtherdude2's PFR: 0.019608
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (21)
+Fishy2 posts big blind, stack size (576)
+
+
+***PREFLOP***(7) Board:()
+Our hand: 6c Td
+
+Somedude2 raised to 5.
+Fishy2's EV: 0.328000
+Fishy2's Equity: 0.444
+Fishy2's EV: 0.328000
+Fishy2's Equity: 0.444
+Fishy2's Implied Odds: -5
+Fishy2 raise 8.
+
+
+NEWHAND:53
+
+['NEWHAND', '53', '1', '8s', 'As', '576', '24', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.156755']
+Active Players:2
+
+Our hand: 8s As
+Fishy2's VPIP: 0.230769
+Fishy2's PFR: 0.019231
+Fishy2's estimated fold percentage is 0.461538
+Fishy2's AF: 7.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.326923
+Somedude2's PFR: 0.019231
+Somedude2's estimated fold percentage is 0.400000
+Somedude2's AF: 0.428571
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.019231
+SomeOtherdude2's PFR: 0.019231
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (575)
+Somedude2 posts big blind, stack size (22)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 8s As
+
+Fishy2's EV: 0.982500
+Fishy2's Equity: 0.5965
+Fishy2's EV: 0.982500
+Fishy2's Equity: 0.5965
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+
+
+NEWHAND:54
+
+['NEWHAND', '54', '2', '7h', 'Qh', '25', '575', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.147050']
+Active Players:2
+
+Our hand: 7h Qh
+Somedude2's VPIP: 0.320755
+Somedude2's PFR: 0.018868
+Somedude2's estimated fold percentage is 0.400000
+Somedude2's AF: 0.428571
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.226415
+Fishy2's PFR: 0.018868
+Fishy2's estimated fold percentage is 0.471698
+Fishy2's AF: 7.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.018868
+SomeOtherdude2's PFR: 0.018868
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (24)
+Fishy2 posts big blind, stack size (573)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 7h Qh
+
+Somedude2 called 2.
+Fishy2's EV: 2.198000
+Fishy2's Equity: 0.5495
+Fishy2's EV: 2.198000
+Fishy2's Equity: 0.5495
+Fishy2's Implied Odds: -4
+Fishy2 raise 4.
+
+***FLOP***(8) Board:(8c 9d 5c)
+Our hand: 7h Qh
+
+Somedude2 called 4.
+Fishy2's EV: 3.380000
+Fishy2's Equity: 0.4225
+Fishy2's EV: 3.380000
+Fishy2's Equity: 0.4225
+Fishy2's Implied Odds: -8
+Fishy2 raise 2.
+Fishy2 bets 2.
+
+***TURN***(8) Board:(8c 9d 5c Ac)
+Our hand: 7h Qh
+
+Somedude2 checks.
+Fishy2's EV: 2.612000
+Fishy2's Equity: 0.3265
+Fishy2's EV: 2.612000
+Fishy2's Equity: 0.3265
+Fishy2's Implied Odds: -8
+Fishy2 raise 2.
+Fishy2 bets 2.
+
+***TURN***(15) Board:(8c 9d 5c Ac)
+Our hand: 7h Qh
+
+Somedude2 bet 7.
+Fishy2's EV: 0.183000
+Fishy2's Equity: 0.3265
+Fishy2's EV: 0.183000
+Fishy2's Equity: 0.3265
+Fishy2's Implied Odds: -7
+Fishy2 raise 14.
+
+
+NEWHAND:55
+
+['NEWHAND', '55', '1', '7h', '2h', '571', '29', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.121464']
+Active Players:2
+
+Our hand: 7h 2h
+Fishy2's VPIP: 0.222222
+Fishy2's PFR: 0.018519
+Fishy2's estimated fold percentage is 0.471698
+Fishy2's AF: 8.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.333333
+Somedude2's PFR: 0.018519
+Somedude2's estimated fold percentage is 0.400000
+Somedude2's AF: 0.375000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.018519
+SomeOtherdude2's PFR: 0.018519
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (570)
+Somedude2 posts big blind, stack size (27)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 7h 2h
+
+Fishy2's EV: -0.107500
+Fishy2's Equity: 0.3785
+Fishy2's EV: -0.107500
+Fishy2's Equity: 0.3785
+Fishy2's Implied Odds: -1
+Fishy2 folds.
+
+
+NEWHAND:56
+
+['NEWHAND', '56', '2', '2d', 'Kc', '30', '570', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.116951']
+Active Players:2
+
+Our hand: 2d Kc
+Somedude2's VPIP: 0.327273
+Somedude2's PFR: 0.018182
+Somedude2's estimated fold percentage is 0.400000
+Somedude2's AF: 0.375000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.218182
+Fishy2's PFR: 0.018182
+Fishy2's estimated fold percentage is 0.472727
+Fishy2's AF: 8.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.018182
+SomeOtherdude2's PFR: 0.018182
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (29)
+Fishy2 posts big blind, stack size (568)
+
+
+***PREFLOP***(7) Board:()
+Our hand: 2d Kc
+
+Somedude2 raised to 5.
+Fishy2's EV: 0.946000
+Fishy2's Equity: 0.4955
+Fishy2's EV: 0.946000
+Fishy2's Equity: 0.4955
+Fishy2's Implied Odds: -6
+Fishy2 raise 8.
+
+
+NEWHAND:57
+
+['NEWHAND', '57', '1', 'Qh', 'Jh', '568', '32', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.110556']
+Active Players:2
+
+Our hand: Qh Jh
+Fishy2's VPIP: 0.214286
+Fishy2's PFR: 0.017857
+Fishy2's estimated fold percentage is 0.482143
+Fishy2's AF: 8.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.339286
+Somedude2's PFR: 0.017857
+Somedude2's estimated fold percentage is 0.400000
+Somedude2's AF: 0.375000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.017857
+SomeOtherdude2's PFR: 0.017857
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (567)
+Somedude2 posts big blind, stack size (30)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Qh Jh
+
+Fishy2's EV: 1.035000
+Fishy2's Equity: 0.607
+Fishy2's EV: 1.035000
+Fishy2's Equity: 0.607
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+
+
+NEWHAND:58
+
+['NEWHAND', '58', '2', '7d', '2c', '33', '567', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.103958']
+Active Players:2
+
+Our hand: 7d 2c
+Somedude2's VPIP: 0.333333
+Somedude2's PFR: 0.017544
+Somedude2's estimated fold percentage is 0.400000
+Somedude2's AF: 0.375000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.210526
+Fishy2's PFR: 0.017544
+Fishy2's estimated fold percentage is 0.491228
+Fishy2's AF: 8.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.017544
+SomeOtherdude2's PFR: 0.017544
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (32)
+Fishy2 posts big blind, stack size (565)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 7d 2c
+
+Somedude2 called 2.
+Fishy2's EV: 1.290000
+Fishy2's Equity: 0.3225
+Fishy2's EV: 1.290000
+Fishy2's Equity: 0.3225
+Fishy2's Implied Odds: -4
+Fishy2 raise 4.
+
+***FLOP***(8) Board:(Kd 8c 4d)
+Our hand: 7d 2c
+
+Somedude2 called 4.
+Fishy2's EV: 1.748000
+Fishy2's Equity: 0.2185
+Fishy2's EV: 1.748000
+Fishy2's Equity: 0.2185
+Fishy2's Implied Odds: -8
+Fishy2 raise 2.
+Fishy2 bets 2.
+
+***FLOP***(10) Board:(Kd 8c 4d)
+Our hand: 7d 2c
+
+Somedude2 bet 2.
+Fishy2's EV: 0.622000
+Fishy2's Equity: 0.2185
+Fishy2's EV: 0.622000
+Fishy2's Equity: 0.2185
+Fishy2's Implied Odds: -4
+Fishy2 raise 4.
+
+
+NEWHAND:59
+
+['NEWHAND', '59', '1', 'Td', 'Ah', '563', '37', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.084745']
+Active Players:2
+
+Our hand: Td Ah
+Fishy2's VPIP: 0.206897
+Fishy2's PFR: 0.017241
+Fishy2's estimated fold percentage is 0.491228
+Fishy2's AF: 9.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.344828
+Somedude2's PFR: 0.017241
+Somedude2's estimated fold percentage is 0.400000
+Somedude2's AF: 0.444444
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.017241
+SomeOtherdude2's PFR: 0.017241
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (562)
+Somedude2 posts big blind, stack size (35)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Td Ah
+
+Fishy2's EV: 1.062500
+Fishy2's Equity: 0.6125
+Fishy2's EV: 1.062500
+Fishy2's Equity: 0.6125
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+
+***PREFLOP***(13) Board:()
+Our hand: Td Ah
+
+Somedude2 raised to 9.
+Fishy2's EV: 4.475000
+Fishy2's Equity: 0.6125
+Fishy2's EV: 4.475000
+Fishy2's Equity: 0.6125
+Fishy2's Implied Odds: -16
+Fishy2 raise 14.
+
+
+NEWHAND:60
+
+['NEWHAND', '60', '2', '6c', 'Qs', '41', '559', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.073377']
+Active Players:2
+
+Our hand: 6c Qs
+Somedude2's VPIP: 0.355932
+Somedude2's PFR: 0.016949
+Somedude2's estimated fold percentage is 0.400000
+Somedude2's AF: 0.444444
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.220339
+Fishy2's PFR: 0.016949
+Fishy2's estimated fold percentage is 0.491525
+Fishy2's AF: 9.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.016949
+SomeOtherdude2's PFR: 0.016949
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (40)
+Fishy2 posts big blind, stack size (557)
+
+
+***PREFLOP***(7) Board:()
+Our hand: 6c Qs
+
+Somedude2 raised to 5.
+Fishy2's EV: 1.402000
+Fishy2's Equity: 0.5335
+Fishy2's EV: 1.402000
+Fishy2's Equity: 0.5335
+Fishy2's Implied Odds: -7
+Fishy2 raise 8.
+Somedude2 folds.
+
+
+NEWHAND:61
+
+['NEWHAND', '61', '1', 'Tc', '8h', '564', '36', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.067495']
+Active Players:2
+
+Our hand: Tc 8h
+Fishy2's VPIP: 0.233333
+Fishy2's PFR: 0.016667
+Fishy2's estimated fold percentage is 0.491525
+Fishy2's AF: 9.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.366667
+Somedude2's PFR: 0.016667
+Somedude2's estimated fold percentage is 0.350000
+Somedude2's AF: 0.444444
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.016667
+SomeOtherdude2's PFR: 0.016667
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (563)
+Somedude2 posts big blind, stack size (34)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Tc 8h
+
+Fishy2's EV: 0.570000
+Fishy2's Equity: 0.514
+Fishy2's EV: 0.570000
+Fishy2's Equity: 0.514
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+
+
+NEWHAND:62
+
+['NEWHAND', '62', '2', 'Kc', '4h', '37', '563', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.061425']
+Active Players:2
+
+Our hand: Kc 4h
+Somedude2's VPIP: 0.360656
+Somedude2's PFR: 0.016393
+Somedude2's estimated fold percentage is 0.350000
+Somedude2's AF: 0.444444
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.229508
+Fishy2's PFR: 0.016393
+Fishy2's estimated fold percentage is 0.491803
+Fishy2's AF: 9.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.016393
+SomeOtherdude2's PFR: 0.016393
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (36)
+Fishy2 posts big blind, stack size (561)
+
+Somedude2 folds.
+
+
+NEWHAND:63
+
+['NEWHAND', '63', '1', 'Ad', '8h', '564', '36', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.061425']
+Active Players:2
+
+Our hand: Ad 8h
+Fishy2's VPIP: 0.225806
+Fishy2's PFR: 0.016129
+Fishy2's estimated fold percentage is 0.491803
+Fishy2's AF: 9.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.354839
+Somedude2's PFR: 0.016129
+Somedude2's estimated fold percentage is 0.354839
+Somedude2's AF: 0.444444
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.016129
+SomeOtherdude2's PFR: 0.016129
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (563)
+Somedude2 posts big blind, stack size (34)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ad 8h
+
+Fishy2's EV: 1.045000
+Fishy2's Equity: 0.609
+Fishy2's EV: 1.045000
+Fishy2's Equity: 0.609
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+
+***PREFLOP***(11) Board:()
+Our hand: Ad 8h
+
+Somedude2 raised to 7.
+Fishy2's EV: 3.962000
+Fishy2's Equity: 0.609
+Fishy2's EV: 3.962000
+Fishy2's Equity: 0.609
+Fishy2's Implied Odds: -13
+Fishy2 raise 10.
+
+
+NEWHAND:64
+
+['NEWHAND', '64', '2', '3c', 'Jd', '40', '560', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.046689']
+Active Players:2
+
+Our hand: 3c Jd
+Somedude2's VPIP: 0.365079
+Somedude2's PFR: 0.015873
+Somedude2's estimated fold percentage is 0.354839
+Somedude2's AF: 0.444444
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.238095
+Fishy2's PFR: 0.015873
+Fishy2's estimated fold percentage is 0.492063
+Fishy2's AF: 9.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.015873
+SomeOtherdude2's PFR: 0.015873
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (39)
+Fishy2 posts big blind, stack size (558)
+
+
+***PREFLOP***(6) Board:()
+Our hand: 3c Jd
+
+Somedude2 raised to 4.
+Fishy2's EV: 0.780000
+Fishy2's Equity: 0.478
+Fishy2's EV: 0.780000
+Fishy2's Equity: 0.478
+Fishy2's Implied Odds: -5
+Fishy2 raise 6.
+
+***FLOP***(20) Board:(7d 5h 4s)
+Our hand: 3c Jd
+
+Somedude2 called 10.
+Fishy2's EV: 7.060000
+Fishy2's Equity: 0.353
+Fishy2's EV: 7.060000
+Fishy2's Equity: 0.353
+Fishy2's Implied Odds: -20
+Fishy2 raise 2.
+Fishy2 bets 2.
+
+***TURN***(20) Board:(7d 5h 4s Ah)
+Our hand: 3c Jd
+
+Somedude2 checks.
+Fishy2's EV: 6.110000
+Fishy2's Equity: 0.3055
+Fishy2's EV: 6.110000
+Fishy2's Equity: 0.3055
+Fishy2's Implied Odds: -20
+Fishy2 raise 2.
+Fishy2 bets 2.
+
+***RIVER***(20) Board:(7d 5h 4s Ah 3d)
+Our hand: 3c Jd
+
+Somedude2 checks.
+Fishy2's EV: 4.989899
+Fishy2's Equity: 0.249494949495
+Fishy2's EV: 4.989899
+Fishy2's Equity: 0.249494949495
+Fishy2's Implied Odds: -20
+Fishy2 raise 2.
+Fishy2 bets 2.
+Somedude2 checks.
+Fishy2 WTSD percentage is: 0.031250
+Somedude2 WTSD percentage is: 0.015625
+Somedude2 W$SD percentage is: 0.015625
+
+
+NEWHAND:65
+
+['NEWHAND', '65', '1', '8d', '6c', '550', '50', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.025078']
+Active Players:2
+
+Our hand: 8d 6c
+Fishy2's VPIP: 0.234375
+Fishy2's PFR: 0.015625
+Fishy2's estimated fold percentage is 0.492063
+Fishy2's AF: 10.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.375000
+Somedude2's PFR: 0.015625
+Somedude2's estimated fold percentage is 0.354839
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.015625
+SomeOtherdude2's PFR: 0.015625
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (549)
+Somedude2 posts big blind, stack size (48)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 8d 6c
+
+Fishy2's EV: 0.177500
+Fishy2's Equity: 0.4355
+Fishy2's EV: 0.177500
+Fishy2's Equity: 0.4355
+Fishy2's Implied Odds: -2
+Fishy2 raise 4.
+
+
+NEWHAND:66
+
+['NEWHAND', '66', '2', '5h', 'Jh', '51', '549', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.023307']
+Active Players:2
+
+Our hand: 5h Jh
+Somedude2's VPIP: 0.369231
+Somedude2's PFR: 0.015385
+Somedude2's estimated fold percentage is 0.354839
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.230769
+Fishy2's PFR: 0.015385
+Fishy2's estimated fold percentage is 0.492308
+Fishy2's AF: 10.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.015385
+SomeOtherdude2's PFR: 0.015385
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (50)
+Fishy2 posts big blind, stack size (547)
+
+Somedude2 folds.
+
+
+NEWHAND:67
+
+['NEWHAND', '67', '1', 'Qh', '3h', '550', '50', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.023307']
+Active Players:2
+
+Our hand: Qh 3h
+Fishy2's VPIP: 0.227273
+Fishy2's PFR: 0.015152
+Fishy2's estimated fold percentage is 0.492308
+Fishy2's AF: 10.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.363636
+Somedude2's PFR: 0.015152
+Somedude2's estimated fold percentage is 0.348485
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.015152
+SomeOtherdude2's PFR: 0.015152
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (549)
+Somedude2 posts big blind, stack size (48)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Qh 3h
+
+Fishy2's EV: 0.560000
+Fishy2's Equity: 0.512
+Fishy2's EV: 0.560000
+Fishy2's Equity: 0.512
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+Somedude2 folds.
+
+
+NEWHAND:68
+
+['NEWHAND', '68', '2', 'Jh', 'Kd', '48', '552', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '9.014920']
+Active Players:2
+
+Our hand: Jh Kd
+Somedude2's VPIP: 0.358209
+Somedude2's PFR: 0.014925
+Somedude2's estimated fold percentage is 0.358209
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.238806
+Fishy2's PFR: 0.014925
+Fishy2's estimated fold percentage is 0.492308
+Fishy2's AF: 10.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.014925
+SomeOtherdude2's PFR: 0.014925
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (47)
+Fishy2 posts big blind, stack size (550)
+
+
+***PREFLOP***(4) Board:()
+Our hand: Jh Kd
+
+Somedude2 called 2.
+Fishy2's EV: 2.496000
+Fishy2's Equity: 0.624
+Fishy2's EV: 2.496000
+Fishy2's Equity: 0.624
+Fishy2's Implied Odds: -4
+Fishy2 raise 4.
+
+***PREFLOP***(11) Board:()
+Our hand: Jh Kd
+
+Somedude2 raised to 7.
+Fishy2's EV: 4.232000
+Fishy2's Equity: 0.624
+Fishy2's EV: 4.232000
+Fishy2's Equity: 0.624
+Fishy2's Implied Odds: -13
+Fishy2 raise 10.
+Somedude2 folds.
+
+
+NEWHAND:69
+
+['NEWHAND', '69', '1', '4c', '2d', '559', '41', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '8.998271']
+Active Players:2
+
+Our hand: 4c 2d
+Fishy2's VPIP: 0.250000
+Fishy2's PFR: 0.014706
+Fishy2's estimated fold percentage is 0.492308
+Fishy2's AF: 10.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.367647
+Somedude2's PFR: 0.014706
+Somedude2's estimated fold percentage is 0.367647
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.014706
+SomeOtherdude2's PFR: 0.014706
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (558)
+Somedude2 posts big blind, stack size (39)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 4c 2d
+
+Fishy2's EV: -0.417500
+Fishy2's Equity: 0.3165
+Fishy2's EV: -0.417500
+Fishy2's Equity: 0.3165
+Fishy2's Implied Odds: 0
+Fishy2 folds.
+
+
+NEWHAND:70
+
+['NEWHAND', '70', '2', 'Jd', 'Ah', '42', '558', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '8.987734']
+Active Players:2
+
+Our hand: Jd Ah
+Somedude2's VPIP: 0.362319
+Somedude2's PFR: 0.014493
+Somedude2's estimated fold percentage is 0.367647
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.246377
+Fishy2's PFR: 0.014493
+Fishy2's estimated fold percentage is 0.478261
+Fishy2's AF: 10.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.014493
+SomeOtherdude2's PFR: 0.014493
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (41)
+Fishy2 posts big blind, stack size (556)
+
+
+***PREFLOP***(7) Board:()
+Our hand: Jd Ah
+
+Somedude2 raised to 5.
+Fishy2's EV: 2.716000
+Fishy2's Equity: 0.643
+Fishy2's EV: 2.716000
+Fishy2's Equity: 0.643
+Fishy2's Implied Odds: -9
+Fishy2 raise 8.
+Somedude2 folds.
+
+
+NEWHAND:71
+
+['NEWHAND', '71', '1', '3d', 'Ks', '563', '37', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '8.980583']
+Active Players:2
+
+Our hand: 3d Ks
+Fishy2's VPIP: 0.257143
+Fishy2's PFR: 0.014286
+Fishy2's estimated fold percentage is 0.478261
+Fishy2's AF: 10.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.371429
+Somedude2's PFR: 0.014286
+Somedude2's estimated fold percentage is 0.371429
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.014286
+SomeOtherdude2's PFR: 0.014286
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (562)
+Somedude2 posts big blind, stack size (35)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 3d Ks
+
+Fishy2's EV: 0.745000
+Fishy2's Equity: 0.549
+Fishy2's EV: 0.745000
+Fishy2's Equity: 0.549
+Fishy2's Implied Odds: -3
+Fishy2 raise 4.
+
+***PREFLOP***(15) Board:()
+Our hand: 3d Ks
+
+Somedude2 raised to 11.
+Fishy2's EV: 3.274000
+Fishy2's Equity: 0.549
+Fishy2's EV: 3.274000
+Fishy2's Equity: 0.549
+Fishy2's Implied Odds: -16
+Fishy2 raise 18.
+
+***PREFLOP***(49) Board:()
+Our hand: 3d Ks
+
+Somedude2 raised to 31.
+Fishy2's EV: 12.920000
+Fishy2's Equity: 0.549
+Fishy2's EV: 12.920000
+Fishy2's Equity: 0.549
+Fishy2's Implied Odds: -54
+Fishy2 raise 37.
+Somedude2 folds.
+
+
+NEWHAND:72
+
+['NEWHAND', '72', '2', 'Ad', 'Qs', '6', '594', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '8.960568']
+Active Players:2
+
+Our hand: Ad Qs
+Somedude2's VPIP: 0.380282
+Somedude2's PFR: 0.014085
+Somedude2's estimated fold percentage is 0.380282
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.267606
+Fishy2's PFR: 0.014085
+Fishy2's estimated fold percentage is 0.478261
+Fishy2's AF: 10.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.014085
+SomeOtherdude2's PFR: 0.014085
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (5)
+Fishy2 posts big blind, stack size (592)
+
+Somedude2 folds.
+
+
+NEWHAND:73
+
+['NEWHAND', '73', '1', '2d', '3s', '595', '5', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '8.960568']
+Active Players:2
+
+Our hand: 2d 3s
+Fishy2's VPIP: 0.263889
+Fishy2's PFR: 0.013889
+Fishy2's estimated fold percentage is 0.478261
+Fishy2's AF: 10.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.375000
+Somedude2's PFR: 0.013889
+Somedude2's estimated fold percentage is 0.388889
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.013889
+SomeOtherdude2's PFR: 0.013889
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (594)
+Somedude2 posts big blind, stack size (3)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 2d 3s
+
+Fishy2's EV: -0.535000
+Fishy2's Equity: 0.293
+Fishy2's EV: -0.535000
+Fishy2's Equity: 0.293
+Fishy2's Implied Odds: 0
+Fishy2 folds.
+
+
+NEWHAND:74
+
+['NEWHAND', '74', '2', '3d', '2d', '6', '594', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '8.952680']
+Active Players:2
+
+Our hand: 3d 2d
+Somedude2's VPIP: 0.369863
+Somedude2's PFR: 0.013699
+Somedude2's estimated fold percentage is 0.388889
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.260274
+Fishy2's PFR: 0.013699
+Fishy2's estimated fold percentage is 0.465753
+Fishy2's AF: 10.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.013699
+SomeOtherdude2's PFR: 0.013699
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (5)
+Fishy2 posts big blind, stack size (592)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 3d 2d
+
+Somedude2 called 2.
+Fishy2's EV: 1.402000
+Fishy2's Equity: 0.3505
+Fishy2's EV: 1.402000
+Fishy2's Equity: 0.3505
+Fishy2's Implied Odds: -4
+Fishy2 raise 4.
+Somedude2 folds.
+
+
+NEWHAND:75
+
+['NEWHAND', '75', '1', '7h', '2d', '596', '4', '0', 'Fishy2', 'Somedude2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '8.945092']
+Active Players:2
+
+Our hand: 7h 2d
+Fishy2's VPIP: 0.270270
+Fishy2's PFR: 0.013514
+Fishy2's estimated fold percentage is 0.465753
+Fishy2's AF: 10.000000
+Fishy2's Player Type: NIT
+Somedude2's VPIP: 0.378378
+Somedude2's PFR: 0.013514
+Somedude2's estimated fold percentage is 0.391892
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.013514
+SomeOtherdude2's PFR: 0.013514
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Fishy2 posts small blind/and is dealer, stack size (595)
+Somedude2 posts big blind, stack size (2)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 7h 2d
+
+Fishy2's EV: -0.330000
+Fishy2's Equity: 0.334
+Fishy2's EV: -0.330000
+Fishy2's Equity: 0.334
+Fishy2's Implied Odds: -1
+Fishy2 folds.
+
+
+NEWHAND:76
+
+['NEWHAND', '76', '2', '3c', 'Js', '5', '595', '0', 'Somedude2', 'Fishy2', 'SomeOtherdude2', '2', 'true', 'true', 'false', '8.937064']
+Active Players:2
+
+Our hand: 3c Js
+Somedude2's VPIP: 0.373333
+Somedude2's PFR: 0.013333
+Somedude2's estimated fold percentage is 0.391892
+Somedude2's AF: 0.400000
+Somedude2's Player Type: NIT
+Fishy2's VPIP: 0.266667
+Fishy2's PFR: 0.013333
+Fishy2's estimated fold percentage is 0.466667
+Fishy2's AF: 10.000000
+Fishy2's Player Type: NIT
+SomeOtherdude2's VPIP: 0.013333
+SomeOtherdude2's PFR: 0.013333
+SomeOtherdude2's estimated fold percentage is 0.000000
+SomeOtherdude2's AF: 0.000000
+SomeOtherdude2's Player Type: NIT
+SomeOtherdude2 is eliminated
+
+Somedude2 posts small blind/and is dealer, stack size (4)
+Fishy2 posts big blind, stack size (593)
+
+
+***PREFLOP***(6) Board:()
+Our hand: 3c Js
+
+Somedude2 raised to 4.
+Fishy2's EV: 0.705000
+Fishy2's Equity: 0.4705
+Fishy2's EV: 0.705000
+Fishy2's Equity: 0.4705
+Fishy2's Implied Odds: -5
+Fishy2 raise 5.
+Somedude2 called 5.
+Fishy2 WTSD percentage is: 0.039474
+Somedude2 WTSD percentage is: 0.026316
+Fishy2 W$SD percentage is: 0.026316
 Gameover, engine disconnected.
