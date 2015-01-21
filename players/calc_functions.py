@@ -27,16 +27,6 @@ def foldEquity(pot,ev,foldPercentage1,foldPercentage2 = None):
         opp2Fold = pot*foldPercentage2 + (1.0-float(foldPercentage2))*ev
         foldEquities.append(opp2Fold)       
     return foldEquities
-
-def foldBet():
-    
-
-    if "BET" in avail_actions:
-        minBet = avail_actions["BET"][0]
-        maxBet = avail_actions["BET"][-1]
-    elif "RAISE" in avail_actions:
-        minBet = avail_actions["RAISE"][0]
-        maxBet = avail_actions["RAISE"][-1]
     
 def expectedValue(equities,pot_size,bet):
     ourEquity = equities.ev[0]
@@ -50,9 +40,29 @@ def potOdds(pot_size,bet):
     return float(bet)/pot_size
 def impliedOdds(equities,pot_size,bet):
     ourEquity = equities.ev[0]
-    x = float(bet) / ourEquity
+    if ourEquity == 0.0:
+        x = 10000
+    else:
+        x = float(bet) / ourEquity
     y = pot_size + bet + bet
     impliedOdds = x - y
     return impliedOdds
 def potOdds(pot_size,bet):
     return 1.0 - (float(bet) / pot_size)
+def maxBetEV(pot_size,equity,our_bot_stack):
+    if equity == 1.0:
+        maxBet = our_bot_stack
+    else:
+        maxBet = (float(pot_size)* equity)/ (1.0 - equity)
+    return int(maxBet)
+def foldPercentageNeeded(pot_size,bet,equity):
+        num = -2.0 * bet * equity + bet - pot_size*equity
+        denom = -2.0 * bet * equity + bet - pot*equity + pot
+        return float(num) / denom
+def foldBet(foldPercentage, pot_size,our_bot_stack):
+    if foldPercentage == 1.0:
+        maxBetFold = our_bot_stack
+    else:
+        maxBetFold = (foldPercentage * pot_size )/ (1.0 - foldPercentage)
+    return int(maxBetFold)
+

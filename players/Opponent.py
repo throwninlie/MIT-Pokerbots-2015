@@ -60,6 +60,16 @@ class Opponent:
         #M ratio
         self.M = 0.0
 
+        #last player's action
+        self.action = ""
+        self.lastBet = 0.0
+    def updateAction(self,action,bet = None):
+        self.action = action
+        if bet is not None:
+            self.lastBet = bet
+    def getAction(self):
+        return self.action
+
     #updates stack value of player
     def updateStack(self,stack):
         self.stackSize = stack   
@@ -70,6 +80,7 @@ class Opponent:
     #updates whether eliminated or not
     def updateEliminated(self):
         #if eliminated this becomes true
+        self.playingHand = False
         self.eliminated = True
 
     #whether the player is eliminated from tournament or not
@@ -108,7 +119,7 @@ class Opponent:
         self.seat = seat
     #returns seat of player
 
-    def seat(self):
+    def getSeat(self):
         return self.seat
 
     #returns whether a player is playing in a hand or not (bool value)
@@ -240,7 +251,6 @@ class Opponent:
             self.playerType = "SHARK"
 
         #Bombs are loose preflop, but also aggressive pre- and postflop.
-        #call, but don't raise as much
         elif self.VPIP <= .25 and self.PFR >= .13 and self.AFflop >= 5:        
             self.playerType = "BOMB"
 

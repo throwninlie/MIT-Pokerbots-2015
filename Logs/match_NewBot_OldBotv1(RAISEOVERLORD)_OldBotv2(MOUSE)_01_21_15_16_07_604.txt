@@ -1,0 +1,2147 @@
+6.176 MIT Pokerbots - NewBot vs OldBotv1(RAISEOVERLORD) vs OldBotv2(MOUSE) (stack=200, bb=2)
+Hand #1, NewBot (200), OldBotv1(RAISEOVERLORD) (200), OldBotv2(MOUSE) (200)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [9h 3d]
+Dealt to OldBotv1(RAISEOVERLORD) [2c 9s]
+Dealt to OldBotv2(MOUSE) [8c 2h]
+NewBot folds
+OldBotv1(RAISEOVERLORD) folds
+OldBotv2(MOUSE) wins the pot (3)
+
+Hand #2, OldBotv2(MOUSE) (201), NewBot (200), OldBotv1(RAISEOVERLORD) (199)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [2s 4h]
+Dealt to NewBot [Ac 7c]
+Dealt to OldBotv1(RAISEOVERLORD) [3s Ks]
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #3, OldBotv1(RAISEOVERLORD) (200), OldBotv2(MOUSE) (201), NewBot (199)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Kh 3s]
+Dealt to OldBotv2(MOUSE) [Ah As]
+Dealt to NewBot [Ks 5s]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (7)
+
+Hand #4, NewBot (197), OldBotv1(RAISEOVERLORD) (203), OldBotv2(MOUSE) (200)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [5s Qh]
+Dealt to OldBotv1(RAISEOVERLORD) [Kd Jh]
+Dealt to OldBotv2(MOUSE) [2s 4h]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #5, OldBotv2(MOUSE) (198), NewBot (197), OldBotv1(RAISEOVERLORD) (205)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [5d Kc]
+Dealt to NewBot [Qh 8h]
+Dealt to OldBotv1(RAISEOVERLORD) [8s Td]
+OldBotv2(MOUSE) calls 2
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (9) [8d 5c Ah]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) bets 3
+OldBotv1(RAISEOVERLORD) raises to 6
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (18)
+
+Hand #6, OldBotv1(RAISEOVERLORD) (213), OldBotv2(MOUSE) (191), NewBot (196)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [5h 5c]
+Dealt to OldBotv2(MOUSE) [2h 8d]
+Dealt to NewBot [2d Tc]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+NewBot calls 4
+*** FLOP *** (9) [7h 7c 4h]
+NewBot checks
+OldBotv1(RAISEOVERLORD) checks
+*** TURN *** (9) [7h 7c 4h] [4c]
+NewBot checks
+OldBotv1(RAISEOVERLORD) checks
+*** RIVER *** (9) [7h 7c 4h 4c] [Qd]
+NewBot checks
+OldBotv1(RAISEOVERLORD) checks
+OldBotv1(RAISEOVERLORD) shows [5h 5c]
+NewBot shows [2d Tc]
+OldBotv1(RAISEOVERLORD) wins the pot (9)
+
+Hand #7, NewBot (192), OldBotv1(RAISEOVERLORD) (218), OldBotv2(MOUSE) (190)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [3s 7c]
+Dealt to OldBotv1(RAISEOVERLORD) [Tc 5c]
+Dealt to OldBotv2(MOUSE) [Qs Kc]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #8, OldBotv2(MOUSE) (188), NewBot (192), OldBotv1(RAISEOVERLORD) (220)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [7s Kc]
+Dealt to NewBot [Jh As]
+Dealt to OldBotv1(RAISEOVERLORD) [3d Kh]
+OldBotv2(MOUSE) calls 2
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (9) [Th 6c Jd]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** TURN *** (9) [Th 6c Jd] [3c]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** RIVER *** (9) [Th 6c Jd 3c] [2c]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+OldBotv2(MOUSE) shows [7s Kc]
+OldBotv1(RAISEOVERLORD) shows [3d Kh]
+OldBotv1(RAISEOVERLORD) wins the pot (9)
+
+Hand #9, OldBotv1(RAISEOVERLORD) (225), OldBotv2(MOUSE) (184), NewBot (191)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [4d Ks]
+Dealt to OldBotv2(MOUSE) [Kd 3s]
+Dealt to NewBot [7h 5h]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+NewBot calls 4
+*** FLOP *** (12) [Kc 5c 5d]
+OldBotv2(MOUSE) bets 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 24
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (40)
+
+Hand #10, NewBot (187), OldBotv1(RAISEOVERLORD) (237), OldBotv2(MOUSE) (176)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [Kh 2h]
+Dealt to OldBotv1(RAISEOVERLORD) [Qs Ks]
+Dealt to OldBotv2(MOUSE) [6s 4c]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #11, OldBotv2(MOUSE) (174), NewBot (187), OldBotv1(RAISEOVERLORD) (239)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Qd 6h]
+Dealt to NewBot [7s 7d]
+Dealt to OldBotv1(RAISEOVERLORD) [7c 9h]
+OldBotv2(MOUSE) calls 2
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (9) [9d 6s 4d]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) bets 9
+OldBotv1(RAISEOVERLORD) raises to 36
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (54)
+
+Hand #12, OldBotv1(RAISEOVERLORD) (253), OldBotv2(MOUSE) (161), NewBot (186)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Qd Jd]
+Dealt to OldBotv2(MOUSE) [9h 3h]
+Dealt to NewBot [8h 7s]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (7)
+
+Hand #13, NewBot (184), OldBotv1(RAISEOVERLORD) (256), OldBotv2(MOUSE) (160)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [2c Jc]
+Dealt to OldBotv1(RAISEOVERLORD) [Tc 2s]
+Dealt to OldBotv2(MOUSE) [7c 6s]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #14, OldBotv2(MOUSE) (158), NewBot (184), OldBotv1(RAISEOVERLORD) (258)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Ad Ts]
+Dealt to NewBot [7s 3d]
+Dealt to OldBotv1(RAISEOVERLORD) [Td Kh]
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #15, OldBotv1(RAISEOVERLORD) (259), OldBotv2(MOUSE) (158), NewBot (183)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [As 8s]
+Dealt to OldBotv2(MOUSE) [Qs Td]
+Dealt to NewBot [6c Ks]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+NewBot folds
+*** FLOP *** (10) [Js Ad 2h]
+OldBotv2(MOUSE) checks
+OldBotv1(RAISEOVERLORD) checks
+*** TURN *** (10) [Js Ad 2h] [4h]
+OldBotv2(MOUSE) checks
+OldBotv1(RAISEOVERLORD) checks
+*** RIVER *** (10) [Js Ad 2h 4h] [8h]
+OldBotv2(MOUSE) checks
+OldBotv1(RAISEOVERLORD) checks
+OldBotv1(RAISEOVERLORD) shows [As 8s]
+OldBotv2(MOUSE) shows [Qs Td]
+OldBotv1(RAISEOVERLORD) wins the pot (10)
+
+Hand #16, NewBot (181), OldBotv1(RAISEOVERLORD) (265), OldBotv2(MOUSE) (154)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [Tc 4c]
+Dealt to OldBotv1(RAISEOVERLORD) [6h Qs]
+Dealt to OldBotv2(MOUSE) [Th 6s]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (8) [Kh 7h 9c]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** TURN *** (8) [Kh 7h 9c] [5c]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** RIVER *** (8) [Kh 7h 9c 5c] [Ah]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+OldBotv1(RAISEOVERLORD) shows [6h Qs]
+OldBotv2(MOUSE) shows [Th 6s]
+OldBotv1(RAISEOVERLORD) wins the pot (8)
+
+Hand #17, OldBotv2(MOUSE) (150), NewBot (181), OldBotv1(RAISEOVERLORD) (269)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [2h Qs]
+Dealt to NewBot [Kc 3h]
+Dealt to OldBotv1(RAISEOVERLORD) [6s 5h]
+OldBotv2(MOUSE) calls 2
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (9) [7d Kd 5s]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** TURN *** (9) [7d Kd 5s] [Ac]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** RIVER *** (9) [7d Kd 5s Ac] [Jh]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+OldBotv2(MOUSE) shows [2h Qs]
+OldBotv1(RAISEOVERLORD) shows [6s 5h]
+OldBotv1(RAISEOVERLORD) wins the pot (9)
+
+Hand #18, OldBotv1(RAISEOVERLORD) (274), OldBotv2(MOUSE) (146), NewBot (180)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [7s 8s]
+Dealt to OldBotv2(MOUSE) [2d 3h]
+Dealt to NewBot [2s 9h]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (7)
+
+Hand #19, NewBot (178), OldBotv1(RAISEOVERLORD) (277), OldBotv2(MOUSE) (145)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [8c As]
+Dealt to OldBotv1(RAISEOVERLORD) [2c Jd]
+Dealt to OldBotv2(MOUSE) [7c 2h]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #20, OldBotv2(MOUSE) (143), NewBot (178), OldBotv1(RAISEOVERLORD) (279)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Th 8d]
+Dealt to NewBot [Qs 9d]
+Dealt to OldBotv1(RAISEOVERLORD) [Kh Jd]
+OldBotv2(MOUSE) calls 2
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (9) [4s 2d Ah]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** TURN *** (9) [4s 2d Ah] [2c]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** RIVER *** (9) [4s 2d Ah 2c] [3h]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+OldBotv2(MOUSE) shows [Th 8d]
+OldBotv1(RAISEOVERLORD) shows [Kh Jd]
+OldBotv1(RAISEOVERLORD) wins the pot (9)
+
+Hand #21, OldBotv1(RAISEOVERLORD) (284), OldBotv2(MOUSE) (139), NewBot (177)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [4c Ah]
+Dealt to OldBotv2(MOUSE) [5h 4s]
+Dealt to NewBot [Ks 2h]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (7)
+
+Hand #22, NewBot (175), OldBotv1(RAISEOVERLORD) (287), OldBotv2(MOUSE) (138)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [2h 3h]
+Dealt to OldBotv1(RAISEOVERLORD) [Td 7s]
+Dealt to OldBotv2(MOUSE) [5s Qh]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (8) [6c 9c 6s]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** TURN *** (8) [6c 9c 6s] [Ac]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** RIVER *** (8) [6c 9c 6s Ac] [Js]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+OldBotv1(RAISEOVERLORD) shows [Td 7s]
+OldBotv2(MOUSE) shows [5s Qh]
+OldBotv2(MOUSE) wins the pot (8)
+
+Hand #23, OldBotv2(MOUSE) (142), NewBot (175), OldBotv1(RAISEOVERLORD) (283)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [3d 9c]
+Dealt to NewBot [7c Jh]
+Dealt to OldBotv1(RAISEOVERLORD) [7s Qd]
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #24, OldBotv1(RAISEOVERLORD) (284), OldBotv2(MOUSE) (142), NewBot (174)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [9c 2d]
+Dealt to OldBotv2(MOUSE) [As Jd]
+Dealt to NewBot [7c 7d]
+OldBotv1(RAISEOVERLORD) folds
+OldBotv2(MOUSE) folds
+NewBot wins the pot (3)
+
+Hand #25, NewBot (175), OldBotv1(RAISEOVERLORD) (284), OldBotv2(MOUSE) (141)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [2c 6c]
+Dealt to OldBotv1(RAISEOVERLORD) [Td 2d]
+Dealt to OldBotv2(MOUSE) [3h 4d]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #26, OldBotv2(MOUSE) (139), NewBot (175), OldBotv1(RAISEOVERLORD) (286)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Ad 5c]
+Dealt to NewBot [Kd 3s]
+Dealt to OldBotv1(RAISEOVERLORD) [2s Qh]
+OldBotv2(MOUSE) calls 2
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (9) [3c 6s Tc]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** TURN *** (9) [3c 6s Tc] [2h]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** RIVER *** (9) [3c 6s Tc 2h] [2d]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+OldBotv2(MOUSE) shows [Ad 5c]
+OldBotv1(RAISEOVERLORD) shows [2s Qh]
+OldBotv1(RAISEOVERLORD) wins the pot (9)
+
+Hand #27, OldBotv1(RAISEOVERLORD) (291), OldBotv2(MOUSE) (135), NewBot (174)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [3d Jc]
+Dealt to OldBotv2(MOUSE) [Ah 2c]
+Dealt to NewBot [Qd 5s]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+NewBot folds
+*** FLOP *** (10) [8h Qh 3s]
+OldBotv2(MOUSE) checks
+OldBotv1(RAISEOVERLORD) checks
+*** TURN *** (10) [8h Qh 3s] [Qs]
+OldBotv2(MOUSE) checks
+OldBotv1(RAISEOVERLORD) checks
+*** RIVER *** (10) [8h Qh 3s Qs] [2s]
+OldBotv2(MOUSE) checks
+OldBotv1(RAISEOVERLORD) checks
+OldBotv1(RAISEOVERLORD) shows [3d Jc]
+OldBotv2(MOUSE) shows [Ah 2c]
+OldBotv1(RAISEOVERLORD) wins the pot (10)
+
+Hand #28, NewBot (172), OldBotv1(RAISEOVERLORD) (297), OldBotv2(MOUSE) (131)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [3c 7d]
+Dealt to OldBotv1(RAISEOVERLORD) [3s 3h]
+Dealt to OldBotv2(MOUSE) [9d Qd]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (8) [Qh 6d 5c]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) bets 2
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (14)
+
+Hand #29, OldBotv2(MOUSE) (125), NewBot (172), OldBotv1(RAISEOVERLORD) (303)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [7c 7h]
+Dealt to NewBot [3c As]
+Dealt to OldBotv1(RAISEOVERLORD) [8h Ah]
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #30, OldBotv1(RAISEOVERLORD) (304), OldBotv2(MOUSE) (125), NewBot (171)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [2s Ac]
+Dealt to OldBotv2(MOUSE) [Js Qh]
+Dealt to NewBot [8s 6d]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+NewBot folds
+*** FLOP *** (10) [Qc 3c Td]
+OldBotv2(MOUSE) bets 2
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (16)
+
+Hand #31, NewBot (169), OldBotv1(RAISEOVERLORD) (312), OldBotv2(MOUSE) (119)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [7s 9s]
+Dealt to OldBotv1(RAISEOVERLORD) [5h Ks]
+Dealt to OldBotv2(MOUSE) [Td 4s]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #32, OldBotv2(MOUSE) (117), NewBot (169), OldBotv1(RAISEOVERLORD) (314)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [7h Kc]
+Dealt to NewBot [7c Kd]
+Dealt to OldBotv1(RAISEOVERLORD) [As Ac]
+OldBotv2(MOUSE) calls 2
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (9) [3d 6c 5h]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** TURN *** (9) [3d 6c 5h] [Jh]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** RIVER *** (9) [3d 6c 5h Jh] [6h]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+OldBotv2(MOUSE) shows [7h Kc]
+OldBotv1(RAISEOVERLORD) shows [As Ac]
+OldBotv1(RAISEOVERLORD) wins the pot (9)
+
+Hand #33, OldBotv1(RAISEOVERLORD) (319), OldBotv2(MOUSE) (113), NewBot (168)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [4d 8d]
+Dealt to OldBotv2(MOUSE) [2s 4c]
+Dealt to NewBot [6c 6d]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (7)
+
+Hand #34, NewBot (166), OldBotv1(RAISEOVERLORD) (322), OldBotv2(MOUSE) (112)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [3h 8c]
+Dealt to OldBotv1(RAISEOVERLORD) [Kc Js]
+Dealt to OldBotv2(MOUSE) [Jd 7d]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (8) [6s Ad Qc]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** TURN *** (8) [6s Ad Qc] [Td]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** RIVER *** (8) [6s Ad Qc Td] [4s]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+OldBotv1(RAISEOVERLORD) shows [Kc Js]
+OldBotv2(MOUSE) shows [Jd 7d]
+OldBotv1(RAISEOVERLORD) wins the pot (8)
+
+Hand #35, OldBotv2(MOUSE) (108), NewBot (166), OldBotv1(RAISEOVERLORD) (326)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [8h Ks]
+Dealt to NewBot [Jd Ac]
+Dealt to OldBotv1(RAISEOVERLORD) [Tc 9d]
+OldBotv2(MOUSE) calls 2
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (9) [5d 7s 8d]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) bets 3
+OldBotv1(RAISEOVERLORD) raises to 6
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (18)
+
+Hand #36, OldBotv1(RAISEOVERLORD) (334), OldBotv2(MOUSE) (101), NewBot (165)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [3s Kc]
+Dealt to OldBotv2(MOUSE) [Jh 4h]
+Dealt to NewBot [3c 2d]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+NewBot folds
+*** FLOP *** (10) [Qd 4c 9d]
+OldBotv2(MOUSE) checks
+OldBotv1(RAISEOVERLORD) checks
+*** TURN *** (10) [Qd 4c 9d] [Ad]
+OldBotv2(MOUSE) checks
+OldBotv1(RAISEOVERLORD) checks
+*** RIVER *** (10) [Qd 4c 9d Ad] [Ah]
+OldBotv2(MOUSE) checks
+OldBotv1(RAISEOVERLORD) checks
+OldBotv1(RAISEOVERLORD) shows [3s Kc]
+OldBotv2(MOUSE) shows [Jh 4h]
+OldBotv2(MOUSE) wins the pot (10)
+
+Hand #37, NewBot (163), OldBotv1(RAISEOVERLORD) (330), OldBotv2(MOUSE) (107)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [5s 5h]
+Dealt to OldBotv1(RAISEOVERLORD) [Ad Ks]
+Dealt to OldBotv2(MOUSE) [8d 8s]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #38, OldBotv2(MOUSE) (105), NewBot (163), OldBotv1(RAISEOVERLORD) (332)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [4s 9s]
+Dealt to NewBot [6c Qd]
+Dealt to OldBotv1(RAISEOVERLORD) [2s Ad]
+OldBotv2(MOUSE) calls 2
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (9) [5h 5c Jc]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** TURN *** (9) [5h 5c Jc] [Ah]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** RIVER *** (9) [5h 5c Jc Ah] [Kh]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+OldBotv2(MOUSE) shows [4s 9s]
+OldBotv1(RAISEOVERLORD) shows [2s Ad]
+OldBotv1(RAISEOVERLORD) wins the pot (9)
+
+Hand #39, OldBotv1(RAISEOVERLORD) (337), OldBotv2(MOUSE) (101), NewBot (162)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [4c 4h]
+Dealt to OldBotv2(MOUSE) [5c 6h]
+Dealt to NewBot [3s 3c]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (7)
+
+Hand #40, NewBot (160), OldBotv1(RAISEOVERLORD) (340), OldBotv2(MOUSE) (100)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [4s 3c]
+Dealt to OldBotv1(RAISEOVERLORD) [7h 8c]
+Dealt to OldBotv2(MOUSE) [Kc 4h]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (8) [Js 2d 5s]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** TURN *** (8) [Js 2d 5s] [Jh]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** RIVER *** (8) [Js 2d 5s Jh] [Ad]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+OldBotv1(RAISEOVERLORD) shows [7h 8c]
+OldBotv2(MOUSE) shows [Kc 4h]
+OldBotv2(MOUSE) wins the pot (8)
+
+Hand #41, OldBotv2(MOUSE) (104), NewBot (160), OldBotv1(RAISEOVERLORD) (336)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Ad 5c]
+Dealt to NewBot [Kd Qc]
+Dealt to OldBotv1(RAISEOVERLORD) [6c 6h]
+OldBotv2(MOUSE) calls 2
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (9) [Kh 3s 2d]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** TURN *** (9) [Kh 3s 2d] [5s]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) bets 7
+OldBotv1(RAISEOVERLORD) raises to 14
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (30)
+
+Hand #42, OldBotv1(RAISEOVERLORD) (348), OldBotv2(MOUSE) (93), NewBot (159)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [8h 6c]
+Dealt to OldBotv2(MOUSE) [2c 8c]
+Dealt to NewBot [Tc 6d]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (7)
+
+Hand #43, NewBot (157), OldBotv1(RAISEOVERLORD) (351), OldBotv2(MOUSE) (92)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [Kh Qs]
+Dealt to OldBotv1(RAISEOVERLORD) [Qc 8s]
+Dealt to OldBotv2(MOUSE) [Kd 4d]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (8) [5h 5d 2c]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** TURN *** (8) [5h 5d 2c] [Td]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** RIVER *** (8) [5h 5d 2c Td] [8c]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+OldBotv1(RAISEOVERLORD) shows [Qc 8s]
+OldBotv2(MOUSE) shows [Kd 4d]
+OldBotv1(RAISEOVERLORD) wins the pot (8)
+
+Hand #44, OldBotv2(MOUSE) (88), NewBot (157), OldBotv1(RAISEOVERLORD) (355)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Jh 3c]
+Dealt to NewBot [8h 9s]
+Dealt to OldBotv1(RAISEOVERLORD) [Qd 6d]
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #45, OldBotv1(RAISEOVERLORD) (356), OldBotv2(MOUSE) (88), NewBot (156)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Jh Ts]
+Dealt to OldBotv2(MOUSE) [9h 5h]
+Dealt to NewBot [5s 8h]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (7)
+
+Hand #46, NewBot (154), OldBotv1(RAISEOVERLORD) (359), OldBotv2(MOUSE) (87)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [7h As]
+Dealt to OldBotv1(RAISEOVERLORD) [Qd 6h]
+Dealt to OldBotv2(MOUSE) [Ks 9c]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (8) [Js 6s 9h]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) bets 2
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (14)
+
+Hand #47, OldBotv2(MOUSE) (81), NewBot (154), OldBotv1(RAISEOVERLORD) (365)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Th 7s]
+Dealt to NewBot [2d 8h]
+Dealt to OldBotv1(RAISEOVERLORD) [4c Jd]
+OldBotv2(MOUSE) calls 2
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (9) [4d 4s 8s]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** TURN *** (9) [4d 4s 8s] [7c]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) bets 8
+OldBotv1(RAISEOVERLORD) raises to 33
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (50)
+
+Hand #48, OldBotv1(RAISEOVERLORD) (378), OldBotv2(MOUSE) (69), NewBot (153)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [5h Ad]
+Dealt to OldBotv2(MOUSE) [Tc Qc]
+Dealt to NewBot [Jh Td]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (7)
+
+Hand #49, NewBot (151), OldBotv1(RAISEOVERLORD) (381), OldBotv2(MOUSE) (68)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [Th 5s]
+Dealt to OldBotv1(RAISEOVERLORD) [2s Ac]
+Dealt to OldBotv2(MOUSE) [Tc 5c]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (8) [9h 6s Js]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** TURN *** (8) [9h 6s Js] [3h]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+*** RIVER *** (8) [9h 6s Js 3h] [Kh]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) checks
+OldBotv1(RAISEOVERLORD) shows [2s Ac]
+OldBotv2(MOUSE) shows [Tc 5c]
+OldBotv1(RAISEOVERLORD) wins the pot (8)
+
+Hand #50, OldBotv2(MOUSE) (64), NewBot (151), OldBotv1(RAISEOVERLORD) (385)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Qd Ts]
+Dealt to NewBot [Kd 7c]
+Dealt to OldBotv1(RAISEOVERLORD) [Ah Ad]
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #51, OldBotv1(RAISEOVERLORD) (386), OldBotv2(MOUSE) (64), NewBot (150)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Td Jd]
+Dealt to OldBotv2(MOUSE) [9c Qc]
+Dealt to NewBot [4d Ad]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+NewBot folds
+*** FLOP *** (10) [5d 2d Kc]
+OldBotv2(MOUSE) checks
+OldBotv1(RAISEOVERLORD) checks
+*** TURN *** (10) [5d 2d Kc] [6h]
+OldBotv2(MOUSE) checks
+OldBotv1(RAISEOVERLORD) checks
+*** RIVER *** (10) [5d 2d Kc 6h] [4s]
+OldBotv2(MOUSE) checks
+OldBotv1(RAISEOVERLORD) checks
+OldBotv1(RAISEOVERLORD) shows [Td Jd]
+OldBotv2(MOUSE) shows [9c Qc]
+OldBotv2(MOUSE) wins the pot (10)
+
+Hand #52, NewBot (148), OldBotv1(RAISEOVERLORD) (382), OldBotv2(MOUSE) (70)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [5c Ad]
+Dealt to OldBotv1(RAISEOVERLORD) [9c Tc]
+Dealt to OldBotv2(MOUSE) [Jd 3c]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #53, OldBotv2(MOUSE) (68), NewBot (148), OldBotv1(RAISEOVERLORD) (384)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [2s 3s]
+Dealt to NewBot [Kh 8d]
+Dealt to OldBotv1(RAISEOVERLORD) [6c Tc]
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #54, OldBotv1(RAISEOVERLORD) (385), OldBotv2(MOUSE) (68), NewBot (147)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [As Js]
+Dealt to OldBotv2(MOUSE) [2c 6c]
+Dealt to NewBot [Qc Td]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (7)
+
+Hand #55, NewBot (145), OldBotv1(RAISEOVERLORD) (388), OldBotv2(MOUSE) (67)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [Js 8c]
+Dealt to OldBotv1(RAISEOVERLORD) [4d 5h]
+Dealt to OldBotv2(MOUSE) [9c 9d]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #56, OldBotv2(MOUSE) (65), NewBot (145), OldBotv1(RAISEOVERLORD) (390)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Js 7s]
+Dealt to NewBot [Qc Ah]
+Dealt to OldBotv1(RAISEOVERLORD) [5h 9d]
+OldBotv2(MOUSE) calls 2
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (9) [7d 4d 3h]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) bets 8
+OldBotv1(RAISEOVERLORD) raises to 16
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (33)
+
+Hand #57, OldBotv1(RAISEOVERLORD) (403), OldBotv2(MOUSE) (53), NewBot (144)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [6d Qs]
+Dealt to OldBotv2(MOUSE) [Jc 9s]
+Dealt to NewBot [Jd Tc]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+NewBot folds
+*** FLOP *** (10) [Js Ad 2s]
+OldBotv2(MOUSE) bets 2
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (16)
+
+Hand #58, NewBot (142), OldBotv1(RAISEOVERLORD) (411), OldBotv2(MOUSE) (47)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [Kc 7s]
+Dealt to OldBotv1(RAISEOVERLORD) [2h Kd]
+Dealt to OldBotv2(MOUSE) [Th 5s]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #59, OldBotv2(MOUSE) (45), NewBot (142), OldBotv1(RAISEOVERLORD) (413)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [9c 5h]
+Dealt to NewBot [3h Td]
+Dealt to OldBotv1(RAISEOVERLORD) [Th 5s]
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #60, OldBotv1(RAISEOVERLORD) (414), OldBotv2(MOUSE) (45), NewBot (141)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Th 2h]
+Dealt to OldBotv2(MOUSE) [Qd 3d]
+Dealt to NewBot [6s 5d]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+NewBot folds
+*** FLOP *** (10) [Ad Ac 4d]
+OldBotv2(MOUSE) bets 9
+OldBotv1(RAISEOVERLORD) raises to 18
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (37)
+
+Hand #61, NewBot (139), OldBotv1(RAISEOVERLORD) (429), OldBotv2(MOUSE) (32)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [7c Jc]
+Dealt to OldBotv1(RAISEOVERLORD) [2d 2s]
+Dealt to OldBotv2(MOUSE) [6s Qd]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (8) [Qc 5h Kc]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) bets 5
+OldBotv1(RAISEOVERLORD) raises to 10
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (23)
+
+Hand #62, OldBotv2(MOUSE) (23), NewBot (139), OldBotv1(RAISEOVERLORD) (438)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Qd 4c]
+Dealt to NewBot [Jc Ad]
+Dealt to OldBotv1(RAISEOVERLORD) [2s 3c]
+OldBotv2(MOUSE) calls 2
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) calls 4
+*** FLOP *** (9) [Qc 5s As]
+OldBotv1(RAISEOVERLORD) checks
+OldBotv2(MOUSE) bets 5
+OldBotv1(RAISEOVERLORD) raises to 10
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (24)
+
+Hand #63, OldBotv1(RAISEOVERLORD) (448), OldBotv2(MOUSE) (14), NewBot (138)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [4s Th]
+Dealt to OldBotv2(MOUSE) [9d Kd]
+Dealt to NewBot [8h 3s]
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (7)
+
+Hand #64, NewBot (136), OldBotv1(RAISEOVERLORD) (451), OldBotv2(MOUSE) (13)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+OldBotv2(MOUSE) posts the blind of 2
+Dealt to NewBot [7d 4s]
+Dealt to OldBotv1(RAISEOVERLORD) [2d Td]
+Dealt to OldBotv2(MOUSE) [5h 4c]
+NewBot folds
+OldBotv1(RAISEOVERLORD) raises to 4
+OldBotv2(MOUSE) folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #65, OldBotv2(MOUSE) (11), NewBot (136), OldBotv1(RAISEOVERLORD) (453)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [9c 6h]
+Dealt to NewBot [9d 6d]
+Dealt to OldBotv1(RAISEOVERLORD) [Qs 4s]
+OldBotv2(MOUSE) folds
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #66, OldBotv1(RAISEOVERLORD) (454), OldBotv2(MOUSE) (11), NewBot (135)
+OldBotv2(MOUSE) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [3d 6h]
+Dealt to OldBotv2(MOUSE) [Qh 4h]
+Dealt to NewBot [Jh 9h]
+OldBotv1(RAISEOVERLORD) folds
+OldBotv2(MOUSE) calls 2
+NewBot checks
+*** FLOP *** (4) [Jd Jc Ad]
+OldBotv2(MOUSE) checks
+NewBot bets 4
+OldBotv2(MOUSE) calls 4
+*** TURN *** (12) [Jd Jc Ad] [2c]
+OldBotv2(MOUSE) checks
+NewBot bets 5
+OldBotv2(MOUSE) calls 5
+*** RIVER *** (22) [Jd Jc Ad 2c] [Ks]
+OldBotv2(MOUSE) shows [Qh 4h]
+NewBot shows [Jh 9h]
+NewBot wins the pot (22)
+
+Hand #67, NewBot (146), OldBotv1(RAISEOVERLORD) (454), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [Jc Ah]
+Dealt to OldBotv1(RAISEOVERLORD) [7s Th]
+Dealt to OldBotv2(MOUSE) [5h 6d]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #68, OldBotv1(RAISEOVERLORD) (455), NewBot (145), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Kd 6h]
+Dealt to NewBot [5s 2c]
+Dealt to OldBotv1(RAISEOVERLORD) [Jd Jh]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #69, NewBot (143), OldBotv1(RAISEOVERLORD) (457), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Jd 9d]
+Dealt to OldBotv2(MOUSE) [2s 2c]
+Dealt to NewBot [9s 7h]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #70, OldBotv1(RAISEOVERLORD) (458), NewBot (142), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [9h 5c]
+Dealt to OldBotv1(RAISEOVERLORD) [2h Ks]
+Dealt to OldBotv2(MOUSE) [Jc 9c]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #71, NewBot (140), OldBotv1(RAISEOVERLORD) (460), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [7c 2s]
+Dealt to NewBot [2h Qs]
+Dealt to OldBotv1(RAISEOVERLORD) [6c Js]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #72, OldBotv1(RAISEOVERLORD) (461), NewBot (139), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [2d 6h]
+Dealt to OldBotv2(MOUSE) [Ah 3c]
+Dealt to NewBot [5s 7h]
+OldBotv1(RAISEOVERLORD) folds
+NewBot wins the pot (3)
+
+Hand #73, NewBot (140), OldBotv1(RAISEOVERLORD) (460), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [Qh Ac]
+Dealt to OldBotv1(RAISEOVERLORD) [Qs 5d]
+Dealt to OldBotv2(MOUSE) [As Ad]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #74, OldBotv1(RAISEOVERLORD) (461), NewBot (139), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [As 5h]
+Dealt to NewBot [3s Kd]
+Dealt to OldBotv1(RAISEOVERLORD) [6d Kh]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #75, NewBot (137), OldBotv1(RAISEOVERLORD) (463), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Kc Tc]
+Dealt to OldBotv2(MOUSE) [6s 5c]
+Dealt to NewBot [8s 6d]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #76, OldBotv1(RAISEOVERLORD) (464), NewBot (136), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [2h 8s]
+Dealt to OldBotv1(RAISEOVERLORD) [8d 5h]
+Dealt to OldBotv2(MOUSE) [3s 8c]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #77, NewBot (134), OldBotv1(RAISEOVERLORD) (466), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [4h 4d]
+Dealt to NewBot [3h Qd]
+Dealt to OldBotv1(RAISEOVERLORD) [Ks 4c]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #78, OldBotv1(RAISEOVERLORD) (467), NewBot (133), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [8c 9d]
+Dealt to OldBotv2(MOUSE) [Kd 9s]
+Dealt to NewBot [6c 5h]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #79, NewBot (131), OldBotv1(RAISEOVERLORD) (469), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [Td 8d]
+Dealt to OldBotv1(RAISEOVERLORD) [9d 8h]
+Dealt to OldBotv2(MOUSE) [Jh 5s]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #80, OldBotv1(RAISEOVERLORD) (470), NewBot (130), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Qh 7h]
+Dealt to NewBot [3h 8c]
+Dealt to OldBotv1(RAISEOVERLORD) [7s 6c]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #81, NewBot (128), OldBotv1(RAISEOVERLORD) (472), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Qs Ah]
+Dealt to OldBotv2(MOUSE) [6s 4d]
+Dealt to NewBot [8c Ks]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #82, OldBotv1(RAISEOVERLORD) (473), NewBot (127), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [As Ks]
+Dealt to OldBotv1(RAISEOVERLORD) [5c 8h]
+Dealt to OldBotv2(MOUSE) [Ad 3d]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #83, NewBot (125), OldBotv1(RAISEOVERLORD) (475), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [5d Jd]
+Dealt to NewBot [Jc 4s]
+Dealt to OldBotv1(RAISEOVERLORD) [3d 4c]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #84, OldBotv1(RAISEOVERLORD) (476), NewBot (124), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [2c 9s]
+Dealt to OldBotv2(MOUSE) [6d 5d]
+Dealt to NewBot [4h Th]
+OldBotv1(RAISEOVERLORD) folds
+NewBot wins the pot (3)
+
+Hand #85, NewBot (125), OldBotv1(RAISEOVERLORD) (475), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [6h Ks]
+Dealt to OldBotv1(RAISEOVERLORD) [Ts Ad]
+Dealt to OldBotv2(MOUSE) [As 8h]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #86, OldBotv1(RAISEOVERLORD) (476), NewBot (124), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Jh Ah]
+Dealt to NewBot [5d 5h]
+Dealt to OldBotv1(RAISEOVERLORD) [Qh 7d]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #87, NewBot (122), OldBotv1(RAISEOVERLORD) (478), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [9c Jh]
+Dealt to OldBotv2(MOUSE) [2c Th]
+Dealt to NewBot [7d 3d]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #88, OldBotv1(RAISEOVERLORD) (479), NewBot (121), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [Jh 4h]
+Dealt to OldBotv1(RAISEOVERLORD) [3s Ts]
+Dealt to OldBotv2(MOUSE) [Js 8s]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #89, NewBot (119), OldBotv1(RAISEOVERLORD) (481), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [7d 4s]
+Dealt to NewBot [7s Kc]
+Dealt to OldBotv1(RAISEOVERLORD) [9s 6c]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #90, OldBotv1(RAISEOVERLORD) (482), NewBot (118), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [2s Qd]
+Dealt to OldBotv2(MOUSE) [2c 5c]
+Dealt to NewBot [Ah 4d]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #91, NewBot (116), OldBotv1(RAISEOVERLORD) (484), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [6c Kc]
+Dealt to OldBotv1(RAISEOVERLORD) [8c 7d]
+Dealt to OldBotv2(MOUSE) [Ah 2c]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #92, OldBotv1(RAISEOVERLORD) (485), NewBot (115), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [2h 6d]
+Dealt to NewBot [Jc 5s]
+Dealt to OldBotv1(RAISEOVERLORD) [Ts 6s]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #93, NewBot (113), OldBotv1(RAISEOVERLORD) (487), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Jd 7d]
+Dealt to OldBotv2(MOUSE) [Qc 9c]
+Dealt to NewBot [8s 9d]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #94, OldBotv1(RAISEOVERLORD) (488), NewBot (112), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [6d Kd]
+Dealt to OldBotv1(RAISEOVERLORD) [7s 5s]
+Dealt to OldBotv2(MOUSE) [Ah 2c]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #95, NewBot (110), OldBotv1(RAISEOVERLORD) (490), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Qd 5d]
+Dealt to NewBot [As 9d]
+Dealt to OldBotv1(RAISEOVERLORD) [2s 8h]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #96, OldBotv1(RAISEOVERLORD) (491), NewBot (109), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Qh 4h]
+Dealt to OldBotv2(MOUSE) [3s 8c]
+Dealt to NewBot [Tc 5h]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #97, NewBot (107), OldBotv1(RAISEOVERLORD) (493), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [Kc 2h]
+Dealt to OldBotv1(RAISEOVERLORD) [5c 4s]
+Dealt to OldBotv2(MOUSE) [4c 8d]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #98, OldBotv1(RAISEOVERLORD) (494), NewBot (106), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [6d 7h]
+Dealt to NewBot [2d 8d]
+Dealt to OldBotv1(RAISEOVERLORD) [8h Ad]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #99, NewBot (104), OldBotv1(RAISEOVERLORD) (496), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Kd 4d]
+Dealt to OldBotv2(MOUSE) [Jh Ks]
+Dealt to NewBot [Jc Qh]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #100, OldBotv1(RAISEOVERLORD) (497), NewBot (103), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [Qd 5d]
+Dealt to OldBotv1(RAISEOVERLORD) [3s 7h]
+Dealt to OldBotv2(MOUSE) [Kc 5s]
+OldBotv1(RAISEOVERLORD) folds
+NewBot wins the pot (3)
+
+Hand #101, NewBot (104), OldBotv1(RAISEOVERLORD) (496), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Qs Ac]
+Dealt to NewBot [Js 2d]
+Dealt to OldBotv1(RAISEOVERLORD) [7s 4h]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #102, OldBotv1(RAISEOVERLORD) (497), NewBot (103), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Tc Td]
+Dealt to OldBotv2(MOUSE) [Jc 7c]
+Dealt to NewBot [8c 9d]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #103, NewBot (101), OldBotv1(RAISEOVERLORD) (499), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [Kc 2d]
+Dealt to OldBotv1(RAISEOVERLORD) [2s Qd]
+Dealt to OldBotv2(MOUSE) [2c 3d]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #104, OldBotv1(RAISEOVERLORD) (500), NewBot (100), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [3c 9s]
+Dealt to NewBot [8h 2c]
+Dealt to OldBotv1(RAISEOVERLORD) [3d 5d]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #105, NewBot (98), OldBotv1(RAISEOVERLORD) (502), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Qd 9c]
+Dealt to OldBotv2(MOUSE) [7s 8s]
+Dealt to NewBot [Th 3d]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #106, OldBotv1(RAISEOVERLORD) (503), NewBot (97), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [Th Kd]
+Dealt to OldBotv1(RAISEOVERLORD) [8s 7d]
+Dealt to OldBotv2(MOUSE) [6s 4c]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #107, NewBot (95), OldBotv1(RAISEOVERLORD) (505), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [5s 9s]
+Dealt to NewBot [2c Qh]
+Dealt to OldBotv1(RAISEOVERLORD) [6h Qs]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #108, OldBotv1(RAISEOVERLORD) (506), NewBot (94), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Kc 3h]
+Dealt to OldBotv2(MOUSE) [Jc 5h]
+Dealt to NewBot [7d 2h]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #109, NewBot (92), OldBotv1(RAISEOVERLORD) (508), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [Tc Ad]
+Dealt to OldBotv1(RAISEOVERLORD) [Qh Ah]
+Dealt to OldBotv2(MOUSE) [9s 6h]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #110, OldBotv1(RAISEOVERLORD) (509), NewBot (91), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [8s 2h]
+Dealt to NewBot [8h Qc]
+Dealt to OldBotv1(RAISEOVERLORD) [4h 3c]
+OldBotv1(RAISEOVERLORD) folds
+NewBot wins the pot (3)
+
+Hand #111, NewBot (92), OldBotv1(RAISEOVERLORD) (508), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [9c 6c]
+Dealt to OldBotv2(MOUSE) [Qd Jc]
+Dealt to NewBot [Jd 6d]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #112, OldBotv1(RAISEOVERLORD) (509), NewBot (91), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [8s 4h]
+Dealt to OldBotv1(RAISEOVERLORD) [3d 7h]
+Dealt to OldBotv2(MOUSE) [6s 7c]
+OldBotv1(RAISEOVERLORD) folds
+NewBot wins the pot (3)
+
+Hand #113, NewBot (92), OldBotv1(RAISEOVERLORD) (508), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [2s Th]
+Dealt to NewBot [Qd Kd]
+Dealt to OldBotv1(RAISEOVERLORD) [6h Jc]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #114, OldBotv1(RAISEOVERLORD) (509), NewBot (91), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [As 6h]
+Dealt to OldBotv2(MOUSE) [Ah 7c]
+Dealt to NewBot [5s 4h]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #115, NewBot (89), OldBotv1(RAISEOVERLORD) (511), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [Kd Jd]
+Dealt to OldBotv1(RAISEOVERLORD) [As 6s]
+Dealt to OldBotv2(MOUSE) [8c 2c]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #116, OldBotv1(RAISEOVERLORD) (512), NewBot (88), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [As 4d]
+Dealt to NewBot [2d 3h]
+Dealt to OldBotv1(RAISEOVERLORD) [8h 5h]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #117, NewBot (86), OldBotv1(RAISEOVERLORD) (514), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [8h 2s]
+Dealt to OldBotv2(MOUSE) [7d Kd]
+Dealt to NewBot [4c Qd]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #118, OldBotv1(RAISEOVERLORD) (515), NewBot (85), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [Kd Th]
+Dealt to OldBotv1(RAISEOVERLORD) [Td 7d]
+Dealt to OldBotv2(MOUSE) [Jd 2h]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #119, NewBot (83), OldBotv1(RAISEOVERLORD) (517), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Ah 9d]
+Dealt to NewBot [8s Ks]
+Dealt to OldBotv1(RAISEOVERLORD) [Td Ac]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #120, OldBotv1(RAISEOVERLORD) (518), NewBot (82), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [3h 7h]
+Dealt to OldBotv2(MOUSE) [3s 2d]
+Dealt to NewBot [2c 4c]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #121, NewBot (80), OldBotv1(RAISEOVERLORD) (520), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [3c 3h]
+Dealt to OldBotv1(RAISEOVERLORD) [9h 5d]
+Dealt to OldBotv2(MOUSE) [7c Qh]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #122, OldBotv1(RAISEOVERLORD) (521), NewBot (79), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [2h Kh]
+Dealt to NewBot [Ad Jd]
+Dealt to OldBotv1(RAISEOVERLORD) [2s Js]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #123, NewBot (77), OldBotv1(RAISEOVERLORD) (523), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [5h 7s]
+Dealt to OldBotv2(MOUSE) [As 4d]
+Dealt to NewBot [Kd Ks]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #124, OldBotv1(RAISEOVERLORD) (524), NewBot (76), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [5h 5s]
+Dealt to OldBotv1(RAISEOVERLORD) [Ah Th]
+Dealt to OldBotv2(MOUSE) [Qc 8s]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #125, NewBot (74), OldBotv1(RAISEOVERLORD) (526), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Qh 5d]
+Dealt to NewBot [8s Th]
+Dealt to OldBotv1(RAISEOVERLORD) [Td 9c]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #126, OldBotv1(RAISEOVERLORD) (527), NewBot (73), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Kc 5d]
+Dealt to OldBotv2(MOUSE) [9d 2s]
+Dealt to NewBot [Ks 5c]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #127, NewBot (71), OldBotv1(RAISEOVERLORD) (529), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [5c 7d]
+Dealt to OldBotv1(RAISEOVERLORD) [Qc 8h]
+Dealt to OldBotv2(MOUSE) [5h Qh]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #128, OldBotv1(RAISEOVERLORD) (530), NewBot (70), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Jd Th]
+Dealt to NewBot [7s 4c]
+Dealt to OldBotv1(RAISEOVERLORD) [4h 5h]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #129, NewBot (68), OldBotv1(RAISEOVERLORD) (532), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Kh Qd]
+Dealt to OldBotv2(MOUSE) [2c 8h]
+Dealt to NewBot [5c 5d]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #130, OldBotv1(RAISEOVERLORD) (533), NewBot (67), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [7c 7h]
+Dealt to OldBotv1(RAISEOVERLORD) [4s Jd]
+Dealt to OldBotv2(MOUSE) [5s 3d]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #131, NewBot (65), OldBotv1(RAISEOVERLORD) (535), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [2s 6d]
+Dealt to NewBot [7h 3d]
+Dealt to OldBotv1(RAISEOVERLORD) [6c Tc]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #132, OldBotv1(RAISEOVERLORD) (536), NewBot (64), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Jh Kc]
+Dealt to OldBotv2(MOUSE) [6h 3s]
+Dealt to NewBot [5h 7d]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #133, NewBot (62), OldBotv1(RAISEOVERLORD) (538), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [4d Ad]
+Dealt to OldBotv1(RAISEOVERLORD) [2d Kh]
+Dealt to OldBotv2(MOUSE) [Kd Jd]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #134, OldBotv1(RAISEOVERLORD) (539), NewBot (61), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [6d 6h]
+Dealt to NewBot [2s 3c]
+Dealt to OldBotv1(RAISEOVERLORD) [Qh Js]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #135, NewBot (59), OldBotv1(RAISEOVERLORD) (541), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [3h Td]
+Dealt to OldBotv2(MOUSE) [8c 2s]
+Dealt to NewBot [9c 3s]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #136, OldBotv1(RAISEOVERLORD) (542), NewBot (58), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [Ks Kc]
+Dealt to OldBotv1(RAISEOVERLORD) [Td 4s]
+Dealt to OldBotv2(MOUSE) [7d Ts]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #137, NewBot (56), OldBotv1(RAISEOVERLORD) (544), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [3h Tc]
+Dealt to NewBot [4s 3c]
+Dealt to OldBotv1(RAISEOVERLORD) [5c 8h]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #138, OldBotv1(RAISEOVERLORD) (545), NewBot (55), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Kc 3c]
+Dealt to OldBotv2(MOUSE) [5c Jd]
+Dealt to NewBot [4h 2d]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #139, NewBot (53), OldBotv1(RAISEOVERLORD) (547), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [8c 3d]
+Dealt to OldBotv1(RAISEOVERLORD) [2h 6h]
+Dealt to OldBotv2(MOUSE) [Tc 7h]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #140, OldBotv1(RAISEOVERLORD) (548), NewBot (52), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Ts Jd]
+Dealt to NewBot [Kd Ad]
+Dealt to OldBotv1(RAISEOVERLORD) [9c Qc]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #141, NewBot (50), OldBotv1(RAISEOVERLORD) (550), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [5h Ts]
+Dealt to OldBotv2(MOUSE) [9d 2c]
+Dealt to NewBot [As Td]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #142, OldBotv1(RAISEOVERLORD) (551), NewBot (49), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [Ks 9c]
+Dealt to OldBotv1(RAISEOVERLORD) [Kd Kh]
+Dealt to OldBotv2(MOUSE) [7h 6s]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #143, NewBot (47), OldBotv1(RAISEOVERLORD) (553), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Ah 9h]
+Dealt to NewBot [4d 6h]
+Dealt to OldBotv1(RAISEOVERLORD) [Qc 5c]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #144, OldBotv1(RAISEOVERLORD) (554), NewBot (46), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [5s Qc]
+Dealt to OldBotv2(MOUSE) [7h 2h]
+Dealt to NewBot [5d 8d]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #145, NewBot (44), OldBotv1(RAISEOVERLORD) (556), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [Jd Ks]
+Dealt to OldBotv1(RAISEOVERLORD) [3s Th]
+Dealt to OldBotv2(MOUSE) [6c Ac]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #146, OldBotv1(RAISEOVERLORD) (557), NewBot (43), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [4c Th]
+Dealt to NewBot [Qc As]
+Dealt to OldBotv1(RAISEOVERLORD) [7d 4s]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #147, NewBot (41), OldBotv1(RAISEOVERLORD) (559), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [8s 4d]
+Dealt to OldBotv2(MOUSE) [3c Kd]
+Dealt to NewBot [2s 8h]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #148, OldBotv1(RAISEOVERLORD) (560), NewBot (40), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [9d 2c]
+Dealt to OldBotv1(RAISEOVERLORD) [6h Jh]
+Dealt to OldBotv2(MOUSE) [Ah 3s]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #149, NewBot (38), OldBotv1(RAISEOVERLORD) (562), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [5h 6h]
+Dealt to NewBot [8d 2s]
+Dealt to OldBotv1(RAISEOVERLORD) [4s Qh]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #150, OldBotv1(RAISEOVERLORD) (563), NewBot (37), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [As Td]
+Dealt to OldBotv2(MOUSE) [5h 6d]
+Dealt to NewBot [8h 3d]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #151, NewBot (35), OldBotv1(RAISEOVERLORD) (565), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [Kh 5h]
+Dealt to OldBotv1(RAISEOVERLORD) [7d 4h]
+Dealt to OldBotv2(MOUSE) [7c Ts]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #152, OldBotv1(RAISEOVERLORD) (566), NewBot (34), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Jc 8c]
+Dealt to NewBot [6c Ks]
+Dealt to OldBotv1(RAISEOVERLORD) [3c 4h]
+OldBotv1(RAISEOVERLORD) folds
+NewBot wins the pot (3)
+
+Hand #153, NewBot (35), OldBotv1(RAISEOVERLORD) (565), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Ac Qs]
+Dealt to OldBotv2(MOUSE) [As 8s]
+Dealt to NewBot [Jd 7s]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #154, OldBotv1(RAISEOVERLORD) (566), NewBot (34), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [Ts 5c]
+Dealt to OldBotv1(RAISEOVERLORD) [Td 7d]
+Dealt to OldBotv2(MOUSE) [9c Kh]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #155, NewBot (32), OldBotv1(RAISEOVERLORD) (568), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [8c 9s]
+Dealt to NewBot [3d Ac]
+Dealt to OldBotv1(RAISEOVERLORD) [9h 4h]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #156, OldBotv1(RAISEOVERLORD) (569), NewBot (31), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [7h 2s]
+Dealt to OldBotv2(MOUSE) [3c 2h]
+Dealt to NewBot [5d Qc]
+OldBotv1(RAISEOVERLORD) folds
+NewBot wins the pot (3)
+
+Hand #157, NewBot (32), OldBotv1(RAISEOVERLORD) (568), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [Kh Qs]
+Dealt to OldBotv1(RAISEOVERLORD) [9c Td]
+Dealt to OldBotv2(MOUSE) [Kc 5h]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #158, OldBotv1(RAISEOVERLORD) (569), NewBot (31), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [3d As]
+Dealt to NewBot [9h Qh]
+Dealt to OldBotv1(RAISEOVERLORD) [2c 5d]
+OldBotv1(RAISEOVERLORD) folds
+NewBot wins the pot (3)
+
+Hand #159, NewBot (32), OldBotv1(RAISEOVERLORD) (568), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [2c Jd]
+Dealt to OldBotv2(MOUSE) [Qd 6s]
+Dealt to NewBot [Kd Qc]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #160, OldBotv1(RAISEOVERLORD) (569), NewBot (31), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [Th 8c]
+Dealt to OldBotv1(RAISEOVERLORD) [8d 2d]
+Dealt to OldBotv2(MOUSE) [Ac Jc]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #161, NewBot (29), OldBotv1(RAISEOVERLORD) (571), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [As Kc]
+Dealt to NewBot [Th 5d]
+Dealt to OldBotv1(RAISEOVERLORD) [Ts 9h]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #162, OldBotv1(RAISEOVERLORD) (572), NewBot (28), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Js Ah]
+Dealt to OldBotv2(MOUSE) [7c 6c]
+Dealt to NewBot [3c 7d]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #163, NewBot (26), OldBotv1(RAISEOVERLORD) (574), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [Js Jh]
+Dealt to OldBotv1(RAISEOVERLORD) [4h 5d]
+Dealt to OldBotv2(MOUSE) [2s 3c]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #164, OldBotv1(RAISEOVERLORD) (575), NewBot (25), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [9h 4s]
+Dealt to NewBot [3h Jd]
+Dealt to OldBotv1(RAISEOVERLORD) [8d 2h]
+OldBotv1(RAISEOVERLORD) folds
+NewBot wins the pot (3)
+
+Hand #165, NewBot (26), OldBotv1(RAISEOVERLORD) (574), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [8c Ks]
+Dealt to OldBotv2(MOUSE) [Td 7h]
+Dealt to NewBot [8h 4c]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #166, OldBotv1(RAISEOVERLORD) (575), NewBot (25), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [Tc Ah]
+Dealt to OldBotv1(RAISEOVERLORD) [6d Ks]
+Dealt to OldBotv2(MOUSE) [8h Js]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #167, NewBot (23), OldBotv1(RAISEOVERLORD) (577), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [9s Ts]
+Dealt to NewBot [5d Td]
+Dealt to OldBotv1(RAISEOVERLORD) [8h Ah]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #168, OldBotv1(RAISEOVERLORD) (578), NewBot (22), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [6c 2h]
+Dealt to OldBotv2(MOUSE) [Kd Ah]
+Dealt to NewBot [3s Kc]
+OldBotv1(RAISEOVERLORD) folds
+NewBot wins the pot (3)
+
+Hand #169, NewBot (23), OldBotv1(RAISEOVERLORD) (577), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [3h 8h]
+Dealt to OldBotv1(RAISEOVERLORD) [9h 5h]
+Dealt to OldBotv2(MOUSE) [7c 7d]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #170, OldBotv1(RAISEOVERLORD) (578), NewBot (22), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [Ks 2h]
+Dealt to NewBot [4s 7d]
+Dealt to OldBotv1(RAISEOVERLORD) [Th 4h]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #171, NewBot (20), OldBotv1(RAISEOVERLORD) (580), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [2s 9d]
+Dealt to OldBotv2(MOUSE) [4h 6c]
+Dealt to NewBot [Ts 6h]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #172, OldBotv1(RAISEOVERLORD) (581), NewBot (19), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [6c 2c]
+Dealt to OldBotv1(RAISEOVERLORD) [5s 8h]
+Dealt to OldBotv2(MOUSE) [7c 4d]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #173, NewBot (17), OldBotv1(RAISEOVERLORD) (583), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [8d Ac]
+Dealt to NewBot [3h 4h]
+Dealt to OldBotv1(RAISEOVERLORD) [9s 6c]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #174, OldBotv1(RAISEOVERLORD) (584), NewBot (16), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Ah 2h]
+Dealt to OldBotv2(MOUSE) [2s 7c]
+Dealt to NewBot [6c Ad]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #175, NewBot (14), OldBotv1(RAISEOVERLORD) (586), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [Jh 9d]
+Dealt to OldBotv1(RAISEOVERLORD) [Kh 2s]
+Dealt to OldBotv2(MOUSE) [Td 2d]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #176, OldBotv1(RAISEOVERLORD) (587), NewBot (13), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [6h Td]
+Dealt to NewBot [5s Js]
+Dealt to OldBotv1(RAISEOVERLORD) [Qd 9d]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #177, NewBot (11), OldBotv1(RAISEOVERLORD) (589), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Ks 6s]
+Dealt to OldBotv2(MOUSE) [Tc Jc]
+Dealt to NewBot [5c 7c]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #178, OldBotv1(RAISEOVERLORD) (590), NewBot (10), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [Ad 5s]
+Dealt to OldBotv1(RAISEOVERLORD) [2c 5c]
+Dealt to OldBotv2(MOUSE) [8h Qd]
+OldBotv1(RAISEOVERLORD) folds
+NewBot wins the pot (3)
+
+Hand #179, NewBot (11), OldBotv1(RAISEOVERLORD) (589), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [3c Th]
+Dealt to NewBot [Jd 7d]
+Dealt to OldBotv1(RAISEOVERLORD) [Td 3s]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #180, OldBotv1(RAISEOVERLORD) (590), NewBot (10), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [Tc 5h]
+Dealt to OldBotv2(MOUSE) [Qh Qs]
+Dealt to NewBot [Ad 4d]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #181, NewBot (8), OldBotv1(RAISEOVERLORD) (592), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [9h 7h]
+Dealt to OldBotv1(RAISEOVERLORD) [8h Qc]
+Dealt to OldBotv2(MOUSE) [8c Jd]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #182, OldBotv1(RAISEOVERLORD) (593), NewBot (7), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to OldBotv2(MOUSE) [2d Tc]
+Dealt to NewBot [6s Qd]
+Dealt to OldBotv1(RAISEOVERLORD) [Jh 7h]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #183, NewBot (5), OldBotv1(RAISEOVERLORD) (595), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv1(RAISEOVERLORD) [8s 6h]
+Dealt to OldBotv2(MOUSE) [4s Qc]
+Dealt to NewBot [9s Qh]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #184, OldBotv1(RAISEOVERLORD) (596), NewBot (4), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 2
+Dealt to NewBot [5d Th]
+Dealt to OldBotv1(RAISEOVERLORD) [3s Kh]
+Dealt to OldBotv2(MOUSE) [9c 5h]
+OldBotv1(RAISEOVERLORD) raises to 4
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (6)
+
+Hand #185, NewBot (2), OldBotv1(RAISEOVERLORD) (598), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to OldBotv2(MOUSE) [9h 3s]
+Dealt to NewBot [Qd 6d]
+Dealt to OldBotv1(RAISEOVERLORD) [As 6c]
+NewBot folds
+OldBotv1(RAISEOVERLORD) wins the pot (3)
+
+Hand #186, OldBotv1(RAISEOVERLORD) (599), NewBot (1), OldBotv2(MOUSE) (0)
+OldBotv1(RAISEOVERLORD) posts the blind of 1
+NewBot posts the blind of 1
+Dealt to OldBotv1(RAISEOVERLORD) [3h Jd]
+Dealt to OldBotv2(MOUSE) [Td Jc]
+Dealt to NewBot [8d 9c]
+*** FLOP *** (2) [4h Th 8h]
+*** TURN *** (2) [4h Th 8h] [9h]
+*** RIVER *** (2) [4h Th 8h 9h] [7h]
+OldBotv1(RAISEOVERLORD) shows [3h Jd]
+NewBot shows [8d 9c]
+OldBotv1(RAISEOVERLORD) ties for the pot (1)
+NewBot ties for the pot (1)
+
+Hand #187, NewBot (1), OldBotv1(RAISEOVERLORD) (599), OldBotv2(MOUSE) (0)
+NewBot posts the blind of 1
+OldBotv1(RAISEOVERLORD) posts the blind of 2
+Dealt to NewBot [7s 9c]
+Dealt to OldBotv1(RAISEOVERLORD) [8h Ks]
+Dealt to OldBotv2(MOUSE) [7h Kc]
+Uncalled bet of 1 returned to OldBotv1(RAISEOVERLORD)
+*** FLOP *** (2) [Kh 4c 9h]
+*** TURN *** (2) [Kh 4c 9h] [Qs]
+*** RIVER *** (2) [Kh 4c 9h Qs] [Tc]
+NewBot shows [7s 9c]
+OldBotv1(RAISEOVERLORD) shows [8h Ks]
+OldBotv1(RAISEOVERLORD) wins the pot (2)
+
