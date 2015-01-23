@@ -52,7 +52,7 @@ def potOdds(pot_size,bet):
     return (float(bet) / pot_size)
 def maxBetEV(pot_size,equity,our_bot_stack):
     if equity == 1.0:
-        maxBet = our_bot_stack
+        maxBet = 1000
     else:
         maxBet = (float(pot_size)* equity)/ (1.0 - equity)
     return int(maxBet)

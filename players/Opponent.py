@@ -63,14 +63,20 @@ class Opponent:
         #last player's action
         self.action = ""
         self.lastBet = 0.0
-    def updateAction(self,action,bet = None):
+        self.lastActionRound = None
+    def updateAction(self,action,bet = None,roundA=None):
         self.action = action
+        
         if bet is not None:
-            self.lastBet = int(bet)
+            self.lastBet = float(bet)
+        if roundA is not None:
+            self.lastActionRound = roundA
     def getAction(self):
         return self.action
     def getLastBet(self):
         return self.lastBet
+    def getLastRound(self):
+        return self.lastActionRound
 
     #updates stack value of player
     def updateStack(self,stack):

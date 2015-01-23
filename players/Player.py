@@ -76,7 +76,7 @@ class Player:
                 global pot_size
                 global big_blind
                 global small_blind
-                
+
                 our_bets = 0
                 pot_size = 0
                 #handID is the nth hand
@@ -206,6 +206,7 @@ class Player:
                 pot_size = int(packet_values[1])
 
                 #num_board_cards: integer in {0,3,4,5}
+                global num_board_cards
                 num_board_cards = int(packet_values[2])
 
                 #board: list of cards on board
@@ -277,6 +278,7 @@ class Player:
                 elif num_board_cards == 5:
                     print "\n***RIVER***(%d) Board:(%s)"%(pot_size,' '.join(board))
                     print "Our hand: %s %s\n"%(holeCard1,holeCard2)
+
                 for lastAction in lastActions:
                     lastAction = lastAction.split(':');
                     #action is word
@@ -337,7 +339,10 @@ class Player:
                                 bot.updateAFqFlop()
                             if not (name == our_name):
                                 print name + " raised to %d."%bet
-                            bot.updateAction("RAISE",bet)
+                            if name == our_name:
+                                pass
+                            else:
+                                bot.updateAction("RAISE",bet,num_board_cards)
 
                             
                         elif action == 'BET':
@@ -351,7 +356,10 @@ class Player:
                                 bot.updateAFqFlop()
                             if not (name == our_name):
                                 print name + " bet %d."%bet
-                            bot.updateAction("BET",bet)
+                            if name == our_name:
+                                pass
+                            else:
+                                bot.updateAction("BET",bet,num_board_cards)
 
                         elif action == 'CALL':
                             #counts towards inverse af
@@ -364,7 +372,11 @@ class Player:
                                 bot.updateAFqFlop()
                             if not (name == our_name):
                                 print name + " called %d."%bet
-                            bot.updateAction("CALL",bet)
+                            #take into account updating our round is screwed up as last actions takes into account our own last action
+                            if name == our_name:
+                                pass
+                            else:
+                                bot.updateAction("CALL",bet,num_board_cards)
 
                         else:
                             print "\nnonsense happened\n"
@@ -576,12 +588,15 @@ class Player:
         s.close()
 
 def reply(action, amount, socket):
+    our_bot = playersDict[our_name]
+
     if action == 'FOLD' or action == 'CHECK': 
         if action == 'FOLD':
             print our_name + " folds."
         else:
             print our_name + " checks."
-
+        
+        our_bot.updateAction(action,0,num_board_cards)
         socket.send(action + "\n")
 
     elif action == 'CALL' or action == 'BET' or action == 'RAISE':
@@ -591,14 +606,14 @@ def reply(action, amount, socket):
             print our_name + " bets %d."%amount
         else:
             print our_name + " raise %d."%amount
-
+        our_bot.updateAction(action,str(amount),num_board_cards)
         socket.send(action+":"+str(amount)+"\n")
 
 
     
 def betLogic(board,equities,pot_size,our_seat,bot1,bot2 = None):
     their_bet = 0
-    num_board_cards = len(board)
+    #num_board_cards = len(board)
     num_opp_players = 1
     our_equity = equities.ev[0]
     call = False
@@ -620,6 +635,17 @@ def betLogic(board,equities,pot_size,our_seat,bot1,bot2 = None):
     if "CALL" in avail_actions:
         their_bet = avail_actions["CALL"][0]
         no_reraise = True
+    if our_bot.getLastRound() is not None:
+        our_last_round = our_bot.getLastRound() 
+    else:
+        our_last_round = 0
+    our_last_bet = our_bot.getLastBet()
+    print "our last bet of %d was in round %d"%(our_last_bet,our_last_round)
+    if (their_bet - our_last_bet >= 0):
+        if our_last_round == num_board_cards:
+            their_bet = their_bet - our_last_bet
+        else:
+            pass
     ev = calc_functions.expectedValue(equities,pot_size,their_bet)
 
     pot_odds = calc_functions.potOdds(pot_size,their_bet)
@@ -771,7 +797,7 @@ def betLogic(board,equities,pot_size,our_seat,bot1,bot2 = None):
     print our_name +"'s maxBetEV: %d\n"%maxBetEV
     our_m = our_bot.getMRatio()
 
-    if our_equity > 0.6 and our_m <= 7:
+    if our_equity > 0.53 and our_m <= 7:
         action = "BET"
         maxBet = our_stack
         minBet = our_stack
@@ -779,6 +805,13 @@ def betLogic(board,equities,pot_size,our_seat,bot1,bot2 = None):
     elif our_m <=7:
         action ="FOLD"
         bettingActions(action)
+
+    if our_m <= 3:
+        action = "BET"
+        maxBet = our_stack
+        minBet = our_stack
+        bettingActions(action,minBet,maxBet)
+
 
     if num_board_cards == 0:
         #we're the first action in the round or small blind
@@ -840,7 +873,7 @@ def betLogic(board,equities,pot_size,our_seat,bot1,bot2 = None):
                 if our_equity >= 0.6 and not no_reraise:
                     action = "BET"
                     maxBet = min(our_stack,max(maxBetEV,bb))
-                    minBet = min(bb*4,maxBet)
+                    minBet = min(bb,maxBet)
                     print "BETTING LOOSE1"
                     bettingActions(action,minBet,maxBet)
                 elif our_equity >= 0.6 and no_reraise:
@@ -855,7 +888,7 @@ def betLogic(board,equities,pot_size,our_seat,bot1,bot2 = None):
                         if our_equity >0.45 and not no_reraise:
                             action = "BET"
                             maxBet = max(maxBetEV,bb)
-                            minBet = min(bb*2,maxBet)
+                            minBet = min(bb,maxBet)
                             print "BETTING LESS LOOSE1"
                             bettingActions(action,minBet,maxBet)
                         else:
@@ -868,7 +901,7 @@ def betLogic(board,equities,pot_size,our_seat,bot1,bot2 = None):
                 if our_equity >= 0.6 and not no_reraise:
                     action = "BET"
                     maxBet = min(our_stack,max(maxBetEV,bb))
-                    minBet = min(bb*2,maxBet)
+                    minBet = min(bb,maxBet)
                     print "BETTING LOOSE2"
                     bettingActions(action,minBet,maxBet)
                 elif our_equity >= 0.6 and no_reraise:
@@ -890,7 +923,7 @@ def betLogic(board,equities,pot_size,our_seat,bot1,bot2 = None):
                         elif our_equity > 0.45 and not no_reraise:
                             action = "BET"
                             maxBet = min(our_stack,max(bb,maxBetEV))
-                            minBet = min(bb*2,maxBet)
+                            minBet = min(bb,maxBet)
                             print "BETTING LESS LOOSE2"
                             bettingActions(action,minBet,maxBet)
                         else:
@@ -936,7 +969,7 @@ def betLogic(board,equities,pot_size,our_seat,bot1,bot2 = None):
                 if our_equity >= 0.6 and not no_reraise:
                     action = "BET"
                     maxBet = min(our_stack,max(bb,maxBetEV))
-                    minBet = min(10*bb,maxBet)
+                    minBet = min(bb,maxBet)
                     bettingActions(action,minBet,maxBet)
                 elif our_equity >= 0.6 and no_reraise:
                     action= "CALL"
@@ -956,7 +989,7 @@ def betLogic(board,equities,pot_size,our_seat,bot1,bot2 = None):
                         elif our_equity >0.45 and not no_reraise:
                             action = "BET"
                             maxBet = min(our_stack,max(bb,maxBetEV))
-                            minBet = min(bb*5,maxBet)
+                            minBet = min(bb,maxBet)
                             bettingActions(action,minBet,maxBet)
                         else:
                             action = "CALL"
@@ -968,7 +1001,7 @@ def betLogic(board,equities,pot_size,our_seat,bot1,bot2 = None):
                 if our_equity >= 0.6:
                     action = "BET"
                     maxBet = min(our_stack,max(bb,maxBetEV))
-                    minBet = min(5*bb,maxBet)
+                    minBet = min(bb,maxBet)
                     bettingActions(action,minBet,maxBet)
                 elif our_equity >= 0.6 and no_reraise:
                     action= "CALL"
@@ -986,10 +1019,10 @@ def betLogic(board,equities,pot_size,our_seat,bot1,bot2 = None):
                             maxBet = min(our_stack,max(bluffMin,maxBetFold))
                             minBet = min(bluffMin,maxBetFold)
                             bettingActions(action,minBet,maxBet)
-                        elif our_equity >0.45 and not no_reraise:
+                        elif our_equity >0.5 and not no_reraise:
                             action = "BET"
                             maxBet = min(our_stack,max(bb,maxBetEV))
-                            minBet = min(bb*5,maxBet)
+                            minBet = min(bb,maxBet)
                             bettingActions(action,minBet,maxBet)
                         else:
                             action = "CALL"
@@ -1040,6 +1073,9 @@ def bettingActions(action,our_min_bet=None,our_max_bet=None):
                 bettingActions("CALL")
             elif our_max_bet < minBet and minBet >10:
                 bettingActions("FOLD")
+
+            elif our_max_bet < minBet:
+                bettingActions("CALL")
             else:
                 reply("BET", bet,s)
         elif "RAISE" in avail_actions:
@@ -1061,8 +1097,12 @@ def bettingActions(action,our_min_bet=None,our_max_bet=None):
             #don't want it to fold to low minbets
             if our_max_bet >= our_stack and (our_stack - minCall) <= minBet:
                 bettingActions("CALL")
+
             elif our_max_bet < minBet and minBet >10:
                 bettingActions("FOLD")
+
+            elif our_max_bet < minBet:
+                bettingActions("CALL")
             else:
                 reply("RAISE", bet,s)
         elif "CALL" in avail_actions:
