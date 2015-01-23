@@ -1,0 +1,3190 @@
+
+C:\Users\Er\Dropbox\Pokerbot\players>python Player.py 3000 
+Connecting to localhost:3000
+Our name: BAMF4
+Opp1 name: Rando4
+Opp2 name: Randy4
+
+
+NEWHAND:1
+
+['NEWHAND', '1', '3', 'Qd', '7d', '200', '200', '200', 'Rando4', 'Randy4', 'BAMF4', '3', 'true', 'true', 'true', '15.000000']
+Active Players:3
+
+Our hand: Qd 7d
+Rando4's VPIP: 0.000000
+Rando4's PFR: 0.000000
+Rando4's estimated fold percentage is 0.000000
+Rando4's AF flop/postflop: 0.000000
+Rando4's Player Type: NIT
+Rando4's Seat:1
+Randy4's VPIP: 0.000000
+Randy4's PFR: 0.000000
+Randy4's estimated fold percentage is 0.000000
+Randy4's AF flop/postflop: 0.000000
+Randy4's Player Type: NIT
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 0.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+
+Randy4 posts small blind, stack size (199)
+BAMF4 posts big blind, stack size (198)
+
+
+***PREFLOP***(7) Board:()
+Our hand: Qd 7d
+
+Rando4 folds.
+Randy4 raised to 5.
+BAMF4's EV: 1.588000
+BAMF4's Equity: 0.549
+BAMF4's Implied Odds: -7
+BAMF4's maxBetFold: 0
+BAMF4's maxBetEV: 8
+
+final max raise:8
+final min raise:8
+Raise range: 8 15
+BAMF4 raise 8.
+
+***FLOP***(16) Board:(Qs 2s Kd)
+Our hand: Qd 7d
+
+Randy4 called 8.
+Randy4 checks.
+BAMF4's EV: 12.056000
+BAMF4's Equity: 0.7535
+BAMF4's Implied Odds: -16
+BAMF4's maxBetFold: 0
+BAMF4's maxBetEV: 48
+
+final max bet:16
+final min bet:10
+Bet range: 2 16
+BAMF4 bets 11.
+
+***TURN***(58) Board:(Qs 2s Kd Js)
+Our hand: Qd 7d
+
+Randy4 called 11.
+Randy4 bet 20.
+BAMF4's EV: 30.973000
+BAMF4's Equity: 0.6535
+BAMF4's Implied Odds: -67
+BAMF4's maxBetFold: 0
+BAMF4's maxBetEV: 109
+
+final max raise:98
+final min raise:40
+Raise range: 40 98
+BAMF4 raise 58.
+
+***RIVER***(154) Board:(Qs 2s Kd Js Th)
+Our hand: Qd 7d
+
+Randy4 called 58.
+Randy4 checks.
+BAMF4's EV: 71.866667
+BAMF4's Equity: 0.466666666667
+BAMF4's Implied Odds: -154
+BAMF4's maxBetFold: 0
+BAMF4's maxBetEV: 134
+
+BAMF4 checks.
+Randy4 WTSD percentage is: 1.000000
+BAMF4 WTSD percentage is: 1.000000
+Randy4 W$SD percentage is: 1.000000
+
+
+NEWHAND:2
+
+['NEWHAND', '2', '1', 'Ad', '3h', '123', '200', '277', 'BAMF4', 'Rando4', 'Randy4', '3', 'true', 'true', 'true', '14.974742']
+Active Players:3
+
+Our hand: Ad 3h
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 3.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:1
+Rando4's VPIP: 0.000000
+Rando4's PFR: 0.000000
+Rando4's estimated fold percentage is 1.000000
+Rando4's AF flop/postflop: 0.000000
+Rando4's Player Type: NIT
+Rando4's Seat:2
+Randy4's VPIP: 1.000000
+Randy4's PFR: 1.000000
+Randy4's estimated fold percentage is 0.000000
+Randy4's AF flop/postflop: 0.333333
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:3
+
+Rando4 posts small blind, stack size (199)
+Randy4 posts big blind, stack size (275)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ad 3h
+
+BAMF4's EV: 0.780000
+BAMF4's Equity: 0.556
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 0
+BAMF4's maxBetEV: 3
+
+BAMF4 calls 2.
+
+***FLOP***(10) Board:(Qc Kd Jh)
+Our hand: Ad 3h
+
+Rando4 called 2.
+Randy4 checks.
+Rando4 bet 4.
+Randy4 folds.
+BAMF4's EV: 2.790000
+BAMF4's Equity: 0.485
+BAMF4's Implied Odds: -9
+BAMF4's maxBetFold: 0
+BAMF4's maxBetEV: 9
+
+BAMF4 calls 4.
+
+***TURN***(17) Board:(Qc Kd Jh 9c)
+Our hand: Ad 3h
+
+Rando4 bet 3.
+BAMF4's EV: 4.720000
+BAMF4's Equity: 0.386
+BAMF4's Implied Odds: -15
+BAMF4's maxBetFold: 0
+BAMF4's maxBetEV: 10
+
+BAMF4 calls 3.
+
+***RIVER***(36) Board:(Qc Kd Jh 9c Kh)
+Our hand: Ad 3h
+
+Rando4 bet 16.
+BAMF4's EV: 2.515152
+BAMF4's Equity: 0.356060606061
+BAMF4's Implied Odds: -23
+BAMF4's maxBetFold: 0
+BAMF4's maxBetEV: 19
+
+BAMF4 calls 16.
+BAMF4 WTSD percentage is: 1.000000
+Rando4 WTSD percentage is: 0.500000
+Rando4 W$SD percentage is: 1.000000
+
+
+NEWHAND:3
+
+['NEWHAND', '3', '2', 'Ks', '5s', '275', '98', '227', 'Randy4', 'BAMF4', 'Rando4', '3', 'true', 'true', 'true', '14.953176']
+Active Players:3
+
+Our hand: Ks 5s
+Randy4's VPIP: 0.500000
+Randy4's PFR: 0.500000
+Randy4's estimated fold percentage is 0.000000
+Randy4's AF flop/postflop: 0.333333
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 0.750000
+BAMF4's Player Type: NIT
+BAMF4's Seat:2
+Rando4's VPIP: 0.000000
+Rando4's PFR: 0.000000
+Rando4's estimated fold percentage is 1.000000
+Rando4's AF flop/postflop: 3.000000
+Rando4's Player Type: NIT
+Rando4's Seat:3
+
+BAMF4 posts small blind, stack size (97)
+Rando4 posts big blind, stack size (225)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ks 5s
+
+Randy4 folds.
+BAMF4's EV: 0.652500
+BAMF4's Equity: 0.5305
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 3
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+BAMF4 raise 4.
+
+***FLOP***(8) Board:(Kd 6h Jh)
+Our hand: Ks 5s
+
+Rando4 called 4.
+BAMF4's EV: 6.376000
+BAMF4's Equity: 0.797
+BAMF4's Implied Odds: -8
+BAMF4's maxBetFold: 3
+BAMF4's maxBetEV: 31
+
+final max bet:8
+final min bet:8
+Bet range: 2 8
+BAMF4 bets 8.
+
+***FLOP***(35) Board:(Kd 6h Jh)
+Our hand: Ks 5s
+
+Rando4 raised to 19.
+BAMF4's EV: 24.038000
+BAMF4's Equity: 0.797
+BAMF4's Implied Odds: -49
+BAMF4's maxBetFold: 17
+BAMF4's maxBetEV: 137
+
+final max raise:65
+final min raise:30
+Raise range: 30 65
+BAMF4 raise 31.
+
+***TURN***(70) Board:(Kd 6h Jh 6d)
+Our hand: Ks 5s
+
+Rando4 called 31.
+BAMF4's EV: 55.650000
+BAMF4's Equity: 0.795
+BAMF4's Implied Odds: -70
+BAMF4's maxBetFold: 34
+BAMF4's maxBetEV: 271
+
+final max bet:63
+final min bet:10
+Bet range: 2 63
+BAMF4 bets 36.
+
+***RIVER***(142) Board:(Kd 6h Jh 6d 2h)
+Our hand: Ks 5s
+
+Rando4 called 36.
+BAMF4's EV: 114.532323
+BAMF4's Equity: 0.806565656566
+BAMF4's Implied Odds: -142
+BAMF4's maxBetFold: 70
+BAMF4's maxBetEV: 592
+
+final max bet:27
+final min bet:10
+Bet range: 2 27
+BAMF4 bets 12.
+
+***RIVER***(179) Board:(Kd 6h Jh 6d 2h)
+Our hand: Ks 5s
+
+Rando4 raised to 25.
+BAMF4's EV: 139.539394
+BAMF4's Equity: 0.806565656566
+BAMF4's Implied Odds: -198
+BAMF4's maxBetFold: 89
+BAMF4's maxBetEV: 746
+
+final max raise:27
+final min raise:27
+Raise range: 27 27
+BAMF4 calls 25.
+final max raise:27
+final min raise:27
+Raise range: 27 27
+BAMF4 calls 25.
+BAMF4 WTSD percentage is: 1.000000
+Rando4 WTSD percentage is: 0.666667
+Rando4 W$SD percentage is: 1.000000
+
+
+NEWHAND:4
+
+['NEWHAND', '4', '3', 'Qh', '4h', '323', '275', '2', 'Rando4', 'Randy4', 'BAMF4', '3', 'true', 'true', 'true', '14.922007']
+Active Players:3
+
+Our hand: Qh 4h
+Rando4's VPIP: 0.000000
+Rando4's PFR: 0.000000
+Rando4's estimated fold percentage is 1.000000
+Rando4's AF flop/postflop: 1.250000
+Rando4's Player Type: NIT
+Rando4's Seat:1
+Randy4's VPIP: 0.333333
+Randy4's PFR: 0.333333
+Randy4's estimated fold percentage is 0.333333
+Randy4's AF flop/postflop: 0.333333
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+
+Randy4 posts small blind, stack size (274)
+BAMF4 posts big blind, stack size (0)
+
+Rando4 called 2.
+Randy4 called 2.
+Randy4 checks.
+Rando4 checks.
+Randy4 bet 2.
+Rando4 folds.
+Randy4 WTSD percentage is: 0.500000
+BAMF4 WTSD percentage is: 1.000000
+BAMF4 W$SD percentage is: 0.250000
+Randy4 W$SD percentage is: 1.000000
+
+
+NEWHAND:5
+
+['NEWHAND', '5', '1', '7d', '5s', '6', '321', '273', 'BAMF4', 'Rando4', 'Randy4', '3', 'true', 'true', 'true', '14.922007']
+Active Players:3
+
+Our hand: 7d 5s
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:1
+Rando4's VPIP: 0.000000
+Rando4's PFR: 0.000000
+Rando4's estimated fold percentage is 1.000000
+Rando4's AF flop/postflop: 1.000000
+Rando4's Player Type: NIT
+Rando4's Seat:2
+Randy4's VPIP: 0.250000
+Randy4's PFR: 0.250000
+Randy4's estimated fold percentage is 0.333333
+Randy4's AF flop/postflop: 0.500000
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:3
+
+Rando4 posts small blind, stack size (320)
+Randy4 posts big blind, stack size (271)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 7d 5s
+
+BAMF4's EV: 0.080000
+BAMF4's Equity: 0.416
+BAMF4's Implied Odds: -2
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 2
+
+BAMF4 folds.
+BAMF4 folds.
+BAMF4 calls 2.
+Rando4 raised to 5.
+Randy4 folds.
+
+
+NEWHAND:6
+
+['NEWHAND', '6', '2', 'Qs', '4s', '271', '6', '323', 'Randy4', 'BAMF4', 'Rando4', '3', 'true', 'true', 'true', '14.914331']
+Active Players:3
+
+Our hand: Qs 4s
+Randy4's VPIP: 0.200000
+Randy4's PFR: 0.200000
+Randy4's estimated fold percentage is 0.400000
+Randy4's AF flop/postflop: 0.500000
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.200000
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:2
+Rando4's VPIP: 0.200000
+Rando4's PFR: 0.200000
+Rando4's estimated fold percentage is 1.000000
+Rando4's AF flop/postflop: 1.000000
+Rando4's Player Type: LOOSE
+Rando4's Seat:3
+
+BAMF4 posts small blind, stack size (5)
+Rando4 posts big blind, stack size (321)
+
+
+***PREFLOP***(9) Board:()
+Our hand: Qs 4s
+
+Randy4 raised to 6.
+BAMF4's EV: 1.785000
+BAMF4's Equity: 0.519
+BAMF4's Implied Odds: -9
+BAMF4's maxBetFold: 6
+BAMF4's maxBetEV: 9
+
+BAMF4 folds.
+final call min:6
+BAMF4 calls 6.
+Rando4 folds.
+
+
+NEWHAND:7
+
+['NEWHAND', '7', '3', '9s', 'Kc', '321', '274', '5', 'Rando4', 'Randy4', 'BAMF4', '3', 'true', 'true', 'true', '14.906758']
+Active Players:3
+
+Our hand: 9s Kc
+Rando4's VPIP: 0.166667
+Rando4's PFR: 0.166667
+Rando4's estimated fold percentage is 0.333333
+Rando4's AF flop/postflop: 1.000000
+Rando4's Player Type: LOOSE
+Rando4's Seat:1
+Randy4's VPIP: 0.333333
+Randy4's PFR: 0.166667
+Randy4's estimated fold percentage is 0.400000
+Randy4's AF flop/postflop: 0.500000
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+
+Randy4 posts small blind, stack size (273)
+BAMF4 posts big blind, stack size (3)
+
+
+***PREFLOP***(10) Board:()
+Our hand: 9s Kc
+
+Rando4 called 2.
+Randy4 raised to 6.
+BAMF4's EV: 3.595000
+BAMF4's Equity: 0.573
+BAMF4's Implied Odds: -11
+BAMF4's maxBetFold: 6
+BAMF4's maxBetEV: 13
+
+BAMF4 folds.
+final call min:5
+BAMF4 calls 5.
+Rando4 called 6.
+Rando4 WTSD percentage is: 0.428571
+Randy4 WTSD percentage is: 0.428571
+Rando4 W$SD percentage is: 1.000000
+
+
+NEWHAND:8
+
+['NEWHAND', '8', '1', '9h', '8h', '3', '329', '268', 'BAMF4', 'Rando4', 'Randy4', '3', 'true', 'true', 'true', '14.899873']
+Active Players:3
+
+Our hand: 9h 8h
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:1
+Rando4's VPIP: 0.285714
+Rando4's PFR: 0.142857
+Rando4's estimated fold percentage is 0.333333
+Rando4's AF flop/postflop: 0.833333
+Rando4's Player Type: CALLING STATION
+Rando4's Seat:2
+Randy4's VPIP: 0.428571
+Randy4's PFR: 0.142857
+Randy4's estimated fold percentage is 0.400000
+Randy4's AF flop/postflop: 0.500000
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:3
+
+Rando4 posts small blind, stack size (328)
+Randy4 posts big blind, stack size (266)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 9h 8h
+
+BAMF4's EV: 0.535000
+BAMF4's Equity: 0.507
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 3
+
+BAMF4 folds.
+BAMF4 calls 2.
+Rando4 called 2.
+Randy4 checks.
+Rando4 bet 3.
+Randy4 raised to 12.
+Rando4 folds.
+
+
+NEWHAND:9
+
+['NEWHAND', '9', '2', '4h', 'Qc', '273', '3', '324', 'Randy4', 'BAMF4', 'Rando4', '3', 'true', 'true', 'true', '14.892499']
+Active Players:3
+
+Our hand: 4h Qc
+Randy4's VPIP: 0.375000
+Randy4's PFR: 0.125000
+Randy4's estimated fold percentage is 0.400000
+Randy4's AF flop/postflop: 0.750000
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:1
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:2
+Rando4's VPIP: 0.250000
+Rando4's PFR: 0.125000
+Rando4's estimated fold percentage is 0.333333
+Rando4's AF flop/postflop: 0.857143
+Rando4's Player Type: CALLING STATION
+Rando4's Seat:3
+
+BAMF4 posts small blind, stack size (2)
+Rando4 posts big blind, stack size (322)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 4h Qc
+
+Randy4 folds.
+BAMF4's EV: 0.430000
+BAMF4's Equity: 0.486
+BAMF4's Implied Odds: -2
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 2
+
+BAMF4 folds.
+BAMF4 calls 2.
+
+
+NEWHAND:10
+
+['NEWHAND', '10', '3', '2h', '3s', '325', '273', '2', 'Rando4', 'Randy4', 'BAMF4', '3', 'true', 'true', 'true', '14.885116']
+Active Players:3
+
+Our hand: 2h 3s
+Rando4's VPIP: 0.222222
+Rando4's PFR: 0.111111
+Rando4's estimated fold percentage is 0.333333
+Rando4's AF flop/postflop: 0.857143
+Rando4's Player Type: CALLING STATION
+Rando4's Seat:1
+Randy4's VPIP: 0.333333
+Randy4's PFR: 0.111111
+Randy4's estimated fold percentage is 0.333333
+Randy4's AF flop/postflop: 0.750000
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+
+Randy4 posts small blind, stack size (272)
+BAMF4 posts big blind, stack size (0)
+
+Rando4 raised to 4.
+Randy4 raised to 9.
+Rando4 called 9.
+Randy4 bet 8.
+Rando4 folds.
+Randy4 WTSD percentage is: 0.400000
+BAMF4 WTSD percentage is: 0.500000
+BAMF4 W$SD percentage is: 0.400000
+Randy4 W$SD percentage is: 0.750000
+
+
+NEWHAND:11
+
+['NEWHAND', '11', '1', '9d', 'Td', '6', '316', '278', 'BAMF4', 'Rando4', 'Randy4', '3', 'true', 'true', 'true', '14.885116']
+Active Players:3
+
+Our hand: 9d Td
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:1
+Rando4's VPIP: 0.200000
+Rando4's PFR: 0.100000
+Rando4's estimated fold percentage is 0.333333
+Rando4's AF flop/postflop: 0.875000
+Rando4's Player Type: CALLING STATION
+Rando4's Seat:2
+Randy4's VPIP: 0.300000
+Randy4's PFR: 0.100000
+Randy4's estimated fold percentage is 0.333333
+Randy4's AF flop/postflop: 1.250000
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:3
+
+Rando4 posts small blind, stack size (315)
+Randy4 posts big blind, stack size (276)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 9d Td
+
+BAMF4's EV: 0.700000
+BAMF4's Equity: 0.54
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 3
+
+BAMF4 folds.
+BAMF4 calls 2.
+Rando4 raised to 4.
+Randy4 called 4.
+Rando4 checks.
+Randy4 checks.
+Rando4 checks.
+Randy4 checks.
+Rando4 bet 2.
+Randy4 raised to 7.
+Rando4 called 7.
+Rando4 WTSD percentage is: 0.363636
+Randy4 WTSD percentage is: 0.454545
+Rando4 W$SD percentage is: 1.000000
+
+
+NEWHAND:12
+
+['NEWHAND', '12', '2', 'As', '4c', '267', '6', '327', 'Randy4', 'BAMF4', 'Rando4', '3', 'true', 'true', 'true', '14.875289']
+Active Players:3
+
+Our hand: As 4c
+Randy4's VPIP: 0.272727
+Randy4's PFR: 0.090909
+Randy4's estimated fold percentage is 0.333333
+Randy4's AF flop/postflop: 1.200000
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:1
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:2
+Rando4's VPIP: 0.181818
+Rando4's PFR: 0.090909
+Rando4's estimated fold percentage is 0.333333
+Rando4's AF flop/postflop: 1.000000
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:3
+
+BAMF4 posts small blind, stack size (5)
+Rando4 posts big blind, stack size (325)
+
+
+***PREFLOP***(8) Board:()
+Our hand: As 4c
+
+Randy4 raised to 5.
+BAMF4's EV: 2.247500
+BAMF4's Equity: 0.5575
+BAMF4's Implied Odds: -9
+BAMF4's maxBetFold: 3
+BAMF4's maxBetEV: 10
+
+BAMF4 folds.
+WATCH OUT EV FOLD2
+BAMF4 folds.
+Rando4 raised to 14.
+Randy4 raised to 39.
+Rando4 called 39.
+Rando4 checks.
+Randy4 bet 35.
+Rando4 called 35.
+Rando4 bet 43.
+Randy4 folds.
+
+
+NEWHAND:13
+
+['NEWHAND', '13', '3', 'Qh', '2h', '402', '193', '5', 'Rando4', 'Randy4', 'BAMF4', '3', 'true', 'true', 'true', '14.867338']
+Active Players:3
+
+Our hand: Qh 2h
+Rando4's VPIP: 0.166667
+Rando4's PFR: 0.083333
+Rando4's estimated fold percentage is 0.333333
+Rando4's AF flop/postflop: 1.000000
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.333333
+Randy4's PFR: 0.083333
+Randy4's estimated fold percentage is 0.333333
+Randy4's AF flop/postflop: 1.600000
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+
+Randy4 posts small blind, stack size (192)
+BAMF4 posts big blind, stack size (3)
+
+
+***PREFLOP***(7) Board:()
+Our hand: Qh 2h
+
+Rando4 folds.
+Randy4 raised to 5.
+BAMF4's EV: 1.048000
+BAMF4's Equity: 0.504
+BAMF4's Implied Odds: -7
+BAMF4's maxBetFold: 3
+BAMF4's maxBetEV: 7
+
+BAMF4 folds.
+WATCH OUT EV FOLD2
+BAMF4 folds.
+
+
+NEWHAND:14
+
+['NEWHAND', '14', '1', '6c', 'Th', '3', '402', '195', 'BAMF4', 'Rando4', 'Randy4', '3', 'true', 'true', 'true', '14.859229']
+Active Players:3
+
+Our hand: 6c Th
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.307692
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:1
+Rando4's VPIP: 0.153846
+Rando4's PFR: 0.076923
+Rando4's estimated fold percentage is 0.230769
+Rando4's AF flop/postflop: 1.000000
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+Randy4's VPIP: 0.384615
+Randy4's PFR: 0.076923
+Randy4's estimated fold percentage is 0.333333
+Randy4's AF flop/postflop: 1.600000
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:3
+
+Rando4 posts small blind, stack size (401)
+Randy4 posts big blind, stack size (193)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 6c Th
+
+BAMF4's EV: 0.212500
+BAMF4's Equity: 0.4425
+BAMF4's Implied Odds: -2
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 2
+
+BAMF4 folds.
+BAMF4 folds.
+BAMF4 calls 2.
+Rando4 folds.
+
+
+NEWHAND:15
+
+['NEWHAND', '15', '2', 'Kh', '4c', '196', '3', '401', 'Randy4', 'BAMF4', 'Rando4', '3', 'true', 'true', 'true', '14.851861']
+Active Players:3
+
+Our hand: Kh 4c
+Randy4's VPIP: 0.357143
+Randy4's PFR: 0.071429
+Randy4's estimated fold percentage is 0.333333
+Randy4's AF flop/postflop: 1.600000
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:1
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.357143
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:2
+Rando4's VPIP: 0.142857
+Rando4's PFR: 0.071429
+Rando4's estimated fold percentage is 0.285714
+Rando4's AF flop/postflop: 1.000000
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:3
+
+BAMF4 posts small blind, stack size (2)
+Rando4 posts big blind, stack size (399)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Kh 4c
+
+Randy4 folds.
+BAMF4's EV: 0.682500
+BAMF4's Equity: 0.5365
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 3
+
+BAMF4 folds.
+BAMF4 calls 2.
+
+
+NEWHAND:16
+
+['NEWHAND', '16', '3', '8h', '7h', '402', '196', '2', 'Rando4', 'Randy4', 'BAMF4', '3', 'true', 'true', 'true', '14.845122']
+Active Players:3
+
+Our hand: 8h 7h
+Rando4's VPIP: 0.133333
+Rando4's PFR: 0.066667
+Rando4's estimated fold percentage is 0.285714
+Rando4's AF flop/postflop: 1.000000
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.333333
+Randy4's PFR: 0.066667
+Randy4's estimated fold percentage is 0.266667
+Randy4's AF flop/postflop: 1.600000
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.400000
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+
+Randy4 posts small blind, stack size (195)
+BAMF4 posts big blind, stack size (0)
+
+Rando4 raised to 4.
+Randy4 raised to 12.
+Rando4 called 12.
+Randy4 checks.
+Rando4 checks.
+Randy4 bet 10.
+Rando4 folds.
+Randy4 WTSD percentage is: 0.375000
+BAMF4 WTSD percentage is: 0.375000
+BAMF4 W$SD percentage is: 0.500000
+Randy4 W$SD percentage is: 0.666667
+
+
+NEWHAND:17
+
+['NEWHAND', '17', '1', '8c', '5h', '6', '390', '204', 'BAMF4', 'Rando4', 'Randy4', '3', 'true', 'true', 'true', '14.845122']
+Active Players:3
+
+Our hand: 8c 5h
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.400000
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:1
+Rando4's VPIP: 0.125000
+Rando4's PFR: 0.062500
+Rando4's estimated fold percentage is 0.285714
+Rando4's AF flop/postflop: 1.000000
+Rando4's Player Type: NIT
+Rando4's Seat:2
+Randy4's VPIP: 0.312500
+Randy4's PFR: 0.062500
+Randy4's estimated fold percentage is 0.266667
+Randy4's AF flop/postflop: 2.000000
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:3
+
+Rando4 posts small blind, stack size (389)
+Randy4 posts big blind, stack size (202)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 8c 5h
+
+BAMF4's EV: 0.170000
+BAMF4's Equity: 0.434
+BAMF4's Implied Odds: -2
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 2
+
+BAMF4 folds.
+BAMF4 folds.
+BAMF4 calls 2.
+Rando4 called 2.
+Randy4 checks.
+Rando4 checks.
+Randy4 bet 3.
+Rando4 raised to 6.
+Randy4 raised to 13.
+Rando4 raised to 22.
+Randy4 raised to 57.
+Rando4 raised to 123.
+Randy4 called 123.
+Rando4 checks.
+Randy4 bet 67.
+Rando4 folds.
+
+
+NEWHAND:18
+
+['NEWHAND', '18', '2', '8h', '6s', '329', '6', '265', 'Randy4', 'BAMF4', 'Rando4', '3', 'true', 'true', 'true', '14.837577']
+Active Players:3
+
+Our hand: 8h 6s
+Randy4's VPIP: 0.294118
+Randy4's PFR: 0.058824
+Randy4's estimated fold percentage is 0.266667
+Randy4's AF flop/postflop: 2.333333
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:1
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.400000
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:2
+Rando4's VPIP: 0.117647
+Rando4's PFR: 0.058824
+Rando4's estimated fold percentage is 0.285714
+Rando4's AF flop/postflop: 1.153846
+Rando4's Player Type: NIT
+Rando4's Seat:3
+
+BAMF4 posts small blind, stack size (5)
+Rando4 posts big blind, stack size (263)
+
+
+***PREFLOP***(5) Board:()
+Our hand: 8h 6s
+
+Randy4 called 2.
+BAMF4's EV: 0.996000
+BAMF4's Equity: 0.428
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 3
+
+BAMF4 folds.
+BAMF4 folds.
+BAMF4 calls 2.
+Rando4 raised to 4.
+Randy4 folds.
+
+
+NEWHAND:19
+
+['NEWHAND', '19', '3', 'Jd', 'Tc', '268', '327', '5', 'Rando4', 'Randy4', 'BAMF4', '3', 'true', 'true', 'true', '14.828961']
+Active Players:3
+
+Our hand: Jd Tc
+Rando4's VPIP: 0.166667
+Rando4's PFR: 0.055556
+Rando4's estimated fold percentage is 0.285714
+Rando4's AF flop/postflop: 1.153846
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.333333
+Randy4's PFR: 0.055556
+Randy4's estimated fold percentage is 0.277778
+Randy4's AF flop/postflop: 2.333333
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.388889
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+
+Randy4 posts small blind, stack size (326)
+BAMF4 posts big blind, stack size (3)
+
+
+***PREFLOP***(22) Board:()
+Our hand: Jd Tc
+
+Rando4 raised to 5.
+Randy4 raised to 15.
+BAMF4's EV: 9.269500
+BAMF4's Equity: 0.5285
+BAMF4's Implied Odds: -22
+BAMF4's maxBetFold: 8
+BAMF4's maxBetEV: 24
+
+BAMF4 folds.
+BAMF4 calls 5.
+Rando4 folds.
+
+
+NEWHAND:20
+
+['NEWHAND', '20', '1', 'Kd', '2s', '3', '263', '334', 'BAMF4', 'Rando4', 'Randy4', '3', 'true', 'true', 'true', '14.821528']
+Active Players:3
+
+Our hand: Kd 2s
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.421053
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:1
+Rando4's VPIP: 0.210526
+Rando4's PFR: 0.052632
+Rando4's estimated fold percentage is 0.263158
+Rando4's AF flop/postflop: 1.153846
+Rando4's Player Type: CALLING STATION
+Rando4's Seat:2
+Randy4's VPIP: 0.368421
+Randy4's PFR: 0.052632
+Randy4's estimated fold percentage is 0.277778
+Randy4's AF flop/postflop: 2.333333
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:3
+
+Rando4 posts small blind, stack size (262)
+Randy4 posts big blind, stack size (332)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Kd 2s
+
+BAMF4's EV: 0.520000
+BAMF4's Equity: 0.504
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 3
+
+BAMF4 folds.
+final max raise:3
+final min raise:3
+Raise range: 3 3
+BAMF4 raise 3.
+Rando4 called 2.
+Randy4 checks.
+Rando4 checks.
+Randy4 checks.
+Rando4 checks.
+Randy4 checks.
+Rando4 checks.
+Randy4 checks.
+Rando4 WTSD percentage is: 0.250000
+Randy4 WTSD percentage is: 0.350000
+Rando4 W$SD percentage is: 1.000000
+
+
+NEWHAND:21
+
+['NEWHAND', '21', '2', '6s', '8h', '332', '3', '265', 'Randy4', 'BAMF4', 'Rando4', '3', 'true', 'true', 'true', '14.814580']
+Active Players:3
+
+Our hand: 6s 8h
+Randy4's VPIP: 0.350000
+Randy4's PFR: 0.050000
+Randy4's estimated fold percentage is 0.277778
+Randy4's AF flop/postflop: 2.333333
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:1
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.421053
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:2
+Rando4's VPIP: 0.200000
+Rando4's PFR: 0.050000
+Rando4's estimated fold percentage is 0.263158
+Rando4's AF flop/postflop: 1.071429
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:3
+
+BAMF4 posts small blind, stack size (2)
+Rando4 posts big blind, stack size (263)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 6s 8h
+
+Randy4 folds.
+BAMF4's EV: 0.140000
+BAMF4's Equity: 0.428
+BAMF4's Implied Odds: -2
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 2
+
+BAMF4 folds.
+BAMF4 folds.
+BAMF4 calls 2.
+
+
+NEWHAND:22
+
+['NEWHAND', '22', '3', '2s', 'Kd', '266', '332', '2', 'Rando4', 'Randy4', 'BAMF4', '3', 'true', 'true', 'true', '14.806970']
+Active Players:3
+
+Our hand: 2s Kd
+Rando4's VPIP: 0.190476
+Rando4's PFR: 0.047619
+Rando4's estimated fold percentage is 0.263158
+Rando4's AF flop/postflop: 1.071429
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.333333
+Randy4's PFR: 0.047619
+Randy4's estimated fold percentage is 0.285714
+Randy4's AF flop/postflop: 2.333333
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+
+Randy4 posts small blind, stack size (331)
+BAMF4 posts big blind, stack size (0)
+
+Rando4 folds.
+Randy4 called 2.
+Randy4 WTSD percentage is: 0.363636
+BAMF4 WTSD percentage is: 0.318182
+Randy4 W$SD percentage is: 0.625000
+
+
+NEWHAND:23
+
+['NEWHAND', '23', '3', 'Ah', 'Jc', '334', '266', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Ah Jc
+Randy4's VPIP: 0.318182
+Randy4's PFR: 0.045455
+Randy4's estimated fold percentage is 0.285714
+Randy4's AF flop/postflop: 2.000000
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:1
+Rando4's VPIP: 0.181818
+Rando4's PFR: 0.045455
+Rando4's estimated fold percentage is 0.263158
+Rando4's AF flop/postflop: 1.071429
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (333)
+Rando4 posts big blind, stack size (264)
+
+Randy4 folds.
+
+
+NEWHAND:24
+
+['NEWHAND', '24', '3', '9s', 'Ah', '267', '333', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 9s Ah
+Rando4's VPIP: 0.173913
+Rando4's PFR: 0.043478
+Rando4's estimated fold percentage is 0.263158
+Rando4's AF flop/postflop: 1.071429
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.304348
+Randy4's PFR: 0.043478
+Randy4's estimated fold percentage is 0.304348
+Randy4's AF flop/postflop: 2.000000
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (266)
+Randy4 posts big blind, stack size (331)
+
+Rando4 raised to 4.
+Randy4 folds.
+
+
+NEWHAND:25
+
+['NEWHAND', '25', '3', '9d', '4d', '331', '269', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 9d 4d
+Randy4's VPIP: 0.291667
+Randy4's PFR: 0.041667
+Randy4's estimated fold percentage is 0.333333
+Randy4's AF flop/postflop: 2.000000
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:1
+Rando4's VPIP: 0.208333
+Rando4's PFR: 0.041667
+Rando4's estimated fold percentage is 0.263158
+Rando4's AF flop/postflop: 1.071429
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (330)
+Rando4 posts big blind, stack size (267)
+
+Randy4 folds.
+
+
+NEWHAND:26
+
+['NEWHAND', '26', '3', 'Qh', '9s', '270', '330', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Qh 9s
+Rando4's VPIP: 0.200000
+Rando4's PFR: 0.040000
+Rando4's estimated fold percentage is 0.263158
+Rando4's AF flop/postflop: 1.071429
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.280000
+Randy4's PFR: 0.040000
+Randy4's estimated fold percentage is 0.360000
+Randy4's AF flop/postflop: 2.000000
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (269)
+Randy4 posts big blind, stack size (328)
+
+Rando4 raised to 5.
+Randy4 folds.
+
+
+NEWHAND:27
+
+['NEWHAND', '27', '3', '9s', '4s', '328', '272', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 9s 4s
+Randy4's VPIP: 0.269231
+Randy4's PFR: 0.038462
+Randy4's estimated fold percentage is 0.384615
+Randy4's AF flop/postflop: 2.000000
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:1
+Rando4's VPIP: 0.230769
+Rando4's PFR: 0.038462
+Rando4's estimated fold percentage is 0.263158
+Rando4's AF flop/postflop: 1.071429
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (327)
+Rando4 posts big blind, stack size (270)
+
+Randy4 folds.
+
+
+NEWHAND:28
+
+['NEWHAND', '28', '3', '8h', '9c', '273', '327', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 8h 9c
+Rando4's VPIP: 0.222222
+Rando4's PFR: 0.037037
+Rando4's estimated fold percentage is 0.263158
+Rando4's AF flop/postflop: 1.071429
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.259259
+Randy4's PFR: 0.037037
+Randy4's estimated fold percentage is 0.407407
+Randy4's AF flop/postflop: 2.000000
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (272)
+Randy4 posts big blind, stack size (325)
+
+Rando4 raised to 4.
+Randy4 called 4.
+Randy4 checks.
+Rando4 checks.
+Randy4 bet 5.
+Rando4 raised to 19.
+Randy4 folds.
+
+
+NEWHAND:29
+
+['NEWHAND', '29', '3', '2s', '8c', '318', '282', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 2s 8c
+Randy4's VPIP: 0.250000
+Randy4's PFR: 0.035714
+Randy4's estimated fold percentage is 0.407407
+Randy4's AF flop/postflop: 1.875000
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:1
+Rando4's VPIP: 0.214286
+Rando4's PFR: 0.035714
+Rando4's estimated fold percentage is 0.263158
+Rando4's AF flop/postflop: 1.214286
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (317)
+Rando4 posts big blind, stack size (280)
+
+Randy4 folds.
+
+
+NEWHAND:30
+
+['NEWHAND', '30', '3', '3c', 'As', '283', '317', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 3c As
+Rando4's VPIP: 0.206897
+Rando4's PFR: 0.034483
+Rando4's estimated fold percentage is 0.263158
+Rando4's AF flop/postflop: 1.214286
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.241379
+Randy4's PFR: 0.034483
+Randy4's estimated fold percentage is 0.413793
+Randy4's AF flop/postflop: 1.875000
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (282)
+Randy4 posts big blind, stack size (315)
+
+Rando4 raised to 5.
+Randy4 raised to 10.
+Rando4 folds.
+
+
+NEWHAND:31
+
+['NEWHAND', '31', '3', '7h', '5c', '322', '278', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 7h 5c
+Randy4's VPIP: 0.266667
+Randy4's PFR: 0.033333
+Randy4's estimated fold percentage is 0.413793
+Randy4's AF flop/postflop: 1.875000
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:1
+Rando4's VPIP: 0.233333
+Rando4's PFR: 0.033333
+Rando4's estimated fold percentage is 0.200000
+Rando4's AF flop/postflop: 1.214286
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (321)
+Rando4 posts big blind, stack size (276)
+
+Randy4 folds.
+
+
+NEWHAND:32
+
+['NEWHAND', '32', '3', 'As', 'Qs', '279', '321', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: As Qs
+Rando4's VPIP: 0.225806
+Rando4's PFR: 0.032258
+Rando4's estimated fold percentage is 0.200000
+Rando4's AF flop/postflop: 1.214286
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.258065
+Randy4's PFR: 0.032258
+Randy4's estimated fold percentage is 0.419355
+Randy4's AF flop/postflop: 1.875000
+Randy4's Player Type: CALLING STATION
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (278)
+Randy4 posts big blind, stack size (319)
+
+Rando4 raised to 5.
+Randy4 called 5.
+Randy4 bet 7.
+Rando4 raised to 26.
+Randy4 called 26.
+Randy4 bet 54.
+Rando4 called 54.
+Randy4 checks.
+Rando4 checks.
+Rando4 WTSD percentage is: 0.187500
+Randy4 WTSD percentage is: 0.281250
+Rando4 W$SD percentage is: 1.000000
+
+
+NEWHAND:33
+
+['NEWHAND', '33', '3', '6c', 'Tc', '236', '364', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 6c Tc
+Randy4's VPIP: 0.250000
+Randy4's PFR: 0.031250
+Randy4's estimated fold percentage is 0.419355
+Randy4's AF flop/postflop: 1.700000
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.218750
+Rando4's PFR: 0.031250
+Rando4's estimated fold percentage is 0.200000
+Rando4's AF flop/postflop: 1.266667
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (235)
+Rando4 posts big blind, stack size (362)
+
+Randy4 called 2.
+Rando4 checks.
+Rando4 checks.
+Randy4 checks.
+Rando4 bet 2.
+Randy4 folds.
+
+
+NEWHAND:34
+
+['NEWHAND', '34', '3', 'Qs', '9s', '366', '234', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Qs 9s
+Rando4's VPIP: 0.212121
+Rando4's PFR: 0.030303
+Rando4's estimated fold percentage is 0.200000
+Rando4's AF flop/postflop: 1.333333
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.242424
+Randy4's PFR: 0.030303
+Randy4's estimated fold percentage is 0.419355
+Randy4's AF flop/postflop: 1.545455
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (365)
+Randy4 posts big blind, stack size (232)
+
+Rando4 called 2.
+Randy4 checks.
+Randy4 bet 2.
+Rando4 folds.
+
+
+NEWHAND:35
+
+['NEWHAND', '35', '3', 'Qs', 'Jh', '236', '364', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Qs Jh
+Randy4's VPIP: 0.235294
+Randy4's PFR: 0.029412
+Randy4's estimated fold percentage is 0.419355
+Randy4's AF flop/postflop: 1.636364
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.205882
+Rando4's PFR: 0.029412
+Rando4's estimated fold percentage is 0.200000
+Rando4's AF flop/postflop: 1.250000
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (235)
+Rando4 posts big blind, stack size (362)
+
+Randy4 folds.
+
+
+NEWHAND:36
+
+['NEWHAND', '36', '3', 'Jh', '5h', '365', '235', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Jh 5h
+Rando4's VPIP: 0.200000
+Rando4's PFR: 0.028571
+Rando4's estimated fold percentage is 0.200000
+Rando4's AF flop/postflop: 1.250000
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.228571
+Randy4's PFR: 0.028571
+Randy4's estimated fold percentage is 0.400000
+Randy4's AF flop/postflop: 1.636364
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (364)
+Randy4 posts big blind, stack size (233)
+
+Rando4 folds.
+
+
+NEWHAND:37
+
+['NEWHAND', '37', '3', '9d', 'Qs', '236', '364', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 9d Qs
+Randy4's VPIP: 0.222222
+Randy4's PFR: 0.027778
+Randy4's estimated fold percentage is 0.400000
+Randy4's AF flop/postflop: 1.636364
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.194444
+Rando4's PFR: 0.027778
+Rando4's estimated fold percentage is 0.194444
+Rando4's AF flop/postflop: 1.250000
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (235)
+Rando4 posts big blind, stack size (362)
+
+Randy4 called 2.
+Rando4 checks.
+Rando4 checks.
+Randy4 checks.
+Rando4 bet 3.
+Randy4 called 3.
+Rando4 checks.
+Randy4 bet 7.
+Rando4 raised to 15.
+Randy4 called 15.
+Rando4 WTSD percentage is: 0.189189
+Randy4 WTSD percentage is: 0.270270
+Rando4 W$SD percentage is: 1.000000
+
+
+NEWHAND:38
+
+['NEWHAND', '38', '3', 'Js', '6h', '384', '216', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Js 6h
+Rando4's VPIP: 0.189189
+Rando4's PFR: 0.027027
+Rando4's estimated fold percentage is 0.194444
+Rando4's AF flop/postflop: 1.375000
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.216216
+Randy4's PFR: 0.027027
+Randy4's estimated fold percentage is 0.400000
+Randy4's AF flop/postflop: 1.357143
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (383)
+Randy4 posts big blind, stack size (214)
+
+Rando4 raised to 5.
+Randy4 raised to 8.
+Rando4 called 8.
+Randy4 checks.
+Rando4 checks.
+Randy4 checks.
+Rando4 checks.
+Randy4 checks.
+Rando4 checks.
+Rando4 WTSD percentage is: 0.210526
+Randy4 WTSD percentage is: 0.289474
+Rando4 W$SD percentage is: 1.000000
+
+
+NEWHAND:39
+
+['NEWHAND', '39', '3', '2d', 'As', '208', '392', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 2d As
+Randy4's VPIP: 0.210526
+Randy4's PFR: 0.026316
+Randy4's estimated fold percentage is 0.400000
+Randy4's AF flop/postflop: 1.428571
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.184211
+Rando4's PFR: 0.026316
+Rando4's estimated fold percentage is 0.194444
+Rando4's AF flop/postflop: 1.352941
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (207)
+Rando4 posts big blind, stack size (390)
+
+Randy4 raised to 4.
+Rando4 raised to 7.
+Randy4 folds.
+
+
+NEWHAND:40
+
+['NEWHAND', '40', '3', '2h', 'Td', '396', '204', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 2h Td
+Rando4's VPIP: 0.205128
+Rando4's PFR: 0.025641
+Rando4's estimated fold percentage is 0.194444
+Rando4's AF flop/postflop: 1.352941
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.230769
+Randy4's PFR: 0.025641
+Randy4's estimated fold percentage is 0.384615
+Randy4's AF flop/postflop: 1.428571
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (395)
+Randy4 posts big blind, stack size (202)
+
+Rando4 raised to 4.
+Randy4 folds.
+
+
+NEWHAND:41
+
+['NEWHAND', '41', '3', '9d', 'Qs', '202', '398', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 9d Qs
+Randy4's VPIP: 0.225000
+Randy4's PFR: 0.025000
+Randy4's estimated fold percentage is 0.400000
+Randy4's AF flop/postflop: 1.428571
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.225000
+Rando4's PFR: 0.025000
+Rando4's estimated fold percentage is 0.194444
+Rando4's AF flop/postflop: 1.352941
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (201)
+Rando4 posts big blind, stack size (396)
+
+Randy4 called 2.
+Rando4 raised to 5.
+Randy4 folds.
+
+
+NEWHAND:42
+
+['NEWHAND', '42', '3', 'Th', 'Kd', '400', '200', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Th Kd
+Rando4's VPIP: 0.243902
+Rando4's PFR: 0.024390
+Rando4's estimated fold percentage is 0.194444
+Rando4's AF flop/postflop: 1.352941
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.243902
+Randy4's PFR: 0.024390
+Randy4's estimated fold percentage is 0.414634
+Randy4's AF flop/postflop: 1.428571
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (399)
+Randy4 posts big blind, stack size (198)
+
+Rando4 raised to 5.
+Randy4 called 5.
+Randy4 checks.
+Rando4 bet 2.
+Randy4 called 2.
+Randy4 checks.
+Rando4 bet 10.
+Randy4 raised to 25.
+Rando4 raised to 51.
+Randy4 called 51.
+Randy4 bet 78.
+Rando4 raised to 142.
+Randy4 folds.
+
+
+NEWHAND:43
+
+['NEWHAND', '43', '3', '5c', 'Ac', '64', '536', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 5c Ac
+Randy4's VPIP: 0.238095
+Randy4's PFR: 0.023810
+Randy4's estimated fold percentage is 0.414634
+Randy4's AF flop/postflop: 1.294118
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.238095
+Rando4's PFR: 0.023810
+Rando4's estimated fold percentage is 0.194444
+Rando4's AF flop/postflop: 1.647059
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (63)
+Rando4 posts big blind, stack size (534)
+
+Randy4 folds.
+
+
+NEWHAND:44
+
+['NEWHAND', '44', '3', '4s', 'Ah', '537', '63', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 4s Ah
+Rando4's VPIP: 0.232558
+Rando4's PFR: 0.023256
+Rando4's estimated fold percentage is 0.194444
+Rando4's AF flop/postflop: 1.647059
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.232558
+Randy4's PFR: 0.023256
+Randy4's estimated fold percentage is 0.418605
+Randy4's AF flop/postflop: 1.294118
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (536)
+Randy4 posts big blind, stack size (61)
+
+Rando4 folds.
+
+
+NEWHAND:45
+
+['NEWHAND', '45', '3', 'Qs', 'Ad', '64', '536', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Qs Ad
+Randy4's VPIP: 0.227273
+Randy4's PFR: 0.022727
+Randy4's estimated fold percentage is 0.418605
+Randy4's AF flop/postflop: 1.294118
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.227273
+Rando4's PFR: 0.022727
+Rando4's estimated fold percentage is 0.181818
+Rando4's AF flop/postflop: 1.647059
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (63)
+Rando4 posts big blind, stack size (534)
+
+Randy4 folds.
+
+
+NEWHAND:46
+
+['NEWHAND', '46', '3', '8s', 'Js', '537', '63', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 8s Js
+Rando4's VPIP: 0.222222
+Rando4's PFR: 0.022222
+Rando4's estimated fold percentage is 0.181818
+Rando4's AF flop/postflop: 1.647059
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.222222
+Randy4's PFR: 0.022222
+Randy4's estimated fold percentage is 0.422222
+Randy4's AF flop/postflop: 1.294118
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (536)
+Randy4 posts big blind, stack size (61)
+
+Rando4 called 2.
+Randy4 raised to 5.
+Rando4 called 5.
+Randy4 checks.
+Rando4 bet 3.
+Randy4 raised to 14.
+Rando4 called 14.
+Randy4 bet 23.
+Rando4 called 23.
+Randy4 checks.
+Rando4 checks.
+Rando4 WTSD percentage is: 0.195652
+Randy4 WTSD percentage is: 0.260870
+Randy4 W$SD percentage is: 0.500000
+
+
+NEWHAND:47
+
+['NEWHAND', '47', '3', '3h', '5h', '105', '495', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 3h 5h
+Randy4's VPIP: 0.217391
+Randy4's PFR: 0.021739
+Randy4's estimated fold percentage is 0.422222
+Randy4's AF flop/postflop: 1.470588
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.217391
+Rando4's PFR: 0.021739
+Rando4's estimated fold percentage is 0.181818
+Rando4's AF flop/postflop: 1.380952
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (104)
+Rando4 posts big blind, stack size (493)
+
+Randy4 folds.
+
+
+NEWHAND:48
+
+['NEWHAND', '48', '3', '9h', '2s', '496', '104', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 9h 2s
+Rando4's VPIP: 0.212766
+Rando4's PFR: 0.021277
+Rando4's estimated fold percentage is 0.181818
+Rando4's AF flop/postflop: 1.380952
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.212766
+Randy4's PFR: 0.021277
+Randy4's estimated fold percentage is 0.425532
+Randy4's AF flop/postflop: 1.470588
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (495)
+Randy4 posts big blind, stack size (102)
+
+Rando4 raised to 5.
+Randy4 called 5.
+Randy4 checks.
+Rando4 bet 4.
+Randy4 raised to 9.
+Rando4 folds.
+
+
+NEWHAND:49
+
+['NEWHAND', '49', '3', 'As', 'Th', '113', '487', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: As Th
+Randy4's VPIP: 0.208333
+Randy4's PFR: 0.020833
+Randy4's estimated fold percentage is 0.425532
+Randy4's AF flop/postflop: 1.444444
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.208333
+Rando4's PFR: 0.020833
+Rando4's estimated fold percentage is 0.181818
+Rando4's AF flop/postflop: 1.476190
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (112)
+Rando4 posts big blind, stack size (485)
+
+Randy4 called 2.
+Rando4 checks.
+Rando4 bet 2.
+Randy4 raised to 9.
+Rando4 called 9.
+Rando4 bet 16.
+Randy4 called 16.
+Rando4 checks.
+Randy4 checks.
+Rando4 WTSD percentage is: 0.204082
+Randy4 WTSD percentage is: 0.265306
+Randy4 W$SD percentage is: 0.538462
+
+
+NEWHAND:50
+
+['NEWHAND', '50', '3', '4d', '7c', '460', '140', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 4d 7c
+Rando4's VPIP: 0.204082
+Rando4's PFR: 0.020408
+Rando4's estimated fold percentage is 0.181818
+Rando4's AF flop/postflop: 1.500000
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.204082
+Randy4's PFR: 0.020408
+Randy4's estimated fold percentage is 0.425532
+Randy4's AF flop/postflop: 1.350000
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (459)
+Randy4 posts big blind, stack size (138)
+
+Rando4 raised to 5.
+Randy4 called 5.
+Randy4 checks.
+Rando4 checks.
+Randy4 checks.
+Rando4 checks.
+Randy4 bet 6.
+Rando4 raised to 27.
+Randy4 raised to 67.
+Rando4 raised to 129.
+Randy4 folds.
+
+
+NEWHAND:51
+
+['NEWHAND', '51', '3', '5d', 'As', '68', '532', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 5d As
+Randy4's VPIP: 0.200000
+Randy4's PFR: 0.020000
+Randy4's estimated fold percentage is 0.425532
+Randy4's AF flop/postflop: 1.380952
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.200000
+Rando4's PFR: 0.020000
+Rando4's estimated fold percentage is 0.181818
+Rando4's AF flop/postflop: 1.636364
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (67)
+Rando4 posts big blind, stack size (530)
+
+Randy4 raised to 5.
+Rando4 called 5.
+Rando4 bet 9.
+Randy4 called 9.
+Rando4 bet 21.
+Randy4 folds.
+
+
+NEWHAND:52
+
+['NEWHAND', '52', '3', 'Qh', '4h', '546', '54', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Qh 4h
+Rando4's VPIP: 0.196078
+Rando4's PFR: 0.019608
+Rando4's estimated fold percentage is 0.181818
+Rando4's AF flop/postflop: 1.652174
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.196078
+Randy4's PFR: 0.019608
+Randy4's estimated fold percentage is 0.425532
+Randy4's AF flop/postflop: 1.363636
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (545)
+Randy4 posts big blind, stack size (52)
+
+Rando4 called 2.
+Randy4 raised to 5.
+Rando4 folds.
+
+
+NEWHAND:53
+
+['NEWHAND', '53', '3', '7h', 'Ts', '56', '544', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 7h Ts
+Randy4's VPIP: 0.211538
+Randy4's PFR: 0.019231
+Randy4's estimated fold percentage is 0.425532
+Randy4's AF flop/postflop: 1.363636
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.211538
+Rando4's PFR: 0.019231
+Rando4's estimated fold percentage is 0.173077
+Rando4's AF flop/postflop: 1.652174
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (55)
+Rando4 posts big blind, stack size (542)
+
+Randy4 folds.
+
+
+NEWHAND:54
+
+['NEWHAND', '54', '3', 'Ks', '3s', '545', '55', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Ks 3s
+Rando4's VPIP: 0.207547
+Rando4's PFR: 0.018868
+Rando4's estimated fold percentage is 0.173077
+Rando4's AF flop/postflop: 1.652174
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.207547
+Randy4's PFR: 0.018868
+Randy4's estimated fold percentage is 0.396226
+Randy4's AF flop/postflop: 1.363636
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (544)
+Randy4 posts big blind, stack size (53)
+
+Rando4 folds.
+
+
+NEWHAND:55
+
+['NEWHAND', '55', '3', '2s', 'Ad', '56', '544', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 2s Ad
+Randy4's VPIP: 0.203704
+Randy4's PFR: 0.018519
+Randy4's estimated fold percentage is 0.396226
+Randy4's AF flop/postflop: 1.363636
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.203704
+Rando4's PFR: 0.018519
+Rando4's estimated fold percentage is 0.185185
+Rando4's AF flop/postflop: 1.652174
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (55)
+Rando4 posts big blind, stack size (542)
+
+Randy4 called 2.
+Rando4 checks.
+Rando4 bet 2.
+Randy4 folds.
+
+
+NEWHAND:56
+
+['NEWHAND', '56', '3', 'Qh', '9s', '546', '54', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Qh 9s
+Rando4's VPIP: 0.200000
+Rando4's PFR: 0.018182
+Rando4's estimated fold percentage is 0.185185
+Rando4's AF flop/postflop: 1.695652
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.200000
+Randy4's PFR: 0.018182
+Randy4's estimated fold percentage is 0.396226
+Randy4's AF flop/postflop: 1.304348
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (545)
+Randy4 posts big blind, stack size (52)
+
+Rando4 called 2.
+Randy4 raised to 4.
+Rando4 raised to 7.
+Randy4 folds.
+
+
+NEWHAND:57
+
+['NEWHAND', '57', '3', 'Th', 'Qd', '50', '550', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Th Qd
+Randy4's VPIP: 0.214286
+Randy4's PFR: 0.017857
+Randy4's estimated fold percentage is 0.392857
+Randy4's AF flop/postflop: 1.304348
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.214286
+Rando4's PFR: 0.017857
+Rando4's estimated fold percentage is 0.185185
+Rando4's AF flop/postflop: 1.695652
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (49)
+Rando4 posts big blind, stack size (548)
+
+Randy4 called 2.
+Rando4 checks.
+Rando4 checks.
+Randy4 checks.
+Rando4 checks.
+Randy4 checks.
+Rando4 bet 2.
+Randy4 called 2.
+Randy4 WTSD percentage is: 0.245614
+Rando4 WTSD percentage is: 0.192982
+Randy4 W$SD percentage is: 0.571429
+
+
+NEWHAND:58
+
+['NEWHAND', '58', '3', '5s', '6s', '546', '54', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 5s 6s
+Rando4's VPIP: 0.210526
+Rando4's PFR: 0.017544
+Rando4's estimated fold percentage is 0.185185
+Rando4's AF flop/postflop: 1.739130
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.210526
+Randy4's PFR: 0.017544
+Randy4's estimated fold percentage is 0.392857
+Randy4's AF flop/postflop: 1.200000
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (545)
+Randy4 posts big blind, stack size (52)
+
+Rando4 called 2.
+Randy4 checks.
+Randy4 bet 3.
+Rando4 called 3.
+Randy4 bet 9.
+Rando4 folds.
+
+
+NEWHAND:59
+
+['NEWHAND', '59', '3', '4d', 'Ac', '59', '541', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 4d Ac
+Randy4's VPIP: 0.206897
+Randy4's PFR: 0.017241
+Randy4's estimated fold percentage is 0.392857
+Randy4's AF flop/postflop: 1.280000
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.206897
+Rando4's PFR: 0.017241
+Rando4's estimated fold percentage is 0.185185
+Rando4's AF flop/postflop: 1.600000
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (58)
+Rando4 posts big blind, stack size (539)
+
+Randy4 raised to 5.
+Rando4 called 5.
+Rando4 bet 5.
+Randy4 called 5.
+Rando4 checks.
+Randy4 checks.
+Rando4 checks.
+Randy4 bet 4.
+Rando4 folds.
+
+
+NEWHAND:60
+
+['NEWHAND', '60', '3', '5h', '3s', '531', '69', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 5h 3s
+Rando4's VPIP: 0.203390
+Rando4's PFR: 0.016949
+Rando4's estimated fold percentage is 0.185185
+Rando4's AF flop/postflop: 1.576923
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.203390
+Randy4's PFR: 0.016949
+Randy4's estimated fold percentage is 0.392857
+Randy4's AF flop/postflop: 1.307692
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (530)
+Randy4 posts big blind, stack size (67)
+
+Rando4 folds.
+
+
+NEWHAND:61
+
+['NEWHAND', '61', '3', '7c', 'Ts', '70', '530', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 7c Ts
+Randy4's VPIP: 0.200000
+Randy4's PFR: 0.016667
+Randy4's estimated fold percentage is 0.392857
+Randy4's AF flop/postflop: 1.307692
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.200000
+Rando4's PFR: 0.016667
+Rando4's estimated fold percentage is 0.183333
+Rando4's AF flop/postflop: 1.576923
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (69)
+Rando4 posts big blind, stack size (528)
+
+Randy4 raised to 5.
+Rando4 called 5.
+Rando4 bet 3.
+Randy4 folds.
+
+
+NEWHAND:62
+
+['NEWHAND', '62', '3', '4c', '8c', '535', '65', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 4c 8c
+Rando4's VPIP: 0.196721
+Rando4's PFR: 0.016393
+Rando4's estimated fold percentage is 0.183333
+Rando4's AF flop/postflop: 1.555556
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.196721
+Randy4's PFR: 0.016393
+Randy4's estimated fold percentage is 0.392857
+Randy4's AF flop/postflop: 1.346154
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (534)
+Randy4 posts big blind, stack size (63)
+
+Rando4 folds.
+
+
+NEWHAND:63
+
+['NEWHAND', '63', '3', 'Th', 'Ts', '66', '534', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Th Ts
+Randy4's VPIP: 0.193548
+Randy4's PFR: 0.016129
+Randy4's estimated fold percentage is 0.392857
+Randy4's AF flop/postflop: 1.346154
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.193548
+Rando4's PFR: 0.016129
+Rando4's estimated fold percentage is 0.193548
+Rando4's AF flop/postflop: 1.555556
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (65)
+Rando4 posts big blind, stack size (532)
+
+Randy4 called 2.
+Rando4 checks.
+Rando4 checks.
+Randy4 bet 3.
+Rando4 folds.
+
+
+NEWHAND:64
+
+['NEWHAND', '64', '3', 'Ks', '2s', '532', '68', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Ks 2s
+Rando4's VPIP: 0.190476
+Rando4's PFR: 0.015873
+Rando4's estimated fold percentage is 0.193548
+Rando4's AF flop/postflop: 1.555556
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.190476
+Randy4's PFR: 0.015873
+Randy4's estimated fold percentage is 0.392857
+Randy4's AF flop/postflop: 1.333333
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (531)
+Randy4 posts big blind, stack size (66)
+
+Rando4 folds.
+
+
+NEWHAND:65
+
+['NEWHAND', '65', '3', 'Ks', '3h', '69', '531', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Ks 3h
+Randy4's VPIP: 0.187500
+Randy4's PFR: 0.015625
+Randy4's estimated fold percentage is 0.392857
+Randy4's AF flop/postflop: 1.333333
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.187500
+Rando4's PFR: 0.015625
+Rando4's estimated fold percentage is 0.203125
+Rando4's AF flop/postflop: 1.555556
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (68)
+Rando4 posts big blind, stack size (529)
+
+Randy4 folds.
+
+
+NEWHAND:66
+
+['NEWHAND', '66', '3', '8h', '3h', '532', '68', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 8h 3h
+Rando4's VPIP: 0.184615
+Rando4's PFR: 0.015385
+Rando4's estimated fold percentage is 0.203125
+Rando4's AF flop/postflop: 1.555556
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.184615
+Randy4's PFR: 0.015385
+Randy4's estimated fold percentage is 0.353846
+Randy4's AF flop/postflop: 1.333333
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (531)
+Randy4 posts big blind, stack size (66)
+
+Rando4 folds.
+
+
+NEWHAND:67
+
+['NEWHAND', '67', '3', '7h', '9h', '69', '531', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 7h 9h
+Randy4's VPIP: 0.181818
+Randy4's PFR: 0.015152
+Randy4's estimated fold percentage is 0.353846
+Randy4's AF flop/postflop: 1.333333
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.181818
+Rando4's PFR: 0.015152
+Rando4's estimated fold percentage is 0.212121
+Rando4's AF flop/postflop: 1.555556
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (68)
+Rando4 posts big blind, stack size (529)
+
+Randy4 folds.
+
+
+NEWHAND:68
+
+['NEWHAND', '68', '3', '5c', '7h', '532', '68', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 5c 7h
+Rando4's VPIP: 0.179104
+Rando4's PFR: 0.014925
+Rando4's estimated fold percentage is 0.212121
+Rando4's AF flop/postflop: 1.555556
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.179104
+Randy4's PFR: 0.014925
+Randy4's estimated fold percentage is 0.358209
+Randy4's AF flop/postflop: 1.333333
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (531)
+Randy4 posts big blind, stack size (66)
+
+Rando4 raised to 5.
+Randy4 folds.
+
+
+NEWHAND:69
+
+['NEWHAND', '69', '3', 'Ks', '4h', '66', '534', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Ks 4h
+Randy4's VPIP: 0.176471
+Randy4's PFR: 0.014706
+Randy4's estimated fold percentage is 0.367647
+Randy4's AF flop/postflop: 1.333333
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.191176
+Rando4's PFR: 0.014706
+Rando4's estimated fold percentage is 0.212121
+Rando4's AF flop/postflop: 1.555556
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (65)
+Rando4 posts big blind, stack size (532)
+
+Randy4 raised to 5.
+Rando4 raised to 13.
+Randy4 raised to 29.
+Rando4 called 29.
+Rando4 bet 22.
+Randy4 called 22.
+Rando4 checks.
+Randy4 bet 14.
+Rando4 raised to 15.
+Randy4 called 15.
+Randy4 WTSD percentage is: 0.217391
+Rando4 WTSD percentage is: 0.173913
+Randy4 W$SD percentage is: 0.600000
+
+
+NEWHAND:70
+
+['NEWHAND', '70', '3', 'Jc', '6c', '468', '132', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Jc 6c
+Rando4's VPIP: 0.188406
+Rando4's PFR: 0.014493
+Rando4's estimated fold percentage is 0.212121
+Rando4's AF flop/postflop: 1.607143
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.173913
+Randy4's PFR: 0.014493
+Randy4's estimated fold percentage is 0.367647
+Randy4's AF flop/postflop: 1.344828
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (467)
+Randy4 posts big blind, stack size (130)
+
+Rando4 called 2.
+Randy4 raised to 4.
+Rando4 called 4.
+Randy4 checks.
+Rando4 bet 6.
+Randy4 raised to 16.
+Rando4 called 16.
+Randy4 bet 16.
+Rando4 raised to 83.
+Randy4 called 83.
+Randy4 checks.
+Rando4 checks.
+Rando4 WTSD percentage is: 0.185714
+Randy4 WTSD percentage is: 0.228571
+Randy4 W$SD percentage is: 0.625000
+
+
+NEWHAND:71
+
+['NEWHAND', '71', '3', 'Kh', '2d', '235', '365', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Kh 2d
+Randy4's VPIP: 0.171429
+Randy4's PFR: 0.014286
+Randy4's estimated fold percentage is 0.367647
+Randy4's AF flop/postflop: 1.400000
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.185714
+Rando4's PFR: 0.014286
+Rando4's estimated fold percentage is 0.212121
+Rando4's AF flop/postflop: 1.516129
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (234)
+Rando4 posts big blind, stack size (363)
+
+Randy4 folds.
+
+
+NEWHAND:72
+
+['NEWHAND', '72', '3', 'Qh', '6h', '366', '234', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Qh 6h
+Rando4's VPIP: 0.183099
+Rando4's PFR: 0.014085
+Rando4's estimated fold percentage is 0.212121
+Rando4's AF flop/postflop: 1.516129
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.169014
+Randy4's PFR: 0.014085
+Randy4's estimated fold percentage is 0.366197
+Randy4's AF flop/postflop: 1.400000
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (365)
+Randy4 posts big blind, stack size (232)
+
+Rando4 called 2.
+Randy4 checks.
+Randy4 checks.
+Rando4 bet 2.
+Randy4 folds.
+
+
+NEWHAND:73
+
+['NEWHAND', '73', '3', '6h', '6d', '232', '368', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 6h 6d
+Randy4's VPIP: 0.166667
+Randy4's PFR: 0.013889
+Randy4's estimated fold percentage is 0.366197
+Randy4's AF flop/postflop: 1.400000
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.180556
+Rando4's PFR: 0.013889
+Rando4's estimated fold percentage is 0.212121
+Rando4's AF flop/postflop: 1.500000
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (231)
+Rando4 posts big blind, stack size (366)
+
+Randy4 called 2.
+Rando4 checks.
+Rando4 checks.
+Randy4 checks.
+Rando4 checks.
+Randy4 bet 3.
+Rando4 called 3.
+Rando4 bet 7.
+Randy4 raised to 19.
+Rando4 called 19.
+Rando4 WTSD percentage is: 0.191781
+Randy4 WTSD percentage is: 0.232877
+Randy4 W$SD percentage is: 0.647059
+
+
+NEWHAND:74
+
+['NEWHAND', '74', '3', 'Tc', '4h', '344', '256', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Tc 4h
+Rando4's VPIP: 0.178082
+Rando4's PFR: 0.013699
+Rando4's estimated fold percentage is 0.212121
+Rando4's AF flop/postflop: 1.441176
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.164384
+Randy4's PFR: 0.013699
+Randy4's estimated fold percentage is 0.366197
+Randy4's AF flop/postflop: 1.419355
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (343)
+Randy4 posts big blind, stack size (254)
+
+Rando4 raised to 4.
+Randy4 folds.
+
+
+NEWHAND:75
+
+['NEWHAND', '75', '3', 'Qd', '4d', '254', '346', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Qd 4d
+Randy4's VPIP: 0.162162
+Randy4's PFR: 0.013514
+Randy4's estimated fold percentage is 0.364865
+Randy4's AF flop/postflop: 1.419355
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.189189
+Rando4's PFR: 0.013514
+Rando4's estimated fold percentage is 0.212121
+Rando4's AF flop/postflop: 1.441176
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (253)
+Rando4 posts big blind, stack size (344)
+
+Randy4 called 2.
+Rando4 checks.
+Rando4 bet 3.
+Randy4 called 3.
+Rando4 bet 3.
+Randy4 raised to 9.
+Rando4 folds.
+
+
+NEWHAND:76
+
+['NEWHAND', '76', '3', '9s', 'Ts', '338', '262', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 9s Ts
+Rando4's VPIP: 0.186667
+Rando4's PFR: 0.013333
+Rando4's estimated fold percentage is 0.212121
+Rando4's AF flop/postflop: 1.500000
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.160000
+Randy4's PFR: 0.013333
+Randy4's estimated fold percentage is 0.364865
+Randy4's AF flop/postflop: 1.363636
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (337)
+Randy4 posts big blind, stack size (260)
+
+Rando4 raised to 5.
+Randy4 called 5.
+Randy4 bet 4.
+Rando4 called 4.
+Randy4 checks.
+Rando4 bet 13.
+Randy4 raised to 35.
+Rando4 called 35.
+Randy4 bet 20.
+Rando4 raised to 118.
+Randy4 raised to 217.
+Rando4 raised to 218.
+Randy4 folds.
+
+
+NEWHAND:77
+
+['NEWHAND', '77', '3', '2s', 'Kh', '1', '599', '0', 'Randy4', 'Rando4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: 2s Kh
+Randy4's VPIP: 0.157895
+Randy4's PFR: 0.013158
+Randy4's estimated fold percentage is 0.364865
+Randy4's AF flop/postflop: 1.441176
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:1
+Rando4's VPIP: 0.184211
+Rando4's PFR: 0.013158
+Rando4's estimated fold percentage is 0.212121
+Rando4's AF flop/postflop: 1.527778
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Randy4 posts small blind/and is dealer, stack size (0)
+Rando4 posts big blind, stack size (597)
+
+Rando4 WTSD percentage is: 0.194805
+Randy4 WTSD percentage is: 0.233766
+Randy4 W$SD percentage is: 0.666667
+
+
+NEWHAND:78
+
+['NEWHAND', '78', '3', 'Kh', 'Ah', '598', '2', '0', 'Rando4', 'Randy4', 'BAMF4', '2', 'true', 'true', 'false', '14.806970']
+Active Players:2
+
+Our hand: Kh Ah
+Rando4's VPIP: 0.181818
+Rando4's PFR: 0.012987
+Rando4's estimated fold percentage is 0.212121
+Rando4's AF flop/postflop: 1.527778
+Rando4's Player Type: UNKNOWN
+Rando4's Seat:1
+Randy4's VPIP: 0.155844
+Randy4's PFR: 0.012987
+Randy4's estimated fold percentage is 0.364865
+Randy4's AF flop/postflop: 1.441176
+Randy4's Player Type: UNKNOWN
+Randy4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.428571
+BAMF4's AF flop/postflop: 1.600000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+Rando4 posts small blind/and is dealer, stack size (597)
+Randy4 posts big blind, stack size (0)
+
+Rando4 called 2.
+Randy4 WTSD percentage is: 0.243590
+Rando4 WTSD percentage is: 0.205128
+Rando4 W$SD percentage is: 0.562500
+Gameover, engine disconnected.

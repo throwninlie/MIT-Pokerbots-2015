@@ -1,0 +1,1049 @@
+
+C:\Users\Er\Dropbox\Pokerbot\players>python Player.py 3000 
+Connecting to localhost:3000
+Our name: BAMF2
+Opp1 name: Randy2
+Opp2 name: Rando2
+
+
+NEWHAND:1
+
+['NEWHAND', '1', '1', '6h', '7h', '200', '200', '200', 'BAMF2', 'Randy2', 'Rando2', '3', 'true', 'true', 'true', '15.000000']
+Active Players:3
+
+Our hand: 6h 7h
+BAMF2's VPIP: 0.000000
+BAMF2's PFR: 0.000000
+BAMF2's estimated fold percentage is 0.000000
+BAMF2's AF flop/postflop: 0.000000
+BAMF2's Player Type: NIT
+BAMF2's Seat:1
+Randy2's VPIP: 0.000000
+Randy2's PFR: 0.000000
+Randy2's estimated fold percentage is 0.000000
+Randy2's AF flop/postflop: 0.000000
+Randy2's Player Type: NIT
+Randy2's Seat:2
+Rando2's VPIP: 0.000000
+Rando2's PFR: 0.000000
+Rando2's estimated fold percentage is 0.000000
+Rando2's AF flop/postflop: 0.000000
+Rando2's Player Type: NIT
+Rando2's Seat:3
+
+Randy2 posts small blind, stack size (199)
+Rando2 posts big blind, stack size (198)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 6h 7h
+
+BAMF2's EV: 0.300000
+BAMF2's Equity: 0.46
+BAMF2's Implied Odds: -2
+BAMF2's maxBetFold: 0
+BAMF2's maxBetEV: 2
+
+BAMF2 calls 2.
+
+***FLOP***(21) Board:(Qs 2s Kd)
+Our hand: 6h 7h
+
+Randy2 called 2.
+Rando2 checks.
+Randy2 bet 5.
+Rando2 raised to 10.
+BAMF2's EV: -3.443500
+BAMF2's Equity: 0.2115
+BAMF2's Implied Odds: 6
+BAMF2's maxBetFold: 0
+BAMF2's maxBetEV: 5
+
+BAMF2 folds.
+Randy2 called 10.
+Randy2 checks.
+Rando2 bet 4.
+Randy2 raised to 10.
+Rando2 raised to 49.
+Randy2 folds.
+
+
+NEWHAND:2
+
+['NEWHAND', '2', '2', '8d', '9d', '224', '198', '178', 'Rando2', 'BAMF2', 'Randy2', '3', 'true', 'true', 'true', '14.985096']
+Active Players:3
+
+Our hand: 8d 9d
+Rando2's VPIP: 0.000000
+Rando2's PFR: 0.000000
+Rando2's estimated fold percentage is 0.000000
+Rando2's AF flop/postflop: 3.000000
+Rando2's Player Type: NIT
+Rando2's Seat:1
+BAMF2's VPIP: 0.000000
+BAMF2's PFR: 0.000000
+BAMF2's estimated fold percentage is 0.000000
+BAMF2's AF flop/postflop: 0.000000
+BAMF2's Player Type: NIT
+BAMF2's Seat:2
+Randy2's VPIP: 0.000000
+Randy2's PFR: 0.000000
+Randy2's estimated fold percentage is 0.000000
+Randy2's AF flop/postflop: 1.000000
+Randy2's Player Type: NIT
+Randy2's Seat:3
+
+BAMF2 posts small blind, stack size (197)
+Randy2 posts big blind, stack size (176)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 8d 9d
+
+Rando2 folds.
+BAMF2's EV: 0.665000
+BAMF2's Equity: 0.533
+BAMF2's Implied Odds: -3
+BAMF2's maxBetFold: 3
+BAMF2's maxBetEV: 3
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+BAMF2 raise 4.
+Randy2 folds.
+
+
+NEWHAND:3
+
+['NEWHAND', '3', '3', '2c', '6c', '176', '224', '200', 'Randy2', 'Rando2', 'BAMF2', '3', 'true', 'true', 'true', '14.972370']
+Active Players:3
+
+Our hand: 2c 6c
+Randy2's VPIP: 0.000000
+Randy2's PFR: 0.000000
+Randy2's estimated fold percentage is 0.500000
+Randy2's AF flop/postflop: 1.000000
+Randy2's Player Type: NIT
+Randy2's Seat:1
+Rando2's VPIP: 0.000000
+Rando2's PFR: 0.000000
+Rando2's estimated fold percentage is 0.500000
+Rando2's AF flop/postflop: 3.000000
+Rando2's Player Type: NIT
+Rando2's Seat:2
+BAMF2's VPIP: 0.500000
+BAMF2's PFR: 0.500000
+BAMF2's estimated fold percentage is 0.000000
+BAMF2's AF flop/postflop: 0.000000
+BAMF2's Player Type: CASHCOW
+BAMF2's Seat:3
+
+Rando2 posts small blind, stack size (223)
+BAMF2 posts big blind, stack size (198)
+
+
+***PREFLOP***(14) Board:()
+Our hand: 2c 6c
+
+Randy2 raised to 6.
+Rando2 called 6.
+BAMF2's EV: 1.950000
+BAMF2's Equity: 0.3975
+BAMF2's Implied Odds: -10
+BAMF2's maxBetFold: 14
+BAMF2's maxBetEV: 9
+
+BAMF2 calls 6.
+
+***FLOP***(18) Board:(Kd 6h Jh)
+Our hand: 2c 6c
+
+Rando2 checks.
+BAMF2's EV: 10.476000
+BAMF2's Equity: 0.582
+BAMF2's Implied Odds: -18
+BAMF2's maxBetFold: 18
+BAMF2's maxBetEV: 25
+
+BAMF2 checks.
+
+***FLOP***(24) Board:(Kd 6h Jh)
+Our hand: 2c 6c
+
+Randy2 bet 6.
+Rando2 folds.
+BAMF2's EV: 11.460000
+BAMF2's Equity: 0.582
+BAMF2's Implied Odds: -25
+BAMF2's maxBetFold: 24
+BAMF2's maxBetEV: 33
+
+BAMF2 calls 6.
+
+***TURN***(30) Board:(Kd 6h Jh 6d)
+Our hand: 2c 6c
+
+BAMF2's EV: 28.155000
+BAMF2's Equity: 0.9385
+BAMF2's Implied Odds: -30
+BAMF2's maxBetFold: 30
+BAMF2's maxBetEV: 457
+
+final max bet:30
+final min bet:10
+Bet range: 2 30
+BAMF2 bets 26.
+Randy2 folds.
+
+
+NEWHAND:4
+
+['NEWHAND', '4', '1', '8d', 'Th', '218', '164', '218', 'BAMF2', 'Randy2', 'Rando2', '3', 'true', 'true', 'true', '14.948343']
+Active Players:3
+
+Our hand: 8d Th
+BAMF2's VPIP: 0.333333
+BAMF2's PFR: 0.333333
+BAMF2's estimated fold percentage is 0.000000
+BAMF2's AF flop/postflop: 0.333333
+BAMF2's Player Type: UNKNOWN
+BAMF2's Seat:1
+Randy2's VPIP: 0.333333
+Randy2's PFR: 0.333333
+Randy2's estimated fold percentage is 0.500000
+Randy2's AF flop/postflop: 1.500000
+Randy2's Player Type: LOOSE
+Randy2's Seat:2
+Rando2's VPIP: 0.333333
+Rando2's PFR: 0.000000
+Rando2's estimated fold percentage is 0.500000
+Rando2's AF flop/postflop: 3.000000
+Rando2's Player Type: UNKNOWN
+Rando2's Seat:3
+
+Randy2 posts small blind, stack size (163)
+Rando2 posts big blind, stack size (216)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 8d Th
+
+BAMF2's EV: 0.350000
+BAMF2's Equity: 0.47
+BAMF2's Implied Odds: -2
+BAMF2's maxBetFold: 3
+BAMF2's maxBetEV: 2
+
+final max raise:4
+final min raise:4
+Raise range: 4 7
+BAMF2 raise 4.
+
+***PREFLOP***(35) Board:()
+Our hand: 8d Th
+
+Randy2 raised to 8.
+Rando2 raised to 23.
+BAMF2's EV: 4.260000
+BAMF2's Equity: 0.47
+BAMF2's Implied Odds: -32
+BAMF2's maxBetFold: 35
+BAMF2's maxBetEV: 31
+
+BAMF2 calls 23.
+
+***FLOP***(199) Board:(7c 7h 2s)
+Our hand: 8d Th
+
+Randy2 called 23.
+Randy2 bet 65.
+Rando2 called 65.
+BAMF2's EV: 32.416000
+BAMF2's Equity: 0.369
+BAMF2's Implied Odds: -152
+BAMF2's maxBetFold: 199
+BAMF2's maxBetEV: 116
+
+final max raise:195
+final min raise:130
+Raise range: 130 195
+BAMF2 calls 65.
+
+***TURN***(431) Board:(7c 7h 2s 3s)
+Our hand: 8d Th
+
+Randy2 bet 40.
+Rando2 raised to 127.
+BAMF2's EV: -2.287000
+BAMF2's Equity: 0.2235
+BAMF2's Implied Odds: -116
+BAMF2's maxBetFold: 431
+BAMF2's maxBetEV: 124
+
+BAMF2 folds.
+Randy2 folds.
+
+
+NEWHAND:5
+
+['NEWHAND', '5', '2', '9s', 'Ac', '434', '130', '36', 'Rando2', 'BAMF2', 'Randy2', '3', 'true', 'true', 'true', '14.909181']
+Active Players:3
+
+Our hand: 9s Ac
+Rando2's VPIP: 0.500000
+Rando2's PFR: 0.250000
+Rando2's estimated fold percentage is 0.500000
+Rando2's AF flop/postflop: 4.000000
+Rando2's Player Type: MANIAC
+Rando2's Seat:1
+BAMF2's VPIP: 0.500000
+BAMF2's PFR: 0.250000
+BAMF2's estimated fold percentage is 0.000000
+BAMF2's AF flop/postflop: 0.200000
+BAMF2's Player Type: CASHCOW
+BAMF2's Seat:2
+Randy2's VPIP: 0.500000
+Randy2's PFR: 0.250000
+Randy2's estimated fold percentage is 0.500000
+Randy2's AF flop/postflop: 1.666667
+Randy2's Player Type: CASHCOW
+Randy2's Seat:3
+
+BAMF2 posts small blind, stack size (129)
+Randy2 posts big blind, stack size (34)
+
+
+***PREFLOP***(9) Board:()
+Our hand: 9s Ac
+
+Rando2 raised to 6.
+BAMF2's EV: 3.540000
+BAMF2's Equity: 0.636
+BAMF2's Implied Odds: -11
+BAMF2's maxBetFold: 9
+BAMF2's maxBetEV: 15
+
+BAMF2 calls 6.
+
+***FLOP***(18) Board:(Ks 6h As)
+Our hand: 9s Ac
+
+Randy2 called 6.
+BAMF2's EV: 15.480000
+BAMF2's Equity: 0.86
+BAMF2's Implied Odds: -18
+BAMF2's maxBetFold: 18
+BAMF2's maxBetEV: 110
+
+final max bet:18
+final min bet:10
+Bet range: 2 18
+BAMF2 bets 12.
+
+***FLOP***(141) Board:(Ks 6h As)
+Our hand: 9s Ac
+
+Randy2 raised to 25.
+Rando2 raised to 86.
+BAMF2's EV: 109.220000
+BAMF2's Equity: 0.86
+BAMF2's Implied Odds: -213
+BAMF2's maxBetFold: 141
+BAMF2's maxBetEV: 866
+
+final max raise:124
+final min raise:124
+Raise range: 124 124
+BAMF2 calls 86.
+
+***TURN***(220) Board:(Ks 6h As 7c)
+Our hand: 9s Ac
+
+Randy2 called 30.
+BAMF2's EV: 191.400000
+BAMF2's Equity: 0.87
+BAMF2's Implied Odds: -220
+BAMF2's maxBetFold: 220
+BAMF2's maxBetEV: 1472
+
+final max bet:38
+final min bet:10
+Bet range: 2 38
+BAMF2 bets 18.
+Rando2 folds.
+BAMF2 WTSD percentage is: 0.200000
+Randy2 WTSD percentage is: 0.200000
+BAMF2 W$SD percentage is: 1.000000
+BAMF2 W$SD percentage is: 2.000000
+
+
+NEWHAND:6
+
+['NEWHAND', '6', '1', 'Ts', '6d', '258', '342', '0', 'BAMF2', 'Rando2', 'Randy2', '2', 'true', 'true', 'false', '14.869004']
+Active Players:2
+
+Our hand: Ts 6d
+BAMF2's VPIP: 0.400000
+BAMF2's PFR: 0.200000
+BAMF2's estimated fold percentage is 0.000000
+BAMF2's AF flop/postflop: 0.428571
+BAMF2's Player Type: UNKNOWN
+BAMF2's Seat:1
+Rando2's VPIP: 0.600000
+Rando2's PFR: 0.200000
+Rando2's estimated fold percentage is 0.500000
+Rando2's AF flop/postflop: 5.000000
+Rando2's Player Type: LOOSE
+Rando2's Seat:2
+Randy2's VPIP: 0.400000
+Randy2's PFR: 0.200000
+Randy2's estimated fold percentage is 0.500000
+Randy2's AF flop/postflop: 1.200000
+Randy2's Player Type: LOOSE
+Randy2's Seat:3
+Randy2 is eliminated
+
+BAMF2 posts small blind/and is dealer, stack size (257)
+Rando2 posts big blind, stack size (340)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ts 6d
+
+BAMF2's EV: 0.312500
+BAMF2's Equity: 0.4625
+BAMF2's Implied Odds: -2
+BAMF2's maxBetFold: 3
+BAMF2's maxBetEV: 2
+
+BAMF2 calls 2.
+
+***FLOP***(6) Board:(8h 4h Qh)
+Our hand: Ts 6d
+
+Rando2 checks.
+Rando2 bet 2.
+BAMF2's EV: 0.240000
+BAMF2's Equity: 0.28
+BAMF2's Implied Odds: -2
+BAMF2's maxBetFold: 6
+BAMF2's maxBetEV: 2
+
+final max raise:6
+final min raise:6
+Raise range: 4 10
+BAMF2 raise 6.
+Rando2 folds.
+
+
+NEWHAND:7
+
+['NEWHAND', '7', '2', '9c', '7h', '338', '262', '0', 'Rando2', 'BAMF2', 'Randy2', '2', 'true', 'true', 'false', '14.853290']
+Active Players:2
+
+Our hand: 9c 7h
+Rando2's VPIP: 0.500000
+Rando2's PFR: 0.166667
+Rando2's estimated fold percentage is 0.500000
+Rando2's AF flop/postflop: 6.000000
+Rando2's Player Type: LOOSE
+Rando2's Seat:1
+BAMF2's VPIP: 0.333333
+BAMF2's PFR: 0.166667
+BAMF2's estimated fold percentage is 0.000000
+BAMF2's AF flop/postflop: 0.500000
+BAMF2's Player Type: UNKNOWN
+BAMF2's Seat:2
+Randy2's VPIP: 0.333333
+Randy2's PFR: 0.166667
+Randy2's estimated fold percentage is 0.500000
+Randy2's AF flop/postflop: 1.200000
+Randy2's Player Type: LOOSE
+Randy2's Seat:3
+Randy2 is eliminated
+
+Rando2 posts small blind/and is dealer, stack size (337)
+BAMF2 posts big blind, stack size (260)
+
+
+***PREFLOP***(6) Board:()
+Our hand: 9c 7h
+
+Rando2 raised to 4.
+BAMF2's EV: 0.725000
+BAMF2's Equity: 0.4725
+BAMF2's Implied Odds: -5
+BAMF2's maxBetFold: 6
+BAMF2's maxBetEV: 5
+
+BAMF2 calls 4.
+
+***FLOP***(8) Board:(6c 5s 6d)
+Our hand: 9c 7h
+
+BAMF2's EV: 3.216000
+BAMF2's Equity: 0.402
+BAMF2's Implied Odds: -8
+BAMF2's maxBetFold: 8
+BAMF2's maxBetEV: 5
+
+BAMF2 checks.
+
+***FLOP***(11) Board:(6c 5s 6d)
+Our hand: 9c 7h
+
+Rando2 bet 3.
+BAMF2's EV: 2.628000
+BAMF2's Equity: 0.402
+BAMF2's Implied Odds: -9
+BAMF2's maxBetFold: 11
+BAMF2's maxBetEV: 7
+
+BAMF2 calls 3.
+
+***TURN***(14) Board:(6c 5s 6d 2h)
+Our hand: 9c 7h
+
+BAMF2's EV: 3.514000
+BAMF2's Equity: 0.251
+BAMF2's Implied Odds: -14
+BAMF2's maxBetFold: 14
+BAMF2's maxBetEV: 4
+
+BAMF2 checks.
+
+***TURN***(16) Board:(6c 5s 6d 2h)
+Our hand: 9c 7h
+
+Rando2 bet 2.
+BAMF2's EV: 2.518000
+BAMF2's Equity: 0.251
+BAMF2's Implied Odds: -12
+BAMF2's maxBetFold: 16
+BAMF2's maxBetEV: 5
+
+BAMF2 calls 2.
+
+***RIVER***(18) Board:(6c 5s 6d 2h 5h)
+Our hand: 9c 7h
+
+BAMF2's EV: 2.763636
+BAMF2's Equity: 0.153535353535
+BAMF2's Implied Odds: -18
+BAMF2's maxBetFold: 18
+BAMF2's maxBetEV: 3
+
+final max bet:18
+final min bet:8
+Bet range: 2 18
+BAMF2 bets 8.
+Rando2 folds.
+
+
+NEWHAND:8
+
+['NEWHAND', '8', '1', 'Jc', '5h', '271', '329', '0', 'BAMF2', 'Rando2', 'Randy2', '2', 'true', 'true', 'false', '14.818643']
+Active Players:2
+
+Our hand: Jc 5h
+BAMF2's VPIP: 0.285714
+BAMF2's PFR: 0.142857
+BAMF2's estimated fold percentage is 0.000000
+BAMF2's AF flop/postflop: 0.454545
+BAMF2's Player Type: UNKNOWN
+BAMF2's Seat:1
+Rando2's VPIP: 0.571429
+Rando2's PFR: 0.142857
+Rando2's estimated fold percentage is 0.500000
+Rando2's AF flop/postflop: 8.000000
+Rando2's Player Type: LOOSE
+Rando2's Seat:2
+Randy2's VPIP: 0.285714
+Randy2's PFR: 0.142857
+Randy2's estimated fold percentage is 0.500000
+Randy2's AF flop/postflop: 1.200000
+Randy2's Player Type: LOOSE
+Randy2's Seat:3
+Randy2 is eliminated
+
+BAMF2 posts small blind/and is dealer, stack size (270)
+Rando2 posts big blind, stack size (327)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Jc 5h
+
+BAMF2's EV: 0.420000
+BAMF2's Equity: 0.484
+BAMF2's Implied Odds: -2
+BAMF2's maxBetFold: 3
+BAMF2's maxBetEV: 2
+
+BAMF2 calls 2.
+
+***FLOP***(6) Board:(3c 8s 9c)
+Our hand: Jc 5h
+
+Rando2 checks.
+Rando2 bet 2.
+BAMF2's EV: 0.728000
+BAMF2's Equity: 0.341
+BAMF2's Implied Odds: -4
+BAMF2's maxBetFold: 6
+BAMF2's maxBetEV: 3
+
+final max raise:6
+final min raise:6
+Raise range: 4 10
+BAMF2 raise 6.
+Rando2 folds.
+
+
+NEWHAND:9
+
+['NEWHAND', '9', '2', '4d', '3h', '325', '275', '0', 'Rando2', 'BAMF2', 'Randy2', '2', 'true', 'true', 'false', '14.802845']
+Active Players:2
+
+Our hand: 4d 3h
+Rando2's VPIP: 0.500000
+Rando2's PFR: 0.125000
+Rando2's estimated fold percentage is 0.500000
+Rando2's AF flop/postflop: 9.000000
+Rando2's Player Type: UNKNOWN
+Rando2's Seat:1
+BAMF2's VPIP: 0.250000
+BAMF2's PFR: 0.125000
+BAMF2's estimated fold percentage is 0.000000
+BAMF2's AF flop/postflop: 0.500000
+BAMF2's Player Type: UNKNOWN
+BAMF2's Seat:2
+Randy2's VPIP: 0.250000
+Randy2's PFR: 0.125000
+Randy2's estimated fold percentage is 0.500000
+Randy2's AF flop/postflop: 1.200000
+Randy2's Player Type: UNKNOWN
+Randy2's Seat:3
+Randy2 is eliminated
+
+Rando2 posts small blind/and is dealer, stack size (324)
+BAMF2 posts big blind, stack size (273)
+
+
+***PREFLOP***(6) Board:()
+Our hand: 4d 3h
+
+Rando2 raised to 4.
+BAMF2's EV: -0.630000
+BAMF2's Equity: 0.337
+BAMF2's Implied Odds: -2
+BAMF2's maxBetFold: 6
+BAMF2's maxBetEV: 3
+
+EV FOLD
+BAMF2 folds.
+
+
+NEWHAND:10
+
+['NEWHAND', '10', '1', 'Td', '2s', '273', '327', '0', 'BAMF2', 'Rando2', 'Randy2', '2', 'true', 'true', 'false', '14.790722']
+Active Players:2
+
+Our hand: Td 2s
+BAMF2's VPIP: 0.222222
+BAMF2's PFR: 0.111111
+BAMF2's estimated fold percentage is 0.111111
+BAMF2's AF flop/postflop: 0.500000
+BAMF2's Player Type: UNKNOWN
+BAMF2's Seat:1
+Rando2's VPIP: 0.555556
+Rando2's PFR: 0.111111
+Rando2's estimated fold percentage is 0.500000
+Rando2's AF flop/postflop: 9.000000
+Rando2's Player Type: UNKNOWN
+Rando2's Seat:2
+Randy2's VPIP: 0.222222
+Randy2's PFR: 0.111111
+Randy2's estimated fold percentage is 0.500000
+Randy2's AF flop/postflop: 1.200000
+Randy2's Player Type: UNKNOWN
+Randy2's Seat:3
+Randy2 is eliminated
+
+BAMF2 posts small blind/and is dealer, stack size (272)
+Rando2 posts big blind, stack size (325)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Td 2s
+
+BAMF2's EV: 0.025000
+BAMF2's Equity: 0.405
+BAMF2's Implied Odds: -2
+BAMF2's maxBetFold: 3
+BAMF2's maxBetEV: 2
+
+BAMF2 folds.
+BAMF2 calls 2.
+
+
+NEWHAND:11
+
+['NEWHAND', '11', '2', 'Qs', 'Js', '328', '272', '0', 'Rando2', 'BAMF2', 'Randy2', '2', 'true', 'true', 'false', '14.781897']
+Active Players:2
+
+Our hand: Qs Js
+Rando2's VPIP: 0.500000
+Rando2's PFR: 0.100000
+Rando2's estimated fold percentage is 0.500000
+Rando2's AF flop/postflop: 9.000000
+Rando2's Player Type: UNKNOWN
+Rando2's Seat:1
+BAMF2's VPIP: 0.200000
+BAMF2's PFR: 0.100000
+BAMF2's estimated fold percentage is 0.200000
+BAMF2's AF flop/postflop: 0.500000
+BAMF2's Player Type: UNKNOWN
+BAMF2's Seat:2
+Randy2's VPIP: 0.200000
+Randy2's PFR: 0.100000
+Randy2's estimated fold percentage is 0.500000
+Randy2's AF flop/postflop: 1.200000
+Randy2's Player Type: UNKNOWN
+Randy2's Seat:3
+Randy2 is eliminated
+
+Rando2 posts small blind/and is dealer, stack size (327)
+BAMF2 posts big blind, stack size (270)
+
+Rando2 folds.
+
+
+NEWHAND:12
+
+['NEWHAND', '12', '1', '5d', '8c', '273', '327', '0', 'BAMF2', 'Rando2', 'Randy2', '2', 'true', 'true', 'false', '14.781897']
+Active Players:2
+
+Our hand: 5d 8c
+BAMF2's VPIP: 0.181818
+BAMF2's PFR: 0.090909
+BAMF2's estimated fold percentage is 0.200000
+BAMF2's AF flop/postflop: 0.500000
+BAMF2's Player Type: UNKNOWN
+BAMF2's Seat:1
+Rando2's VPIP: 0.454545
+Rando2's PFR: 0.090909
+Rando2's estimated fold percentage is 0.181818
+Rando2's AF flop/postflop: 9.000000
+Rando2's Player Type: UNKNOWN
+Rando2's Seat:2
+Randy2's VPIP: 0.181818
+Randy2's PFR: 0.090909
+Randy2's estimated fold percentage is 0.500000
+Randy2's AF flop/postflop: 1.200000
+Randy2's Player Type: UNKNOWN
+Randy2's Seat:3
+Randy2 is eliminated
+
+BAMF2 posts small blind/and is dealer, stack size (272)
+Rando2 posts big blind, stack size (325)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 5d 8c
+
+BAMF2's EV: 0.042500
+BAMF2's Equity: 0.4085
+BAMF2's Implied Odds: -2
+BAMF2's maxBetFold: 0
+BAMF2's maxBetEV: 2
+
+BAMF2 folds.
+BAMF2 calls 2.
+
+
+NEWHAND:13
+
+['NEWHAND', '13', '2', '2s', '9c', '328', '272', '0', 'Rando2', 'BAMF2', 'Randy2', '2', 'true', 'true', 'false', '14.773236']
+Active Players:2
+
+Our hand: 2s 9c
+Rando2's VPIP: 0.416667
+Rando2's PFR: 0.083333
+Rando2's estimated fold percentage is 0.181818
+Rando2's AF flop/postflop: 9.000000
+Rando2's Player Type: UNKNOWN
+Rando2's Seat:1
+BAMF2's VPIP: 0.166667
+BAMF2's PFR: 0.083333
+BAMF2's estimated fold percentage is 0.250000
+BAMF2's AF flop/postflop: 0.500000
+BAMF2's Player Type: UNKNOWN
+BAMF2's Seat:2
+Randy2's VPIP: 0.166667
+Randy2's PFR: 0.083333
+Randy2's estimated fold percentage is 0.500000
+Randy2's AF flop/postflop: 1.200000
+Randy2's Player Type: UNKNOWN
+Randy2's Seat:3
+Randy2 is eliminated
+
+Rando2 posts small blind/and is dealer, stack size (327)
+BAMF2 posts big blind, stack size (270)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 2s 9c
+
+Rando2 called 2.
+BAMF2's EV: 1.554000
+BAMF2's Equity: 0.3885
+BAMF2's Implied Odds: -4
+BAMF2's maxBetFold: 0
+BAMF2's maxBetEV: 2
+
+NOT BLUFFING FOLD
+BAMF2 checks.
+BAMF2 checks.
+
+***FLOP***(4) Board:(As 9h 3h)
+Our hand: 2s 9c
+
+BAMF2's EV: 2.772000
+BAMF2's Equity: 0.693
+BAMF2's Implied Odds: -4
+BAMF2's maxBetFold: 0
+BAMF2's maxBetEV: 9
+
+final max bet:4
+final min bet:4
+Bet range: 2 4
+BAMF2 bets 4.
+
+***TURN***(4) Board:(As 9h 3h 4c)
+Our hand: 2s 9c
+
+Rando2 checks.
+BAMF2's EV: 2.768000
+BAMF2's Equity: 0.692
+BAMF2's Implied Odds: -4
+BAMF2's maxBetFold: 0
+BAMF2's maxBetEV: 8
+
+final max bet:4
+final min bet:4
+Bet range: 2 4
+BAMF2 bets 4.
+
+***TURN***(18) Board:(As 9h 3h 4c)
+Our hand: 2s 9c
+
+Rando2 raised to 10.
+BAMF2's EV: 9.376000
+BAMF2's Equity: 0.692
+BAMF2's Implied Odds: -23
+BAMF2's maxBetFold: 4
+BAMF2's maxBetEV: 40
+
+final max raise:34
+final min raise:16
+Raise range: 16 34
+BAMF2 raise 30.
+
+
+NEWHAND:14
+
+['NEWHAND', '14', '1', '7d', '7c', '266', '334', '0', 'BAMF2', 'Rando2', 'Randy2', '2', 'true', 'true', 'false', '14.746863']
+Active Players:2
+
+Our hand: 7d 7c
+BAMF2's VPIP: 0.153846
+BAMF2's PFR: 0.076923
+BAMF2's estimated fold percentage is 0.250000
+BAMF2's AF flop/postflop: 0.583333
+BAMF2's Player Type: UNKNOWN
+BAMF2's Seat:1
+Rando2's VPIP: 0.461538
+Rando2's PFR: 0.076923
+Rando2's estimated fold percentage is 0.181818
+Rando2's AF flop/postflop: 10.000000
+Rando2's Player Type: UNKNOWN
+Rando2's Seat:2
+Randy2's VPIP: 0.153846
+Randy2's PFR: 0.076923
+Randy2's estimated fold percentage is 0.500000
+Randy2's AF flop/postflop: 1.200000
+Randy2's Player Type: UNKNOWN
+Randy2's Seat:3
+Randy2 is eliminated
+
+BAMF2 posts small blind/and is dealer, stack size (265)
+Rando2 posts big blind, stack size (332)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 7d 7c
+
+BAMF2's EV: 1.285000
+BAMF2's Equity: 0.657
+BAMF2's Implied Odds: -3
+BAMF2's maxBetFold: 0
+BAMF2's maxBetEV: 5
+
+BAMF2 calls 2.
+
+
+NEWHAND:15
+
+['NEWHAND', '15', '2', 'Ad', '5h', '335', '265', '0', 'Rando2', 'BAMF2', 'Randy2', '2', 'true', 'true', 'false', '14.731551']
+Active Players:2
+
+Our hand: Ad 5h
+Rando2's VPIP: 0.428571
+Rando2's PFR: 0.071429
+Rando2's estimated fold percentage is 0.181818
+Rando2's AF flop/postflop: 10.000000
+Rando2's Player Type: UNKNOWN
+Rando2's Seat:1
+BAMF2's VPIP: 0.142857
+BAMF2's PFR: 0.071429
+BAMF2's estimated fold percentage is 0.285714
+BAMF2's AF flop/postflop: 0.583333
+BAMF2's Player Type: UNKNOWN
+BAMF2's Seat:2
+Randy2's VPIP: 0.142857
+Randy2's PFR: 0.071429
+Randy2's estimated fold percentage is 0.500000
+Randy2's AF flop/postflop: 1.200000
+Randy2's Player Type: UNKNOWN
+Randy2's Seat:3
+Randy2 is eliminated
+
+Rando2 posts small blind/and is dealer, stack size (334)
+BAMF2 posts big blind, stack size (263)
+
+Rando2 folds.
+
+
+NEWHAND:16
+
+['NEWHAND', '16', '1', 'Jh', '9c', '266', '334', '0', 'BAMF2', 'Rando2', 'Randy2', '2', 'true', 'true', 'false', '14.731551']
+Active Players:2
+
+Our hand: Jh 9c
+BAMF2's VPIP: 0.133333
+BAMF2's PFR: 0.066667
+BAMF2's estimated fold percentage is 0.285714
+BAMF2's AF flop/postflop: 0.583333
+BAMF2's Player Type: UNKNOWN
+BAMF2's Seat:1
+Rando2's VPIP: 0.400000
+Rando2's PFR: 0.066667
+Rando2's estimated fold percentage is 0.200000
+Rando2's AF flop/postflop: 10.000000
+Rando2's Player Type: UNKNOWN
+Rando2's Seat:2
+Randy2's VPIP: 0.133333
+Randy2's PFR: 0.066667
+Randy2's estimated fold percentage is 0.500000
+Randy2's AF flop/postflop: 1.200000
+Randy2's Player Type: UNKNOWN
+Randy2's Seat:3
+Randy2 is eliminated
+
+BAMF2 posts small blind/and is dealer, stack size (265)
+Rando2 posts big blind, stack size (332)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Jh 9c
+
+BAMF2's EV: 0.700000
+BAMF2's Equity: 0.54
+BAMF2's Implied Odds: -3
+BAMF2's maxBetFold: 0
+BAMF2's maxBetEV: 3
+
+BAMF2 calls 2.
+
+***FLOP***(6) Board:(9h Kh 8c)
+Our hand: Jh 9c
+
+Rando2 checks.
+Rando2 bet 2.
+BAMF2's EV: 4.068000
+BAMF2's Equity: 0.7585
+BAMF2's Implied Odds: -7
+BAMF2's maxBetFold: 1
+BAMF2's maxBetEV: 18
+
+final max raise:10
+final min raise:10
+Raise range: 4 10
+BAMF2 raise 10.
+
+***TURN***(24) Board:(9h Kh 8c Jd)
+Our hand: Jh 9c
+
+Rando2 called 10.
+Rando2 checks.
+BAMF2's EV: 19.956000
+BAMF2's Equity: 0.8315
+BAMF2's Implied Odds: -24
+BAMF2's maxBetFold: 6
+BAMF2's maxBetEV: 118
+
+final max bet:24
+final min bet:10
+Bet range: 2 24
+BAMF2 bets 14.
+
+***TURN***(77) Board:(9h Kh 8c Jd)
+Our hand: Jh 9c
+
+Rando2 raised to 39.
+BAMF2's EV: 57.454000
+BAMF2's Equity: 0.8315
+BAMF2's Implied Odds: -108
+BAMF2's maxBetFold: 19
+BAMF2's maxBetEV: 379
+
+final max raise:141
+final min raise:64
+Raise range: 64 141
+BAMF2 raise 93.
+
+***RIVER***(256) Board:(9h Kh 8c Jd 6h)
+Our hand: Jh 9c
+
+Rando2 called 93.
+Rando2 bet 46.
+BAMF2's EV: 218.173737
+BAMF2's Equity: 0.874747474747
+BAMF2's Implied Odds: -295
+BAMF2's maxBetFold: 64
+BAMF2's maxBetEV: 1787
+
+final max raise:161
+final min raise:92
+Raise range: 92 161
+BAMF2 raise 145.
+
+***RIVER***(516) Board:(9h Kh 8c Jd 6h)
+Our hand: Jh 9c
+
+Rando2 raised to 161.
+BAMF2's EV: 431.204040
+BAMF2's Equity: 0.874747474747
+BAMF2's Implied Odds: -653
+BAMF2's maxBetFold: 129
+BAMF2's maxBetEV: 3603
+
+final call min:161
+BAMF2 calls 161.
+final call min:161
+BAMF2 calls 161.
+BAMF2 WTSD percentage is: 0.125000
+Rando2 WTSD percentage is: 0.062500
+Rando2 W$SD percentage is: 1.000000
+Gameover, engine disconnected.

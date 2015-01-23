@@ -1,0 +1,3360 @@
+
+C:\Users\Er\Dropbox\Pokerbot\players>python Player.py 3000 
+Connecting to localhost:3000
+Our name: BAMF3
+Opp1 name: Randy3
+Opp2 name: Rando3
+
+
+NEWHAND:1
+
+['NEWHAND', '1', '2', '5c', '9h', '200', '200', '200', 'Rando3', 'BAMF3', 'Randy3', '3', 'true', 'true', 'true', '15.000000']
+Active Players:3
+
+Our hand: 5c 9h
+Rando3's VPIP: 0.000000
+Rando3's PFR: 0.000000
+Rando3's estimated fold percentage is 0.000000
+Rando3's AF flop/postflop: 0.000000
+Rando3's Player Type: NIT
+Rando3's Seat:1
+BAMF3's VPIP: 0.000000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.000000
+BAMF3's AF flop/postflop: 0.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:2
+Randy3's VPIP: 0.000000
+Randy3's PFR: 0.000000
+Randy3's estimated fold percentage is 0.000000
+Randy3's AF flop/postflop: 0.000000
+Randy3's Player Type: NIT
+Randy3's Seat:3
+
+BAMF3 posts small blind, stack size (199)
+Randy3 posts big blind, stack size (198)
+
+
+***PREFLOP***(7) Board:()
+Our hand: 5c 9h
+
+Rando3 raised to 4.
+BAMF3's EV: 0.889500
+BAMF3's Equity: 0.4445
+BAMF3's Implied Odds: -6
+BAMF3's maxBetFold: 0
+BAMF3's maxBetEV: 5
+
+BAMF3 folds.
+final max raise:6
+final min raise:6
+Raise range: 6 14
+BAMF3 raise 6.
+Randy3 called 4.
+Randy3 checks.
+Rando3 bet 7.
+Randy3 called 7.
+Randy3 checks.
+Rando3 bet 21.
+Randy3 raised to 84.
+Rando3 raised to 169.
+Randy3 raised to 189.
+Rando3 folds.
+
+
+NEWHAND:2
+
+['NEWHAND', '2', '3', '7c', 'Td', '381', '20', '199', 'Randy3', 'Rando3', 'BAMF3', '3', 'true', 'true', 'true', '14.979706']
+Active Players:3
+
+Our hand: 7c Td
+Randy3's VPIP: 0.000000
+Randy3's PFR: 0.000000
+Randy3's estimated fold percentage is 0.000000
+Randy3's AF flop/postflop: 1.000000
+Randy3's Player Type: NIT
+Randy3's Seat:1
+Rando3's VPIP: 1.000000
+Rando3's PFR: 1.000000
+Rando3's estimated fold percentage is 0.000000
+Rando3's AF flop/postflop: 3.000000
+Rando3's Player Type: MANIAC
+Rando3's Seat:2
+BAMF3's VPIP: 0.000000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.000000
+BAMF3's AF flop/postflop: 0.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:3
+
+Rando3 posts small blind, stack size (19)
+BAMF3 posts big blind, stack size (197)
+
+
+***PREFLOP***(9) Board:()
+Our hand: 7c Td
+
+Randy3 called 2.
+Rando3 raised to 5.
+BAMF3's EV: 1.545000
+BAMF3's Equity: 0.4675
+BAMF3's Implied Odds: -8
+BAMF3's maxBetFold: 0
+BAMF3's maxBetEV: 7
+
+final max raise:8
+final min raise:8
+Raise range: 8 17
+BAMF3 raise 8.
+Randy3 called 5.
+Rando3 bet 8.
+Randy3 folds.
+
+
+NEWHAND:3
+
+['NEWHAND', '3', '1', '8c', '3d', '197', '376', '27', 'BAMF3', 'Randy3', 'Rando3', '3', 'true', 'true', 'true', '14.979143']
+Active Players:3
+
+Our hand: 8c 3d
+BAMF3's VPIP: 0.000000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.000000
+BAMF3's AF flop/postflop: 0.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:1
+Randy3's VPIP: 0.500000
+Randy3's PFR: 0.000000
+Randy3's estimated fold percentage is 0.000000
+Randy3's AF flop/postflop: 0.666667
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:2
+Rando3's VPIP: 1.000000
+Rando3's PFR: 0.500000
+Rando3's estimated fold percentage is 0.000000
+Rando3's AF flop/postflop: 4.000000
+Rando3's Player Type: MANIAC
+Rando3's Seat:3
+
+Randy3 posts small blind, stack size (375)
+Rando3 posts big blind, stack size (25)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 8c 3d
+
+BAMF3's EV: -0.235000
+BAMF3's Equity: 0.353
+BAMF3's Implied Odds: -1
+BAMF3's maxBetFold: 0
+BAMF3's maxBetEV: 1
+
+BAMF3 folds.
+EV FOLD
+BAMF3 folds.
+Randy3 called 2.
+Rando3 raised to 5.
+Randy3 called 5.
+Randy3 bet 8.
+Rando3 raised to 21.
+Randy3 raised to 22.
+Rando3 called 22.
+Randy3 WTSD percentage is: 0.333333
+Rando3 WTSD percentage is: 0.333333
+Rando3 W$SD percentage is: 1.000000
+
+
+NEWHAND:4
+
+['NEWHAND', '4', '2', 'Js', '4s', '54', '197', '349', 'Rando3', 'BAMF3', 'Randy3', '3', 'true', 'true', 'true', '14.970743']
+Active Players:3
+
+Our hand: Js 4s
+Rando3's VPIP: 0.666667
+Rando3's PFR: 0.333333
+Rando3's estimated fold percentage is 0.000000
+Rando3's AF flop/postflop: 6.000000
+Rando3's Player Type: MANIAC
+Rando3's Seat:1
+BAMF3's VPIP: 0.000000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.000000
+BAMF3's AF flop/postflop: 0.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:2
+Randy3's VPIP: 0.333333
+Randy3's PFR: 0.000000
+Randy3's estimated fold percentage is 0.000000
+Randy3's AF flop/postflop: 0.800000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+
+BAMF3 posts small blind, stack size (196)
+Randy3 posts big blind, stack size (347)
+
+
+***PREFLOP***(9) Board:()
+Our hand: Js 4s
+
+Rando3 raised to 6.
+BAMF3's EV: 1.665000
+BAMF3's Equity: 0.511
+BAMF3's Implied Odds: -9
+BAMF3's maxBetFold: 0
+BAMF3's maxBetEV: 9
+
+BAMF3 calls 6.
+Randy3 raised to 13.
+Rando3 called 13.
+Randy3 bet 11.
+Rando3 raised to 26.
+Randy3 folds.
+
+
+NEWHAND:5
+
+['NEWHAND', '5', '3', 'Jh', '7h', '325', '79', '196', 'Randy3', 'Rando3', 'BAMF3', '3', 'true', 'true', 'true', '14.962391']
+Active Players:3
+
+Our hand: Jh 7h
+Randy3's VPIP: 0.250000
+Randy3's PFR: 0.000000
+Randy3's estimated fold percentage is 0.000000
+Randy3's AF flop/postflop: 1.200000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:1
+Rando3's VPIP: 0.750000
+Rando3's PFR: 0.250000
+Rando3's estimated fold percentage is 0.000000
+Rando3's AF flop/postflop: 3.500000
+Rando3's Player Type: MANIAC
+Rando3's Seat:2
+BAMF3's VPIP: 0.000000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.000000
+BAMF3's AF flop/postflop: 0.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:3
+
+Rando3 posts small blind, stack size (78)
+BAMF3 posts big blind, stack size (194)
+
+
+***PREFLOP***(5) Board:()
+Our hand: Jh 7h
+
+Randy3 called 2.
+Rando3 folds.
+BAMF3's EV: 2.660000
+BAMF3's Equity: 0.532
+BAMF3's Implied Odds: -5
+BAMF3's maxBetFold: 1
+BAMF3's maxBetEV: 5
+
+BAMF3 checks.
+
+***FLOP***(5) Board:(Ks 6h As)
+Our hand: Jh 7h
+
+BAMF3's EV: 1.977500
+BAMF3's Equity: 0.3955
+BAMF3's Implied Odds: -5
+BAMF3's maxBetFold: 1
+BAMF3's maxBetEV: 3
+
+final max bet:2
+final min bet:2
+Bet range: 2 5
+BAMF3 bets 2.
+
+***TURN***(5) Board:(Ks 6h As 7c)
+Our hand: Jh 7h
+
+Randy3 checks.
+BAMF3's EV: 3.242500
+BAMF3's Equity: 0.6485
+BAMF3's Implied Odds: -5
+BAMF3's maxBetFold: 1
+BAMF3's maxBetEV: 9
+
+final max bet:5
+final min bet:5
+Bet range: 2 5
+BAMF3 bets 5.
+
+***RIVER***(5) Board:(Ks 6h As 7c Tc)
+Our hand: Jh 7h
+
+Randy3 checks.
+BAMF3's EV: 2.828283
+BAMF3's Equity: 0.565656565657
+BAMF3's Implied Odds: -5
+BAMF3's maxBetFold: 1
+BAMF3's maxBetEV: 6
+
+BAMF3 checks.
+Randy3 folds.
+
+
+NEWHAND:6
+
+['NEWHAND', '6', '1', 'Qc', '2s', '199', '323', '78', 'BAMF3', 'Randy3', 'Rando3', '3', 'true', 'true', 'true', '14.933849']
+Active Players:3
+
+Our hand: Qc 2s
+BAMF3's VPIP: 0.000000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.000000
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:1
+Randy3's VPIP: 0.400000
+Randy3's PFR: 0.000000
+Randy3's estimated fold percentage is 0.000000
+Randy3's AF flop/postflop: 1.200000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:2
+Rando3's VPIP: 0.600000
+Rando3's PFR: 0.200000
+Rando3's estimated fold percentage is 0.200000
+Rando3's AF flop/postflop: 3.500000
+Rando3's Player Type: LOOSE
+Rando3's Seat:3
+
+Randy3 posts small blind, stack size (322)
+Rando3 posts big blind, stack size (76)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Qc 2s
+
+BAMF3's EV: 0.235000
+BAMF3's Equity: 0.447
+BAMF3's Implied Odds: -2
+BAMF3's maxBetFold: 0
+BAMF3's maxBetEV: 2
+
+BAMF3 folds.
+BAMF3 calls 2.
+Randy3 raised to 4.
+Rando3 raised to 8.
+Randy3 folds.
+
+
+NEWHAND:7
+
+['NEWHAND', '7', '2', '8d', '2c', '82', '199', '319', 'Rando3', 'BAMF3', 'Randy3', '3', 'true', 'true', 'true', '14.921710']
+Active Players:3
+
+Our hand: 8d 2c
+Rando3's VPIP: 0.666667
+Rando3's PFR: 0.166667
+Rando3's estimated fold percentage is 0.200000
+Rando3's AF flop/postflop: 3.500000
+Rando3's Player Type: LOOSE
+Rando3's Seat:1
+BAMF3's VPIP: 0.000000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.166667
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:2
+Randy3's VPIP: 0.500000
+Randy3's PFR: 0.166667
+Randy3's estimated fold percentage is 0.166667
+Randy3's AF flop/postflop: 1.200000
+Randy3's Player Type: LOOSE
+Randy3's Seat:3
+
+BAMF3 posts small blind, stack size (198)
+Randy3 posts big blind, stack size (317)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 8d 2c
+
+Rando3 folds.
+BAMF3's EV: -0.192500
+BAMF3's Equity: 0.3615
+BAMF3's Implied Odds: -1
+BAMF3's maxBetFold: 1
+BAMF3's maxBetEV: 1
+
+BAMF3 folds.
+EV FOLD
+BAMF3 folds.
+
+
+NEWHAND:8
+
+['NEWHAND', '8', '3', '2c', '6c', '320', '82', '198', 'Randy3', 'Rando3', 'BAMF3', '3', 'true', 'true', 'true', '14.908745']
+Active Players:3
+
+Our hand: 2c 6c
+Randy3's VPIP: 0.428571
+Randy3's PFR: 0.142857
+Randy3's estimated fold percentage is 0.166667
+Randy3's AF flop/postflop: 1.200000
+Randy3's Player Type: LOOSE
+Randy3's Seat:1
+Rando3's VPIP: 0.571429
+Rando3's PFR: 0.142857
+Rando3's estimated fold percentage is 0.285714
+Rando3's AF flop/postflop: 3.500000
+Rando3's Player Type: LOOSE
+Rando3's Seat:2
+BAMF3's VPIP: 0.000000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.285714
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:3
+
+Rando3 posts small blind, stack size (81)
+BAMF3 posts big blind, stack size (196)
+
+
+***PREFLOP***(9) Board:()
+Our hand: 2c 6c
+
+Randy3 raised to 6.
+Rando3 folds.
+BAMF3's EV: -0.232500
+BAMF3's Equity: 0.3845
+BAMF3's Implied Odds: -5
+BAMF3's maxBetFold: 5
+BAMF3's maxBetEV: 5
+
+EV FOLD
+BAMF3 folds.
+
+
+NEWHAND:9
+
+['NEWHAND', '9', '1', '7c', '3s', '196', '323', '81', 'BAMF3', 'Randy3', 'Rando3', '3', 'true', 'true', 'true', '14.899923']
+Active Players:3
+
+Our hand: 7c 3s
+BAMF3's VPIP: 0.000000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.375000
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:1
+Randy3's VPIP: 0.500000
+Randy3's PFR: 0.125000
+Randy3's estimated fold percentage is 0.166667
+Randy3's AF flop/postflop: 1.200000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:2
+Rando3's VPIP: 0.500000
+Rando3's PFR: 0.125000
+Rando3's estimated fold percentage is 0.375000
+Rando3's AF flop/postflop: 3.500000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:3
+
+Randy3 posts small blind, stack size (322)
+Rando3 posts big blind, stack size (79)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 7c 3s
+
+BAMF3's EV: -0.210000
+BAMF3's Equity: 0.358
+BAMF3's Implied Odds: -1
+BAMF3's maxBetFold: 1
+BAMF3's maxBetEV: 1
+
+BAMF3 folds.
+EV FOLD
+BAMF3 folds.
+Randy3 folds.
+
+
+NEWHAND:10
+
+['NEWHAND', '10', '2', '7d', 'Ah', '82', '196', '322', 'Rando3', 'BAMF3', 'Randy3', '3', 'true', 'true', 'true', '14.891544']
+Active Players:3
+
+Our hand: 7d Ah
+Rando3's VPIP: 0.444444
+Rando3's PFR: 0.111111
+Rando3's estimated fold percentage is 0.375000
+Rando3's AF flop/postflop: 3.500000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:1
+BAMF3's VPIP: 0.000000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.444444
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:2
+Randy3's VPIP: 0.444444
+Randy3's PFR: 0.111111
+Randy3's estimated fold percentage is 0.222222
+Randy3's AF flop/postflop: 1.200000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+
+BAMF3 posts small blind, stack size (195)
+Randy3 posts big blind, stack size (320)
+
+
+***PREFLOP***(9) Board:()
+Our hand: 7d Ah
+
+Rando3 raised to 6.
+BAMF3's EV: 3.045000
+BAMF3's Equity: 0.603
+BAMF3's Implied Odds: -11
+BAMF3's maxBetFold: 5
+BAMF3's maxBetEV: 13
+
+BAMF3 calls 6.
+
+***FLOP***(14) Board:(Qc 6c 6s)
+Our hand: 7d Ah
+
+Randy3 folds.
+BAMF3's EV: 7.364000
+BAMF3's Equity: 0.526
+BAMF3's Implied Odds: -14
+BAMF3's maxBetFold: 8
+BAMF3's maxBetEV: 15
+
+BAMF3 checks.
+
+***FLOP***(19) Board:(Qc 6c 6s)
+Our hand: 7d Ah
+
+Rando3 bet 5.
+BAMF3's EV: 7.624000
+BAMF3's Equity: 0.526
+BAMF3's Implied Odds: -19
+BAMF3's maxBetFold: 11
+BAMF3's maxBetEV: 21
+
+BAMF3 calls 5.
+
+***TURN***(24) Board:(Qc 6c 6s 2d)
+Our hand: 7d Ah
+
+BAMF3's EV: 13.224000
+BAMF3's Equity: 0.551
+BAMF3's Implied Odds: -24
+BAMF3's maxBetFold: 14
+BAMF3's maxBetEV: 29
+
+BAMF3 checks.
+
+***RIVER***(24) Board:(Qc 6c 6s 2d 4d)
+Our hand: 7d Ah
+
+Rando3 checks.
+BAMF3's EV: 10.484848
+BAMF3's Equity: 0.436868686869
+BAMF3's Implied Odds: -24
+BAMF3's maxBetFold: 14
+BAMF3's maxBetEV: 18
+
+final max bet:14
+final min bet:8
+Bet range: 2 24
+BAMF3 bets 10.
+Rando3 called 10.
+Rando3 WTSD percentage is: 0.200000
+BAMF3 WTSD percentage is: 0.100000
+Rando3 W$SD percentage is: 1.000000
+
+
+NEWHAND:11
+
+['NEWHAND', '11', '3', 'Qh', 'Kc', '320', '105', '175', 'Randy3', 'Rando3', 'BAMF3', '3', 'true', 'true', 'true', '14.858446']
+Active Players:3
+
+Our hand: Qh Kc
+Randy3's VPIP: 0.400000
+Randy3's PFR: 0.100000
+Randy3's estimated fold percentage is 0.222222
+Randy3's AF flop/postflop: 1.200000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:1
+Rando3's VPIP: 0.500000
+Rando3's PFR: 0.100000
+Rando3's estimated fold percentage is 0.375000
+Rando3's AF flop/postflop: 2.666667
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:2
+BAMF3's VPIP: 0.000000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.444444
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:3
+
+Rando3 posts small blind, stack size (104)
+BAMF3 posts big blind, stack size (173)
+
+Randy3 folds.
+Rando3 folds.
+
+
+NEWHAND:12
+
+['NEWHAND', '12', '1', 'Tc', 'Ks', '176', '320', '104', 'BAMF3', 'Randy3', 'Rando3', '3', 'true', 'true', 'true', '14.858446']
+Active Players:3
+
+Our hand: Tc Ks
+BAMF3's VPIP: 0.000000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.444444
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:1
+Randy3's VPIP: 0.363636
+Randy3's PFR: 0.090909
+Randy3's estimated fold percentage is 0.272727
+Randy3's AF flop/postflop: 1.200000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:2
+Rando3's VPIP: 0.454545
+Rando3's PFR: 0.090909
+Rando3's estimated fold percentage is 0.363636
+Rando3's AF flop/postflop: 2.666667
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:3
+
+Randy3 posts small blind, stack size (319)
+Rando3 posts big blind, stack size (102)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Tc Ks
+
+BAMF3's EV: 1.005000
+BAMF3's Equity: 0.601
+BAMF3's Implied Odds: -3
+BAMF3's maxBetFold: 1
+BAMF3's maxBetEV: 4
+
+BAMF3 calls 2.
+
+***PREFLOP***(8) Board:()
+Our hand: Tc Ks
+
+Randy3 raised to 4.
+Rando3 folds.
+BAMF3's EV: 3.212000
+BAMF3's Equity: 0.601
+BAMF3's Implied Odds: -9
+BAMF3's maxBetFold: 5
+BAMF3's maxBetEV: 12
+
+BAMF3 calls 4.
+
+***FLOP***(10) Board:(3c 3d Jd)
+Our hand: Tc Ks
+
+Randy3 checks.
+BAMF3's EV: 4.830000
+BAMF3's Equity: 0.483
+BAMF3's Implied Odds: -10
+BAMF3's maxBetFold: 7
+BAMF3's maxBetEV: 9
+
+final max bet:7
+final min bet:7
+Bet range: 2 10
+BAMF3 bets 7.
+Randy3 folds.
+
+
+NEWHAND:13
+
+['NEWHAND', '13', '2', '7h', '5c', '102', '182', '316', 'Rando3', 'BAMF3', 'Randy3', '3', 'true', 'true', 'true', '14.831514']
+Active Players:3
+
+Our hand: 7h 5c
+Rando3's VPIP: 0.416667
+Rando3's PFR: 0.083333
+Rando3's estimated fold percentage is 0.416667
+Rando3's AF flop/postflop: 2.666667
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:1
+BAMF3's VPIP: 0.083333
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.444444
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:2
+Randy3's VPIP: 0.416667
+Randy3's PFR: 0.083333
+Randy3's estimated fold percentage is 0.272727
+Randy3's AF flop/postflop: 1.200000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+
+BAMF3 posts small blind, stack size (181)
+Randy3 posts big blind, stack size (314)
+
+
+***PREFLOP***(5) Board:()
+Our hand: 7h 5c
+
+Rando3 called 2.
+BAMF3's EV: 0.880500
+BAMF3's Equity: 0.4115
+BAMF3's Implied Odds: -4
+BAMF3's maxBetFold: 3
+BAMF3's maxBetEV: 3
+
+BAMF3 folds.
+BAMF3 calls 2.
+Randy3 checks.
+Randy3 checks.
+Rando3 bet 2.
+Randy3 called 2.
+Randy3 checks.
+Rando3 checks.
+Randy3 bet 8.
+Rando3 raised to 16.
+Randy3 folds.
+
+
+NEWHAND:14
+
+['NEWHAND', '14', '3', 'Qc', '6h', '304', '115', '181', 'Randy3', 'Rando3', 'BAMF3', '3', 'true', 'true', 'true', '14.822925']
+Active Players:3
+
+Our hand: Qc 6h
+Randy3's VPIP: 0.384615
+Randy3's PFR: 0.076923
+Randy3's estimated fold percentage is 0.272727
+Randy3's AF flop/postflop: 1.166667
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:1
+Rando3's VPIP: 0.461538
+Rando3's PFR: 0.076923
+Rando3's estimated fold percentage is 0.416667
+Rando3's AF flop/postflop: 3.333333
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:2
+BAMF3's VPIP: 0.076923
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.444444
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:3
+
+Rando3 posts small blind, stack size (114)
+BAMF3 posts big blind, stack size (179)
+
+
+***PREFLOP***(6) Board:()
+Our hand: Qc 6h
+
+Randy3 folds.
+Rando3 raised to 4.
+BAMF3's EV: 1.215000
+BAMF3's Equity: 0.5215
+BAMF3's Implied Odds: -6
+BAMF3's maxBetFold: 4
+BAMF3's maxBetEV: 6
+
+BAMF3 calls 4.
+
+***FLOP***(11) Board:(2s 8s 2h)
+Our hand: Qc 6h
+
+Rando3 bet 3.
+BAMF3's EV: 2.285000
+BAMF3's Equity: 0.3775
+BAMF3's Implied Odds: -9
+BAMF3's maxBetFold: 7
+BAMF3's maxBetEV: 6
+
+BAMF3 calls 3.
+
+***TURN***(14) Board:(2s 8s 2h Ah)
+Our hand: Qc 6h
+
+Rando3 checks.
+BAMF3's EV: 5.313000
+BAMF3's Equity: 0.3795
+BAMF3's Implied Odds: -14
+BAMF3's maxBetFold: 10
+BAMF3's maxBetEV: 8
+
+BAMF3 checks.
+
+***RIVER***(14) Board:(2s 8s 2h Ah 4d)
+Our hand: Qc 6h
+
+Rando3 checks.
+BAMF3's EV: 4.504040
+BAMF3's Equity: 0.321717171717
+BAMF3's Implied Odds: -14
+BAMF3's maxBetFold: 10
+BAMF3's maxBetEV: 6
+
+BAMF3 checks.
+Rando3 WTSD percentage is: 0.214286
+BAMF3 WTSD percentage is: 0.142857
+Rando3 W$SD percentage is: 1.000000
+
+
+NEWHAND:15
+
+['NEWHAND', '15', '1', 'Td', 'Jc', '174', '304', '122', 'BAMF3', 'Randy3', 'Rando3', '3', 'true', 'true', 'true', '14.791957']
+Active Players:3
+
+Our hand: Td Jc
+BAMF3's VPIP: 0.071429
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.444444
+BAMF3's AF flop/postflop: 0.600000
+BAMF3's Player Type: NIT
+BAMF3's Seat:1
+Randy3's VPIP: 0.357143
+Randy3's PFR: 0.071429
+Randy3's estimated fold percentage is 0.285714
+Randy3's AF flop/postflop: 1.166667
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:2
+Rando3's VPIP: 0.500000
+Rando3's PFR: 0.071429
+Rando3's estimated fold percentage is 0.416667
+Rando3's AF flop/postflop: 3.666667
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:3
+
+Randy3 posts small blind, stack size (303)
+Rando3 posts big blind, stack size (120)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Td Jc
+
+BAMF3's EV: 0.602500
+BAMF3's Equity: 0.5205
+BAMF3's Implied Odds: -3
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 3
+
+BAMF3 calls 2.
+
+***PREFLOP***(8) Board:()
+Our hand: Td Jc
+
+Randy3 folds.
+Rando3 raised to 5.
+BAMF3's EV: 1.766500
+BAMF3's Equity: 0.5205
+BAMF3's Implied Odds: -8
+BAMF3's maxBetFold: 5
+BAMF3's maxBetEV: 8
+
+BAMF3 calls 5.
+
+***FLOP***(13) Board:(2h Ah Jd)
+Our hand: Td Jc
+
+Rando3 bet 2.
+BAMF3's EV: 9.557500
+BAMF3's Equity: 0.7705
+BAMF3's Implied Odds: -14
+BAMF3's maxBetFold: 9
+BAMF3's maxBetEV: 43
+
+final max raise:17
+final min raise:10
+Raise range: 4 17
+BAMF3 raise 17.
+
+***FLOP***(67) Board:(2h Ah Jd)
+Our hand: Td Jc
+
+Rando3 raised to 39.
+BAMF3's EV: 42.673000
+BAMF3's Equity: 0.7705
+BAMF3's Implied Odds: -94
+BAMF3's maxBetFold: 47
+BAMF3's maxBetEV: 224
+
+final max raise:117
+final min raise:61
+Raise range: 61 117
+BAMF3 raise 100.
+
+***TURN***(211) Board:(2h Ah Jd 5d)
+Our hand: Td Jc
+
+Rando3 called 100.
+Rando3 checks.
+BAMF3's EV: 157.617000
+BAMF3's Equity: 0.747
+BAMF3's Implied Odds: -211
+BAMF3's maxBetFold: 150
+BAMF3's maxBetEV: 622
+
+final max bet:17
+final min bet:10
+Bet range: 2 17
+BAMF3 bets 14.
+Rando3 folds.
+
+
+NEWHAND:16
+
+['NEWHAND', '16', '2', '2c', '9d', '17', '280', '303', 'Rando3', 'BAMF3', 'Randy3', '3', 'true', 'true', 'true', '14.743537']
+Active Players:3
+
+Our hand: 2c 9d
+Rando3's VPIP: 0.533333
+Rando3's PFR: 0.066667
+Rando3's estimated fold percentage is 0.416667
+Rando3's AF flop/postflop: 3.250000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:1
+BAMF3's VPIP: 0.133333
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.444444
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:2
+Randy3's VPIP: 0.333333
+Randy3's PFR: 0.066667
+Randy3's estimated fold percentage is 0.333333
+Randy3's AF flop/postflop: 1.166667
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+
+BAMF3 posts small blind, stack size (279)
+Randy3 posts big blind, stack size (301)
+
+
+***PREFLOP***(9) Board:()
+Our hand: 2c 9d
+
+Rando3 raised to 6.
+BAMF3's EV: -0.277500
+BAMF3's Equity: 0.3815
+BAMF3's Implied Odds: -5
+BAMF3's maxBetFold: 6
+BAMF3's maxBetEV: 5
+
+BAMF3 folds.
+EV FOLD
+BAMF3 folds.
+Randy3 raised to 14.
+Rando3 raised to 17.
+Randy3 folds.
+
+
+NEWHAND:17
+
+['NEWHAND', '17', '3', '3s', 'Ad', '289', '32', '279', 'Randy3', 'Rando3', 'BAMF3', '3', 'true', 'true', 'true', '14.735122']
+Active Players:3
+
+Our hand: 3s Ad
+Randy3's VPIP: 0.375000
+Randy3's PFR: 0.062500
+Randy3's estimated fold percentage is 0.375000
+Randy3's AF flop/postflop: 1.166667
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:1
+Rando3's VPIP: 0.562500
+Rando3's PFR: 0.062500
+Rando3's estimated fold percentage is 0.416667
+Rando3's AF flop/postflop: 3.250000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:2
+BAMF3's VPIP: 0.125000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.312500
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:3
+
+Rando3 posts small blind, stack size (31)
+BAMF3 posts big blind, stack size (277)
+
+
+***PREFLOP***(5) Board:()
+Our hand: 3s Ad
+
+Randy3 called 2.
+Rando3 folds.
+BAMF3's EV: 2.785000
+BAMF3's Equity: 0.557
+BAMF3's Implied Odds: -5
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 6
+
+final max raise:4
+final min raise:4
+Raise range: 4 7
+BAMF3 raise 4.
+
+***FLOP***(5) Board:(9h Kc Td)
+Our hand: 3s Ad
+
+BAMF3's EV: 2.210000
+BAMF3's Equity: 0.442
+BAMF3's Implied Odds: -5
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 3
+
+final max bet:2
+final min bet:2
+Bet range: 2 5
+BAMF3 bets 2.
+
+***FLOP***(8) Board:(9h Kc Td)
+Our hand: 3s Ad
+
+Randy3 bet 3.
+BAMF3's EV: 1.862000
+BAMF3's Equity: 0.442
+BAMF3's Implied Odds: -7
+BAMF3's maxBetFold: 4
+BAMF3's maxBetEV: 6
+
+BAMF3 calls 3.
+
+
+NEWHAND:18
+
+['NEWHAND', '18', '1', 'Qh', 'Kh', '277', '292', '31', 'BAMF3', 'Randy3', 'Rando3', '3', 'true', 'true', 'true', '14.712230']
+Active Players:3
+
+Our hand: Qh Kh
+BAMF3's VPIP: 0.117647
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.312500
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:1
+Randy3's VPIP: 0.411765
+Randy3's PFR: 0.058824
+Randy3's estimated fold percentage is 0.375000
+Randy3's AF flop/postflop: 1.333333
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:2
+Rando3's VPIP: 0.529412
+Rando3's PFR: 0.058824
+Rando3's estimated fold percentage is 0.352941
+Rando3's AF flop/postflop: 3.250000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:3
+
+Randy3 posts small blind, stack size (291)
+Rando3 posts big blind, stack size (29)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Qh Kh
+
+BAMF3's EV: 1.072500
+BAMF3's Equity: 0.6145
+BAMF3's Implied Odds: -3
+BAMF3's maxBetFold: 1
+BAMF3's maxBetEV: 4
+
+BAMF3 calls 2.
+Randy3 folds.
+
+
+NEWHAND:19
+
+['NEWHAND', '19', '2', '9c', '6s', '32', '277', '291', 'Rando3', 'BAMF3', 'Randy3', '3', 'true', 'true', 'true', '14.705082']
+Active Players:3
+
+Our hand: 9c 6s
+Rando3's VPIP: 0.500000
+Rando3's PFR: 0.055556
+Rando3's estimated fold percentage is 0.352941
+Rando3's AF flop/postflop: 3.250000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:1
+BAMF3's VPIP: 0.111111
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:2
+Randy3's VPIP: 0.388889
+Randy3's PFR: 0.055556
+Randy3's estimated fold percentage is 0.388889
+Randy3's AF flop/postflop: 1.333333
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+
+BAMF3 posts small blind, stack size (276)
+Randy3 posts big blind, stack size (289)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 9c 6s
+
+Rando3 folds.
+BAMF3's EV: 0.345000
+BAMF3's Equity: 0.469
+BAMF3's Implied Odds: -2
+BAMF3's maxBetFold: 1
+BAMF3's maxBetEV: 2
+
+BAMF3 calls 2.
+
+***FLOP***(4) Board:(8c 4c 9h)
+Our hand: 9c 6s
+
+Randy3 checks.
+BAMF3's EV: 3.020000
+BAMF3's Equity: 0.755
+BAMF3's Implied Odds: -4
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 12
+
+final max bet:4
+final min bet:4
+Bet range: 2 4
+BAMF3 bets 4.
+
+***FLOP***(7) Board:(8c 4c 9h)
+Our hand: 9c 6s
+
+Randy3 bet 3.
+BAMF3's EV: 4.550000
+BAMF3's Equity: 0.755
+BAMF3's Implied Odds: -9
+BAMF3's maxBetFold: 4
+BAMF3's maxBetEV: 21
+
+final max raise:13
+final min raise:10
+Raise range: 6 13
+BAMF3 raise 11.
+
+
+NEWHAND:20
+
+['NEWHAND', '20', '3', 'Qc', '7c', '293', '32', '275', 'Randy3', 'Rando3', 'BAMF3', '3', 'true', 'true', 'true', '14.684558']
+Active Players:3
+
+Our hand: Qc 7c
+Randy3's VPIP: 0.368421
+Randy3's PFR: 0.052632
+Randy3's estimated fold percentage is 0.388889
+Randy3's AF flop/postflop: 1.500000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:1
+Rando3's VPIP: 0.473684
+Rando3's PFR: 0.052632
+Rando3's estimated fold percentage is 0.368421
+Rando3's AF flop/postflop: 3.250000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:2
+BAMF3's VPIP: 0.105263
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 0.857143
+BAMF3's Player Type: NIT
+BAMF3's Seat:3
+
+Rando3 posts small blind, stack size (31)
+BAMF3 posts big blind, stack size (273)
+
+Randy3 folds.
+Rando3 folds.
+
+
+NEWHAND:21
+
+['NEWHAND', '21', '1', 'Ts', '8s', '276', '293', '31', 'BAMF3', 'Randy3', 'Rando3', '3', 'true', 'true', 'true', '14.684558']
+Active Players:3
+
+Our hand: Ts 8s
+BAMF3's VPIP: 0.100000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 0.857143
+BAMF3's Player Type: NIT
+BAMF3's Seat:1
+Randy3's VPIP: 0.350000
+Randy3's PFR: 0.050000
+Randy3's estimated fold percentage is 0.400000
+Randy3's AF flop/postflop: 1.500000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:2
+Rando3's VPIP: 0.450000
+Rando3's PFR: 0.050000
+Rando3's estimated fold percentage is 0.400000
+Rando3's AF flop/postflop: 3.250000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:3
+
+Randy3 posts small blind, stack size (292)
+Rando3 posts big blind, stack size (29)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ts 8s
+
+BAMF3's EV: 0.660000
+BAMF3's Equity: 0.532
+BAMF3's Implied Odds: -3
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 3
+
+BAMF3 calls 2.
+Randy3 called 2.
+Rando3 checks.
+Randy3 checks.
+Rando3 checks.
+Randy3 bet 2.
+Rando3 raised to 5.
+Randy3 folds.
+
+
+NEWHAND:22
+
+['NEWHAND', '22', '2', 'Td', '8c', '35', '276', '289', 'Rando3', 'BAMF3', 'Randy3', '3', 'true', 'true', 'true', '14.669220']
+Active Players:3
+
+Our hand: Td 8c
+Rando3's VPIP: 0.428571
+Rando3's PFR: 0.047619
+Rando3's estimated fold percentage is 0.400000
+Rando3's AF flop/postflop: 3.500000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:1
+BAMF3's VPIP: 0.095238
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 0.857143
+BAMF3's Player Type: NIT
+BAMF3's Seat:2
+Randy3's VPIP: 0.333333
+Randy3's PFR: 0.047619
+Randy3's estimated fold percentage is 0.400000
+Randy3's AF flop/postflop: 1.428571
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+
+BAMF3 posts small blind, stack size (275)
+Randy3 posts big blind, stack size (287)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Td 8c
+
+Rando3 folds.
+BAMF3's EV: 0.537500
+BAMF3's Equity: 0.5075
+BAMF3's Implied Odds: -3
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 3
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+BAMF3 raise 4.
+Randy3 folds.
+
+
+NEWHAND:23
+
+['NEWHAND', '23', '3', '3c', 'Th', '287', '35', '278', 'Randy3', 'Rando3', 'BAMF3', '3', 'true', 'true', 'true', '14.657628']
+Active Players:3
+
+Our hand: 3c Th
+Randy3's VPIP: 0.318182
+Randy3's PFR: 0.045455
+Randy3's estimated fold percentage is 0.409091
+Randy3's AF flop/postflop: 1.428571
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:1
+Rando3's VPIP: 0.409091
+Rando3's PFR: 0.045455
+Rando3's estimated fold percentage is 0.409091
+Rando3's AF flop/postflop: 3.500000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:2
+BAMF3's VPIP: 0.136364
+BAMF3's PFR: 0.045455
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 0.857143
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:3
+
+Rando3 posts small blind, stack size (34)
+BAMF3 posts big blind, stack size (276)
+
+Randy3 folds.
+Rando3 folds.
+
+
+NEWHAND:24
+
+['NEWHAND', '24', '1', '5c', '8s', '279', '287', '34', 'BAMF3', 'Randy3', 'Rando3', '3', 'true', 'true', 'true', '14.657628']
+Active Players:3
+
+Our hand: 5c 8s
+BAMF3's VPIP: 0.130435
+BAMF3's PFR: 0.043478
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 0.857143
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:1
+Randy3's VPIP: 0.304348
+Randy3's PFR: 0.043478
+Randy3's estimated fold percentage is 0.434783
+Randy3's AF flop/postflop: 1.428571
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:2
+Rando3's VPIP: 0.391304
+Rando3's PFR: 0.043478
+Rando3's estimated fold percentage is 0.434783
+Rando3's AF flop/postflop: 3.500000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:3
+
+Randy3 posts small blind, stack size (286)
+Rando3 posts big blind, stack size (32)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 5c 8s
+
+BAMF3's EV: 0.187500
+BAMF3's Equity: 0.4375
+BAMF3's Implied Odds: -2
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 2
+
+BAMF3 folds.
+BAMF3 calls 2.
+Randy3 folds.
+
+
+NEWHAND:25
+
+['NEWHAND', '25', '2', 'Qh', 'Jc', '35', '279', '286', 'Rando3', 'BAMF3', 'Randy3', '3', 'true', 'true', 'true', '14.648500']
+Active Players:3
+
+Our hand: Qh Jc
+Rando3's VPIP: 0.375000
+Rando3's PFR: 0.041667
+Rando3's estimated fold percentage is 0.434783
+Rando3's AF flop/postflop: 3.500000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:1
+BAMF3's VPIP: 0.125000
+BAMF3's PFR: 0.041667
+BAMF3's estimated fold percentage is 0.291667
+BAMF3's AF flop/postflop: 0.857143
+BAMF3's Player Type: NIT
+BAMF3's Seat:2
+Randy3's VPIP: 0.291667
+Randy3's PFR: 0.041667
+Randy3's estimated fold percentage is 0.458333
+Randy3's AF flop/postflop: 1.428571
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+
+BAMF3 posts small blind, stack size (278)
+Randy3 posts big blind, stack size (284)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Qh Jc
+
+Rando3 folds.
+BAMF3's EV: 0.935000
+BAMF3's Equity: 0.587
+BAMF3's Implied Odds: -3
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 4
+
+BAMF3 calls 2.
+
+***PREFLOP***(6) Board:()
+Our hand: Qh Jc
+
+Randy3 raised to 4.
+BAMF3's EV: 1.870000
+BAMF3's Equity: 0.587
+BAMF3's Implied Odds: -7
+BAMF3's maxBetFold: 4
+BAMF3's maxBetEV: 8
+
+BAMF3 calls 4.
+
+***FLOP***(8) Board:(5c Ks Tc)
+Our hand: Qh Jc
+
+BAMF3's EV: 4.996000
+BAMF3's Equity: 0.6245
+BAMF3's Implied Odds: -8
+BAMF3's maxBetFold: 6
+BAMF3's maxBetEV: 13
+
+final max bet:8
+final min bet:8
+Bet range: 2 8
+BAMF3 bets 8.
+
+***FLOP***(34) Board:(5c Ks Tc)
+Our hand: Qh Jc
+
+Randy3 raised to 18.
+BAMF3's EV: 14.474000
+BAMF3's Equity: 0.6245
+BAMF3's Implied Odds: -41
+BAMF3's maxBetFold: 26
+BAMF3's maxBetEV: 56
+
+final max raise:56
+final min raise:28
+Raise range: 28 62
+BAMF3 raise 35.
+Randy3 folds.
+
+
+NEWHAND:26
+
+['NEWHAND', '26', '3', 'Js', '2d', '264', '35', '301', 'Randy3', 'Rando3', 'BAMF3', '3', 'true', 'true', 'true', '14.615913']
+Active Players:3
+
+Our hand: Js 2d
+Randy3's VPIP: 0.320000
+Randy3's PFR: 0.040000
+Randy3's estimated fold percentage is 0.458333
+Randy3's AF flop/postflop: 1.571429
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:1
+Rando3's VPIP: 0.360000
+Rando3's PFR: 0.040000
+Rando3's estimated fold percentage is 0.440000
+Rando3's AF flop/postflop: 3.500000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:2
+BAMF3's VPIP: 0.160000
+BAMF3's PFR: 0.040000
+BAMF3's estimated fold percentage is 0.291667
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:3
+
+Rando3 posts small blind, stack size (34)
+BAMF3 posts big blind, stack size (299)
+
+
+***PREFLOP***(12) Board:()
+Our hand: Js 2d
+
+Randy3 raised to 5.
+Rando3 called 5.
+BAMF3's EV: 2.361000
+BAMF3's Equity: 0.433
+BAMF3's Implied Odds: -10
+BAMF3's maxBetFold: 9
+BAMF3's maxBetEV: 9
+
+NOT BLUFFING FOLD
+BAMF3 folds.
+BAMF3 calls 5.
+Rando3 checks.
+Randy3 checks.
+Rando3 bet 7.
+Randy3 called 7.
+Rando3 bet 14.
+Randy3 folds.
+
+
+NEWHAND:27
+
+['NEWHAND', '27', '1', '2d', '3h', '299', '252', '49', 'BAMF3', 'Randy3', 'Rando3', '3', 'true', 'true', 'true', '14.607589']
+Active Players:3
+
+Our hand: 2d 3h
+BAMF3's VPIP: 0.153846
+BAMF3's PFR: 0.038462
+BAMF3's estimated fold percentage is 0.291667
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:1
+Randy3's VPIP: 0.346154
+Randy3's PFR: 0.038462
+Randy3's estimated fold percentage is 0.458333
+Randy3's AF flop/postflop: 1.375000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:2
+Rando3's VPIP: 0.384615
+Rando3's PFR: 0.038462
+Rando3's estimated fold percentage is 0.440000
+Rando3's AF flop/postflop: 4.000000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:3
+
+Randy3 posts small blind, stack size (251)
+Rando3 posts big blind, stack size (47)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 2d 3h
+
+BAMF3's EV: -0.352500
+BAMF3's Equity: 0.3295
+BAMF3's Implied Odds: 0
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 1
+
+BAMF3 folds.
+EV FOLD
+BAMF3 folds.
+Randy3 called 2.
+Rando3 raised to 4.
+Randy3 folds.
+
+
+NEWHAND:28
+
+['NEWHAND', '28', '2', '3d', '6d', '51', '299', '250', 'Rando3', 'BAMF3', 'Randy3', '3', 'true', 'true', 'true', '14.607305']
+Active Players:3
+
+Our hand: 3d 6d
+Rando3's VPIP: 0.407407
+Rando3's PFR: 0.037037
+Rando3's estimated fold percentage is 0.440000
+Rando3's AF flop/postflop: 4.000000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:1
+BAMF3's VPIP: 0.148148
+BAMF3's PFR: 0.037037
+BAMF3's estimated fold percentage is 0.296296
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:2
+Randy3's VPIP: 0.370370
+Randy3's PFR: 0.037037
+Randy3's estimated fold percentage is 0.444444
+Randy3's AF flop/postflop: 1.375000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+
+BAMF3 posts small blind, stack size (298)
+Randy3 posts big blind, stack size (248)
+
+
+***PREFLOP***(5) Board:()
+Our hand: 3d 6d
+
+Rando3 called 2.
+BAMF3's EV: 0.810500
+BAMF3's Equity: 0.4015
+BAMF3's Implied Odds: -4
+BAMF3's maxBetFold: 3
+BAMF3's maxBetEV: 3
+
+BAMF3 folds.
+final max raise:4
+final min raise:4
+Raise range: 4 8
+BAMF3 raise 4.
+Randy3 raised to 4.
+Rando3 raised to 12.
+Randy3 folds.
+
+
+NEWHAND:29
+
+['NEWHAND', '29', '3', 'Qh', '4c', '246', '56', '298', 'Randy3', 'Rando3', 'BAMF3', '3', 'true', 'true', 'true', '14.598812']
+Active Players:3
+
+Our hand: Qh 4c
+Randy3's VPIP: 0.392857
+Randy3's PFR: 0.035714
+Randy3's estimated fold percentage is 0.464286
+Randy3's AF flop/postflop: 1.375000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:1
+Rando3's VPIP: 0.428571
+Rando3's PFR: 0.035714
+Rando3's estimated fold percentage is 0.440000
+Rando3's AF flop/postflop: 4.000000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:2
+BAMF3's VPIP: 0.142857
+BAMF3's PFR: 0.035714
+BAMF3's estimated fold percentage is 0.321429
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:3
+
+Rando3 posts small blind, stack size (55)
+BAMF3 posts big blind, stack size (296)
+
+
+***PREFLOP***(4) Board:()
+Our hand: Qh 4c
+
+Randy3 folds.
+Rando3 called 2.
+BAMF3's EV: 1.936000
+BAMF3's Equity: 0.484
+BAMF3's Implied Odds: -4
+BAMF3's maxBetFold: 3
+BAMF3's maxBetEV: 3
+
+BAMF3 checks.
+
+***FLOP***(4) Board:(5s 3h 3d)
+Our hand: Qh 4c
+
+Rando3 checks.
+BAMF3's EV: 1.706000
+BAMF3's Equity: 0.4265
+BAMF3's Implied Odds: -4
+BAMF3's maxBetFold: 3
+BAMF3's maxBetEV: 2
+
+final max bet:3
+final min bet:3
+Bet range: 2 4
+BAMF3 bets 3.
+
+***TURN***(6) Board:(5s 3h 3d 7s)
+Our hand: Qh 4c
+
+Rando3 bet 2.
+BAMF3's EV: 0.804000
+BAMF3's Equity: 0.3505
+BAMF3's Implied Odds: -4
+BAMF3's maxBetFold: 4
+BAMF3's maxBetEV: 3
+
+final max raise:4
+final min raise:4
+Raise range: 4 10
+BAMF3 raise 4.
+
+***RIVER***(12) Board:(5s 3h 3d 7s 2h)
+Our hand: Qh 4c
+
+Rando3 called 4.
+Rando3 checks.
+BAMF3's EV: 2.575758
+BAMF3's Equity: 0.214646464646
+BAMF3's Implied Odds: -12
+BAMF3's maxBetFold: 9
+BAMF3's maxBetEV: 3
+
+BAMF3 checks.
+Rando3 WTSD percentage is: 0.137931
+BAMF3 WTSD percentage is: 0.103448
+Rando3 W$SD percentage is: 1.000000
+
+
+NEWHAND:30
+
+['NEWHAND', '30', '1', 'Ks', '9d', '292', '246', '62', 'BAMF3', 'Randy3', 'Rando3', '3', 'true', 'true', 'true', '14.567440']
+Active Players:3
+
+Our hand: Ks 9d
+BAMF3's VPIP: 0.137931
+BAMF3's PFR: 0.034483
+BAMF3's estimated fold percentage is 0.321429
+BAMF3's AF flop/postflop: 1.125000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:1
+Randy3's VPIP: 0.379310
+Randy3's PFR: 0.034483
+Randy3's estimated fold percentage is 0.482759
+Randy3's AF flop/postflop: 1.375000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:2
+Rando3's VPIP: 0.448276
+Rando3's PFR: 0.034483
+Rando3's estimated fold percentage is 0.440000
+Rando3's AF flop/postflop: 3.400000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:3
+
+Randy3 posts small blind, stack size (245)
+Rando3 posts big blind, stack size (60)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ks 9d
+
+BAMF3's EV: 0.965000
+BAMF3's Equity: 0.593
+BAMF3's Implied Odds: -3
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 4
+
+BAMF3 calls 2.
+Randy3 raised to 4.
+Rando3 raised to 8.
+Randy3 folds.
+
+
+NEWHAND:31
+
+['NEWHAND', '31', '2', 'Kc', 'Jh', '66', '292', '242', 'Rando3', 'BAMF3', 'Randy3', '3', 'true', 'true', 'true', '14.556770']
+Active Players:3
+
+Our hand: Kc Jh
+Rando3's VPIP: 0.466667
+Rando3's PFR: 0.033333
+Rando3's estimated fold percentage is 0.440000
+Rando3's AF flop/postflop: 3.400000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:1
+BAMF3's VPIP: 0.133333
+BAMF3's PFR: 0.033333
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 1.125000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:2
+Randy3's VPIP: 0.400000
+Randy3's PFR: 0.033333
+Randy3's estimated fold percentage is 0.500000
+Randy3's AF flop/postflop: 1.375000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+
+BAMF3 posts small blind, stack size (291)
+Randy3 posts big blind, stack size (240)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Kc Jh
+
+Rando3 folds.
+BAMF3's EV: 0.987500
+BAMF3's Equity: 0.5975
+BAMF3's Implied Odds: -3
+BAMF3's maxBetFold: 1
+BAMF3's maxBetEV: 4
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+BAMF3 raise 4.
+
+***FLOP***(8) Board:(3d 9h Td)
+Our hand: Kc Jh
+
+Randy3 called 4.
+BAMF3's EV: 4.436000
+BAMF3's Equity: 0.5545
+BAMF3's Implied Odds: -8
+BAMF3's maxBetFold: 5
+BAMF3's maxBetEV: 9
+
+BAMF3 checks.
+
+***FLOP***(15) Board:(3d 9h Td)
+Our hand: Kc Jh
+
+Randy3 bet 7.
+BAMF3's EV: 5.199000
+BAMF3's Equity: 0.5545
+BAMF3's Implied Odds: -16
+BAMF3's maxBetFold: 9
+BAMF3's maxBetEV: 18
+
+BAMF3 calls 7.
+
+
+NEWHAND:32
+
+['NEWHAND', '32', '3', '5s', '3d', '246', '66', '288', 'Randy3', 'Rando3', 'BAMF3', '3', 'true', 'true', 'true', '14.526789']
+Active Players:3
+
+Our hand: 5s 3d
+Randy3's VPIP: 0.387097
+Randy3's PFR: 0.032258
+Randy3's estimated fold percentage is 0.500000
+Randy3's AF flop/postflop: 1.333333
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:1
+Rando3's VPIP: 0.451613
+Rando3's PFR: 0.032258
+Rando3's estimated fold percentage is 0.387097
+Rando3's AF flop/postflop: 3.400000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:2
+BAMF3's VPIP: 0.129032
+BAMF3's PFR: 0.032258
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 1.250000
+BAMF3's Player Type: NIT
+BAMF3's Seat:3
+
+Rando3 posts small blind, stack size (65)
+BAMF3 posts big blind, stack size (286)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 5s 3d
+
+Randy3 folds.
+Rando3 called 2.
+BAMF3's EV: 1.508000
+BAMF3's Equity: 0.377
+BAMF3's Implied Odds: -4
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 2
+
+NOT BLUFFING FOLD
+BAMF3 checks.
+BAMF3 checks.
+Rando3 folds.
+
+
+NEWHAND:33
+
+['NEWHAND', '33', '1', '4s', '8d', '290', '246', '64', 'BAMF3', 'Randy3', 'Rando3', '3', 'true', 'true', 'true', '14.512918']
+Active Players:3
+
+Our hand: 4s 8d
+BAMF3's VPIP: 0.156250
+BAMF3's PFR: 0.031250
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 1.250000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:1
+Randy3's VPIP: 0.375000
+Randy3's PFR: 0.031250
+Randy3's estimated fold percentage is 0.500000
+Randy3's AF flop/postflop: 1.333333
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:2
+Rando3's VPIP: 0.468750
+Rando3's PFR: 0.031250
+Rando3's estimated fold percentage is 0.406250
+Rando3's AF flop/postflop: 3.400000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:3
+
+Randy3 posts small blind, stack size (245)
+Rando3 posts big blind, stack size (62)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 4s 8d
+
+BAMF3's EV: -0.052500
+BAMF3's Equity: 0.3895
+BAMF3's Implied Odds: -1
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 1
+
+BAMF3 folds.
+EV FOLD
+BAMF3 folds.
+Randy3 called 2.
+Rando3 checks.
+Randy3 checks.
+Rando3 checks.
+Randy3 checks.
+Rando3 checks.
+Randy3 bet 3.
+Rando3 folds.
+
+
+NEWHAND:34
+
+['NEWHAND', '34', '2', '9h', 'Th', '62', '290', '248', 'Rando3', 'BAMF3', 'Randy3', '3', 'true', 'true', 'true', '14.504837']
+Active Players:3
+
+Our hand: 9h Th
+Rando3's VPIP: 0.454545
+Rando3's PFR: 0.030303
+Rando3's estimated fold percentage is 0.406250
+Rando3's AF flop/postflop: 3.400000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:1
+BAMF3's VPIP: 0.151515
+BAMF3's PFR: 0.030303
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 1.250000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:2
+Randy3's VPIP: 0.363636
+Randy3's PFR: 0.030303
+Randy3's estimated fold percentage is 0.500000
+Randy3's AF flop/postflop: 1.300000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+
+BAMF3 posts small blind, stack size (289)
+Randy3 posts big blind, stack size (246)
+
+
+***PREFLOP***(5) Board:()
+Our hand: 9h Th
+
+Rando3 called 2.
+BAMF3's EV: 1.748500
+BAMF3's Equity: 0.5355
+BAMF3's Implied Odds: -5
+BAMF3's maxBetFold: 3
+BAMF3's maxBetEV: 5
+
+BAMF3 calls 2.
+Randy3 raised to 4.
+Rando3 raised to 11.
+Randy3 folds.
+
+
+NEWHAND:35
+
+['NEWHAND', '35', '3', '2c', '2s', '244', '67', '289', 'Randy3', 'Rando3', 'BAMF3', '3', 'true', 'true', 'true', '14.463440']
+Active Players:3
+
+Our hand: 2c 2s
+Randy3's VPIP: 0.382353
+Randy3's PFR: 0.029412
+Randy3's estimated fold percentage is 0.500000
+Randy3's AF flop/postflop: 1.300000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:1
+Rando3's VPIP: 0.470588
+Rando3's PFR: 0.029412
+Rando3's estimated fold percentage is 0.406250
+Rando3's AF flop/postflop: 3.400000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:2
+BAMF3's VPIP: 0.147059
+BAMF3's PFR: 0.029412
+BAMF3's estimated fold percentage is 0.323529
+BAMF3's AF flop/postflop: 1.250000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:3
+
+Rando3 posts small blind, stack size (66)
+BAMF3 posts big blind, stack size (287)
+
+
+***PREFLOP***(9) Board:()
+Our hand: 2c 2s
+
+Randy3 raised to 6.
+Rando3 folds.
+BAMF3's EV: 1.485000
+BAMF3's Equity: 0.499
+BAMF3's Implied Odds: -8
+BAMF3's maxBetFold: 6
+BAMF3's maxBetEV: 8
+
+BAMF3 calls 6.
+
+
+NEWHAND:36
+
+['NEWHAND', '36', '1', '9d', 'Kh', '287', '247', '66', 'BAMF3', 'Randy3', 'Rando3', '3', 'true', 'true', 'true', '14.451295']
+Active Players:3
+
+Our hand: 9d Kh
+BAMF3's VPIP: 0.142857
+BAMF3's PFR: 0.028571
+BAMF3's estimated fold percentage is 0.342857
+BAMF3's AF flop/postflop: 1.250000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:1
+Randy3's VPIP: 0.400000
+Randy3's PFR: 0.028571
+Randy3's estimated fold percentage is 0.500000
+Randy3's AF flop/postflop: 1.300000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:2
+Rando3's VPIP: 0.457143
+Rando3's PFR: 0.028571
+Rando3's estimated fold percentage is 0.400000
+Rando3's AF flop/postflop: 3.400000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:3
+
+Randy3 posts small blind, stack size (246)
+Rando3 posts big blind, stack size (64)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 9d Kh
+
+BAMF3's EV: 0.765000
+BAMF3's Equity: 0.553
+BAMF3's Implied Odds: -3
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 3
+
+final max raise:4
+final min raise:4
+Raise range: 4 7
+BAMF3 raise 4.
+Randy3 folds.
+
+
+NEWHAND:37
+
+['NEWHAND', '37', '2', '2h', 'Kc', '67', '287', '246', 'Rando3', 'BAMF3', 'Randy3', '3', 'true', 'true', 'true', '14.411162']
+Active Players:3
+
+Our hand: 2h Kc
+Rando3's VPIP: 0.444444
+Rando3's PFR: 0.027778
+Rando3's estimated fold percentage is 0.400000
+Rando3's AF flop/postflop: 3.400000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:1
+BAMF3's VPIP: 0.138889
+BAMF3's PFR: 0.027778
+BAMF3's estimated fold percentage is 0.361111
+BAMF3's AF flop/postflop: 1.250000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:2
+Randy3's VPIP: 0.388889
+Randy3's PFR: 0.027778
+Randy3's estimated fold percentage is 0.500000
+Randy3's AF flop/postflop: 1.300000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+
+BAMF3 posts small blind, stack size (286)
+Randy3 posts big blind, stack size (244)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 2h Kc
+
+Rando3 folds.
+BAMF3's EV: 0.480000
+BAMF3's Equity: 0.496
+BAMF3's Implied Odds: -2
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 2
+
+BAMF3 calls 2.
+
+***FLOP***(4) Board:(Jh Ad 6d)
+Our hand: 2h Kc
+
+Randy3 checks.
+BAMF3's EV: 1.728000
+BAMF3's Equity: 0.432
+BAMF3's Implied Odds: -4
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 3
+
+BAMF3 checks.
+
+***FLOP***(6) Board:(Jh Ad 6d)
+Our hand: 2h Kc
+
+Randy3 bet 2.
+BAMF3's EV: 1.412000
+BAMF3's Equity: 0.4265
+BAMF3's Implied Odds: -5
+BAMF3's maxBetFold: 4
+BAMF3's maxBetEV: 4
+
+BAMF3 calls 2.
+
+***FLOP***(16) Board:(Jh Ad 6d)
+Our hand: 2h Kc
+
+Randy3 raised to 8.
+BAMF3's EV: 2.236000
+BAMF3's Equity: 0.4265
+BAMF3's Implied Odds: -13
+BAMF3's maxBetFold: 10
+BAMF3's maxBetEV: 11
+
+final max raise:12
+final min raise:12
+Raise range: 12 28
+BAMF3 folds.
+
+
+NEWHAND:38
+
+['NEWHAND', '38', '3', 'Tc', '3s', '252', '67', '281', 'Randy3', 'Rando3', 'BAMF3', '3', 'true', 'true', 'true', '14.333660']
+Active Players:3
+
+Our hand: Tc 3s
+Randy3's VPIP: 0.378378
+Randy3's PFR: 0.027027
+Randy3's estimated fold percentage is 0.500000
+Randy3's AF flop/postflop: 1.500000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:1
+Rando3's VPIP: 0.432432
+Rando3's PFR: 0.027027
+Rando3's estimated fold percentage is 0.405405
+Rando3's AF flop/postflop: 3.400000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:2
+BAMF3's VPIP: 0.135135
+BAMF3's PFR: 0.027027
+BAMF3's estimated fold percentage is 0.361111
+BAMF3's AF flop/postflop: 1.222222
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:3
+
+Rando3 posts small blind, stack size (66)
+BAMF3 posts big blind, stack size (279)
+
+
+***PREFLOP***(6) Board:()
+Our hand: Tc 3s
+
+Randy3 called 2.
+Rando3 called 2.
+BAMF3's EV: 2.523000
+BAMF3's Equity: 0.4205
+BAMF3's Implied Odds: -6
+BAMF3's maxBetFold: 4
+BAMF3's maxBetEV: 4
+
+NOT BLUFFING FOLD
+BAMF3 checks.
+BAMF3 checks.
+
+***FLOP***(10) Board:(5c Kh Jc)
+Our hand: Tc 3s
+
+Rando3 bet 4.
+BAMF3's EV: 0.375000
+BAMF3's Equity: 0.3125
+BAMF3's Implied Odds: -5
+BAMF3's maxBetFold: 6
+BAMF3's maxBetEV: 4
+
+final max raise:8
+final min raise:8
+Raise range: 8 18
+BAMF3 raise 8.
+Randy3 called 4.
+Rando3 bet 9.
+Randy3 raised to 38.
+Rando3 called 38.
+Rando3 bet 22.
+Randy3 folds.
+
+
+NEWHAND:39
+
+['NEWHAND', '39', '1', '8d', '3s', '279', '208', '113', 'BAMF3', 'Randy3', 'Rando3', '3', 'true', 'true', 'true', '14.301865']
+Active Players:3
+
+Our hand: 8d 3s
+BAMF3's VPIP: 0.131579
+BAMF3's PFR: 0.026316
+BAMF3's estimated fold percentage is 0.361111
+BAMF3's AF flop/postflop: 1.222222
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:1
+Randy3's VPIP: 0.394737
+Randy3's PFR: 0.026316
+Randy3's estimated fold percentage is 0.500000
+Randy3's AF flop/postflop: 1.454545
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:2
+Rando3's VPIP: 0.447368
+Rando3's PFR: 0.026316
+Rando3's estimated fold percentage is 0.405405
+Rando3's AF flop/postflop: 3.333333
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:3
+
+Randy3 posts small blind, stack size (207)
+Rando3 posts big blind, stack size (111)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 8d 3s
+
+BAMF3's EV: -0.167500
+BAMF3's Equity: 0.3665
+BAMF3's Implied Odds: -1
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 1
+
+BAMF3 folds.
+EV FOLD
+BAMF3 folds.
+Randy3 raised to 4.
+Rando3 folds.
+
+
+NEWHAND:40
+
+['NEWHAND', '40', '2', '4h', '3d', '111', '279', '210', 'Rando3', 'BAMF3', 'Randy3', '3', 'true', 'true', 'true', '14.294044']
+Active Players:3
+
+Our hand: 4h 3d
+Rando3's VPIP: 0.435897
+Rando3's PFR: 0.025641
+Rando3's estimated fold percentage is 0.410256
+Rando3's AF flop/postflop: 3.333333
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:1
+BAMF3's VPIP: 0.128205
+BAMF3's PFR: 0.025641
+BAMF3's estimated fold percentage is 0.358974
+BAMF3's AF flop/postflop: 1.222222
+BAMF3's Player Type: NIT
+BAMF3's Seat:2
+Randy3's VPIP: 0.410256
+Randy3's PFR: 0.025641
+Randy3's estimated fold percentage is 0.500000
+Randy3's AF flop/postflop: 1.454545
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+
+BAMF3 posts small blind, stack size (278)
+Randy3 posts big blind, stack size (208)
+
+
+***PREFLOP***(5) Board:()
+Our hand: 4h 3d
+
+Rando3 called 2.
+BAMF3's EV: 0.436000
+BAMF3's Equity: 0.348
+BAMF3's Implied Odds: -3
+BAMF3's maxBetFold: 3
+BAMF3's maxBetEV: 2
+
+final max raise:4
+final min raise:4
+Raise range: 4 8
+BAMF3 raise 4.
+BAMF3 calls 2.
+
+***FLOP***(10) Board:(6h Jd 9h)
+Our hand: 4h 3d
+
+Randy3 called 4.
+Rando3 folds.
+BAMF3's EV: 1.980000
+BAMF3's Equity: 0.198
+BAMF3's Implied Odds: -10
+BAMF3's maxBetFold: 6
+BAMF3's maxBetEV: 2
+
+BAMF3 checks.
+
+***FLOP***(18) Board:(6h Jd 9h)
+Our hand: 4h 3d
+
+Randy3 bet 8.
+BAMF3's EV: -2.852000
+BAMF3's Equity: 0.198
+BAMF3's Implied Odds: 6
+BAMF3's maxBetFold: 12
+BAMF3's maxBetEV: 4
+
+BAMF3 folds.
+
+
+NEWHAND:41
+
+['NEWHAND', '41', '3', 'Tc', 'Kh', '216', '109', '275', 'Randy3', 'Rando3', 'BAMF3', '3', 'true', 'true', 'true', '14.267837']
+Active Players:3
+
+Our hand: Tc Kh
+Randy3's VPIP: 0.400000
+Randy3's PFR: 0.025000
+Randy3's estimated fold percentage is 0.500000
+Randy3's AF flop/postflop: 1.416667
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:1
+Rando3's VPIP: 0.450000
+Rando3's PFR: 0.025000
+Rando3's estimated fold percentage is 0.410256
+Rando3's AF flop/postflop: 3.333333
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:2
+BAMF3's VPIP: 0.125000
+BAMF3's PFR: 0.025000
+BAMF3's estimated fold percentage is 0.358974
+BAMF3's AF flop/postflop: 1.333333
+BAMF3's Player Type: NIT
+BAMF3's Seat:3
+
+Rando3 posts small blind, stack size (108)
+BAMF3 posts big blind, stack size (273)
+
+Randy3 folds.
+Rando3 folds.
+
+
+NEWHAND:42
+
+['NEWHAND', '42', '1', 'Kc', 'Kh', '276', '216', '108', 'BAMF3', 'Randy3', 'Rando3', '3', 'true', 'true', 'true', '14.267837']
+Active Players:3
+
+Our hand: Kc Kh
+BAMF3's VPIP: 0.121951
+BAMF3's PFR: 0.024390
+BAMF3's estimated fold percentage is 0.358974
+BAMF3's AF flop/postflop: 1.333333
+BAMF3's Player Type: NIT
+BAMF3's Seat:1
+Randy3's VPIP: 0.390244
+Randy3's PFR: 0.024390
+Randy3's estimated fold percentage is 0.463415
+Randy3's AF flop/postflop: 1.416667
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:2
+Rando3's VPIP: 0.439024
+Rando3's PFR: 0.024390
+Rando3's estimated fold percentage is 0.414634
+Rando3's AF flop/postflop: 3.333333
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:3
+
+Randy3 posts small blind, stack size (215)
+Rando3 posts big blind, stack size (106)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Kc Kh
+
+BAMF3's EV: 2.032500
+BAMF3's Equity: 0.8065
+BAMF3's Implied Odds: -4
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 12
+
+BETTING LOOSE2
+final max raise:7
+final min raise:4
+Raise range: 4 7
+BAMF3 raise 7.
+Randy3 folds.
+Rando3 folds.
+
+
+NEWHAND:43
+
+['NEWHAND', '43', '2', '9s', '5d', '106', '279', '215', 'Rando3', 'BAMF3', 'Randy3', '3', 'true', 'true', 'true', '14.201971']
+Active Players:3
+
+Our hand: 9s 5d
+Rando3's VPIP: 0.428571
+Rando3's PFR: 0.023810
+Rando3's estimated fold percentage is 0.428571
+Rando3's AF flop/postflop: 3.333333
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:1
+BAMF3's VPIP: 0.142857
+BAMF3's PFR: 0.023810
+BAMF3's estimated fold percentage is 0.358974
+BAMF3's AF flop/postflop: 1.333333
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:2
+Randy3's VPIP: 0.380952
+Randy3's PFR: 0.023810
+Randy3's estimated fold percentage is 0.476190
+Randy3's AF flop/postflop: 1.416667
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+
+BAMF3 posts small blind, stack size (278)
+Randy3 posts big blind, stack size (213)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 9s 5d
+
+Rando3 folds.
+BAMF3's EV: 0.147500
+BAMF3's Equity: 0.4295
+BAMF3's Implied Odds: -2
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 2
+
+BAMF3 folds.
+final max raise:4
+final min raise:4
+Raise range: 4 6
+BAMF3 raise 4.
+
+
+NEWHAND:44
+
+['NEWHAND', '44', '3', 'Qh', 'Kc', '216', '106', '278', 'Randy3', 'Rando3', 'BAMF3', '3', 'true', 'true', 'true', '14.191537']
+Active Players:3
+
+Our hand: Qh Kc
+Randy3's VPIP: 0.372093
+Randy3's PFR: 0.023256
+Randy3's estimated fold percentage is 0.476190
+Randy3's AF flop/postflop: 1.416667
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:1
+Rando3's VPIP: 0.418605
+Rando3's PFR: 0.023256
+Rando3's estimated fold percentage is 0.441860
+Rando3's AF flop/postflop: 3.333333
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:2
+BAMF3's VPIP: 0.139535
+BAMF3's PFR: 0.023256
+BAMF3's estimated fold percentage is 0.348837
+BAMF3's AF flop/postflop: 1.333333
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:3
+
+Rando3 posts small blind, stack size (105)
+BAMF3 posts big blind, stack size (276)
+
+
+***PREFLOP***(5) Board:()
+Our hand: Qh Kc
+
+Randy3 called 2.
+Rando3 folds.
+BAMF3's EV: 3.102500
+BAMF3's Equity: 0.6205
+BAMF3's Implied Odds: -5
+BAMF3's maxBetFold: 4
+BAMF3's maxBetEV: 8
+
+BAMF3 checks.
+
+***FLOP***(5) Board:(6d 3d Tc)
+Our hand: Qh Kc
+
+BAMF3's EV: 2.280000
+BAMF3's Equity: 0.456
+BAMF3's Implied Odds: -5
+BAMF3's maxBetFold: 4
+BAMF3's maxBetEV: 4
+
+final max bet:4
+final min bet:4
+Bet range: 2 5
+BAMF3 bets 4.
+Randy3 folds.
+
+
+NEWHAND:45
+
+['NEWHAND', '45', '1', '5c', '2s', '281', '214', '105', 'BAMF3', 'Randy3', 'Rando3', '3', 'true', 'true', 'true', '14.175761']
+Active Players:3
+
+Our hand: 5c 2s
+BAMF3's VPIP: 0.136364
+BAMF3's PFR: 0.022727
+BAMF3's estimated fold percentage is 0.348837
+BAMF3's AF flop/postflop: 1.444444
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:1
+Randy3's VPIP: 0.386364
+Randy3's PFR: 0.022727
+Randy3's estimated fold percentage is 0.476190
+Randy3's AF flop/postflop: 1.416667
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:2
+Rando3's VPIP: 0.409091
+Rando3's PFR: 0.022727
+Rando3's estimated fold percentage is 0.454545
+Rando3's AF flop/postflop: 3.333333
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:3
+
+Randy3 posts small blind, stack size (213)
+Rando3 posts big blind, stack size (103)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 5c 2s
+
+BAMF3's EV: -0.237500
+BAMF3's Equity: 0.3525
+BAMF3's Implied Odds: -1
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 1
+
+BAMF3 folds.
+EV FOLD
+BAMF3 folds.
+Randy3 raised to 5.
+Rando3 called 5.
+Randy3 checks.
+Rando3 bet 6.
+Randy3 folds.
+
+
+NEWHAND:46
+
+['NEWHAND', '46', '2', '5h', 'Ad', '110', '281', '209', 'Rando3', 'BAMF3', 'Randy3', '3', 'true', 'true', 'true', '14.164730']
+Active Players:3
+
+Our hand: 5h Ad
+Rando3's VPIP: 0.400000
+Rando3's PFR: 0.022222
+Rando3's estimated fold percentage is 0.454545
+Rando3's AF flop/postflop: 3.000000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:1
+BAMF3's VPIP: 0.133333
+BAMF3's PFR: 0.022222
+BAMF3's estimated fold percentage is 0.348837
+BAMF3's AF flop/postflop: 1.444444
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:2
+Randy3's VPIP: 0.377778
+Randy3's PFR: 0.022222
+Randy3's estimated fold percentage is 0.476190
+Randy3's AF flop/postflop: 1.500000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+
+BAMF3 posts small blind, stack size (280)
+Randy3 posts big blind, stack size (207)
+
+
+***PREFLOP***(7) Board:()
+Our hand: 5h Ad
+
+Rando3 raised to 4.
+BAMF3's EV: 2.435000
+BAMF3's Equity: 0.585
+BAMF3's Implied Odds: -8
+BAMF3's maxBetFold: 5
+BAMF3's maxBetEV: 9
+
+BAMF3 calls 4.
+
+***PREFLOP***(20) Board:()
+Our hand: 5h Ad
+
+Randy3 raised to 6.
+Rando3 raised to 10.
+BAMF3's EV: 7.550000
+BAMF3's Equity: 0.585
+BAMF3's Implied Odds: -22
+BAMF3's maxBetFold: 16
+BAMF3's maxBetEV: 28
+
+BAMF3 calls 10.
+
+***PREFLOP***(49) Board:()
+Our hand: 5h Ad
+
+Randy3 raised to 29.
+Rando3 folds.
+BAMF3's EV: 16.630000
+BAMF3's Equity: 0.585
+BAMF3's Implied Odds: -57
+BAMF3's maxBetFold: 41
+BAMF3's maxBetEV: 69
+
+final max raise:48
+final min raise:48
+Raise range: 48 97
+BAMF3 folds.
+
+
+NEWHAND:47
+
+['NEWHAND', '47', '3', 'Ts', '3s', '229', '100', '271', 'Randy3', 'Rando3', 'BAMF3', '3', 'true', 'true', 'true', '14.138575']
+Active Players:3
+
+Our hand: Ts 3s
+Randy3's VPIP: 0.391304
+Randy3's PFR: 0.021739
+Randy3's estimated fold percentage is 0.476190
+Randy3's AF flop/postflop: 1.500000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:1
+Rando3's VPIP: 0.413043
+Rando3's PFR: 0.021739
+Rando3's estimated fold percentage is 0.456522
+Rando3's AF flop/postflop: 3.000000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:2
+BAMF3's VPIP: 0.152174
+BAMF3's PFR: 0.021739
+BAMF3's estimated fold percentage is 0.347826
+BAMF3's AF flop/postflop: 1.444444
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:3
+
+Rando3 posts small blind, stack size (99)
+BAMF3 posts big blind, stack size (269)
+
+
+***PREFLOP***(4) Board:()
+Our hand: Ts 3s
+
+Randy3 folds.
+Rando3 called 2.
+BAMF3's EV: 1.830000
+BAMF3's Equity: 0.4575
+BAMF3's Implied Odds: -4
+BAMF3's maxBetFold: 3
+BAMF3's maxBetEV: 3
+
+NOT BLUFFING FOLD
+BAMF3 checks.
+BAMF3 checks.
+
+***FLOP***(7) Board:(4c Ac 6h)
+Our hand: Ts 3s
+
+Rando3 bet 3.
+BAMF3's EV: -0.320000
+BAMF3's Equity: 0.268
+BAMF3's Implied Odds: -1
+BAMF3's maxBetFold: 5
+BAMF3's maxBetEV: 2
+
+BAMF3 folds.
+
+
+NEWHAND:48
+
+['NEWHAND', '48', '1', '4d', 'Qc', '269', '229', '102', 'BAMF3', 'Randy3', 'Rando3', '3', 'true', 'true', 'true', '14.122510']
+Active Players:3
+
+Our hand: 4d Qc
+BAMF3's VPIP: 0.148936
+BAMF3's PFR: 0.021277
+BAMF3's estimated fold percentage is 0.347826
+BAMF3's AF flop/postflop: 1.444444
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:1
+Randy3's VPIP: 0.382979
+Randy3's PFR: 0.021277
+Randy3's estimated fold percentage is 0.446809
+Randy3's AF flop/postflop: 1.500000
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:2
+Rando3's VPIP: 0.425532
+Rando3's PFR: 0.021277
+Rando3's estimated fold percentage is 0.456522
+Rando3's AF flop/postflop: 3.142857
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:3
+
+Randy3 posts small blind, stack size (228)
+Rando3 posts big blind, stack size (100)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 4d Qc
+
+BAMF3's EV: 0.412500
+BAMF3's Equity: 0.4825
+BAMF3's Implied Odds: -2
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 2
+
+BAMF3 calls 2.
+
+***PREFLOP***(11) Board:()
+Our hand: 4d Qc
+
+Randy3 raised to 7.
+Rando3 folds.
+BAMF3's EV: 1.685000
+BAMF3's Equity: 0.4825
+BAMF3's Implied Odds: -10
+BAMF3's maxBetFold: 9
+BAMF3's maxBetEV: 10
+
+BAMF3 calls 7.
+
+***FLOP***(16) Board:(3d Qs Td)
+Our hand: 4d Qc
+
+Randy3 checks.
+BAMF3's EV: 12.352000
+BAMF3's Equity: 0.772
+BAMF3's Implied Odds: -16
+BAMF3's maxBetFold: 13
+BAMF3's maxBetEV: 54
+
+final max bet:16
+final min bet:10
+Bet range: 2 16
+BAMF3 bets 12.
+
+***TURN***(77) Board:(3d Qs Td 6d)
+Our hand: 4d Qc
+
+Randy3 called 12.
+Randy3 bet 37.
+BAMF3's EV: 47.930000
+BAMF3's Equity: 0.745
+BAMF3's Implied Odds: -101
+BAMF3's maxBetFold: 65
+BAMF3's maxBetEV: 224
+
+final max raise:151
+final min raise:74
+Raise range: 74 151
+BAMF3 raise 77.
+
+***TURN***(321) Board:(3d Qs Td 6d)
+Our hand: 4d Qc
+
+Randy3 raised to 204.
+BAMF3's EV: 187.125000
+BAMF3's Equity: 0.745
+BAMF3's Implied Odds: -455
+BAMF3's maxBetFold: 271
+BAMF3's maxBetEV: 937
+
+final max raise:210
+final min raise:210
+Raise range: 210 210
+BAMF3 calls 204.
+
+***RIVER***(451) Board:(3d Qs Td 6d 6c)
+Our hand: 4d Qc
+
+Randy3 bet 3.
+BAMF3's EV: 362.722222
+BAMF3's Equity: 0.805555555556
+BAMF3's Implied Odds: -453
+BAMF3's maxBetFold: 381
+BAMF3's maxBetEV: 1868
+
+final max raise:6
+final min raise:6
+Raise range: 6 6
+BAMF3 raise 6.
+Randy3 folds.
+
+
+NEWHAND:49
+
+['NEWHAND', '49', '2', '3c', '7c', '100', '497', '3', 'Rando3', 'BAMF3', 'Randy3', '3', 'true', 'true', 'true', '14.043684']
+Active Players:3
+
+Our hand: 3c 7c
+Rando3's VPIP: 0.416667
+Rando3's PFR: 0.020833
+Rando3's estimated fold percentage is 0.458333
+Rando3's AF flop/postflop: 3.142857
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:1
+BAMF3's VPIP: 0.166667
+BAMF3's PFR: 0.020833
+BAMF3's estimated fold percentage is 0.347826
+BAMF3's AF flop/postflop: 1.454545
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:2
+Randy3's VPIP: 0.395833
+Randy3's PFR: 0.020833
+Randy3's estimated fold percentage is 0.446809
+Randy3's AF flop/postflop: 1.615385
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+
+BAMF3 posts small blind, stack size (496)
+Randy3 posts big blind, stack size (1)
+
+
+***PREFLOP***(8) Board:()
+Our hand: 3c 7c
+
+Rando3 raised to 5.
+BAMF3's EV: 0.187000
+BAMF3's Equity: 0.399
+BAMF3's Implied Odds: -5
+BAMF3's maxBetFold: 6
+BAMF3's maxBetEV: 5
+
+final max raise:8
+final min raise:8
+Raise range: 8 17
+BAMF3 raise 8.
+BAMF3 calls 5.
+Randy3 folds.
+Rando3 folds.
+
+
+NEWHAND:50
+
+['NEWHAND', '50', '3', '6d', '5h', '1', '95', '504', 'Randy3', 'Rando3', 'BAMF3', '3', 'true', 'true', 'true', '14.033979']
+Active Players:3
+
+Our hand: 6d 5h
+Randy3's VPIP: 0.387755
+Randy3's PFR: 0.020408
+Randy3's estimated fold percentage is 0.448980
+Randy3's AF flop/postflop: 1.615385
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:1
+Rando3's VPIP: 0.428571
+Rando3's PFR: 0.020408
+Rando3's estimated fold percentage is 0.469388
+Rando3's AF flop/postflop: 3.142857
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:2
+BAMF3's VPIP: 0.183673
+BAMF3's PFR: 0.020408
+BAMF3's estimated fold percentage is 0.347826
+BAMF3's AF flop/postflop: 1.454545
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:3
+
+Rando3 posts small blind, stack size (94)
+BAMF3 posts big blind, stack size (502)
+
+
+***PREFLOP***(7) Board:()
+Our hand: 6d 5h
+
+Randy3 called 1.
+Rando3 raised to 4.
+BAMF3's EV: 0.383500
+BAMF3's Equity: 0.3985
+BAMF3's Implied Odds: -4
+BAMF3's maxBetFold: 6
+BAMF3's maxBetEV: 4
+
+NOT BLUFFING FOLD
+BAMF3 folds.
+BAMF3 calls 4.
+Randy3 WTSD percentage is: 0.040000
+Rando3 WTSD percentage is: 0.100000
+Rando3 W$SD percentage is: 1.000000
+
+
+NEWHAND:51
+
+['NEWHAND', '51', '2', '2s', '8d', '98', '502', '0', 'Rando3', 'BAMF3', 'Randy3', '2', 'true', 'true', 'false', '14.024374']
+Active Players:2
+
+Our hand: 2s 8d
+Rando3's VPIP: 0.440000
+Rando3's PFR: 0.020000
+Rando3's estimated fold percentage is 0.469388
+Rando3's AF flop/postflop: 3.142857
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:1
+BAMF3's VPIP: 0.180000
+BAMF3's PFR: 0.020000
+BAMF3's estimated fold percentage is 0.347826
+BAMF3's AF flop/postflop: 1.454545
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:2
+Randy3's VPIP: 0.380000
+Randy3's PFR: 0.020000
+Randy3's estimated fold percentage is 0.448980
+Randy3's AF flop/postflop: 1.615385
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+Randy3 is eliminated
+
+Rando3 posts small blind/and is dealer, stack size (97)
+BAMF3 posts big blind, stack size (500)
+
+Rando3 folds.
+
+
+NEWHAND:52
+
+['NEWHAND', '52', '1', 'Ts', 'Ad', '503', '97', '0', 'BAMF3', 'Rando3', 'Randy3', '2', 'true', 'true', 'false', '14.024374']
+Active Players:2
+
+Our hand: Ts Ad
+BAMF3's VPIP: 0.176471
+BAMF3's PFR: 0.019608
+BAMF3's estimated fold percentage is 0.347826
+BAMF3's AF flop/postflop: 1.454545
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:1
+Rando3's VPIP: 0.431373
+Rando3's PFR: 0.019608
+Rando3's estimated fold percentage is 0.470588
+Rando3's AF flop/postflop: 3.142857
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:2
+Randy3's VPIP: 0.372549
+Randy3's PFR: 0.019608
+Randy3's estimated fold percentage is 0.448980
+Randy3's AF flop/postflop: 1.615385
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+Randy3 is eliminated
+
+BAMF3 posts small blind/and is dealer, stack size (502)
+Rando3 posts big blind, stack size (95)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ts Ad
+
+BAMF3's EV: 0.997500
+BAMF3's Equity: 0.5995
+BAMF3's Implied Odds: -3
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 4
+
+BAMF3 calls 2.
+
+***PREFLOP***(7) Board:()
+Our hand: Ts Ad
+
+Rando3 raised to 5.
+BAMF3's EV: 2.194000
+BAMF3's Equity: 0.5995
+BAMF3's Implied Odds: -8
+BAMF3's maxBetFold: 6
+BAMF3's maxBetEV: 10
+
+BAMF3 calls 5.
+
+***FLOP***(10) Board:(Js 7s Th)
+Our hand: Ts Ad
+
+Rando3 checks.
+BAMF3's EV: 7.170000
+BAMF3's Equity: 0.717
+BAMF3's Implied Odds: -10
+BAMF3's maxBetFold: 8
+BAMF3's maxBetEV: 25
+
+final max bet:10
+final min bet:10
+Bet range: 2 10
+BAMF3 bets 10.
+Rando3 folds.
+
+
+NEWHAND:53
+
+['NEWHAND', '53', '2', 'Kh', '2s', '92', '508', '0', 'Rando3', 'BAMF3', 'Randy3', '2', 'true', 'true', 'false', '13.992143']
+Active Players:2
+
+Our hand: Kh 2s
+Rando3's VPIP: 0.442308
+Rando3's PFR: 0.019231
+Rando3's estimated fold percentage is 0.470588
+Rando3's AF flop/postflop: 3.142857
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:1
+BAMF3's VPIP: 0.192308
+BAMF3's PFR: 0.019231
+BAMF3's estimated fold percentage is 0.347826
+BAMF3's AF flop/postflop: 1.416667
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:2
+Randy3's VPIP: 0.365385
+Randy3's PFR: 0.019231
+Randy3's estimated fold percentage is 0.448980
+Randy3's AF flop/postflop: 1.615385
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+Randy3 is eliminated
+
+Rando3 posts small blind/and is dealer, stack size (91)
+BAMF3 posts big blind, stack size (506)
+
+Rando3 folds.
+
+
+NEWHAND:54
+
+['NEWHAND', '54', '1', '4d', 'Kc', '509', '91', '0', 'BAMF3', 'Rando3', 'Randy3', '2', 'true', 'true', 'false', '13.992143']
+Active Players:2
+
+Our hand: 4d Kc
+BAMF3's VPIP: 0.188679
+BAMF3's PFR: 0.018868
+BAMF3's estimated fold percentage is 0.347826
+BAMF3's AF flop/postflop: 1.416667
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:1
+Rando3's VPIP: 0.433962
+Rando3's PFR: 0.018868
+Rando3's estimated fold percentage is 0.471698
+Rando3's AF flop/postflop: 3.142857
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:2
+Randy3's VPIP: 0.358491
+Randy3's PFR: 0.018868
+Randy3's estimated fold percentage is 0.448980
+Randy3's AF flop/postflop: 1.615385
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+Randy3 is eliminated
+
+BAMF3 posts small blind/and is dealer, stack size (508)
+Rando3 posts big blind, stack size (89)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 4d Kc
+
+BAMF3's EV: 0.685000
+BAMF3's Equity: 0.537
+BAMF3's Implied Odds: -3
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 3
+
+BAMF3 calls 2.
+
+***PREFLOP***(7) Board:()
+Our hand: 4d Kc
+
+Rando3 raised to 5.
+BAMF3's EV: 1.444000
+BAMF3's Equity: 0.537
+BAMF3's Implied Odds: -7
+BAMF3's maxBetFold: 6
+BAMF3's maxBetEV: 8
+
+BAMF3 calls 5.
+
+***FLOP***(10) Board:(6s 7s Ts)
+Our hand: 4d Kc
+
+Rando3 checks.
+BAMF3's EV: 2.960000
+BAMF3's Equity: 0.296
+BAMF3's Implied Odds: -10
+BAMF3's maxBetFold: 8
+BAMF3's maxBetEV: 4
+
+BAMF3 checks.
+
+***TURN***(10) Board:(6s 7s Ts Ac)
+Our hand: 4d Kc
+
+Rando3 checks.
+BAMF3's EV: 3.315000
+BAMF3's Equity: 0.3315
+BAMF3's Implied Odds: -10
+BAMF3's maxBetFold: 8
+BAMF3's maxBetEV: 4
+
+BAMF3 checks.
+
+***RIVER***(10) Board:(6s 7s Ts Ac Kd)
+Our hand: 4d Kc
+
+Rando3 checks.
+BAMF3's EV: 7.060606
+BAMF3's Equity: 0.706060606061
+BAMF3's Implied Odds: -10
+BAMF3's maxBetFold: 8
+BAMF3's maxBetEV: 24
+
+final max bet:10
+final min bet:10
+Bet range: 2 10
+BAMF3 bets 10.
+
+***RIVER***(53) Board:(6s 7s Ts Ac Kd)
+Our hand: 4d Kc
+
+Rando3 raised to 33.
+BAMF3's EV: 27.721212
+BAMF3's Equity: 0.706060606061
+BAMF3's Implied Odds: -72
+BAMF3's maxBetFold: 47
+BAMF3's maxBetEV: 127
+
+final max raise:86
+final min raise:56
+Raise range: 56 86
+BAMF3 raise 58.
+Rando3 called 58.
+BAMF3 WTSD percentage is: 0.074074
+Rando3 WTSD percentage is: 0.111111
+BAMF3 W$SD percentage is: 0.250000
+
+
+NEWHAND:55
+
+['NEWHAND', '55', '2', '5h', 'Qh', '28', '572', '0', 'Rando3', 'BAMF3', 'Randy3', '2', 'true', 'true', 'false', '13.946779']
+Active Players:2
+
+Our hand: 5h Qh
+Rando3's VPIP: 0.444444
+Rando3's PFR: 0.018519
+Rando3's estimated fold percentage is 0.471698
+Rando3's AF flop/postflop: 2.875000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:1
+BAMF3's VPIP: 0.203704
+BAMF3's PFR: 0.018519
+BAMF3's estimated fold percentage is 0.347826
+BAMF3's AF flop/postflop: 1.461538
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:2
+Randy3's VPIP: 0.351852
+Randy3's PFR: 0.018519
+Randy3's estimated fold percentage is 0.448980
+Randy3's AF flop/postflop: 1.615385
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+Randy3 is eliminated
+
+Rando3 posts small blind/and is dealer, stack size (27)
+BAMF3 posts big blind, stack size (570)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 5h Qh
+
+Rando3 called 2.
+BAMF3's EV: 2.104000
+BAMF3's Equity: 0.526
+BAMF3's Implied Odds: -4
+BAMF3's maxBetFold: 3
+BAMF3's maxBetEV: 4
+
+BAMF3 checks.
+
+***FLOP***(4) Board:(4h Qd 8s)
+Our hand: 5h Qh
+
+BAMF3's EV: 3.330000
+BAMF3's Equity: 0.8325
+BAMF3's Implied Odds: -4
+BAMF3's maxBetFold: 3
+BAMF3's maxBetEV: 19
+
+final max bet:4
+final min bet:4
+Bet range: 2 4
+BAMF3 bets 4.
+Rando3 folds.
+
+
+NEWHAND:56
+
+['NEWHAND', '56', '1', '4h', 'Kh', '574', '26', '0', 'BAMF3', 'Rando3', 'Randy3', '2', 'true', 'true', 'false', '13.928266']
+Active Players:2
+
+Our hand: 4h Kh
+BAMF3's VPIP: 0.200000
+BAMF3's PFR: 0.018182
+BAMF3's estimated fold percentage is 0.347826
+BAMF3's AF flop/postflop: 1.538462
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:1
+Rando3's VPIP: 0.454545
+Rando3's PFR: 0.018182
+Rando3's estimated fold percentage is 0.471698
+Rando3's AF flop/postflop: 2.875000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:2
+Randy3's VPIP: 0.345455
+Randy3's PFR: 0.018182
+Randy3's estimated fold percentage is 0.448980
+Randy3's AF flop/postflop: 1.615385
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+Randy3 is eliminated
+
+BAMF3 posts small blind/and is dealer, stack size (573)
+Rando3 posts big blind, stack size (24)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 4h Kh
+
+BAMF3's EV: 0.567500
+BAMF3's Equity: 0.5135
+BAMF3's Implied Odds: -3
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 3
+
+BAMF3 calls 2.
+
+***FLOP***(6) Board:(4c Jc Ac)
+Our hand: 4h Kh
+
+Rando3 checks.
+Rando3 bet 2.
+BAMF3's EV: 2.004000
+BAMF3's Equity: 0.5005
+BAMF3's Implied Odds: -6
+BAMF3's maxBetFold: 5
+BAMF3's maxBetEV: 6
+
+BAMF3 calls 2.
+
+***TURN***(8) Board:(4c Jc Ac 6s)
+Our hand: 4h Kh
+
+Rando3 checks.
+BAMF3's EV: 3.700000
+BAMF3's Equity: 0.4625
+BAMF3's Implied Odds: -8
+BAMF3's maxBetFold: 7
+BAMF3's maxBetEV: 6
+
+BAMF3 checks.
+
+***RIVER***(10) Board:(4c Jc Ac 6s Jd)
+Our hand: 4h Kh
+
+Rando3 bet 2.
+BAMF3's EV: 4.727273
+BAMF3's Equity: 0.560606060606
+BAMF3's Implied Odds: -10
+BAMF3's maxBetFold: 8
+BAMF3's maxBetEV: 12
+
+BAMF3 calls 2.
+Rando3 WTSD percentage is: 0.125000
+BAMF3 WTSD percentage is: 0.089286
+Rando3 W$SD percentage is: 0.857143
+
+
+NEWHAND:57
+
+['NEWHAND', '57', '2', '2c', 'Qs', '32', '568', '0', 'Rando3', 'BAMF3', 'Randy3', '2', 'true', 'true', 'false', '13.897380']
+Active Players:2
+
+Our hand: 2c Qs
+Rando3's VPIP: 0.446429
+Rando3's PFR: 0.017857
+Rando3's estimated fold percentage is 0.471698
+Rando3's AF flop/postflop: 3.125000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:1
+BAMF3's VPIP: 0.196429
+BAMF3's PFR: 0.017857
+BAMF3's estimated fold percentage is 0.347826
+BAMF3's AF flop/postflop: 1.250000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:2
+Randy3's VPIP: 0.339286
+Randy3's PFR: 0.017857
+Randy3's estimated fold percentage is 0.448980
+Randy3's AF flop/postflop: 1.615385
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+Randy3 is eliminated
+
+Rando3 posts small blind/and is dealer, stack size (31)
+BAMF3 posts big blind, stack size (566)
+
+Rando3 folds.
+
+
+NEWHAND:58
+
+['NEWHAND', '58', '1', '5c', 'Qh', '569', '31', '0', 'BAMF3', 'Rando3', 'Randy3', '2', 'true', 'true', 'false', '13.897380']
+Active Players:2
+
+Our hand: 5c Qh
+BAMF3's VPIP: 0.192982
+BAMF3's PFR: 0.017544
+BAMF3's estimated fold percentage is 0.347826
+BAMF3's AF flop/postflop: 1.250000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:1
+Rando3's VPIP: 0.438596
+Rando3's PFR: 0.017544
+Rando3's estimated fold percentage is 0.456140
+Rando3's AF flop/postflop: 3.125000
+Rando3's Player Type: UNKNOWN
+Rando3's Seat:2
+Randy3's VPIP: 0.333333
+Randy3's PFR: 0.017544
+Randy3's estimated fold percentage is 0.448980
+Randy3's AF flop/postflop: 1.615385
+Randy3's Player Type: UNKNOWN
+Randy3's Seat:3
+Randy3 is eliminated
+
+BAMF3 posts small blind/and is dealer, stack size (568)
+Rando3 posts big blind, stack size (29)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 5c Qh
+
+BAMF3's EV: 0.420000
+BAMF3's Equity: 0.484
+BAMF3's Implied Odds: -2
+BAMF3's maxBetFold: 2
+BAMF3's maxBetEV: 2
+
+BAMF3 calls 2.
+
+***FLOP***(4) Board:(Kc 9h 8h)
+Our hand: 5c Qh
+
+Rando3 checks.
+Rando3 checks.
+BAMF3's EV: 1.602000
+BAMF3's Equity: 0.4005
+BAMF3's Implied Odds: -4
+BAMF3's maxBetFold: 3
+BAMF3's maxBetEV: 2
+
+BAMF3 checks.
+
+***TURN***(4) Board:(Kc 9h 8h Ks)
+Our hand: 5c Qh
+
+Rando3 checks.
+BAMF3's EV: 1.658000
+BAMF3's Equity: 0.4145
+BAMF3's Implied Odds: -4
+BAMF3's maxBetFold: 3
+BAMF3's maxBetEV: 2
+
+final max bet:3
+final min bet:3
+Bet range: 2 4
+BAMF3 bets 3.
+
+***RIVER***(10) Board:(Kc 9h 8h Ks 3c)
+Our hand: 5c Qh
+
+Rando3 called 3.
+Rando3 checks.
+BAMF3's EV: 3.439394
+BAMF3's Equity: 0.343939393939
+BAMF3's Implied Odds: -10
+BAMF3's maxBetFold: 8
+BAMF3's maxBetEV: 5
+
+final max bet:8
+final min bet:8
+Bet range: 2 10
+BAMF3 bets 8.
+
+***RIVER***(37) Board:(Kc 9h 8h Ks 3c)
+Our hand: 5c Qh
+
+Rando3 raised to 19.
+BAMF3's EV: 0.260606
+BAMF3's Equity: 0.343939393939
+BAMF3's Implied Odds: -19
+BAMF3's maxBetFold: 31
+BAMF3's maxBetEV: 19
+
+final max raise:26
+final min raise:26
+Raise range: 26 26
+BAMF3 raise 26.
+Rando3 called 26.
+Rando3 WTSD percentage is: 0.137931
+BAMF3 WTSD percentage is: 0.103448
+BAMF3 W$SD percentage is: 0.333333
+Gameover, engine disconnected.

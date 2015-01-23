@@ -48,7 +48,8 @@ def impliedOdds(equities,pot_size,bet):
     impliedOdds = x - y
     return impliedOdds
 def potOdds(pot_size,bet):
-    return 1.0 - (float(bet) / pot_size)
+    #bet / pot, not 1- bet/pot
+    return (float(bet) / pot_size)
 def maxBetEV(pot_size,equity,our_bot_stack):
     if equity == 1.0:
         maxBet = our_bot_stack

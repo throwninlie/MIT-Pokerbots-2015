@@ -1,0 +1,924 @@
+
+C:\Users\Er\Dropbox\Pokerbot\players>python Player.py 3000 
+Connecting to localhost:3000
+Our name: BAMF
+Opp1 name: Rando
+Opp2 name: Randy
+
+
+NEWHAND:1
+
+['NEWHAND', '1', '1', '6h', '7h', '200', '200', '200', 'BAMF', 'Rando', 'Randy', '3', 'true', 'true', 'true', '15.000000']
+Active Players:3
+
+Our hand: 6h 7h
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.000000
+BAMF's AF flop/postflop: 0.000000
+BAMF's Player Type: NIT
+BAMF's Seat:1
+Rando's VPIP: 0.000000
+Rando's PFR: 0.000000
+Rando's estimated fold percentage is 0.000000
+Rando's AF flop/postflop: 0.000000
+Rando's Player Type: NIT
+Rando's Seat:2
+Randy's VPIP: 0.000000
+Randy's PFR: 0.000000
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 0.000000
+Randy's Player Type: NIT
+Randy's Seat:3
+
+Rando posts small blind, stack size (199)
+Randy posts big blind, stack size (198)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 6h 7h
+
+BAMF's EV: 0.257500
+BAMF's Equity: 0.4515
+BAMF's Implied Odds: -2
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 2
+
+BAMF folds.
+final max raise:4
+final min raise:4
+Raise range: 4 7
+BAMF raise 4.
+Rando called 2.
+Randy checks.
+Rando checks.
+Randy checks.
+Rando bet 3.
+Randy raised to 9.
+Rando raised to 29.
+Randy called 29.
+Rando checks.
+Randy checks.
+Rando WTSD percentage is: 1.000000
+Randy WTSD percentage is: 1.000000
+Rando W$SD percentage is: 1.000000
+
+
+NEWHAND:2
+
+['NEWHAND', '2', '2', '8d', '9d', '169', '200', '231', 'Randy', 'BAMF', 'Rando', '3', 'true', 'true', 'true', '14.987807']
+Active Players:3
+
+Our hand: 8d 9d
+Randy's VPIP: 0.000000
+Randy's PFR: 0.000000
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 1.000000
+Randy's Player Type: NIT
+Randy's Seat:1
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.000000
+BAMF's AF flop/postflop: 0.000000
+BAMF's Player Type: NIT
+BAMF's Seat:2
+Rando's VPIP: 0.000000
+Rando's PFR: 0.000000
+Rando's estimated fold percentage is 0.000000
+Rando's AF flop/postflop: 2.000000
+Rando's Player Type: NIT
+Rando's Seat:3
+
+BAMF posts small blind, stack size (199)
+Rando posts big blind, stack size (229)
+
+
+***PREFLOP***(9) Board:()
+Our hand: 8d 9d
+
+Randy raised to 6.
+BAMF's EV: 1.515000
+BAMF's Equity: 0.501
+BAMF's Implied Odds: -9
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 9
+
+BAMF calls 6.
+
+***FLOP***(18) Board:(Qc Kd Jh)
+Our hand: 8d 9d
+
+Rando called 6.
+BAMF's EV: 7.155000
+BAMF's Equity: 0.3975
+BAMF's Implied Odds: -18
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 11
+
+BAMF checks.
+
+***TURN***(18) Board:(Qc Kd Jh 9c)
+Our hand: 8d 9d
+
+Rando checks.
+Randy checks.
+BAMF's EV: 8.685000
+BAMF's Equity: 0.4825
+BAMF's Implied Odds: -18
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 16
+
+BAMF checks.
+
+***TURN***(23) Board:(Qc Kd Jh 9c)
+Our hand: 8d 9d
+
+Rando checks.
+Randy bet 5.
+BAMF's EV: 8.510000
+BAMF's Equity: 0.4825
+BAMF's Implied Odds: -22
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 21
+
+BAMF calls 5.
+
+***RIVER***(33) Board:(Qc Kd Jh 9c Kh)
+Our hand: 8d 9d
+
+Rando called 5.
+BAMF's EV: 16.200000
+BAMF's Equity: 0.490909090909
+BAMF's Implied Odds: -33
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 31
+
+BAMF checks.
+Rando checks.
+Randy checks.
+Randy WTSD percentage is: 1.000000
+BAMF WTSD percentage is: 0.500000
+Rando WTSD percentage is: 1.000000
+Rando W$SD percentage is: 1.000000
+
+
+NEWHAND:3
+
+['NEWHAND', '3', '3', '2c', '6c', '253', '158', '189', 'Rando', 'Randy', 'BAMF', '3', 'true', 'true', 'true', '14.948263']
+Active Players:3
+
+Our hand: 2c 6c
+Rando's VPIP: 0.000000
+Rando's PFR: 0.000000
+Rando's estimated fold percentage is 0.000000
+Rando's AF flop/postflop: 0.666667
+Rando's Player Type: NIT
+Rando's Seat:1
+Randy's VPIP: 0.500000
+Randy's PFR: 0.500000
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 2.000000
+Randy's Player Type: MANIAC
+Randy's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.000000
+BAMF's AF flop/postflop: 0.000000
+BAMF's Player Type: NIT
+BAMF's Seat:3
+
+Randy posts small blind, stack size (157)
+BAMF posts big blind, stack size (187)
+
+
+***PREFLOP***(15) Board:()
+Our hand: 2c 6c
+
+Rando raised to 4.
+Randy raised to 9.
+BAMF's EV: 0.252000
+BAMF's Equity: 0.3855
+BAMF's Implied Odds: -9
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 9
+
+BAMF calls 9.
+
+***FLOP***(27) Board:(Kd 6h Jh)
+Our hand: 2c 6c
+
+Rando called 9.
+Randy checks.
+BAMF's EV: 15.511500
+BAMF's Equity: 0.5745
+BAMF's Implied Odds: -27
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 36
+
+BAMF checks.
+
+***FLOP***(61) Board:(Kd 6h Jh)
+Our hand: 2c 6c
+
+Rando bet 17.
+Randy called 17.
+BAMF's EV: 27.811000
+BAMF's Equity: 0.5745
+BAMF's Implied Odds: -65
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 82
+
+BAMF calls 17.
+
+***TURN***(105) Board:(Kd 6h Jh 6d)
+Our hand: 2c 6c
+
+Randy bet 27.
+BAMF's EV: 96.222000
+BAMF's Equity: 0.9335
+BAMF's Implied Odds: -130
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 1473
+
+final max raise:159
+final min raise:54
+Raise range: 54 159
+BAMF raise 103.
+
+***TURN***(416) Board:(Kd 6h Jh 6d)
+Our hand: 2c 6c
+
+Rando called 103.
+Randy raised to 132.
+BAMF's EV: 379.558000
+BAMF's Equity: 0.9335
+BAMF's Implied Odds: -538
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 5839
+
+final max raise:161
+final min raise:161
+Raise range: 161 163
+BAMF calls 132.
+
+***TURN***(504) Board:(Kd 6h Jh 6d)
+Our hand: 2c 6c
+
+Rando raised to 162.
+BAMF's EV: 459.711000
+BAMF's Equity: 0.9335
+BAMF's Implied Odds: -654
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 7074
+
+final max raise:163
+final min raise:163
+Raise range: 163 163
+BAMF calls 162.
+
+***RIVER***(534) Board:(Kd 6h Jh 6d 2h)
+Our hand: 2c 6c
+
+BAMF's EV: 526.987879
+BAMF's Equity: 0.986868686869
+BAMF's Implied Odds: -534
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 40132
+
+final max bet:1
+final min bet:1
+Bet range: 1 1
+BAMF bets 1.
+final max bet:1
+final min bet:1
+Bet range: 1 1
+BAMF bets 1.
+Rando called 1.
+Rando WTSD percentage is: 1.000000
+Randy WTSD percentage is: 1.000000
+BAMF WTSD percentage is: 0.666667
+BAMF W$SD percentage is: 0.500000
+BAMF W$SD percentage is: 1.000000
+
+
+NEWHAND:4
+
+['NEWHAND', '4', '1', '8d', 'Th', '536', '64', '0', 'BAMF', 'Rando', 'Randy', '2', 'true', 'true', 'false', '14.870473']
+Active Players:2
+
+Our hand: 8d Th
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.000000
+BAMF's AF flop/postflop: 0.333333
+BAMF's Player Type: NIT
+BAMF's Seat:1
+Rando's VPIP: 0.333333
+Rando's PFR: 0.333333
+Rando's estimated fold percentage is 0.000000
+Rando's AF flop/postflop: 0.666667
+Rando's Player Type: LOOSE
+Rando's Seat:2
+Randy's VPIP: 0.666667
+Randy's PFR: 0.333333
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 2.000000
+Randy's Player Type: MANIAC
+Randy's Seat:3
+Randy is eliminated
+
+BAMF posts small blind/and is dealer, stack size (535)
+Rando posts big blind, stack size (62)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 8d Th
+
+BAMF's EV: 0.552500
+BAMF's Equity: 0.5105
+BAMF's Implied Odds: -3
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 3
+
+BAMF calls 2.
+
+
+NEWHAND:5
+
+['NEWHAND', '5', '2', '9s', 'Ac', '65', '535', '0', 'Rando', 'BAMF', 'Randy', '2', 'true', 'true', 'false', '14.870001']
+Active Players:2
+
+Our hand: 9s Ac
+Rando's VPIP: 0.250000
+Rando's PFR: 0.250000
+Rando's estimated fold percentage is 0.000000
+Rando's AF flop/postflop: 0.666667
+Rando's Player Type: LOOSE
+Rando's Seat:1
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.333333
+BAMF's Player Type: NIT
+BAMF's Seat:2
+Randy's VPIP: 0.500000
+Randy's PFR: 0.250000
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 2.000000
+Randy's Player Type: MANIAC
+Randy's Seat:3
+Randy is eliminated
+
+Rando posts small blind/and is dealer, stack size (64)
+BAMF posts big blind, stack size (533)
+
+Rando folds.
+
+
+NEWHAND:6
+
+['NEWHAND', '6', '1', 'Ts', '6d', '536', '64', '0', 'BAMF', 'Rando', 'Randy', '2', 'true', 'true', 'false', '14.870001']
+Active Players:2
+
+Our hand: Ts 6d
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.333333
+BAMF's Player Type: NIT
+BAMF's Seat:1
+Rando's VPIP: 0.200000
+Rando's PFR: 0.200000
+Rando's estimated fold percentage is 0.200000
+Rando's AF flop/postflop: 0.666667
+Rando's Player Type: LOOSE
+Rando's Seat:2
+Randy's VPIP: 0.400000
+Randy's PFR: 0.200000
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 2.000000
+Randy's Player Type: LOOSE
+Randy's Seat:3
+Randy is eliminated
+
+BAMF posts small blind/and is dealer, stack size (535)
+Rando posts big blind, stack size (62)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ts 6d
+
+BAMF's EV: 0.317500
+BAMF's Equity: 0.4635
+BAMF's Implied Odds: -2
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 2
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+BAMF raise 4.
+
+***PREFLOP***(6) Board:()
+Our hand: Ts 6d
+
+Rando raised to 4.
+BAMF's EV: 0.635000
+BAMF's Equity: 0.4635
+BAMF's Implied Odds: -5
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 5
+
+final max raise:6
+final min raise:6
+Raise range: 6 12
+BAMF raise 6.
+
+
+NEWHAND:7
+
+['NEWHAND', '7', '2', '9c', '7h', '66', '534', '0', 'Rando', 'BAMF', 'Randy', '2', 'true', 'true', 'false', '14.845965']
+Active Players:2
+
+Our hand: 9c 7h
+Rando's VPIP: 0.333333
+Rando's PFR: 0.166667
+Rando's estimated fold percentage is 0.200000
+Rando's AF flop/postflop: 0.666667
+Rando's Player Type: LOOSE
+Rando's Seat:1
+BAMF's VPIP: 0.166667
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.333333
+BAMF's AF flop/postflop: 0.333333
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+Randy's VPIP: 0.333333
+Randy's PFR: 0.166667
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 2.000000
+Randy's Player Type: LOOSE
+Randy's Seat:3
+Randy is eliminated
+
+Rando posts small blind/and is dealer, stack size (65)
+BAMF posts big blind, stack size (532)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 9c 7h
+
+Rando called 2.
+BAMF's EV: 1.874000
+BAMF's Equity: 0.4685
+BAMF's Implied Odds: -4
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 3
+
+BAMF checks.
+Rando folds.
+
+
+NEWHAND:8
+
+['NEWHAND', '8', '1', 'Jc', '5h', '536', '64', '0', 'BAMF', 'Rando', 'Randy', '2', 'true', 'true', 'false', '14.831499']
+Active Players:2
+
+Our hand: Jc 5h
+BAMF's VPIP: 0.285714
+BAMF's PFR: 0.142857
+BAMF's estimated fold percentage is 0.333333
+BAMF's AF flop/postflop: 0.333333
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+Rando's VPIP: 0.428571
+Rando's PFR: 0.142857
+Rando's estimated fold percentage is 0.285714
+Rando's AF flop/postflop: 0.666667
+Rando's Player Type: LOOSE
+Rando's Seat:2
+Randy's VPIP: 0.285714
+Randy's PFR: 0.142857
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 2.000000
+Randy's Player Type: CALLING STATION
+Randy's Seat:3
+Randy is eliminated
+
+BAMF posts small blind/and is dealer, stack size (535)
+Rando posts big blind, stack size (62)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Jc 5h
+
+BAMF's EV: 0.462500
+BAMF's Equity: 0.4925
+BAMF's Implied Odds: -2
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 2
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+BAMF raise 4.
+
+
+NEWHAND:9
+
+['NEWHAND', '9', '2', '4d', '3h', '65', '535', '0', 'Rando', 'BAMF', 'Randy', '2', 'true', 'true', 'false', '14.816617']
+Active Players:2
+
+Our hand: 4d 3h
+Rando's VPIP: 0.375000
+Rando's PFR: 0.125000
+Rando's estimated fold percentage is 0.285714
+Rando's AF flop/postflop: 0.666667
+Rando's Player Type: CALLING STATION
+Rando's Seat:1
+BAMF's VPIP: 0.250000
+BAMF's PFR: 0.125000
+BAMF's estimated fold percentage is 0.375000
+BAMF's AF flop/postflop: 0.333333
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+Randy's VPIP: 0.250000
+Randy's PFR: 0.125000
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 2.000000
+Randy's Player Type: CALLING STATION
+Randy's Seat:3
+Randy is eliminated
+
+Rando posts small blind/and is dealer, stack size (64)
+BAMF posts big blind, stack size (533)
+
+Rando folds.
+
+
+NEWHAND:10
+
+['NEWHAND', '10', '1', 'Td', '2s', '536', '64', '0', 'BAMF', 'Rando', 'Randy', '2', 'true', 'true', 'false', '14.816617']
+Active Players:2
+
+Our hand: Td 2s
+BAMF's VPIP: 0.222222
+BAMF's PFR: 0.111111
+BAMF's estimated fold percentage is 0.375000
+BAMF's AF flop/postflop: 0.333333
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+Rando's VPIP: 0.333333
+Rando's PFR: 0.111111
+Rando's estimated fold percentage is 0.333333
+Rando's AF flop/postflop: 0.666667
+Rando's Player Type: CALLING STATION
+Rando's Seat:2
+Randy's VPIP: 0.222222
+Randy's PFR: 0.111111
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 2.000000
+Randy's Player Type: CALLING STATION
+Randy's Seat:3
+Randy is eliminated
+
+BAMF posts small blind/and is dealer, stack size (535)
+Rando posts big blind, stack size (62)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Td 2s
+
+BAMF's EV: 0.210000
+BAMF's Equity: 0.442
+BAMF's Implied Odds: -2
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 2
+
+BAMF folds.
+final max raise:4
+final min raise:4
+Raise range: 4 6
+BAMF raise 4.
+
+***PREFLOP***(15) Board:()
+Our hand: Td 2s
+
+Rando raised to 11.
+BAMF's EV: 0.492000
+BAMF's Equity: 0.442
+BAMF's Implied Odds: -12
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 11
+
+BAMF folds.
+BAMF calls 11.
+
+
+NEWHAND:11
+
+['NEWHAND', '11', '2', 'Qs', 'Js', '68', '532', '0', 'Rando', 'BAMF', 'Randy', '2', 'true', 'true', 'false', '14.768306']
+Active Players:2
+
+Our hand: Qs Js
+Rando's VPIP: 0.400000
+Rando's PFR: 0.100000
+Rando's estimated fold percentage is 0.333333
+Rando's AF flop/postflop: 0.666667
+Rando's Player Type: CALLING STATION
+Rando's Seat:1
+BAMF's VPIP: 0.300000
+BAMF's PFR: 0.100000
+BAMF's estimated fold percentage is 0.400000
+BAMF's AF flop/postflop: 0.333333
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+Randy's VPIP: 0.200000
+Randy's PFR: 0.100000
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 2.000000
+Randy's Player Type: CALLING STATION
+Randy's Seat:3
+Randy is eliminated
+
+Rando posts small blind/and is dealer, stack size (67)
+BAMF posts big blind, stack size (530)
+
+
+***PREFLOP***(4) Board:()
+Our hand: Qs Js
+
+Rando called 2.
+BAMF's EV: 2.426000
+BAMF's Equity: 0.6065
+BAMF's Implied Odds: -4
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 6
+
+BAMF checks.
+
+***FLOP***(4) Board:(Jd 3d 8s)
+Our hand: Qs Js
+
+BAMF's EV: 3.270000
+BAMF's Equity: 0.8175
+BAMF's Implied Odds: -4
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 17
+
+final max bet:4
+final min bet:4
+Bet range: 2 4
+BAMF bets 4.
+Rando folds.
+
+
+NEWHAND:12
+
+['NEWHAND', '12', '1', '5d', '8c', '534', '66', '0', 'BAMF', 'Rando', 'Randy', '2', 'true', 'true', 'false', '14.748034']
+Active Players:2
+
+Our hand: 5d 8c
+BAMF's VPIP: 0.272727
+BAMF's PFR: 0.090909
+BAMF's estimated fold percentage is 0.400000
+BAMF's AF flop/postflop: 0.500000
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+Rando's VPIP: 0.454545
+Rando's PFR: 0.090909
+Rando's estimated fold percentage is 0.333333
+Rando's AF flop/postflop: 0.666667
+Rando's Player Type: UNKNOWN
+Rando's Seat:2
+Randy's VPIP: 0.181818
+Randy's PFR: 0.090909
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 2.000000
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
+Randy is eliminated
+
+BAMF posts small blind/and is dealer, stack size (533)
+Rando posts big blind, stack size (64)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 5d 8c
+
+BAMF's EV: 0.035000
+BAMF's Equity: 0.407
+BAMF's Implied Odds: -2
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 2
+
+BAMF folds.
+BAMF calls 2.
+
+
+NEWHAND:13
+
+['NEWHAND', '13', '2', '2s', '9c', '67', '533', '0', 'Rando', 'BAMF', 'Randy', '2', 'true', 'true', 'false', '14.735854']
+Active Players:2
+
+Our hand: 2s 9c
+Rando's VPIP: 0.416667
+Rando's PFR: 0.083333
+Rando's estimated fold percentage is 0.333333
+Rando's AF flop/postflop: 0.666667
+Rando's Player Type: UNKNOWN
+Rando's Seat:1
+BAMF's VPIP: 0.250000
+BAMF's PFR: 0.083333
+BAMF's estimated fold percentage is 0.416667
+BAMF's AF flop/postflop: 0.500000
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+Randy's VPIP: 0.166667
+Randy's PFR: 0.083333
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 2.000000
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
+Randy is eliminated
+
+Rando posts small blind/and is dealer, stack size (66)
+BAMF posts big blind, stack size (531)
+
+
+***PREFLOP***(7) Board:()
+Our hand: 2s 9c
+
+Rando raised to 5.
+BAMF's EV: -0.068000
+BAMF's Equity: 0.411
+BAMF's Implied Odds: -4
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 4
+
+BAMF folds.
+EV FOLD
+BAMF folds.
+
+
+NEWHAND:14
+
+['NEWHAND', '14', '1', '7d', '7c', '531', '69', '0', 'BAMF', 'Rando', 'Randy', '2', 'true', 'true', 'false', '14.724288']
+Active Players:2
+
+Our hand: 7d 7c
+BAMF's VPIP: 0.230769
+BAMF's PFR: 0.076923
+BAMF's estimated fold percentage is 0.461538
+BAMF's AF flop/postflop: 0.500000
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+Rando's VPIP: 0.461538
+Rando's PFR: 0.076923
+Rando's estimated fold percentage is 0.333333
+Rando's AF flop/postflop: 0.666667
+Rando's Player Type: UNKNOWN
+Rando's Seat:2
+Randy's VPIP: 0.153846
+Randy's PFR: 0.076923
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 2.000000
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
+Randy is eliminated
+
+BAMF posts small blind/and is dealer, stack size (530)
+Rando posts big blind, stack size (67)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 7d 7c
+
+BAMF's EV: 1.315000
+BAMF's Equity: 0.663
+BAMF's Implied Odds: -3
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 5
+
+BAMF calls 2.
+
+***PREFLOP***(6) Board:()
+Our hand: 7d 7c
+
+Rando raised to 4.
+BAMF's EV: 2.630000
+BAMF's Equity: 0.663
+BAMF's Implied Odds: -7
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 11
+
+BAMF calls 4.
+
+***FLOP***(8) Board:(2s 8s 2h)
+Our hand: 7d 7c
+
+Rando checks.
+BAMF's EV: 5.164000
+BAMF's Equity: 0.6455
+BAMF's Implied Odds: -8
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 14
+
+final max bet:8
+final min bet:8
+Bet range: 2 8
+BAMF bets 8.
+
+***TURN***(38) Board:(2s 8s 2h Ah)
+Our hand: 7d 7c
+
+Rando called 8.
+Rando bet 14.
+BAMF's EV: 17.538000
+BAMF's Equity: 0.6065
+BAMF's Implied Odds: -42
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 58
+
+final max raise:57
+final min raise:28
+Raise range: 28 57
+BAMF raise 39.
+Rando folds.
+
+
+NEWHAND:15
+
+['NEWHAND', '15', '2', 'Ad', '5h', '43', '557', '0', 'Rando', 'BAMF', 'Randy', '2', 'true', 'true', 'false', '14.650924']
+Active Players:2
+
+Our hand: Ad 5h
+Rando's VPIP: 0.500000
+Rando's PFR: 0.071429
+Rando's estimated fold percentage is 0.333333
+Rando's AF flop/postflop: 0.714286
+Rando's Player Type: UNKNOWN
+Rando's Seat:1
+BAMF's VPIP: 0.285714
+BAMF's PFR: 0.071429
+BAMF's estimated fold percentage is 0.461538
+BAMF's AF flop/postflop: 0.714286
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+Randy's VPIP: 0.142857
+Randy's PFR: 0.071429
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 2.000000
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
+Randy is eliminated
+
+Rando posts small blind/and is dealer, stack size (42)
+BAMF posts big blind, stack size (555)
+
+
+***PREFLOP***(6) Board:()
+Our hand: Ad 5h
+
+Rando raised to 4.
+BAMF's EV: 2.105000
+BAMF's Equity: 0.6105
+BAMF's Implied Odds: -7
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 9
+
+BAMF calls 4.
+
+***FLOP***(8) Board:(2h Ah Jd)
+Our hand: Ad 5h
+
+BAMF's EV: 6.640000
+BAMF's Equity: 0.83
+BAMF's Implied Odds: -8
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 39
+
+final max bet:8
+final min bet:8
+Bet range: 2 8
+BAMF bets 8.
+
+***FLOP***(42) Board:(2h Ah Jd)
+Our hand: Ad 5h
+
+Rando raised to 26.
+BAMF's EV: 30.440000
+BAMF's Equity: 0.83
+BAMF's Implied Odds: -62
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 205
+
+final max raise:39
+final min raise:39
+Raise range: 39 39
+BAMF raise 39.
+Rando called 39.
+Rando WTSD percentage is: 0.266667
+BAMF WTSD percentage is: 0.200000
+BAMF W$SD percentage is: 1.000000
+Gameover, engine disconnected.

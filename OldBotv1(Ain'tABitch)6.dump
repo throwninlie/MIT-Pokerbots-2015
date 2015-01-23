@@ -1,0 +1,4979 @@
+
+C:\Users\Er\Dropbox\Pokerbot\Versions\v1>python Player.py 3001 
+Connecting to localhost:3001
+Our name: OldBotv1(Ain'tABitch)6
+Opp1 name: BAMF6
+Opp2 name: OldBotv2(MOUSE)6
+
+
+NEWHAND:1
+
+['NEWHAND', '1', '2', 'As', '5c', '200', '200', '200', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '3', 'true', 'true', 'true', '15.000000']
+Active Players:3
+
+Our hand: As 5c
+OldBotv2(MOUSE)6's VPIP: 0.000000
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.000000
+OldBotv2(MOUSE)6's AF: 0.000000
+OldBotv1(Ain'tABitch)6's VPIP: 0.000000
+OldBotv1(Ain'tABitch)6's PFR: 0.000000
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.000000
+OldBotv1(Ain'tABitch)6's AF: 0.000000
+BAMF6's VPIP: 0.000000
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.000000
+BAMF6's AF: 0.000000
+
+OldBotv1(Ain'tABitch)6 posts small blind, stack size (199)
+BAMF6 posts big blind, stack size (198)
+
+
+***PREFLOP***(5) Board:()
+Our hand: As 5c
+
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 2.130000
+OldBotv1(Ain'tABitch)6's Equity: 0.59
+OldBotv1(Ain'tABitch)6's EV: 2.130000
+OldBotv1(Ain'tABitch)6's Equity: 0.59
+OldBotv1(Ain'tABitch)6's Implied Odds: -5
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(10) Board:(7h Js 4s)
+Our hand: As 5c
+
+BAMF6 folds.
+OldBotv2(MOUSE)6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 4.900000
+OldBotv1(Ain'tABitch)6's Equity: 0.49
+OldBotv1(Ain'tABitch)6's EV: 4.900000
+OldBotv1(Ain'tABitch)6's Equity: 0.49
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(10) Board:(7h Js 4s Ks)
+Our hand: As 5c
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 4.810000
+OldBotv1(Ain'tABitch)6's Equity: 0.481
+OldBotv1(Ain'tABitch)6's EV: 4.810000
+OldBotv1(Ain'tABitch)6's Equity: 0.481
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(10) Board:(7h Js 4s Ks 8h)
+Our hand: As 5c
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 2.904040
+OldBotv1(Ain'tABitch)6's Equity: 0.290404040404
+OldBotv1(Ain'tABitch)6's EV: 2.904040
+OldBotv1(Ain'tABitch)6's Equity: 0.290404040404
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+OldBotv2(MOUSE)6 checks.
+OldBotv2(MOUSE)6 WTSD percentage is: 1.000000
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 1.000000
+OldBotv2(MOUSE)6 W$SD percentage is: 1.000000
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 1.000000
+
+
+NEWHAND:2
+
+['NEWHAND', '2', '3', '6d', '3c', '198', '201', '201', 'BAMF6', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", '3', 'true', 'true', 'true', '14.973821']
+Active Players:3
+
+Our hand: 6d 3c
+BAMF6's VPIP: 0.000000
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.000000
+BAMF6's AF: 0.000000
+OldBotv2(MOUSE)6's VPIP: 1.000000
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.000000
+OldBotv2(MOUSE)6's AF: 0.000000
+OldBotv1(Ain'tABitch)6's VPIP: 0.000000
+OldBotv1(Ain'tABitch)6's PFR: 0.000000
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.000000
+OldBotv1(Ain'tABitch)6's AF: 1.000000
+
+OldBotv2(MOUSE)6 posts small blind, stack size (200)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (199)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 6d 3c
+
+BAMF6 folds.
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 1.380000
+OldBotv1(Ain'tABitch)6's Equity: 0.345
+OldBotv1(Ain'tABitch)6's EV: 1.380000
+OldBotv1(Ain'tABitch)6's Equity: 0.345
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(12) Board:(7d Ks 8h)
+Our hand: 6d 3c
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv2(MOUSE)6 bet 4.
+OldBotv1(Ain'tABitch)6's EV: -1.272000
+OldBotv1(Ain'tABitch)6's Equity: 0.1705
+OldBotv1(Ain'tABitch)6's EV: -1.272000
+OldBotv1(Ain'tABitch)6's Equity: 0.1705
+OldBotv1(Ain'tABitch)6's Implied Odds: 3
+OldBotv1(Ain'tABitch)6 folds.
+
+
+NEWHAND:3
+
+['NEWHAND', '3', '1', 'Qh', '4s', '197', '198', '205', "OldBotv1(Ain'tABitch)6", 'BAMF6', 'OldBotv2(MOUSE)6', '3', 'true', 'true', 'true', '14.960986']
+Active Players:3
+
+Our hand: Qh 4s
+OldBotv1(Ain'tABitch)6's VPIP: 0.000000
+OldBotv1(Ain'tABitch)6's PFR: 0.000000
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.000000
+OldBotv1(Ain'tABitch)6's AF: 2.000000
+BAMF6's VPIP: 0.000000
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.500000
+BAMF6's AF: 0.000000
+OldBotv2(MOUSE)6's VPIP: 1.000000
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.000000
+OldBotv2(MOUSE)6's AF: 0.250000
+
+BAMF6 posts small blind, stack size (197)
+OldBotv2(MOUSE)6 posts big blind, stack size (203)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Qh 4s
+
+OldBotv1(Ain'tABitch)6's EV: 0.390000
+OldBotv1(Ain'tABitch)6's Equity: 0.478
+OldBotv1(Ain'tABitch)6's EV: 0.390000
+OldBotv1(Ain'tABitch)6's Equity: 0.478
+OldBotv1(Ain'tABitch)6's Implied Odds: -2
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(10) Board:(As 6s Ah)
+Our hand: Qh 4s
+
+BAMF6 called 4.
+OldBotv2(MOUSE)6 folds.
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 4.825000
+OldBotv1(Ain'tABitch)6's Equity: 0.4825
+OldBotv1(Ain'tABitch)6's EV: 4.825000
+OldBotv1(Ain'tABitch)6's Equity: 0.4825
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(10) Board:(As 6s Ah 8d)
+Our hand: Qh 4s
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 4.090000
+OldBotv1(Ain'tABitch)6's Equity: 0.409
+OldBotv1(Ain'tABitch)6's EV: 4.090000
+OldBotv1(Ain'tABitch)6's Equity: 0.409
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(10) Board:(As 6s Ah 8d Ts)
+Our hand: Qh 4s
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 3.116162
+OldBotv1(Ain'tABitch)6's Equity: 0.311616161616
+OldBotv1(Ain'tABitch)6's EV: 3.116162
+OldBotv1(Ain'tABitch)6's Equity: 0.311616161616
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.666667
+BAMF6 WTSD percentage is: 0.333333
+BAMF6 W$SD percentage is: 0.333333
+
+
+NEWHAND:4
+
+['NEWHAND', '4', '2', '9s', '9d', '203', '193', '204', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '3', 'true', 'true', 'true', '14.939095']
+Active Players:3
+
+Our hand: 9s 9d
+OldBotv2(MOUSE)6's VPIP: 0.666667
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.000000
+OldBotv2(MOUSE)6's AF: 0.250000
+OldBotv1(Ain'tABitch)6's VPIP: 0.000000
+OldBotv1(Ain'tABitch)6's PFR: 0.000000
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.000000
+OldBotv1(Ain'tABitch)6's AF: 3.000000
+BAMF6's VPIP: 0.000000
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.500000
+BAMF6's AF: 0.000000
+
+OldBotv1(Ain'tABitch)6 posts small blind, stack size (192)
+BAMF6 posts big blind, stack size (202)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 9s 9d
+
+OldBotv2(MOUSE)6 folds.
+OldBotv1(Ain'tABitch)6's EV: 1.667500
+OldBotv1(Ain'tABitch)6's Equity: 0.7335
+OldBotv1(Ain'tABitch)6's EV: 1.667500
+OldBotv1(Ain'tABitch)6's Equity: 0.7335
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(7h 4c 3h)
+Our hand: 9s 9d
+
+BAMF6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 5.604000
+OldBotv1(Ain'tABitch)6's Equity: 0.7005
+OldBotv1(Ain'tABitch)6's EV: 5.604000
+OldBotv1(Ain'tABitch)6's Equity: 0.7005
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(8) Board:(7h 4c 3h 6c)
+Our hand: 9s 9d
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 4.980000
+OldBotv1(Ain'tABitch)6's Equity: 0.6225
+OldBotv1(Ain'tABitch)6's EV: 4.980000
+OldBotv1(Ain'tABitch)6's Equity: 0.6225
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(8) Board:(7h 4c 3h 6c Qs)
+Our hand: 9s 9d
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 4.949495
+OldBotv1(Ain'tABitch)6's Equity: 0.618686868687
+OldBotv1(Ain'tABitch)6's EV: 4.949495
+OldBotv1(Ain'tABitch)6's Equity: 0.618686868687
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.750000
+BAMF6 WTSD percentage is: 0.500000
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.500000
+
+
+NEWHAND:5
+
+['NEWHAND', '5', '3', '4s', '6s', '200', '203', '197', 'BAMF6', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", '3', 'true', 'true', 'true', '14.914269']
+Active Players:3
+
+Our hand: 4s 6s
+BAMF6's VPIP: 0.000000
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.500000
+BAMF6's AF: 0.000000
+OldBotv2(MOUSE)6's VPIP: 0.500000
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.250000
+OldBotv2(MOUSE)6's AF: 0.250000
+OldBotv1(Ain'tABitch)6's VPIP: 0.000000
+OldBotv1(Ain'tABitch)6's PFR: 0.000000
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.000000
+OldBotv1(Ain'tABitch)6's AF: 4.000000
+
+OldBotv2(MOUSE)6 posts small blind, stack size (202)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (195)
+
+
+***PREFLOP***(10) Board:()
+Our hand: 4s 6s
+
+BAMF6 raised to 4.
+OldBotv2(MOUSE)6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 1.628000
+OldBotv1(Ain'tABitch)6's Equity: 0.402
+OldBotv1(Ain'tABitch)6's EV: 1.628000
+OldBotv1(Ain'tABitch)6's Equity: 0.402
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 6.
+
+***FLOP***(18) Board:(2s Tc 4d)
+Our hand: 4s 6s
+
+BAMF6 called 6.
+OldBotv2(MOUSE)6 called 6.
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 11.754000
+OldBotv1(Ain'tABitch)6's Equity: 0.653
+OldBotv1(Ain'tABitch)6's EV: 11.754000
+OldBotv1(Ain'tABitch)6's Equity: 0.653
+OldBotv1(Ain'tABitch)6's Implied Odds: -18
+OldBotv1(Ain'tABitch)6 raise 18.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(18) Board:(2s Tc 4d 5s)
+Our hand: 4s 6s
+
+BAMF6 checks.
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 12.177000
+OldBotv1(Ain'tABitch)6's Equity: 0.6765
+OldBotv1(Ain'tABitch)6's EV: 12.177000
+OldBotv1(Ain'tABitch)6's Equity: 0.6765
+OldBotv1(Ain'tABitch)6's Implied Odds: -18
+OldBotv1(Ain'tABitch)6 raise 18.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(18) Board:(2s Tc 4d 5s Js)
+Our hand: 4s 6s
+
+BAMF6 checks.
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 17.490909
+OldBotv1(Ain'tABitch)6's Equity: 0.971717171717
+OldBotv1(Ain'tABitch)6's EV: 17.490909
+OldBotv1(Ain'tABitch)6's Equity: 0.971717171717
+OldBotv1(Ain'tABitch)6's Implied Odds: -18
+OldBotv1(Ain'tABitch)6 raise 18.
+OldBotv1(Ain'tABitch)6 bets 2.
+BAMF6 checks.
+BAMF6 WTSD percentage is: 0.600000
+OldBotv2(MOUSE)6 WTSD percentage is: 0.400000
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.800000
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.600000
+
+
+NEWHAND:6
+
+['NEWHAND', '6', '1', '4h', 'Kd', '209', '194', '197', "OldBotv1(Ain'tABitch)6", 'BAMF6', 'OldBotv2(MOUSE)6', '3', 'true', 'true', 'true', '14.885818']
+Active Players:3
+
+Our hand: 4h Kd
+OldBotv1(Ain'tABitch)6's VPIP: 0.000000
+OldBotv1(Ain'tABitch)6's PFR: 0.000000
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.000000
+OldBotv1(Ain'tABitch)6's AF: 5.000000
+BAMF6's VPIP: 0.200000
+BAMF6's PFR: 0.200000
+BAMF6's estimated fold percentage is 0.500000
+BAMF6's AF: 0.333333
+OldBotv2(MOUSE)6's VPIP: 0.600000
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.250000
+OldBotv2(MOUSE)6's AF: 0.166667
+
+BAMF6 posts small blind, stack size (193)
+OldBotv2(MOUSE)6 posts big blind, stack size (195)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 4h Kd
+
+OldBotv1(Ain'tABitch)6's EV: 0.542500
+OldBotv1(Ain'tABitch)6's Equity: 0.5085
+OldBotv1(Ain'tABitch)6's EV: 0.542500
+OldBotv1(Ain'tABitch)6's Equity: 0.5085
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(12) Board:(Qs Ks 9s)
+Our hand: 4h Kd
+
+BAMF6 called 4.
+OldBotv2(MOUSE)6 called 4.
+BAMF6 checks.
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 7.704000
+OldBotv1(Ain'tABitch)6's Equity: 0.642
+OldBotv1(Ain'tABitch)6's EV: 7.704000
+OldBotv1(Ain'tABitch)6's Equity: 0.642
+OldBotv1(Ain'tABitch)6's Implied Odds: -12
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(12) Board:(Qs Ks 9s 4c)
+Our hand: 4h Kd
+
+BAMF6 checks.
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 9.588000
+OldBotv1(Ain'tABitch)6's Equity: 0.799
+OldBotv1(Ain'tABitch)6's EV: 9.588000
+OldBotv1(Ain'tABitch)6's Equity: 0.799
+OldBotv1(Ain'tABitch)6's Implied Odds: -12
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(12) Board:(Qs Ks 9s 4c 3s)
+Our hand: 4h Kd
+
+BAMF6 checks.
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 7.248485
+OldBotv1(Ain'tABitch)6's Equity: 0.60404040404
+OldBotv1(Ain'tABitch)6's EV: 7.248485
+OldBotv1(Ain'tABitch)6's Equity: 0.60404040404
+OldBotv1(Ain'tABitch)6's Implied Odds: -12
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.833333
+BAMF6 WTSD percentage is: 0.666667
+OldBotv2(MOUSE)6 WTSD percentage is: 0.500000
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.666667
+
+
+NEWHAND:7
+
+['NEWHAND', '7', '2', '2d', 'Js', '193', '217', '190', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '3', 'true', 'true', 'true', '14.858196']
+Active Players:3
+
+Our hand: 2d Js
+OldBotv2(MOUSE)6's VPIP: 0.500000
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.250000
+OldBotv2(MOUSE)6's AF: 0.142857
+OldBotv1(Ain'tABitch)6's VPIP: 0.000000
+OldBotv1(Ain'tABitch)6's PFR: 0.000000
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.000000
+OldBotv1(Ain'tABitch)6's AF: 6.000000
+BAMF6's VPIP: 0.166667
+BAMF6's PFR: 0.166667
+BAMF6's estimated fold percentage is 0.500000
+BAMF6's AF: 0.250000
+
+OldBotv1(Ain'tABitch)6 posts small blind, stack size (216)
+BAMF6 posts big blind, stack size (188)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 2d Js
+
+OldBotv2(MOUSE)6 folds.
+OldBotv1(Ain'tABitch)6's EV: 0.147500
+OldBotv1(Ain'tABitch)6's Equity: 0.4295
+OldBotv1(Ain'tABitch)6's EV: 0.147500
+OldBotv1(Ain'tABitch)6's Equity: 0.4295
+OldBotv1(Ain'tABitch)6's Implied Odds: -2
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***PREFLOP***(10) Board:()
+Our hand: 2d Js
+
+BAMF6 raised to 6.
+OldBotv1(Ain'tABitch)6's EV: 0.872000
+OldBotv1(Ain'tABitch)6's Equity: 0.4295
+OldBotv1(Ain'tABitch)6's EV: 0.872000
+OldBotv1(Ain'tABitch)6's Equity: 0.4295
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 8.
+
+***PREFLOP***(18) Board:()
+Our hand: 2d Js
+
+BAMF6 raised to 10.
+OldBotv1(Ain'tABitch)6's EV: 2.026000
+OldBotv1(Ain'tABitch)6's Equity: 0.4295
+OldBotv1(Ain'tABitch)6's EV: 2.026000
+OldBotv1(Ain'tABitch)6's Equity: 0.4295
+OldBotv1(Ain'tABitch)6's Implied Odds: -14
+OldBotv1(Ain'tABitch)6 raise 12.
+BAMF6 folds.
+
+
+NEWHAND:8
+
+['NEWHAND', '8', '3', '8c', '3h', '180', '193', '227', 'BAMF6', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", '3', 'true', 'true', 'true', '14.835659']
+Active Players:3
+
+Our hand: 8c 3h
+BAMF6's VPIP: 0.285714
+BAMF6's PFR: 0.142857
+BAMF6's estimated fold percentage is 0.285714
+BAMF6's AF: 0.750000
+OldBotv2(MOUSE)6's VPIP: 0.428571
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.285714
+OldBotv2(MOUSE)6's AF: 0.142857
+OldBotv1(Ain'tABitch)6's VPIP: 0.142857
+OldBotv1(Ain'tABitch)6's PFR: 0.142857
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.000000
+OldBotv1(Ain'tABitch)6's AF: 9.000000
+
+OldBotv2(MOUSE)6 posts small blind, stack size (192)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (225)
+
+
+***PREFLOP***(6) Board:()
+Our hand: 8c 3h
+
+BAMF6 called 2.
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 2.157000
+OldBotv1(Ain'tABitch)6's Equity: 0.3595
+OldBotv1(Ain'tABitch)6's EV: 2.157000
+OldBotv1(Ain'tABitch)6's Equity: 0.3595
+OldBotv1(Ain'tABitch)6's Implied Odds: -6
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***PREFLOP***(16) Board:()
+Our hand: 8c 3h
+
+BAMF6 raised to 6.
+OldBotv2(MOUSE)6 called 6.
+OldBotv1(Ain'tABitch)6's EV: 1.909000
+OldBotv1(Ain'tABitch)6's Equity: 0.3595
+OldBotv1(Ain'tABitch)6's EV: 1.909000
+OldBotv1(Ain'tABitch)6's Equity: 0.3595
+OldBotv1(Ain'tABitch)6's Implied Odds: -11
+OldBotv1(Ain'tABitch)6 raise 8.
+
+***FLOP***(35) Board:(Ad Jd 6s)
+Our hand: 8c 3h
+
+BAMF6 called 8.
+OldBotv2(MOUSE)6 called 8.
+OldBotv2(MOUSE)6 bet 11.
+OldBotv1(Ain'tABitch)6's EV: -0.650000
+OldBotv1(Ain'tABitch)6's Equity: 0.225
+OldBotv1(Ain'tABitch)6's EV: -0.650000
+OldBotv1(Ain'tABitch)6's Equity: 0.225
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 folds.
+BAMF6 raised to 57.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:9
+
+['NEWHAND', '9', '1', '2h', '7c', '219', '207', '174', "OldBotv1(Ain'tABitch)6", 'BAMF6', 'OldBotv2(MOUSE)6', '3', 'true', 'true', 'true', '14.811519']
+Active Players:3
+
+Our hand: 2h 7c
+OldBotv1(Ain'tABitch)6's VPIP: 0.250000
+OldBotv1(Ain'tABitch)6's PFR: 0.125000
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.000000
+OldBotv1(Ain'tABitch)6's AF: 11.000000
+BAMF6's VPIP: 0.375000
+BAMF6's PFR: 0.125000
+BAMF6's estimated fold percentage is 0.285714
+BAMF6's AF: 0.833333
+OldBotv2(MOUSE)6's VPIP: 0.500000
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.285714
+OldBotv2(MOUSE)6's AF: 0.200000
+
+BAMF6 posts small blind, stack size (206)
+OldBotv2(MOUSE)6 posts big blind, stack size (172)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 2h 7c
+
+OldBotv1(Ain'tABitch)6's EV: -0.200000
+OldBotv1(Ain'tABitch)6's Equity: 0.36
+OldBotv1(Ain'tABitch)6's EV: -0.200000
+OldBotv1(Ain'tABitch)6's Equity: 0.36
+OldBotv1(Ain'tABitch)6's Implied Odds: -1
+OldBotv1(Ain'tABitch)6 folds.
+BAMF6 folds.
+
+
+NEWHAND:10
+
+['NEWHAND', '10', '2', 'Qd', 'Ks', '175', '219', '206', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '3', 'true', 'true', 'true', '14.802781']
+Active Players:3
+
+Our hand: Qd Ks
+OldBotv2(MOUSE)6's VPIP: 0.444444
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.285714
+OldBotv2(MOUSE)6's AF: 0.200000
+OldBotv1(Ain'tABitch)6's VPIP: 0.222222
+OldBotv1(Ain'tABitch)6's PFR: 0.111111
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.111111
+OldBotv1(Ain'tABitch)6's AF: 11.000000
+BAMF6's VPIP: 0.333333
+BAMF6's PFR: 0.111111
+BAMF6's estimated fold percentage is 0.333333
+BAMF6's AF: 0.833333
+
+OldBotv1(Ain'tABitch)6 posts small blind, stack size (218)
+BAMF6 posts big blind, stack size (204)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Qd Ks
+
+OldBotv2(MOUSE)6 folds.
+OldBotv1(Ain'tABitch)6's EV: 1.090000
+OldBotv1(Ain'tABitch)6's Equity: 0.618
+OldBotv1(Ain'tABitch)6's EV: 1.090000
+OldBotv1(Ain'tABitch)6's Equity: 0.618
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(3c Ah Ac)
+Our hand: Qd Ks
+
+BAMF6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 4.780000
+OldBotv1(Ain'tABitch)6's Equity: 0.5975
+OldBotv1(Ain'tABitch)6's EV: 4.780000
+OldBotv1(Ain'tABitch)6's Equity: 0.5975
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***FLOP***(10) Board:(3c Ah Ac)
+Our hand: Qd Ks
+
+BAMF6 bet 2.
+OldBotv1(Ain'tABitch)6's EV: 5.170000
+OldBotv1(Ain'tABitch)6's Equity: 0.5975
+OldBotv1(Ain'tABitch)6's EV: 5.170000
+OldBotv1(Ain'tABitch)6's Equity: 0.5975
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***TURN***(16) Board:(3c Ah Ac 2h)
+Our hand: Qd Ks
+
+BAMF6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 8.720000
+OldBotv1(Ain'tABitch)6's Equity: 0.545
+OldBotv1(Ain'tABitch)6's EV: 8.720000
+OldBotv1(Ain'tABitch)6's Equity: 0.545
+OldBotv1(Ain'tABitch)6's Implied Odds: -16
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(16) Board:(3c Ah Ac 2h As)
+Our hand: Qd Ks
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 10.157576
+OldBotv1(Ain'tABitch)6's Equity: 0.634848484848
+OldBotv1(Ain'tABitch)6's EV: 10.157576
+OldBotv1(Ain'tABitch)6's Equity: 0.634848484848
+OldBotv1(Ain'tABitch)6's Implied Odds: -16
+OldBotv1(Ain'tABitch)6 raise 16.
+OldBotv1(Ain'tABitch)6 bets 2.
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.600000
+BAMF6 WTSD percentage is: 0.500000
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.500000
+
+
+NEWHAND:11
+
+['NEWHAND', '11', '3', 'Kd', '6h', '198', '175', '227', 'BAMF6', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", '3', 'true', 'true', 'true', '14.767371']
+Active Players:3
+
+Our hand: Kd 6h
+BAMF6's VPIP: 0.300000
+BAMF6's PFR: 0.100000
+BAMF6's estimated fold percentage is 0.333333
+BAMF6's AF: 0.750000
+OldBotv2(MOUSE)6's VPIP: 0.400000
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.300000
+OldBotv2(MOUSE)6's AF: 0.200000
+OldBotv1(Ain'tABitch)6's VPIP: 0.200000
+OldBotv1(Ain'tABitch)6's PFR: 0.100000
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.111111
+OldBotv1(Ain'tABitch)6's AF: 13.000000
+
+OldBotv2(MOUSE)6 posts small blind, stack size (174)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (225)
+
+BAMF6 folds.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:12
+
+['NEWHAND', '12', '1', 'Qh', '6d', '228', '198', '174', "OldBotv1(Ain'tABitch)6", 'BAMF6', 'OldBotv2(MOUSE)6', '3', 'true', 'true', 'true', '14.767371']
+Active Players:3
+
+Our hand: Qh 6d
+OldBotv1(Ain'tABitch)6's VPIP: 0.181818
+OldBotv1(Ain'tABitch)6's PFR: 0.090909
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.111111
+OldBotv1(Ain'tABitch)6's AF: 13.000000
+BAMF6's VPIP: 0.272727
+BAMF6's PFR: 0.090909
+BAMF6's estimated fold percentage is 0.363636
+BAMF6's AF: 0.750000
+OldBotv2(MOUSE)6's VPIP: 0.363636
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.363636
+OldBotv2(MOUSE)6's AF: 0.200000
+
+BAMF6 posts small blind, stack size (197)
+OldBotv2(MOUSE)6 posts big blind, stack size (172)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Qh 6d
+
+OldBotv1(Ain'tABitch)6's EV: 0.530000
+OldBotv1(Ain'tABitch)6's Equity: 0.506
+OldBotv1(Ain'tABitch)6's EV: 0.530000
+OldBotv1(Ain'tABitch)6's Equity: 0.506
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(10) Board:(Jc Kd Ks)
+Our hand: Qh 6d
+
+BAMF6 called 4.
+OldBotv2(MOUSE)6 folds.
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 5.145000
+OldBotv1(Ain'tABitch)6's Equity: 0.5145
+OldBotv1(Ain'tABitch)6's EV: 5.145000
+OldBotv1(Ain'tABitch)6's Equity: 0.5145
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(10) Board:(Jc Kd Ks 8s)
+Our hand: Qh 6d
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 4.385000
+OldBotv1(Ain'tABitch)6's Equity: 0.4385
+OldBotv1(Ain'tABitch)6's EV: 4.385000
+OldBotv1(Ain'tABitch)6's Equity: 0.4385
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(10) Board:(Jc Kd Ks 8s As)
+Our hand: Qh 6d
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 4.333333
+OldBotv1(Ain'tABitch)6's Equity: 0.433333333333
+OldBotv1(Ain'tABitch)6's EV: 4.333333
+OldBotv1(Ain'tABitch)6's Equity: 0.433333333333
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.583333
+BAMF6 WTSD percentage is: 0.500000
+BAMF6 W$SD percentage is: 0.166667
+
+
+NEWHAND:13
+
+['NEWHAND', '13', '2', 'Qh', '7s', '172', '224', '204', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '3', 'true', 'true', 'true', '14.738492']
+Active Players:3
+
+Our hand: Qh 7s
+OldBotv2(MOUSE)6's VPIP: 0.333333
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.363636
+OldBotv2(MOUSE)6's AF: 0.200000
+OldBotv1(Ain'tABitch)6's VPIP: 0.166667
+OldBotv1(Ain'tABitch)6's PFR: 0.083333
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.111111
+OldBotv1(Ain'tABitch)6's AF: 14.000000
+BAMF6's VPIP: 0.250000
+BAMF6's PFR: 0.083333
+BAMF6's estimated fold percentage is 0.363636
+BAMF6's AF: 0.666667
+
+OldBotv1(Ain'tABitch)6 posts small blind, stack size (223)
+BAMF6 posts big blind, stack size (202)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Qh 7s
+
+OldBotv2(MOUSE)6 folds.
+OldBotv1(Ain'tABitch)6's EV: 0.522500
+OldBotv1(Ain'tABitch)6's Equity: 0.5045
+OldBotv1(Ain'tABitch)6's EV: 0.522500
+OldBotv1(Ain'tABitch)6's Equity: 0.5045
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(Jh 9d 5c)
+Our hand: Qh 7s
+
+BAMF6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 3.152000
+OldBotv1(Ain'tABitch)6's Equity: 0.394
+OldBotv1(Ain'tABitch)6's EV: 3.152000
+OldBotv1(Ain'tABitch)6's Equity: 0.394
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***FLOP***(10) Board:(Jh 9d 5c)
+Our hand: Qh 7s
+
+BAMF6 bet 2.
+OldBotv1(Ain'tABitch)6's EV: 2.728000
+OldBotv1(Ain'tABitch)6's Equity: 0.394
+OldBotv1(Ain'tABitch)6's EV: 2.728000
+OldBotv1(Ain'tABitch)6's Equity: 0.394
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***TURN***(16) Board:(Jh 9d 5c 2c)
+Our hand: Qh 7s
+
+BAMF6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 4.264000
+OldBotv1(Ain'tABitch)6's Equity: 0.2665
+OldBotv1(Ain'tABitch)6's EV: 4.264000
+OldBotv1(Ain'tABitch)6's Equity: 0.2665
+OldBotv1(Ain'tABitch)6's Implied Odds: -16
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(18) Board:(Jh 9d 5c 2c)
+Our hand: Qh 7s
+
+BAMF6 bet 2.
+OldBotv1(Ain'tABitch)6's EV: 3.330000
+OldBotv1(Ain'tABitch)6's Equity: 0.2665
+OldBotv1(Ain'tABitch)6's EV: 3.330000
+OldBotv1(Ain'tABitch)6's Equity: 0.2665
+OldBotv1(Ain'tABitch)6's Implied Odds: -14
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***RIVER***(24) Board:(Jh 9d 5c 2c 5s)
+Our hand: Qh 7s
+
+BAMF6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 6.024242
+OldBotv1(Ain'tABitch)6's Equity: 0.25101010101
+OldBotv1(Ain'tABitch)6's EV: 6.024242
+OldBotv1(Ain'tABitch)6's Equity: 0.25101010101
+OldBotv1(Ain'tABitch)6's Implied Odds: -24
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.615385
+BAMF6 WTSD percentage is: 0.538462
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.461538
+
+
+NEWHAND:14
+
+['NEWHAND', '14', '3', '3h', '2d', '192', '172', '236', 'BAMF6', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", '3', 'true', 'true', 'true', '14.620030']
+Active Players:3
+
+Our hand: 3h 2d
+BAMF6's VPIP: 0.230769
+BAMF6's PFR: 0.076923
+BAMF6's estimated fold percentage is 0.363636
+BAMF6's AF: 0.666667
+OldBotv2(MOUSE)6's VPIP: 0.307692
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.384615
+OldBotv2(MOUSE)6's AF: 0.200000
+OldBotv1(Ain'tABitch)6's VPIP: 0.153846
+OldBotv1(Ain'tABitch)6's PFR: 0.076923
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.111111
+OldBotv1(Ain'tABitch)6's AF: 17.000000
+
+OldBotv2(MOUSE)6 posts small blind, stack size (171)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (234)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 3h 2d
+
+BAMF6 folds.
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 1.232000
+OldBotv1(Ain'tABitch)6's Equity: 0.308
+OldBotv1(Ain'tABitch)6's EV: 1.232000
+OldBotv1(Ain'tABitch)6's Equity: 0.308
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(2h Qs 4c)
+Our hand: 3h 2d
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 4.456000
+OldBotv1(Ain'tABitch)6's Equity: 0.557
+OldBotv1(Ain'tABitch)6's EV: 4.456000
+OldBotv1(Ain'tABitch)6's Equity: 0.557
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(8) Board:(2h Qs 4c Ts)
+Our hand: 3h 2d
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 3.880000
+OldBotv1(Ain'tABitch)6's Equity: 0.485
+OldBotv1(Ain'tABitch)6's EV: 3.880000
+OldBotv1(Ain'tABitch)6's Equity: 0.485
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(8) Board:(2h Qs 4c Ts 9h)
+Our hand: 3h 2d
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 3.288889
+OldBotv1(Ain'tABitch)6's Equity: 0.411111111111
+OldBotv1(Ain'tABitch)6's EV: 3.288889
+OldBotv1(Ain'tABitch)6's Equity: 0.411111111111
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+OldBotv2(MOUSE)6 WTSD percentage is: 0.285714
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.642857
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.500000
+
+
+NEWHAND:15
+
+['NEWHAND', '15', '1', 'Jc', '3d', '240', '192', '168', "OldBotv1(Ain'tABitch)6", 'BAMF6', 'OldBotv2(MOUSE)6', '3', 'true', 'true', 'true', '14.588909']
+Active Players:3
+
+Our hand: Jc 3d
+OldBotv1(Ain'tABitch)6's VPIP: 0.142857
+OldBotv1(Ain'tABitch)6's PFR: 0.071429
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.111111
+OldBotv1(Ain'tABitch)6's AF: 18.000000
+BAMF6's VPIP: 0.214286
+BAMF6's PFR: 0.071429
+BAMF6's estimated fold percentage is 0.357143
+BAMF6's AF: 0.666667
+OldBotv2(MOUSE)6's VPIP: 0.357143
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.384615
+OldBotv2(MOUSE)6's AF: 0.166667
+
+BAMF6 posts small blind, stack size (191)
+OldBotv2(MOUSE)6 posts big blind, stack size (166)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Jc 3d
+
+OldBotv1(Ain'tABitch)6's EV: 0.290000
+OldBotv1(Ain'tABitch)6's Equity: 0.458
+OldBotv1(Ain'tABitch)6's EV: 0.290000
+OldBotv1(Ain'tABitch)6's Equity: 0.458
+OldBotv1(Ain'tABitch)6's Implied Odds: -2
+OldBotv1(Ain'tABitch)6 raise 4.
+BAMF6 folds.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:16
+
+['NEWHAND', '16', '2', '3h', '2d', '166', '243', '191', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '3', 'true', 'true', 'true', '14.580204']
+Active Players:3
+
+Our hand: 3h 2d
+OldBotv2(MOUSE)6's VPIP: 0.333333
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.400000
+OldBotv2(MOUSE)6's AF: 0.166667
+OldBotv1(Ain'tABitch)6's VPIP: 0.200000
+OldBotv1(Ain'tABitch)6's PFR: 0.066667
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.111111
+OldBotv1(Ain'tABitch)6's AF: 19.000000
+BAMF6's VPIP: 0.200000
+BAMF6's PFR: 0.066667
+BAMF6's estimated fold percentage is 0.400000
+BAMF6's AF: 0.666667
+
+OldBotv1(Ain'tABitch)6 posts small blind, stack size (242)
+BAMF6 posts big blind, stack size (189)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 3h 2d
+
+OldBotv2(MOUSE)6 folds.
+OldBotv1(Ain'tABitch)6's EV: -0.542500
+OldBotv1(Ain'tABitch)6's Equity: 0.2915
+OldBotv1(Ain'tABitch)6's EV: -0.542500
+OldBotv1(Ain'tABitch)6's Equity: 0.2915
+OldBotv1(Ain'tABitch)6's Implied Odds: 0
+OldBotv1(Ain'tABitch)6 folds.
+
+
+NEWHAND:17
+
+['NEWHAND', '17', '3', '9h', '8d', '192', '166', '242', 'BAMF6', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", '3', 'true', 'true', 'true', '14.562451']
+Active Players:3
+
+Our hand: 9h 8d
+BAMF6's VPIP: 0.187500
+BAMF6's PFR: 0.062500
+BAMF6's estimated fold percentage is 0.400000
+BAMF6's AF: 0.666667
+OldBotv2(MOUSE)6's VPIP: 0.312500
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.437500
+OldBotv2(MOUSE)6's AF: 0.166667
+OldBotv1(Ain'tABitch)6's VPIP: 0.187500
+OldBotv1(Ain'tABitch)6's PFR: 0.062500
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 19.000000
+
+OldBotv2(MOUSE)6 posts small blind, stack size (165)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (240)
+
+BAMF6 folds.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:18
+
+['NEWHAND', '18', '1', 'Ah', '2c', '243', '192', '165', "OldBotv1(Ain'tABitch)6", 'BAMF6', 'OldBotv2(MOUSE)6', '3', 'true', 'true', 'true', '14.562451']
+Active Players:3
+
+Our hand: Ah 2c
+OldBotv1(Ain'tABitch)6's VPIP: 0.176471
+OldBotv1(Ain'tABitch)6's PFR: 0.058824
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 19.000000
+BAMF6's VPIP: 0.176471
+BAMF6's PFR: 0.058824
+BAMF6's estimated fold percentage is 0.411765
+BAMF6's AF: 0.666667
+OldBotv2(MOUSE)6's VPIP: 0.294118
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.470588
+OldBotv2(MOUSE)6's AF: 0.166667
+
+BAMF6 posts small blind, stack size (191)
+OldBotv2(MOUSE)6 posts big blind, stack size (163)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ah 2c
+
+OldBotv1(Ain'tABitch)6's EV: 0.747500
+OldBotv1(Ain'tABitch)6's Equity: 0.5495
+OldBotv1(Ain'tABitch)6's EV: 0.747500
+OldBotv1(Ain'tABitch)6's Equity: 0.5495
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+BAMF6 folds.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:19
+
+['NEWHAND', '19', '2', 'Qc', 'Tc', '163', '246', '191', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '3', 'true', 'true', 'true', '14.553057']
+Active Players:3
+
+Our hand: Qc Tc
+OldBotv2(MOUSE)6's VPIP: 0.277778
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.500000
+OldBotv2(MOUSE)6's AF: 0.166667
+OldBotv1(Ain'tABitch)6's VPIP: 0.222222
+OldBotv1(Ain'tABitch)6's PFR: 0.055556
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 20.000000
+BAMF6's VPIP: 0.166667
+BAMF6's PFR: 0.055556
+BAMF6's estimated fold percentage is 0.444444
+BAMF6's AF: 0.666667
+
+OldBotv1(Ain'tABitch)6 posts small blind, stack size (245)
+BAMF6 posts big blind, stack size (189)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Qc Tc
+
+OldBotv2(MOUSE)6 folds.
+OldBotv1(Ain'tABitch)6's EV: 1.042500
+OldBotv1(Ain'tABitch)6's Equity: 0.6085
+OldBotv1(Ain'tABitch)6's EV: 1.042500
+OldBotv1(Ain'tABitch)6's Equity: 0.6085
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+BAMF6 folds.
+
+
+NEWHAND:20
+
+['NEWHAND', '20', '3', '8c', '8d', '189', '163', '248', 'BAMF6', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", '3', 'true', 'true', 'true', '14.543341']
+Active Players:3
+
+Our hand: 8c 8d
+BAMF6's VPIP: 0.157895
+BAMF6's PFR: 0.052632
+BAMF6's estimated fold percentage is 0.473684
+BAMF6's AF: 0.666667
+OldBotv2(MOUSE)6's VPIP: 0.263158
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.526316
+OldBotv2(MOUSE)6's AF: 0.166667
+OldBotv1(Ain'tABitch)6's VPIP: 0.263158
+OldBotv1(Ain'tABitch)6's PFR: 0.052632
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 21.000000
+
+OldBotv2(MOUSE)6 posts small blind, stack size (162)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (246)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 8c 8d
+
+BAMF6 folds.
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 2.680000
+OldBotv1(Ain'tABitch)6's Equity: 0.67
+OldBotv1(Ain'tABitch)6's EV: 2.680000
+OldBotv1(Ain'tABitch)6's Equity: 0.67
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(11) Board:(Ts Js 3h)
+Our hand: 8c 8d
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv2(MOUSE)6 bet 3.
+OldBotv1(Ain'tABitch)6's EV: 5.694000
+OldBotv1(Ain'tABitch)6's Equity: 0.621
+OldBotv1(Ain'tABitch)6's EV: 5.694000
+OldBotv1(Ain'tABitch)6's Equity: 0.621
+OldBotv1(Ain'tABitch)6's Implied Odds: -12
+OldBotv1(Ain'tABitch)6 raise 6.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:21
+
+['NEWHAND', '21', '1', 'Tc', '7s', '255', '189', '156', "OldBotv1(Ain'tABitch)6", 'BAMF6', 'OldBotv2(MOUSE)6', '3', 'true', 'true', 'true', '14.526605']
+Active Players:3
+
+Our hand: Tc 7s
+OldBotv1(Ain'tABitch)6's VPIP: 0.250000
+OldBotv1(Ain'tABitch)6's PFR: 0.050000
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 23.000000
+BAMF6's VPIP: 0.150000
+BAMF6's PFR: 0.050000
+BAMF6's estimated fold percentage is 0.500000
+BAMF6's AF: 0.666667
+OldBotv2(MOUSE)6's VPIP: 0.300000
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.526316
+OldBotv2(MOUSE)6's AF: 0.214286
+
+BAMF6 posts small blind, stack size (188)
+OldBotv2(MOUSE)6 posts big blind, stack size (154)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Tc 7s
+
+OldBotv1(Ain'tABitch)6's EV: 0.357500
+OldBotv1(Ain'tABitch)6's Equity: 0.4715
+OldBotv1(Ain'tABitch)6's EV: 0.357500
+OldBotv1(Ain'tABitch)6's Equity: 0.4715
+OldBotv1(Ain'tABitch)6's Implied Odds: -2
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(10) Board:(2h 2s 7d)
+Our hand: Tc 7s
+
+BAMF6 called 4.
+OldBotv2(MOUSE)6 folds.
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 7.170000
+OldBotv1(Ain'tABitch)6's Equity: 0.717
+OldBotv1(Ain'tABitch)6's EV: 7.170000
+OldBotv1(Ain'tABitch)6's Equity: 0.717
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(10) Board:(2h 2s 7d 9s)
+Our hand: Tc 7s
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 6.380000
+OldBotv1(Ain'tABitch)6's Equity: 0.638
+OldBotv1(Ain'tABitch)6's EV: 6.380000
+OldBotv1(Ain'tABitch)6's Equity: 0.638
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(10) Board:(2h 2s 7d 9s 8d)
+Our hand: Tc 7s
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 5.686869
+OldBotv1(Ain'tABitch)6's Equity: 0.568686868687
+OldBotv1(Ain'tABitch)6's EV: 5.686869
+OldBotv1(Ain'tABitch)6's Equity: 0.568686868687
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.476190
+BAMF6 WTSD percentage is: 0.380952
+BAMF6 W$SD percentage is: 0.142857
+
+
+NEWHAND:22
+
+['NEWHAND', '22', '2', 'Td', 'Jh', '154', '251', '195', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '3', 'true', 'true', 'true', '14.489984']
+Active Players:3
+
+Our hand: Td Jh
+OldBotv2(MOUSE)6's VPIP: 0.285714
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.526316
+OldBotv2(MOUSE)6's AF: 0.214286
+OldBotv1(Ain'tABitch)6's VPIP: 0.238095
+OldBotv1(Ain'tABitch)6's PFR: 0.047619
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 24.000000
+BAMF6's VPIP: 0.142857
+BAMF6's PFR: 0.047619
+BAMF6's estimated fold percentage is 0.500000
+BAMF6's AF: 0.615385
+
+OldBotv1(Ain'tABitch)6 posts small blind, stack size (250)
+BAMF6 posts big blind, stack size (193)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Td Jh
+
+OldBotv2(MOUSE)6 folds.
+OldBotv1(Ain'tABitch)6's EV: 0.740000
+OldBotv1(Ain'tABitch)6's Equity: 0.548
+OldBotv1(Ain'tABitch)6's EV: 0.740000
+OldBotv1(Ain'tABitch)6's Equity: 0.548
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***PREFLOP***(10) Board:()
+Our hand: Td Jh
+
+BAMF6 raised to 6.
+OldBotv1(Ain'tABitch)6's EV: 2.768000
+OldBotv1(Ain'tABitch)6's Equity: 0.548
+OldBotv1(Ain'tABitch)6's EV: 2.768000
+OldBotv1(Ain'tABitch)6's Equity: 0.548
+OldBotv1(Ain'tABitch)6's Implied Odds: -11
+OldBotv1(Ain'tABitch)6 raise 8.
+
+***FLOP***(16) Board:(Th 8c 2h)
+Our hand: Td Jh
+
+BAMF6 called 8.
+OldBotv1(Ain'tABitch)6's EV: 13.008000
+OldBotv1(Ain'tABitch)6's Equity: 0.813
+OldBotv1(Ain'tABitch)6's EV: 13.008000
+OldBotv1(Ain'tABitch)6's Equity: 0.813
+OldBotv1(Ain'tABitch)6's Implied Odds: -16
+OldBotv1(Ain'tABitch)6 raise 16.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(16) Board:(Th 8c 2h 6h)
+Our hand: Td Jh
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 12.976000
+OldBotv1(Ain'tABitch)6's Equity: 0.811
+OldBotv1(Ain'tABitch)6's EV: 12.976000
+OldBotv1(Ain'tABitch)6's Equity: 0.811
+OldBotv1(Ain'tABitch)6's Implied Odds: -16
+OldBotv1(Ain'tABitch)6 raise 16.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(16) Board:(Th 8c 2h 6h 3h)
+Our hand: Td Jh
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 13.898990
+OldBotv1(Ain'tABitch)6's Equity: 0.868686868687
+OldBotv1(Ain'tABitch)6's EV: 13.898990
+OldBotv1(Ain'tABitch)6's Equity: 0.868686868687
+OldBotv1(Ain'tABitch)6's Implied Odds: -16
+OldBotv1(Ain'tABitch)6 raise 16.
+OldBotv1(Ain'tABitch)6 bets 2.
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.500000
+BAMF6 WTSD percentage is: 0.409091
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.363636
+
+
+NEWHAND:23
+
+['NEWHAND', '23', '3', '5d', '4s', '187', '154', '259', 'BAMF6', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", '3', 'true', 'true', 'true', '14.452637']
+Active Players:3
+
+Our hand: 5d 4s
+BAMF6's VPIP: 0.181818
+BAMF6's PFR: 0.045455
+BAMF6's estimated fold percentage is 0.500000
+BAMF6's AF: 0.642857
+OldBotv2(MOUSE)6's VPIP: 0.272727
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.500000
+OldBotv2(MOUSE)6's AF: 0.214286
+OldBotv1(Ain'tABitch)6's VPIP: 0.272727
+OldBotv1(Ain'tABitch)6's PFR: 0.045455
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 26.000000
+
+OldBotv2(MOUSE)6 posts small blind, stack size (153)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (257)
+
+
+***PREFLOP***(10) Board:()
+Our hand: 5d 4s
+
+BAMF6 raised to 4.
+OldBotv2(MOUSE)6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 1.775000
+OldBotv1(Ain'tABitch)6's Equity: 0.4125
+OldBotv1(Ain'tABitch)6's EV: 1.775000
+OldBotv1(Ain'tABitch)6's Equity: 0.4125
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 6.
+
+***FLOP***(18) Board:(Qd 6s Kc)
+Our hand: 5d 4s
+
+BAMF6 called 6.
+OldBotv2(MOUSE)6 called 6.
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 3.825000
+OldBotv1(Ain'tABitch)6's Equity: 0.2125
+OldBotv1(Ain'tABitch)6's EV: 3.825000
+OldBotv1(Ain'tABitch)6's Equity: 0.2125
+OldBotv1(Ain'tABitch)6's Implied Odds: -18
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(18) Board:(Qd 6s Kc 2s)
+Our hand: 5d 4s
+
+BAMF6 checks.
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 2.781000
+OldBotv1(Ain'tABitch)6's Equity: 0.1545
+OldBotv1(Ain'tABitch)6's EV: 2.781000
+OldBotv1(Ain'tABitch)6's Equity: 0.1545
+OldBotv1(Ain'tABitch)6's Implied Odds: -18
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(18) Board:(Qd 6s Kc 2s 4h)
+Our hand: 5d 4s
+
+BAMF6 checks.
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 9.345455
+OldBotv1(Ain'tABitch)6's Equity: 0.519191919192
+OldBotv1(Ain'tABitch)6's EV: 9.345455
+OldBotv1(Ain'tABitch)6's Equity: 0.519191919192
+OldBotv1(Ain'tABitch)6's Implied Odds: -18
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+BAMF6 checks.
+BAMF6 WTSD percentage is: 0.434783
+OldBotv2(MOUSE)6 WTSD percentage is: 0.217391
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.521739
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.391304
+
+
+NEWHAND:24
+
+['NEWHAND', '24', '1', '9d', 'Kd', '271', '181', '148', "OldBotv1(Ain'tABitch)6", 'BAMF6', 'OldBotv2(MOUSE)6', '3', 'true', 'true', 'true', '14.425883']
+Active Players:3
+
+Our hand: 9d Kd
+OldBotv1(Ain'tABitch)6's VPIP: 0.260870
+OldBotv1(Ain'tABitch)6's PFR: 0.043478
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 27.000000
+BAMF6's VPIP: 0.217391
+BAMF6's PFR: 0.043478
+BAMF6's estimated fold percentage is 0.500000
+BAMF6's AF: 0.666667
+OldBotv2(MOUSE)6's VPIP: 0.304348
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.500000
+OldBotv2(MOUSE)6's AF: 0.187500
+
+BAMF6 posts small blind, stack size (180)
+OldBotv2(MOUSE)6 posts big blind, stack size (146)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 9d Kd
+
+OldBotv1(Ain'tABitch)6's EV: 1.027500
+OldBotv1(Ain'tABitch)6's Equity: 0.6055
+OldBotv1(Ain'tABitch)6's EV: 1.027500
+OldBotv1(Ain'tABitch)6's Equity: 0.6055
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(10) Board:(3d As Ks)
+Our hand: 9d Kd
+
+BAMF6 called 4.
+OldBotv2(MOUSE)6 folds.
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 7.615000
+OldBotv1(Ain'tABitch)6's Equity: 0.7615
+OldBotv1(Ain'tABitch)6's EV: 7.615000
+OldBotv1(Ain'tABitch)6's Equity: 0.7615
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(10) Board:(3d As Ks Jc)
+Our hand: 9d Kd
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 7.660000
+OldBotv1(Ain'tABitch)6's Equity: 0.766
+OldBotv1(Ain'tABitch)6's EV: 7.660000
+OldBotv1(Ain'tABitch)6's Equity: 0.766
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(10) Board:(3d As Ks Jc 6c)
+Our hand: 9d Kd
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 7.787879
+OldBotv1(Ain'tABitch)6's Equity: 0.778787878788
+OldBotv1(Ain'tABitch)6's EV: 7.787879
+OldBotv1(Ain'tABitch)6's Equity: 0.778787878788
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.541667
+BAMF6 WTSD percentage is: 0.458333
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.416667
+
+
+NEWHAND:25
+
+['NEWHAND', '25', '2', '6c', 'Kd', '146', '277', '177', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '3', 'true', 'true', 'true', '14.376064']
+Active Players:3
+
+Our hand: 6c Kd
+OldBotv2(MOUSE)6's VPIP: 0.291667
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.500000
+OldBotv2(MOUSE)6's AF: 0.187500
+OldBotv1(Ain'tABitch)6's VPIP: 0.250000
+OldBotv1(Ain'tABitch)6's PFR: 0.041667
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 28.000000
+BAMF6's VPIP: 0.208333
+BAMF6's PFR: 0.041667
+BAMF6's estimated fold percentage is 0.500000
+BAMF6's AF: 0.625000
+
+OldBotv1(Ain'tABitch)6 posts small blind, stack size (276)
+BAMF6 posts big blind, stack size (175)
+
+
+***PREFLOP***(5) Board:()
+Our hand: 6c Kd
+
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 1.727500
+OldBotv1(Ain'tABitch)6's Equity: 0.5325
+OldBotv1(Ain'tABitch)6's EV: 1.727500
+OldBotv1(Ain'tABitch)6's Equity: 0.5325
+OldBotv1(Ain'tABitch)6's Implied Odds: -5
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(10) Board:(4d 6h Ad)
+Our hand: 6c Kd
+
+BAMF6 folds.
+OldBotv2(MOUSE)6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 6.790000
+OldBotv1(Ain'tABitch)6's Equity: 0.679
+OldBotv1(Ain'tABitch)6's EV: 6.790000
+OldBotv1(Ain'tABitch)6's Equity: 0.679
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(10) Board:(4d 6h Ad Qs)
+Our hand: 6c Kd
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 6.500000
+OldBotv1(Ain'tABitch)6's Equity: 0.65
+OldBotv1(Ain'tABitch)6's EV: 6.500000
+OldBotv1(Ain'tABitch)6's Equity: 0.65
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(10) Board:(4d 6h Ad Qs 8s)
+Our hand: 6c Kd
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 5.797980
+OldBotv1(Ain'tABitch)6's Equity: 0.579797979798
+OldBotv1(Ain'tABitch)6's EV: 5.797980
+OldBotv1(Ain'tABitch)6's Equity: 0.579797979798
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(20) Board:(4d 6h Ad Qs 8s)
+Our hand: 6c Kd
+
+OldBotv2(MOUSE)6 bet 10.
+OldBotv1(Ain'tABitch)6's EV: 7.393939
+OldBotv1(Ain'tABitch)6's Equity: 0.579797979798
+OldBotv1(Ain'tABitch)6's EV: 7.393939
+OldBotv1(Ain'tABitch)6's Equity: 0.579797979798
+OldBotv1(Ain'tABitch)6's Implied Odds: -22
+OldBotv1(Ain'tABitch)6 raise 20.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:26
+
+['NEWHAND', '26', '3', 'Ad', '3s', '175', '132', '293', 'BAMF6', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", '3', 'true', 'true', 'true', '14.343204']
+Active Players:3
+
+Our hand: Ad 3s
+BAMF6's VPIP: 0.200000
+BAMF6's PFR: 0.040000
+BAMF6's estimated fold percentage is 0.500000
+BAMF6's AF: 0.625000
+OldBotv2(MOUSE)6's VPIP: 0.320000
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.500000
+OldBotv2(MOUSE)6's AF: 0.222222
+OldBotv1(Ain'tABitch)6's VPIP: 0.240000
+OldBotv1(Ain'tABitch)6's PFR: 0.040000
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 30.000000
+
+OldBotv2(MOUSE)6 posts small blind, stack size (131)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (291)
+
+
+***PREFLOP***(5) Board:()
+Our hand: Ad 3s
+
+BAMF6 called 2.
+OldBotv2(MOUSE)6 folds.
+OldBotv1(Ain'tABitch)6's EV: 2.655000
+OldBotv1(Ain'tABitch)6's Equity: 0.531
+OldBotv1(Ain'tABitch)6's EV: 2.655000
+OldBotv1(Ain'tABitch)6's Equity: 0.531
+OldBotv1(Ain'tABitch)6's Implied Odds: -5
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***PREFLOP***(11) Board:()
+Our hand: Ad 3s
+
+BAMF6 raised to 6.
+OldBotv1(Ain'tABitch)6's EV: 3.027000
+OldBotv1(Ain'tABitch)6's Equity: 0.531
+OldBotv1(Ain'tABitch)6's EV: 3.027000
+OldBotv1(Ain'tABitch)6's Equity: 0.531
+OldBotv1(Ain'tABitch)6's Implied Odds: -11
+OldBotv1(Ain'tABitch)6 raise 8.
+
+***FLOP***(17) Board:(2d 5h 7s)
+Our hand: Ad 3s
+
+BAMF6 called 8.
+OldBotv1(Ain'tABitch)6's EV: 9.171500
+OldBotv1(Ain'tABitch)6's Equity: 0.5395
+OldBotv1(Ain'tABitch)6's EV: 9.171500
+OldBotv1(Ain'tABitch)6's Equity: 0.5395
+OldBotv1(Ain'tABitch)6's Implied Odds: -17
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(17) Board:(2d 5h 7s Qd)
+Our hand: Ad 3s
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 7.607500
+OldBotv1(Ain'tABitch)6's Equity: 0.4475
+OldBotv1(Ain'tABitch)6's EV: 7.607500
+OldBotv1(Ain'tABitch)6's Equity: 0.4475
+OldBotv1(Ain'tABitch)6's Implied Odds: -17
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(17) Board:(2d 5h 7s Qd 4s)
+Our hand: Ad 3s
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 16.441919
+OldBotv1(Ain'tABitch)6's Equity: 0.967171717172
+OldBotv1(Ain'tABitch)6's EV: 16.441919
+OldBotv1(Ain'tABitch)6's Equity: 0.967171717172
+OldBotv1(Ain'tABitch)6's Implied Odds: -17
+OldBotv1(Ain'tABitch)6 raise 17.
+OldBotv1(Ain'tABitch)6 bets 2.
+BAMF6 checks.
+BAMF6 WTSD percentage is: 0.461538
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.538462
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.423077
+
+
+NEWHAND:27
+
+['NEWHAND', '27', '1', '5h', 'Qh', '302', '167', '131', "OldBotv1(Ain'tABitch)6", 'BAMF6', 'OldBotv2(MOUSE)6', '3', 'true', 'true', 'true', '14.309469']
+Active Players:3
+
+Our hand: 5h Qh
+OldBotv1(Ain'tABitch)6's VPIP: 0.269231
+OldBotv1(Ain'tABitch)6's PFR: 0.038462
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 32.000000
+BAMF6's VPIP: 0.230769
+BAMF6's PFR: 0.038462
+BAMF6's estimated fold percentage is 0.500000
+BAMF6's AF: 0.611111
+OldBotv2(MOUSE)6's VPIP: 0.307692
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.461538
+OldBotv2(MOUSE)6's AF: 0.222222
+
+BAMF6 posts small blind, stack size (166)
+OldBotv2(MOUSE)6 posts big blind, stack size (129)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 5h Qh
+
+OldBotv1(Ain'tABitch)6's EV: 0.547500
+OldBotv1(Ain'tABitch)6's Equity: 0.5095
+OldBotv1(Ain'tABitch)6's EV: 0.547500
+OldBotv1(Ain'tABitch)6's Equity: 0.5095
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(9) Board:(Qc 7s 5c)
+Our hand: 5h Qh
+
+BAMF6 folds.
+OldBotv2(MOUSE)6 called 4.
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 7.893000
+OldBotv1(Ain'tABitch)6's Equity: 0.877
+OldBotv1(Ain'tABitch)6's EV: 7.893000
+OldBotv1(Ain'tABitch)6's Equity: 0.877
+OldBotv1(Ain'tABitch)6's Implied Odds: -9
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(9) Board:(Qc 7s 5c Ts)
+Our hand: 5h Qh
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 8.154000
+OldBotv1(Ain'tABitch)6's Equity: 0.906
+OldBotv1(Ain'tABitch)6's EV: 8.154000
+OldBotv1(Ain'tABitch)6's Equity: 0.906
+OldBotv1(Ain'tABitch)6's Implied Odds: -9
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(9) Board:(Qc 7s 5c Ts 3c)
+Our hand: 5h Qh
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 8.227273
+OldBotv1(Ain'tABitch)6's Equity: 0.914141414141
+OldBotv1(Ain'tABitch)6's EV: 8.227273
+OldBotv1(Ain'tABitch)6's Equity: 0.914141414141
+OldBotv1(Ain'tABitch)6's Implied Odds: -9
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.555556
+OldBotv2(MOUSE)6 WTSD percentage is: 0.222222
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.444444
+
+
+NEWHAND:28
+
+['NEWHAND', '28', '2', '2d', '3d', '127', '307', '166', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '3', 'true', 'true', 'true', '14.274545']
+Active Players:3
+
+Our hand: 2d 3d
+OldBotv2(MOUSE)6's VPIP: 0.296296
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.461538
+OldBotv2(MOUSE)6's AF: 0.210526
+OldBotv1(Ain'tABitch)6's VPIP: 0.259259
+OldBotv1(Ain'tABitch)6's PFR: 0.037037
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 33.000000
+BAMF6's VPIP: 0.222222
+BAMF6's PFR: 0.037037
+BAMF6's estimated fold percentage is 0.500000
+BAMF6's AF: 0.611111
+
+OldBotv1(Ain'tABitch)6 posts small blind, stack size (306)
+BAMF6 posts big blind, stack size (164)
+
+
+***PREFLOP***(5) Board:()
+Our hand: 2d 3d
+
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 0.492000
+OldBotv1(Ain'tABitch)6's Equity: 0.356
+OldBotv1(Ain'tABitch)6's EV: 0.492000
+OldBotv1(Ain'tABitch)6's Equity: 0.356
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(12) Board:(Jc 4h Tc)
+Our hand: 2d 3d
+
+BAMF6 called 4.
+OldBotv2(MOUSE)6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 1.536000
+OldBotv1(Ain'tABitch)6's Equity: 0.128
+OldBotv1(Ain'tABitch)6's EV: 1.536000
+OldBotv1(Ain'tABitch)6's Equity: 0.128
+OldBotv1(Ain'tABitch)6's Implied Odds: -12
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(12) Board:(Jc 4h Tc 4c)
+Our hand: 2d 3d
+
+BAMF6 checks.
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 1.428000
+OldBotv1(Ain'tABitch)6's Equity: 0.119
+OldBotv1(Ain'tABitch)6's EV: 1.428000
+OldBotv1(Ain'tABitch)6's Equity: 0.119
+OldBotv1(Ain'tABitch)6's Implied Odds: -12
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(16) Board:(Jc 4h Tc 4c)
+Our hand: 2d 3d
+
+BAMF6 bet 2.
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 0.142000
+OldBotv1(Ain'tABitch)6's Equity: 0.119
+OldBotv1(Ain'tABitch)6's EV: 0.142000
+OldBotv1(Ain'tABitch)6's Equity: 0.119
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***RIVER***(24) Board:(Jc 4h Tc 4c 9h)
+Our hand: 2d 3d
+
+BAMF6 called 4.
+OldBotv2(MOUSE)6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 2.072727
+OldBotv1(Ain'tABitch)6's Equity: 0.0863636363636
+OldBotv1(Ain'tABitch)6's EV: 2.072727
+OldBotv1(Ain'tABitch)6's Equity: 0.0863636363636
+OldBotv1(Ain'tABitch)6's Implied Odds: -24
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+BAMF6 checks.
+OldBotv2(MOUSE)6 checks.
+OldBotv2(MOUSE)6 WTSD percentage is: 0.250000
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.571429
+BAMF6 WTSD percentage is: 0.464286
+OldBotv2(MOUSE)6 W$SD percentage is: 0.071429
+
+
+NEWHAND:29
+
+['NEWHAND', '29', '3', '8s', '9c', '158', '143', '299', 'BAMF6', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", '3', 'true', 'true', 'true', '14.235876']
+Active Players:3
+
+Our hand: 8s 9c
+BAMF6's VPIP: 0.214286
+BAMF6's PFR: 0.035714
+BAMF6's estimated fold percentage is 0.500000
+BAMF6's AF: 0.600000
+OldBotv2(MOUSE)6's VPIP: 0.321429
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.461538
+OldBotv2(MOUSE)6's AF: 0.173913
+OldBotv1(Ain'tABitch)6's VPIP: 0.250000
+OldBotv1(Ain'tABitch)6's PFR: 0.035714
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 35.000000
+
+OldBotv2(MOUSE)6 posts small blind, stack size (142)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (297)
+
+
+***PREFLOP***(5) Board:()
+Our hand: 8s 9c
+
+BAMF6 called 2.
+OldBotv2(MOUSE)6 folds.
+OldBotv1(Ain'tABitch)6's EV: 2.350000
+OldBotv1(Ain'tABitch)6's Equity: 0.47
+OldBotv1(Ain'tABitch)6's EV: 2.350000
+OldBotv1(Ain'tABitch)6's Equity: 0.47
+OldBotv1(Ain'tABitch)6's Implied Odds: -5
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(9) Board:(2c 6d 4c)
+Our hand: 8s 9c
+
+BAMF6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 2.556000
+OldBotv1(Ain'tABitch)6's Equity: 0.284
+OldBotv1(Ain'tABitch)6's EV: 2.556000
+OldBotv1(Ain'tABitch)6's Equity: 0.284
+OldBotv1(Ain'tABitch)6's Implied Odds: -9
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(9) Board:(2c 6d 4c 6s)
+Our hand: 8s 9c
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 1.611000
+OldBotv1(Ain'tABitch)6's Equity: 0.179
+OldBotv1(Ain'tABitch)6's EV: 1.611000
+OldBotv1(Ain'tABitch)6's Equity: 0.179
+OldBotv1(Ain'tABitch)6's Implied Odds: -9
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(9) Board:(2c 6d 4c 6s 9h)
+Our hand: 8s 9c
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 7.336364
+OldBotv1(Ain'tABitch)6's Equity: 0.815151515152
+OldBotv1(Ain'tABitch)6's EV: 7.336364
+OldBotv1(Ain'tABitch)6's Equity: 0.815151515152
+OldBotv1(Ain'tABitch)6's Implied Odds: -9
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+BAMF6 checks.
+BAMF6 WTSD percentage is: 0.482759
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.586207
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.448276
+
+
+NEWHAND:30
+
+['NEWHAND', '30', '1', '5h', '3h', '304', '154', '142', "OldBotv1(Ain'tABitch)6", 'BAMF6', 'OldBotv2(MOUSE)6', '3', 'true', 'true', 'true', '14.155803']
+Active Players:3
+
+Our hand: 5h 3h
+OldBotv1(Ain'tABitch)6's VPIP: 0.241379
+OldBotv1(Ain'tABitch)6's PFR: 0.034483
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 36.000000
+BAMF6's VPIP: 0.241379
+BAMF6's PFR: 0.034483
+BAMF6's estimated fold percentage is 0.500000
+BAMF6's AF: 0.545455
+OldBotv2(MOUSE)6's VPIP: 0.310345
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.448276
+OldBotv2(MOUSE)6's AF: 0.173913
+
+BAMF6 posts small blind, stack size (153)
+OldBotv2(MOUSE)6 posts big blind, stack size (140)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 5h 3h
+
+OldBotv1(Ain'tABitch)6's EV: -0.065000
+OldBotv1(Ain'tABitch)6's Equity: 0.387
+OldBotv1(Ain'tABitch)6's EV: -0.065000
+OldBotv1(Ain'tABitch)6's Equity: 0.387
+OldBotv1(Ain'tABitch)6's Implied Odds: -1
+OldBotv1(Ain'tABitch)6 folds.
+BAMF6 called 2.
+OldBotv2(MOUSE)6 checks.
+BAMF6 checks.
+OldBotv2(MOUSE)6 checks.
+BAMF6 checks.
+OldBotv2(MOUSE)6 checks.
+BAMF6 checks.
+OldBotv2(MOUSE)6 checks.
+BAMF6 WTSD percentage is: 0.500000
+OldBotv2(MOUSE)6 WTSD percentage is: 0.266667
+BAMF6 W$SD percentage is: 0.133333
+
+
+NEWHAND:31
+
+['NEWHAND', '31', '2', 'Ac', 'Ah', '140', '304', '156', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '3', 'true', 'true', 'true', '14.144089']
+Active Players:3
+
+Our hand: Ac Ah
+OldBotv2(MOUSE)6's VPIP: 0.300000
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.448276
+OldBotv2(MOUSE)6's AF: 0.173913
+OldBotv1(Ain'tABitch)6's VPIP: 0.233333
+OldBotv1(Ain'tABitch)6's PFR: 0.033333
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 36.000000
+BAMF6's VPIP: 0.233333
+BAMF6's PFR: 0.033333
+BAMF6's estimated fold percentage is 0.500000
+BAMF6's AF: 0.521739
+
+OldBotv1(Ain'tABitch)6 posts small blind, stack size (303)
+BAMF6 posts big blind, stack size (154)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ac Ah
+
+OldBotv2(MOUSE)6 folds.
+OldBotv1(Ain'tABitch)6's EV: 2.197500
+OldBotv1(Ain'tABitch)6's Equity: 0.8395
+OldBotv1(Ain'tABitch)6's EV: 2.197500
+OldBotv1(Ain'tABitch)6's Equity: 0.8395
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+BAMF6 folds.
+
+
+NEWHAND:32
+
+['NEWHAND', '32', '3', 'Jc', '7s', '154', '140', '306', 'BAMF6', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", '3', 'true', 'true', 'true', '14.135929']
+Active Players:3
+
+Our hand: Jc 7s
+BAMF6's VPIP: 0.225806
+BAMF6's PFR: 0.032258
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.521739
+OldBotv2(MOUSE)6's VPIP: 0.290323
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.451613
+OldBotv2(MOUSE)6's AF: 0.173913
+OldBotv1(Ain'tABitch)6's VPIP: 0.258065
+OldBotv1(Ain'tABitch)6's PFR: 0.032258
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 37.000000
+
+OldBotv2(MOUSE)6 posts small blind, stack size (139)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (304)
+
+
+***PREFLOP***(6) Board:()
+Our hand: Jc 7s
+
+BAMF6 called 2.
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 3.102000
+OldBotv1(Ain'tABitch)6's Equity: 0.517
+OldBotv1(Ain'tABitch)6's EV: 3.102000
+OldBotv1(Ain'tABitch)6's Equity: 0.517
+OldBotv1(Ain'tABitch)6's Implied Odds: -6
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(24) Board:(4h Td Qc)
+Our hand: Jc 7s
+
+BAMF6 called 4.
+OldBotv2(MOUSE)6 called 4.
+OldBotv2(MOUSE)6 bet 12.
+OldBotv1(Ain'tABitch)6's EV: 1.446000
+OldBotv1(Ain'tABitch)6's Equity: 0.3735
+OldBotv1(Ain'tABitch)6's EV: 1.446000
+OldBotv1(Ain'tABitch)6's Equity: 0.3735
+OldBotv1(Ain'tABitch)6's Implied Odds: -15
+OldBotv1(Ain'tABitch)6 raise 24.
+
+***TURN***(72) Board:(4h Td Qc Qh)
+Our hand: Jc 7s
+
+BAMF6 called 24.
+OldBotv2(MOUSE)6 folds.
+OldBotv1(Ain'tABitch)6's EV: 27.864000
+OldBotv1(Ain'tABitch)6's Equity: 0.387
+OldBotv1(Ain'tABitch)6's EV: 27.864000
+OldBotv1(Ain'tABitch)6's Equity: 0.387
+OldBotv1(Ain'tABitch)6's Implied Odds: -72
+OldBotv1(Ain'tABitch)6 raise 72.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(72) Board:(4h Td Qc Qh 5c)
+Our hand: Jc 7s
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 18.945455
+OldBotv1(Ain'tABitch)6's Equity: 0.263131313131
+OldBotv1(Ain'tABitch)6's EV: 18.945455
+OldBotv1(Ain'tABitch)6's Equity: 0.263131313131
+OldBotv1(Ain'tABitch)6's Implied Odds: -72
+OldBotv1(Ain'tABitch)6 raise 72.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(80) Board:(4h Td Qc Qh 5c)
+Our hand: Jc 7s
+
+BAMF6 bet 8.
+OldBotv1(Ain'tABitch)6's EV: 15.155556
+OldBotv1(Ain'tABitch)6's Equity: 0.263131313131
+OldBotv1(Ain'tABitch)6's EV: 15.155556
+OldBotv1(Ain'tABitch)6's Equity: 0.263131313131
+OldBotv1(Ain'tABitch)6's Implied Odds: -65
+OldBotv1(Ain'tABitch)6 raise 96.
+BAMF6 folds.
+
+
+NEWHAND:33
+
+['NEWHAND', '33', '1', '5d', '7h', '358', '118', '124', "OldBotv1(Ain'tABitch)6", 'BAMF6', 'OldBotv2(MOUSE)6', '3', 'true', 'true', 'true', '14.105554']
+Active Players:3
+
+Our hand: 5d 7h
+OldBotv1(Ain'tABitch)6's VPIP: 0.250000
+OldBotv1(Ain'tABitch)6's PFR: 0.031250
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 40.000000
+BAMF6's VPIP: 0.250000
+BAMF6's PFR: 0.031250
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.500000
+OldBotv2(MOUSE)6's VPIP: 0.312500
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.451613
+OldBotv2(MOUSE)6's AF: 0.200000
+
+BAMF6 posts small blind, stack size (117)
+OldBotv2(MOUSE)6 posts big blind, stack size (122)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 5d 7h
+
+OldBotv1(Ain'tABitch)6's EV: 0.115000
+OldBotv1(Ain'tABitch)6's Equity: 0.423
+OldBotv1(Ain'tABitch)6's EV: 0.115000
+OldBotv1(Ain'tABitch)6's Equity: 0.423
+OldBotv1(Ain'tABitch)6's Implied Odds: -2
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(10) Board:(Jc 9s 6h)
+Our hand: 5d 7h
+
+BAMF6 called 4.
+OldBotv2(MOUSE)6 folds.
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 3.420000
+OldBotv1(Ain'tABitch)6's Equity: 0.342
+OldBotv1(Ain'tABitch)6's EV: 3.420000
+OldBotv1(Ain'tABitch)6's Equity: 0.342
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(10) Board:(Jc 9s 6h 5c)
+Our hand: 5d 7h
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 5.055000
+OldBotv1(Ain'tABitch)6's Equity: 0.5055
+OldBotv1(Ain'tABitch)6's EV: 5.055000
+OldBotv1(Ain'tABitch)6's Equity: 0.5055
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(10) Board:(Jc 9s 6h 5c 5s)
+Our hand: 5d 7h
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 9.439394
+OldBotv1(Ain'tABitch)6's Equity: 0.943939393939
+OldBotv1(Ain'tABitch)6's EV: 9.439394
+OldBotv1(Ain'tABitch)6's Equity: 0.943939393939
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.545455
+BAMF6 WTSD percentage is: 0.484848
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.424242
+
+
+NEWHAND:34
+
+['NEWHAND', '34', '2', 'Tc', 'Jh', '122', '364', '114', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '3', 'true', 'true', 'true', '14.080424']
+Active Players:3
+
+Our hand: Tc Jh
+OldBotv2(MOUSE)6's VPIP: 0.303030
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.451613
+OldBotv2(MOUSE)6's AF: 0.200000
+OldBotv1(Ain'tABitch)6's VPIP: 0.242424
+OldBotv1(Ain'tABitch)6's PFR: 0.030303
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 41.000000
+BAMF6's VPIP: 0.242424
+BAMF6's PFR: 0.030303
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.481481
+
+OldBotv1(Ain'tABitch)6 posts small blind, stack size (363)
+BAMF6 posts big blind, stack size (112)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Tc Jh
+
+OldBotv2(MOUSE)6 folds.
+OldBotv1(Ain'tABitch)6's EV: 0.757500
+OldBotv1(Ain'tABitch)6's Equity: 0.5515
+OldBotv1(Ain'tABitch)6's EV: 0.757500
+OldBotv1(Ain'tABitch)6's Equity: 0.5515
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(Kd 4h 8d)
+Our hand: Tc Jh
+
+BAMF6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 3.396000
+OldBotv1(Ain'tABitch)6's Equity: 0.4245
+OldBotv1(Ain'tABitch)6's EV: 3.396000
+OldBotv1(Ain'tABitch)6's Equity: 0.4245
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(8) Board:(Kd 4h 8d Td)
+Our hand: Tc Jh
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 5.384000
+OldBotv1(Ain'tABitch)6's Equity: 0.673
+OldBotv1(Ain'tABitch)6's EV: 5.384000
+OldBotv1(Ain'tABitch)6's Equity: 0.673
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(8) Board:(Kd 4h 8d Td 5c)
+Our hand: Tc Jh
+
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6's EV: 5.761616
+OldBotv1(Ain'tABitch)6's Equity: 0.720202020202
+OldBotv1(Ain'tABitch)6's EV: 5.761616
+OldBotv1(Ain'tABitch)6's Equity: 0.720202020202
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+BAMF6 checks.
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.558824
+BAMF6 WTSD percentage is: 0.500000
+BAMF6 W$SD percentage is: 0.147059
+
+
+NEWHAND:35
+
+['NEWHAND', '35', '3', '6d', '2h', '118', '122', '360', 'BAMF6', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", '3', 'true', 'true', 'true', '14.056797']
+Active Players:3
+
+Our hand: 6d 2h
+BAMF6's VPIP: 0.235294
+BAMF6's PFR: 0.029412
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.464286
+OldBotv2(MOUSE)6's VPIP: 0.294118
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.441176
+OldBotv2(MOUSE)6's AF: 0.200000
+OldBotv1(Ain'tABitch)6's VPIP: 0.235294
+OldBotv1(Ain'tABitch)6's PFR: 0.029412
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 42.000000
+
+OldBotv2(MOUSE)6 posts small blind, stack size (121)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (358)
+
+
+***PREFLOP***(6) Board:()
+Our hand: 6d 2h
+
+BAMF6 called 2.
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 2.046000
+OldBotv1(Ain'tABitch)6's Equity: 0.341
+OldBotv1(Ain'tABitch)6's EV: 2.046000
+OldBotv1(Ain'tABitch)6's Equity: 0.341
+OldBotv1(Ain'tABitch)6's Implied Odds: -6
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(19) Board:(Kh 8c 8d)
+Our hand: 6d 2h
+
+BAMF6 called 4.
+OldBotv2(MOUSE)6 called 4.
+OldBotv2(MOUSE)6 bet 7.
+OldBotv1(Ain'tABitch)6's EV: -1.163000
+OldBotv1(Ain'tABitch)6's Equity: 0.2245
+OldBotv1(Ain'tABitch)6's EV: -1.163000
+OldBotv1(Ain'tABitch)6's Equity: 0.2245
+OldBotv1(Ain'tABitch)6's Implied Odds: -1
+OldBotv1(Ain'tABitch)6 folds.
+BAMF6 called 7.
+OldBotv2(MOUSE)6 bet 15.
+BAMF6 called 15.
+OldBotv2(MOUSE)6 bet 52.
+BAMF6 folds.
+
+
+NEWHAND:36
+
+['NEWHAND', '36', '1', '9h', '6s', '356', '92', '152', "OldBotv1(Ain'tABitch)6", 'BAMF6', 'OldBotv2(MOUSE)6', '3', 'true', 'true', 'true', '14.043682']
+Active Players:3
+
+Our hand: 9h 6s
+OldBotv1(Ain'tABitch)6's VPIP: 0.228571
+OldBotv1(Ain'tABitch)6's PFR: 0.028571
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 43.000000
+BAMF6's VPIP: 0.257143
+BAMF6's PFR: 0.028571
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.406250
+OldBotv2(MOUSE)6's VPIP: 0.314286
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.441176
+OldBotv2(MOUSE)6's AF: 0.296296
+
+BAMF6 posts small blind, stack size (91)
+OldBotv2(MOUSE)6 posts big blind, stack size (150)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 9h 6s
+
+OldBotv1(Ain'tABitch)6's EV: 0.240000
+OldBotv1(Ain'tABitch)6's Equity: 0.448
+OldBotv1(Ain'tABitch)6's EV: 0.240000
+OldBotv1(Ain'tABitch)6's Equity: 0.448
+OldBotv1(Ain'tABitch)6's Implied Odds: -2
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(16) Board:(8c 5h 7c)
+Our hand: 9h 6s
+
+BAMF6 called 4.
+OldBotv2(MOUSE)6 called 4.
+BAMF6 checks.
+OldBotv2(MOUSE)6 bet 4.
+OldBotv1(Ain'tABitch)6's EV: 14.300000
+OldBotv1(Ain'tABitch)6's Equity: 0.915
+OldBotv1(Ain'tABitch)6's EV: 14.300000
+OldBotv1(Ain'tABitch)6's Equity: 0.915
+OldBotv1(Ain'tABitch)6's Implied Odds: -19
+OldBotv1(Ain'tABitch)6 raise 24.
+
+***FLOP***(91) Board:(8c 5h 7c)
+Our hand: 9h 6s
+
+BAMF6 raised to 51.
+OldBotv2(MOUSE)6 folds.
+OldBotv1(Ain'tABitch)6's EV: 79.924000
+OldBotv1(Ain'tABitch)6's Equity: 0.922
+OldBotv1(Ain'tABitch)6's EV: 79.924000
+OldBotv1(Ain'tABitch)6's Equity: 0.922
+OldBotv1(Ain'tABitch)6's Implied Odds: -137
+OldBotv1(Ain'tABitch)6 raise 88.
+BAMF6 called 88.
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.555556
+BAMF6 WTSD percentage is: 0.500000
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.416667
+
+
+NEWHAND:37
+
+['NEWHAND', '37', '2', 'Js', '9s', '144', '456', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '14.010752']
+Active Players:2
+
+Our hand: Js 9s
+OldBotv2(MOUSE)6's VPIP: 0.305556
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.441176
+OldBotv2(MOUSE)6's AF: 0.321429
+OldBotv1(Ain'tABitch)6's VPIP: 0.222222
+OldBotv1(Ain'tABitch)6's PFR: 0.027778
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 46.000000
+BAMF6's VPIP: 0.250000
+BAMF6's PFR: 0.027778
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (143)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (454)
+
+
+***PREFLOP***(4) Board:()
+Our hand: Js 9s
+
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 2.220000
+OldBotv1(Ain'tABitch)6's Equity: 0.555
+OldBotv1(Ain'tABitch)6's EV: 2.220000
+OldBotv1(Ain'tABitch)6's Equity: 0.555
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(4d 4h 2s)
+Our hand: Js 9s
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 3.524000
+OldBotv1(Ain'tABitch)6's Equity: 0.4405
+OldBotv1(Ain'tABitch)6's EV: 3.524000
+OldBotv1(Ain'tABitch)6's Equity: 0.4405
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(8) Board:(4d 4h 2s Th)
+Our hand: Js 9s
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 2.288000
+OldBotv1(Ain'tABitch)6's Equity: 0.286
+OldBotv1(Ain'tABitch)6's EV: 2.288000
+OldBotv1(Ain'tABitch)6's Equity: 0.286
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(12) Board:(4d 4h 2s Th)
+Our hand: Js 9s
+
+OldBotv2(MOUSE)6 bet 4.
+OldBotv1(Ain'tABitch)6's EV: 0.576000
+OldBotv1(Ain'tABitch)6's Equity: 0.286
+OldBotv1(Ain'tABitch)6's EV: 0.576000
+OldBotv1(Ain'tABitch)6's Equity: 0.286
+OldBotv1(Ain'tABitch)6's Implied Odds: -6
+OldBotv1(Ain'tABitch)6 raise 8.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:38
+
+['NEWHAND', '38', '1', 'Ad', '6h', '464', '136', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.983256']
+Active Players:2
+
+Our hand: Ad 6h
+OldBotv1(Ain'tABitch)6's VPIP: 0.216216
+OldBotv1(Ain'tABitch)6's PFR: 0.027027
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 48.000000
+OldBotv2(MOUSE)6's VPIP: 0.324324
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.441176
+OldBotv2(MOUSE)6's AF: 0.333333
+BAMF6's VPIP: 0.243243
+BAMF6's PFR: 0.027027
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (463)
+OldBotv2(MOUSE)6 posts big blind, stack size (134)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ad 6h
+
+OldBotv1(Ain'tABitch)6's EV: 0.832500
+OldBotv1(Ain'tABitch)6's Equity: 0.5665
+OldBotv1(Ain'tABitch)6's EV: 0.832500
+OldBotv1(Ain'tABitch)6's Equity: 0.5665
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(10) Board:(Jd 6s 4s)
+Our hand: Ad 6h
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv2(MOUSE)6 bet 2.
+OldBotv1(Ain'tABitch)6's EV: 5.986000
+OldBotv1(Ain'tABitch)6's Equity: 0.6655
+OldBotv1(Ain'tABitch)6's EV: 5.986000
+OldBotv1(Ain'tABitch)6's Equity: 0.6655
+OldBotv1(Ain'tABitch)6's Implied Odds: -10
+OldBotv1(Ain'tABitch)6 raise 4.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:39
+
+['NEWHAND', '39', '2', 'Ah', '4d', '130', '470', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.970550']
+Active Players:2
+
+Our hand: Ah 4d
+OldBotv2(MOUSE)6's VPIP: 0.315789
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.441176
+OldBotv2(MOUSE)6's AF: 0.354839
+OldBotv1(Ain'tABitch)6's VPIP: 0.210526
+OldBotv1(Ain'tABitch)6's PFR: 0.026316
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 50.000000
+BAMF6's VPIP: 0.236842
+BAMF6's PFR: 0.026316
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (129)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (468)
+
+
+***PREFLOP***(4) Board:()
+Our hand: Ah 4d
+
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 2.218000
+OldBotv1(Ain'tABitch)6's Equity: 0.5545
+OldBotv1(Ain'tABitch)6's EV: 2.218000
+OldBotv1(Ain'tABitch)6's Equity: 0.5545
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(Jh 7h Td)
+Our hand: Ah 4d
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 3.504000
+OldBotv1(Ain'tABitch)6's Equity: 0.438
+OldBotv1(Ain'tABitch)6's EV: 3.504000
+OldBotv1(Ain'tABitch)6's Equity: 0.438
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(8) Board:(Jh 7h Td 5s)
+Our hand: Ah 4d
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 2.948000
+OldBotv1(Ain'tABitch)6's Equity: 0.3685
+OldBotv1(Ain'tABitch)6's EV: 2.948000
+OldBotv1(Ain'tABitch)6's Equity: 0.3685
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(8) Board:(Jh 7h Td 5s 7s)
+Our hand: Ah 4d
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 3.543434
+OldBotv1(Ain'tABitch)6's Equity: 0.442929292929
+OldBotv1(Ain'tABitch)6's EV: 3.543434
+OldBotv1(Ain'tABitch)6's Equity: 0.442929292929
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.538462
+OldBotv2(MOUSE)6 WTSD percentage is: 0.230769
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.410256
+
+
+NEWHAND:40
+
+['NEWHAND', '40', '1', 'Kc', 'Js', '474', '126', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.941373']
+Active Players:2
+
+Our hand: Kc Js
+OldBotv1(Ain'tABitch)6's VPIP: 0.205128
+OldBotv1(Ain'tABitch)6's PFR: 0.025641
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 51.000000
+OldBotv2(MOUSE)6's VPIP: 0.333333
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.441176
+OldBotv2(MOUSE)6's AF: 0.333333
+BAMF6's VPIP: 0.230769
+BAMF6's PFR: 0.025641
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (473)
+OldBotv2(MOUSE)6 posts big blind, stack size (124)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Kc Js
+
+OldBotv1(Ain'tABitch)6's EV: 1.027500
+OldBotv1(Ain'tABitch)6's Equity: 0.6055
+OldBotv1(Ain'tABitch)6's EV: 1.027500
+OldBotv1(Ain'tABitch)6's Equity: 0.6055
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:41
+
+['NEWHAND', '41', '2', '5d', '5h', '124', '476', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.933139']
+Active Players:2
+
+Our hand: 5d 5h
+OldBotv2(MOUSE)6's VPIP: 0.325000
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.400000
+OldBotv2(MOUSE)6's AF: 0.333333
+OldBotv1(Ain'tABitch)6's VPIP: 0.225000
+OldBotv1(Ain'tABitch)6's PFR: 0.025000
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 52.000000
+BAMF6's VPIP: 0.225000
+BAMF6's PFR: 0.025000
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (123)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (474)
+
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:42
+
+['NEWHAND', '42', '1', '3d', '6d', '477', '123', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.933139']
+Active Players:2
+
+Our hand: 3d 6d
+OldBotv1(Ain'tABitch)6's VPIP: 0.219512
+OldBotv1(Ain'tABitch)6's PFR: 0.024390
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 52.000000
+OldBotv2(MOUSE)6's VPIP: 0.317073
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.414634
+OldBotv2(MOUSE)6's AF: 0.333333
+BAMF6's VPIP: 0.219512
+BAMF6's PFR: 0.024390
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (476)
+OldBotv2(MOUSE)6 posts big blind, stack size (121)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 3d 6d
+
+OldBotv1(Ain'tABitch)6's EV: 0.097500
+OldBotv1(Ain'tABitch)6's Equity: 0.4195
+OldBotv1(Ain'tABitch)6's EV: 0.097500
+OldBotv1(Ain'tABitch)6's Equity: 0.4195
+OldBotv1(Ain'tABitch)6's Implied Odds: -2
+OldBotv1(Ain'tABitch)6 raise 4.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:43
+
+['NEWHAND', '43', '2', '6c', 'Kd', '121', '479', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.923107']
+Active Players:2
+
+Our hand: 6c Kd
+OldBotv2(MOUSE)6's VPIP: 0.309524
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.428571
+OldBotv2(MOUSE)6's AF: 0.333333
+OldBotv1(Ain'tABitch)6's VPIP: 0.238095
+OldBotv1(Ain'tABitch)6's PFR: 0.023810
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 53.000000
+BAMF6's VPIP: 0.214286
+BAMF6's PFR: 0.023810
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (120)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (477)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 6c Kd
+
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 2.164000
+OldBotv1(Ain'tABitch)6's Equity: 0.541
+OldBotv1(Ain'tABitch)6's EV: 2.164000
+OldBotv1(Ain'tABitch)6's Equity: 0.541
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(5c 8s 6h)
+Our hand: 6c Kd
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 4.840000
+OldBotv1(Ain'tABitch)6's Equity: 0.605
+OldBotv1(Ain'tABitch)6's EV: 4.840000
+OldBotv1(Ain'tABitch)6's Equity: 0.605
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(8) Board:(5c 8s 6h 7c)
+Our hand: 6c Kd
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 3.196000
+OldBotv1(Ain'tABitch)6's Equity: 0.3995
+OldBotv1(Ain'tABitch)6's EV: 3.196000
+OldBotv1(Ain'tABitch)6's Equity: 0.3995
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(12) Board:(5c 8s 6h 7c)
+Our hand: 6c Kd
+
+OldBotv2(MOUSE)6 bet 4.
+OldBotv1(Ain'tABitch)6's EV: 2.392000
+OldBotv1(Ain'tABitch)6's Equity: 0.3995
+OldBotv1(Ain'tABitch)6's EV: 2.392000
+OldBotv1(Ain'tABitch)6's Equity: 0.3995
+OldBotv1(Ain'tABitch)6's Implied Odds: -9
+OldBotv1(Ain'tABitch)6 raise 8.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:44
+
+['NEWHAND', '44', '1', '7h', 'Qh', '487', '113', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.895279']
+Active Players:2
+
+Our hand: 7h Qh
+OldBotv1(Ain'tABitch)6's VPIP: 0.232558
+OldBotv1(Ain'tABitch)6's PFR: 0.023256
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 55.000000
+OldBotv2(MOUSE)6's VPIP: 0.325581
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.428571
+OldBotv2(MOUSE)6's AF: 0.342857
+BAMF6's VPIP: 0.209302
+BAMF6's PFR: 0.023256
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (486)
+OldBotv2(MOUSE)6 posts big blind, stack size (111)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 7h Qh
+
+OldBotv1(Ain'tABitch)6's EV: 0.625000
+OldBotv1(Ain'tABitch)6's Equity: 0.525
+OldBotv1(Ain'tABitch)6's EV: 0.625000
+OldBotv1(Ain'tABitch)6's Equity: 0.525
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(7s 6c 9c)
+Our hand: 7h Qh
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 5.020000
+OldBotv1(Ain'tABitch)6's Equity: 0.6275
+OldBotv1(Ain'tABitch)6's EV: 5.020000
+OldBotv1(Ain'tABitch)6's Equity: 0.6275
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(8) Board:(7s 6c 9c 5c)
+Our hand: 7h Qh
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 3.712000
+OldBotv1(Ain'tABitch)6's Equity: 0.464
+OldBotv1(Ain'tABitch)6's EV: 3.712000
+OldBotv1(Ain'tABitch)6's Equity: 0.464
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(8) Board:(7s 6c 9c 5c Td)
+Our hand: 7h Qh
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 3.931313
+OldBotv1(Ain'tABitch)6's Equity: 0.491414141414
+OldBotv1(Ain'tABitch)6's EV: 3.931313
+OldBotv1(Ain'tABitch)6's Equity: 0.491414141414
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+OldBotv2(MOUSE)6 WTSD percentage is: 0.227273
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.500000
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.386364
+
+
+NEWHAND:45
+
+['NEWHAND', '45', '2', 'Qd', '5d', '109', '491', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.869068']
+Active Players:2
+
+Our hand: Qd 5d
+OldBotv2(MOUSE)6's VPIP: 0.318182
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.428571
+OldBotv2(MOUSE)6's AF: 0.333333
+OldBotv1(Ain'tABitch)6's VPIP: 0.227273
+OldBotv1(Ain'tABitch)6's PFR: 0.022727
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 56.000000
+BAMF6's VPIP: 0.204545
+BAMF6's PFR: 0.022727
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (108)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (489)
+
+
+***PREFLOP***(4) Board:()
+Our hand: Qd 5d
+
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 2.122000
+OldBotv1(Ain'tABitch)6's Equity: 0.5305
+OldBotv1(Ain'tABitch)6's EV: 2.122000
+OldBotv1(Ain'tABitch)6's Equity: 0.5305
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(2h 5s Kc)
+Our hand: Qd 5d
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 5.344000
+OldBotv1(Ain'tABitch)6's Equity: 0.668
+OldBotv1(Ain'tABitch)6's EV: 5.344000
+OldBotv1(Ain'tABitch)6's Equity: 0.668
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***FLOP***(15) Board:(2h 5s Kc)
+Our hand: Qd 5d
+
+OldBotv2(MOUSE)6 bet 7.
+OldBotv1(Ain'tABitch)6's EV: 7.696000
+OldBotv1(Ain'tABitch)6's Equity: 0.668
+OldBotv1(Ain'tABitch)6's EV: 7.696000
+OldBotv1(Ain'tABitch)6's Equity: 0.668
+OldBotv1(Ain'tABitch)6's Implied Odds: -18
+OldBotv1(Ain'tABitch)6 raise 14.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:46
+
+['NEWHAND', '46', '1', '5s', '4c', '502', '98', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.846183']
+Active Players:2
+
+Our hand: 5s 4c
+OldBotv1(Ain'tABitch)6's VPIP: 0.222222
+OldBotv1(Ain'tABitch)6's PFR: 0.022222
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.125000
+OldBotv1(Ain'tABitch)6's AF: 58.000000
+OldBotv2(MOUSE)6's VPIP: 0.333333
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.428571
+OldBotv2(MOUSE)6's AF: 0.342105
+BAMF6's VPIP: 0.200000
+BAMF6's PFR: 0.022222
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (501)
+OldBotv2(MOUSE)6 posts big blind, stack size (96)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 5s 4c
+
+OldBotv1(Ain'tABitch)6's EV: -0.152500
+OldBotv1(Ain'tABitch)6's Equity: 0.3695
+OldBotv1(Ain'tABitch)6's EV: -0.152500
+OldBotv1(Ain'tABitch)6's Equity: 0.3695
+OldBotv1(Ain'tABitch)6's Implied Odds: -1
+OldBotv1(Ain'tABitch)6 folds.
+
+
+NEWHAND:47
+
+['NEWHAND', '47', '2', 'Qc', 'Ah', '99', '501', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.837319']
+Active Players:2
+
+Our hand: Qc Ah
+OldBotv2(MOUSE)6's VPIP: 0.326087
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.428571
+OldBotv2(MOUSE)6's AF: 0.342105
+OldBotv1(Ain'tABitch)6's VPIP: 0.217391
+OldBotv1(Ain'tABitch)6's PFR: 0.021739
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.065217
+OldBotv1(Ain'tABitch)6's AF: 58.000000
+BAMF6's VPIP: 0.195652
+BAMF6's PFR: 0.021739
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (98)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (499)
+
+
+***PREFLOP***(4) Board:()
+Our hand: Qc Ah
+
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 2.622000
+OldBotv1(Ain'tABitch)6's Equity: 0.6555
+OldBotv1(Ain'tABitch)6's EV: 2.622000
+OldBotv1(Ain'tABitch)6's Equity: 0.6555
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(Th 5d 4c)
+Our hand: Qc Ah
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 4.072000
+OldBotv1(Ain'tABitch)6's Equity: 0.509
+OldBotv1(Ain'tABitch)6's EV: 4.072000
+OldBotv1(Ain'tABitch)6's Equity: 0.509
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(8) Board:(Th 5d 4c 3c)
+Our hand: Qc Ah
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 3.772000
+OldBotv1(Ain'tABitch)6's Equity: 0.4715
+OldBotv1(Ain'tABitch)6's EV: 3.772000
+OldBotv1(Ain'tABitch)6's Equity: 0.4715
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(8) Board:(Th 5d 4c 3c 5c)
+Our hand: Qc Ah
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 3.462626
+OldBotv1(Ain'tABitch)6's Equity: 0.432828282828
+OldBotv1(Ain'tABitch)6's EV: 3.462626
+OldBotv1(Ain'tABitch)6's Equity: 0.432828282828
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+OldBotv2(MOUSE)6 checks.
+OldBotv2(MOUSE)6 WTSD percentage is: 0.234043
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.489362
+OldBotv2(MOUSE)6 W$SD percentage is: 0.063830
+
+
+NEWHAND:48
+
+['NEWHAND', '48', '1', '7c', '5c', '497', '103', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.811518']
+Active Players:2
+
+Our hand: 7c 5c
+OldBotv1(Ain'tABitch)6's VPIP: 0.212766
+OldBotv1(Ain'tABitch)6's PFR: 0.021277
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.065217
+OldBotv1(Ain'tABitch)6's AF: 59.000000
+OldBotv2(MOUSE)6's VPIP: 0.340426
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.428571
+OldBotv2(MOUSE)6's AF: 0.325000
+BAMF6's VPIP: 0.191489
+BAMF6's PFR: 0.021277
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (496)
+OldBotv2(MOUSE)6 posts big blind, stack size (101)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 7c 5c
+
+OldBotv1(Ain'tABitch)6's EV: 0.182500
+OldBotv1(Ain'tABitch)6's Equity: 0.4365
+OldBotv1(Ain'tABitch)6's EV: 0.182500
+OldBotv1(Ain'tABitch)6's Equity: 0.4365
+OldBotv1(Ain'tABitch)6's Implied Odds: -2
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(4c 6d 2d)
+Our hand: 7c 5c
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 3.468000
+OldBotv1(Ain'tABitch)6's Equity: 0.4335
+OldBotv1(Ain'tABitch)6's EV: 3.468000
+OldBotv1(Ain'tABitch)6's Equity: 0.4335
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(8) Board:(4c 6d 2d Ks)
+Our hand: 7c 5c
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 1.932000
+OldBotv1(Ain'tABitch)6's Equity: 0.2415
+OldBotv1(Ain'tABitch)6's EV: 1.932000
+OldBotv1(Ain'tABitch)6's Equity: 0.2415
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(8) Board:(4c 6d 2d Ks 6h)
+Our hand: 7c 5c
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 0.133333
+OldBotv1(Ain'tABitch)6's Equity: 0.0166666666667
+OldBotv1(Ain'tABitch)6's EV: 0.133333
+OldBotv1(Ain'tABitch)6's Equity: 0.0166666666667
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.500000
+OldBotv2(MOUSE)6 WTSD percentage is: 0.250000
+OldBotv2(MOUSE)6 W$SD percentage is: 0.083333
+
+
+NEWHAND:49
+
+['NEWHAND', '49', '2', 'Jh', '7s', '109', '491', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.783968']
+Active Players:2
+
+Our hand: Jh 7s
+OldBotv2(MOUSE)6's VPIP: 0.333333
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.428571
+OldBotv2(MOUSE)6's AF: 0.309524
+OldBotv1(Ain'tABitch)6's VPIP: 0.208333
+OldBotv1(Ain'tABitch)6's PFR: 0.020833
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.065217
+OldBotv1(Ain'tABitch)6's AF: 61.000000
+BAMF6's VPIP: 0.187500
+BAMF6's PFR: 0.020833
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (108)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (489)
+
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:50
+
+['NEWHAND', '50', '1', '3h', '4c', '492', '108', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.783968']
+Active Players:2
+
+Our hand: 3h 4c
+OldBotv1(Ain'tABitch)6's VPIP: 0.204082
+OldBotv1(Ain'tABitch)6's PFR: 0.020408
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.065217
+OldBotv1(Ain'tABitch)6's AF: 61.000000
+OldBotv2(MOUSE)6's VPIP: 0.326531
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.387755
+OldBotv2(MOUSE)6's AF: 0.309524
+BAMF6's VPIP: 0.183673
+BAMF6's PFR: 0.020408
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (491)
+OldBotv2(MOUSE)6 posts big blind, stack size (106)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 3h 4c
+
+OldBotv1(Ain'tABitch)6's EV: -0.257500
+OldBotv1(Ain'tABitch)6's Equity: 0.3485
+OldBotv1(Ain'tABitch)6's EV: -0.257500
+OldBotv1(Ain'tABitch)6's Equity: 0.3485
+OldBotv1(Ain'tABitch)6's Implied Odds: -1
+OldBotv1(Ain'tABitch)6 folds.
+
+
+NEWHAND:51
+
+['NEWHAND', '51', '2', 'As', 'Ah', '109', '491', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.774421']
+Active Players:2
+
+Our hand: As Ah
+OldBotv2(MOUSE)6's VPIP: 0.320000
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.387755
+OldBotv2(MOUSE)6's AF: 0.309524
+OldBotv1(Ain'tABitch)6's VPIP: 0.200000
+OldBotv1(Ain'tABitch)6's PFR: 0.020000
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.080000
+OldBotv1(Ain'tABitch)6's AF: 61.000000
+BAMF6's VPIP: 0.180000
+BAMF6's PFR: 0.020000
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (108)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (489)
+
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:52
+
+['NEWHAND', '52', '1', '5c', '9h', '492', '108', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.774421']
+Active Players:2
+
+Our hand: 5c 9h
+OldBotv1(Ain'tABitch)6's VPIP: 0.196078
+OldBotv1(Ain'tABitch)6's PFR: 0.019608
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.080000
+OldBotv1(Ain'tABitch)6's AF: 61.000000
+OldBotv2(MOUSE)6's VPIP: 0.313725
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.392157
+OldBotv2(MOUSE)6's AF: 0.309524
+BAMF6's VPIP: 0.176471
+BAMF6's PFR: 0.019608
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (491)
+OldBotv2(MOUSE)6 posts big blind, stack size (106)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 5c 9h
+
+OldBotv1(Ain'tABitch)6's EV: 0.200000
+OldBotv1(Ain'tABitch)6's Equity: 0.44
+OldBotv1(Ain'tABitch)6's EV: 0.200000
+OldBotv1(Ain'tABitch)6's Equity: 0.44
+OldBotv1(Ain'tABitch)6's Implied Odds: -2
+OldBotv1(Ain'tABitch)6 raise 4.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:53
+
+['NEWHAND', '53', '2', '5c', '2s', '106', '494', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.764175']
+Active Players:2
+
+Our hand: 5c 2s
+OldBotv2(MOUSE)6's VPIP: 0.307692
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.403846
+OldBotv2(MOUSE)6's AF: 0.309524
+OldBotv1(Ain'tABitch)6's VPIP: 0.211538
+OldBotv1(Ain'tABitch)6's PFR: 0.019231
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.080000
+OldBotv1(Ain'tABitch)6's AF: 62.000000
+BAMF6's VPIP: 0.173077
+BAMF6's PFR: 0.019231
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (105)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (492)
+
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:54
+
+['NEWHAND', '54', '1', '6d', '4h', '495', '105', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.764175']
+Active Players:2
+
+Our hand: 6d 4h
+OldBotv1(Ain'tABitch)6's VPIP: 0.207547
+OldBotv1(Ain'tABitch)6's PFR: 0.018868
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.080000
+OldBotv1(Ain'tABitch)6's AF: 62.000000
+OldBotv2(MOUSE)6's VPIP: 0.301887
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.415094
+OldBotv2(MOUSE)6's AF: 0.309524
+BAMF6's VPIP: 0.169811
+BAMF6's PFR: 0.018868
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (494)
+OldBotv2(MOUSE)6 posts big blind, stack size (103)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 6d 4h
+
+OldBotv1(Ain'tABitch)6's EV: -0.217500
+OldBotv1(Ain'tABitch)6's Equity: 0.3565
+OldBotv1(Ain'tABitch)6's EV: -0.217500
+OldBotv1(Ain'tABitch)6's Equity: 0.3565
+OldBotv1(Ain'tABitch)6's Implied Odds: -1
+OldBotv1(Ain'tABitch)6 folds.
+
+
+NEWHAND:55
+
+['NEWHAND', '55', '2', '5c', 'Ks', '106', '494', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.755525']
+Active Players:2
+
+Our hand: 5c Ks
+OldBotv2(MOUSE)6's VPIP: 0.296296
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.415094
+OldBotv2(MOUSE)6's AF: 0.309524
+OldBotv1(Ain'tABitch)6's VPIP: 0.203704
+OldBotv1(Ain'tABitch)6's PFR: 0.018519
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.092593
+OldBotv1(Ain'tABitch)6's AF: 62.000000
+BAMF6's VPIP: 0.166667
+BAMF6's PFR: 0.018519
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (105)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (492)
+
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:56
+
+['NEWHAND', '56', '1', '7h', '5h', '495', '105', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.755525']
+Active Players:2
+
+Our hand: 7h 5h
+OldBotv1(Ain'tABitch)6's VPIP: 0.200000
+OldBotv1(Ain'tABitch)6's PFR: 0.018182
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.092593
+OldBotv1(Ain'tABitch)6's AF: 62.000000
+OldBotv2(MOUSE)6's VPIP: 0.290909
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.418182
+OldBotv2(MOUSE)6's AF: 0.309524
+BAMF6's VPIP: 0.163636
+BAMF6's PFR: 0.018182
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (494)
+OldBotv2(MOUSE)6 posts big blind, stack size (103)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 7h 5h
+
+OldBotv1(Ain'tABitch)6's EV: 0.282500
+OldBotv1(Ain'tABitch)6's Equity: 0.4565
+OldBotv1(Ain'tABitch)6's EV: 0.282500
+OldBotv1(Ain'tABitch)6's Equity: 0.4565
+OldBotv1(Ain'tABitch)6's Implied Odds: -2
+OldBotv1(Ain'tABitch)6 raise 4.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:57
+
+['NEWHAND', '57', '2', '8c', 'Jc', '103', '497', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.727034']
+Active Players:2
+
+Our hand: 8c Jc
+OldBotv2(MOUSE)6's VPIP: 0.285714
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.428571
+OldBotv2(MOUSE)6's AF: 0.309524
+OldBotv1(Ain'tABitch)6's VPIP: 0.214286
+OldBotv1(Ain'tABitch)6's PFR: 0.017857
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.092593
+OldBotv1(Ain'tABitch)6's AF: 63.000000
+BAMF6's VPIP: 0.160714
+BAMF6's PFR: 0.017857
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (102)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (495)
+
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:58
+
+['NEWHAND', '58', '1', 'Qh', '9d', '498', '102', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.727034']
+Active Players:2
+
+Our hand: Qh 9d
+OldBotv1(Ain'tABitch)6's VPIP: 0.210526
+OldBotv1(Ain'tABitch)6's PFR: 0.017544
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.092593
+OldBotv1(Ain'tABitch)6's AF: 63.000000
+OldBotv2(MOUSE)6's VPIP: 0.280702
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.438596
+OldBotv2(MOUSE)6's AF: 0.309524
+BAMF6's VPIP: 0.157895
+BAMF6's PFR: 0.017544
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (497)
+OldBotv2(MOUSE)6 posts big blind, stack size (100)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Qh 9d
+
+OldBotv1(Ain'tABitch)6's EV: 0.657500
+OldBotv1(Ain'tABitch)6's Equity: 0.5315
+OldBotv1(Ain'tABitch)6's EV: 0.657500
+OldBotv1(Ain'tABitch)6's Equity: 0.5315
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:59
+
+['NEWHAND', '59', '2', 'Jd', '9h', '100', '500', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.718401']
+Active Players:2
+
+Our hand: Jd 9h
+OldBotv2(MOUSE)6's VPIP: 0.275862
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.448276
+OldBotv2(MOUSE)6's AF: 0.309524
+OldBotv1(Ain'tABitch)6's VPIP: 0.224138
+OldBotv1(Ain'tABitch)6's PFR: 0.017241
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.092593
+OldBotv1(Ain'tABitch)6's AF: 64.000000
+BAMF6's VPIP: 0.155172
+BAMF6's PFR: 0.017241
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (99)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (498)
+
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:60
+
+['NEWHAND', '60', '1', 'Ad', '4d', '501', '99', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.718401']
+Active Players:2
+
+Our hand: Ad 4d
+OldBotv1(Ain'tABitch)6's VPIP: 0.220339
+OldBotv1(Ain'tABitch)6's PFR: 0.016949
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.092593
+OldBotv1(Ain'tABitch)6's AF: 64.000000
+OldBotv2(MOUSE)6's VPIP: 0.271186
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.457627
+OldBotv2(MOUSE)6's AF: 0.309524
+BAMF6's VPIP: 0.152542
+BAMF6's PFR: 0.016949
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (500)
+OldBotv2(MOUSE)6 posts big blind, stack size (97)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ad 4d
+
+OldBotv1(Ain'tABitch)6's EV: 0.980000
+OldBotv1(Ain'tABitch)6's Equity: 0.596
+OldBotv1(Ain'tABitch)6's EV: 0.980000
+OldBotv1(Ain'tABitch)6's Equity: 0.596
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:61
+
+['NEWHAND', '61', '2', 'As', '9h', '97', '503', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.707212']
+Active Players:2
+
+Our hand: As 9h
+OldBotv2(MOUSE)6's VPIP: 0.266667
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.466667
+OldBotv2(MOUSE)6's AF: 0.309524
+OldBotv1(Ain'tABitch)6's VPIP: 0.233333
+OldBotv1(Ain'tABitch)6's PFR: 0.016667
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.092593
+OldBotv1(Ain'tABitch)6's AF: 65.000000
+BAMF6's VPIP: 0.150000
+BAMF6's PFR: 0.016667
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (96)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (501)
+
+
+***PREFLOP***(4) Board:()
+Our hand: As 9h
+
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 2.394000
+OldBotv1(Ain'tABitch)6's Equity: 0.5985
+OldBotv1(Ain'tABitch)6's EV: 2.394000
+OldBotv1(Ain'tABitch)6's Equity: 0.5985
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(Js 7h 7s)
+Our hand: As 9h
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 4.780000
+OldBotv1(Ain'tABitch)6's Equity: 0.5975
+OldBotv1(Ain'tABitch)6's EV: 4.780000
+OldBotv1(Ain'tABitch)6's Equity: 0.5975
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(8) Board:(Js 7h 7s 9s)
+Our hand: As 9h
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 6.024000
+OldBotv1(Ain'tABitch)6's Equity: 0.753
+OldBotv1(Ain'tABitch)6's EV: 6.024000
+OldBotv1(Ain'tABitch)6's Equity: 0.753
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(8) Board:(Js 7h 7s 9s 7d)
+Our hand: As 9h
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 6.125253
+OldBotv1(Ain'tABitch)6's Equity: 0.765656565657
+OldBotv1(Ain'tABitch)6's EV: 6.125253
+OldBotv1(Ain'tABitch)6's Equity: 0.765656565657
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+OldBotv2(MOUSE)6 checks.
+OldBotv2(MOUSE)6 WTSD percentage is: 0.213115
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.409836
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.295082
+
+
+NEWHAND:62
+
+['NEWHAND', '62', '1', '4h', 'Ac', '507', '93', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.672195']
+Active Players:2
+
+Our hand: 4h Ac
+OldBotv1(Ain'tABitch)6's VPIP: 0.229508
+OldBotv1(Ain'tABitch)6's PFR: 0.016393
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.092593
+OldBotv1(Ain'tABitch)6's AF: 66.000000
+OldBotv2(MOUSE)6's VPIP: 0.278689
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.466667
+OldBotv2(MOUSE)6's AF: 0.295455
+BAMF6's VPIP: 0.147541
+BAMF6's PFR: 0.016393
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (506)
+OldBotv2(MOUSE)6 posts big blind, stack size (91)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 4h Ac
+
+OldBotv1(Ain'tABitch)6's EV: 0.752500
+OldBotv1(Ain'tABitch)6's Equity: 0.5505
+OldBotv1(Ain'tABitch)6's EV: 0.752500
+OldBotv1(Ain'tABitch)6's Equity: 0.5505
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:63
+
+['NEWHAND', '63', '2', '6s', 'Ah', '91', '509', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.663367']
+Active Players:2
+
+Our hand: 6s Ah
+OldBotv2(MOUSE)6's VPIP: 0.274194
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.467742
+OldBotv2(MOUSE)6's AF: 0.295455
+OldBotv1(Ain'tABitch)6's VPIP: 0.241935
+OldBotv1(Ain'tABitch)6's PFR: 0.016129
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.092593
+OldBotv1(Ain'tABitch)6's AF: 67.000000
+BAMF6's VPIP: 0.145161
+BAMF6's PFR: 0.016129
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (90)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (507)
+
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:64
+
+['NEWHAND', '64', '1', '5s', '7h', '510', '90', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.663367']
+Active Players:2
+
+Our hand: 5s 7h
+OldBotv1(Ain'tABitch)6's VPIP: 0.238095
+OldBotv1(Ain'tABitch)6's PFR: 0.015873
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.092593
+OldBotv1(Ain'tABitch)6's AF: 67.000000
+OldBotv2(MOUSE)6's VPIP: 0.269841
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.476190
+OldBotv2(MOUSE)6's AF: 0.295455
+BAMF6's VPIP: 0.142857
+BAMF6's PFR: 0.015873
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (509)
+OldBotv2(MOUSE)6 posts big blind, stack size (88)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 5s 7h
+
+OldBotv1(Ain'tABitch)6's EV: -0.057500
+OldBotv1(Ain'tABitch)6's Equity: 0.3885
+OldBotv1(Ain'tABitch)6's EV: -0.057500
+OldBotv1(Ain'tABitch)6's Equity: 0.3885
+OldBotv1(Ain'tABitch)6's Implied Odds: -1
+OldBotv1(Ain'tABitch)6 folds.
+
+
+NEWHAND:65
+
+['NEWHAND', '65', '2', '2s', 'Ad', '91', '509', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.649479']
+Active Players:2
+
+Our hand: 2s Ad
+OldBotv2(MOUSE)6's VPIP: 0.265625
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.476190
+OldBotv2(MOUSE)6's AF: 0.295455
+OldBotv1(Ain'tABitch)6's VPIP: 0.234375
+OldBotv1(Ain'tABitch)6's PFR: 0.015625
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.093750
+OldBotv1(Ain'tABitch)6's AF: 67.000000
+BAMF6's VPIP: 0.140625
+BAMF6's PFR: 0.015625
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (90)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (507)
+
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:66
+
+['NEWHAND', '66', '1', '8s', '8c', '510', '90', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.649479']
+Active Players:2
+
+Our hand: 8s 8c
+OldBotv1(Ain'tABitch)6's VPIP: 0.230769
+OldBotv1(Ain'tABitch)6's PFR: 0.015385
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.093750
+OldBotv1(Ain'tABitch)6's AF: 67.000000
+OldBotv2(MOUSE)6's VPIP: 0.261538
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.476923
+OldBotv2(MOUSE)6's AF: 0.295455
+BAMF6's VPIP: 0.138462
+BAMF6's PFR: 0.015385
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (509)
+OldBotv2(MOUSE)6 posts big blind, stack size (88)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 8s 8c
+
+OldBotv1(Ain'tABitch)6's EV: 1.360000
+OldBotv1(Ain'tABitch)6's Equity: 0.672
+OldBotv1(Ain'tABitch)6's EV: 1.360000
+OldBotv1(Ain'tABitch)6's Equity: 0.672
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:67
+
+['NEWHAND', '67', '2', '9d', 'Td', '88', '512', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.640697']
+Active Players:2
+
+Our hand: 9d Td
+OldBotv2(MOUSE)6's VPIP: 0.257576
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.484848
+OldBotv2(MOUSE)6's AF: 0.295455
+OldBotv1(Ain'tABitch)6's VPIP: 0.242424
+OldBotv1(Ain'tABitch)6's PFR: 0.015152
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.093750
+OldBotv1(Ain'tABitch)6's AF: 68.000000
+BAMF6's VPIP: 0.136364
+BAMF6's PFR: 0.015152
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (87)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (510)
+
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:68
+
+['NEWHAND', '68', '1', '9d', 'Th', '513', '87', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.640697']
+Active Players:2
+
+Our hand: 9d Th
+OldBotv1(Ain'tABitch)6's VPIP: 0.238806
+OldBotv1(Ain'tABitch)6's PFR: 0.014925
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.093750
+OldBotv1(Ain'tABitch)6's AF: 68.000000
+OldBotv2(MOUSE)6's VPIP: 0.253731
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.492537
+OldBotv2(MOUSE)6's AF: 0.295455
+BAMF6's VPIP: 0.134328
+BAMF6's PFR: 0.014925
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (512)
+OldBotv2(MOUSE)6 posts big blind, stack size (85)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 9d Th
+
+OldBotv1(Ain'tABitch)6's EV: 0.657500
+OldBotv1(Ain'tABitch)6's Equity: 0.5315
+OldBotv1(Ain'tABitch)6's EV: 0.657500
+OldBotv1(Ain'tABitch)6's Equity: 0.5315
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:69
+
+['NEWHAND', '69', '2', 'Qc', '8c', '85', '515', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.630500']
+Active Players:2
+
+Our hand: Qc 8c
+OldBotv2(MOUSE)6's VPIP: 0.250000
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.500000
+OldBotv2(MOUSE)6's AF: 0.295455
+OldBotv1(Ain'tABitch)6's VPIP: 0.250000
+OldBotv1(Ain'tABitch)6's PFR: 0.014706
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.093750
+OldBotv1(Ain'tABitch)6's AF: 69.000000
+BAMF6's VPIP: 0.132353
+BAMF6's PFR: 0.014706
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (84)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (513)
+
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:70
+
+['NEWHAND', '70', '1', 'Kd', 'Qs', '516', '84', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.630500']
+Active Players:2
+
+Our hand: Kd Qs
+OldBotv1(Ain'tABitch)6's VPIP: 0.246377
+OldBotv1(Ain'tABitch)6's PFR: 0.014493
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.093750
+OldBotv1(Ain'tABitch)6's AF: 69.000000
+OldBotv2(MOUSE)6's VPIP: 0.246377
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.507246
+OldBotv2(MOUSE)6's AF: 0.295455
+BAMF6's VPIP: 0.130435
+BAMF6's PFR: 0.014493
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (515)
+OldBotv2(MOUSE)6 posts big blind, stack size (82)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Kd Qs
+
+OldBotv1(Ain'tABitch)6's EV: 1.080000
+OldBotv1(Ain'tABitch)6's Equity: 0.616
+OldBotv1(Ain'tABitch)6's EV: 1.080000
+OldBotv1(Ain'tABitch)6's Equity: 0.616
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:71
+
+['NEWHAND', '71', '2', '2s', '5c', '82', '518', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.620306']
+Active Players:2
+
+Our hand: 2s 5c
+OldBotv2(MOUSE)6's VPIP: 0.242857
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.514286
+OldBotv2(MOUSE)6's AF: 0.295455
+OldBotv1(Ain'tABitch)6's VPIP: 0.257143
+OldBotv1(Ain'tABitch)6's PFR: 0.014286
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.093750
+OldBotv1(Ain'tABitch)6's AF: 70.000000
+BAMF6's VPIP: 0.128571
+BAMF6's PFR: 0.014286
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (81)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (516)
+
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:72
+
+['NEWHAND', '72', '1', '2h', '9c', '519', '81', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.620306']
+Active Players:2
+
+Our hand: 2h 9c
+OldBotv1(Ain'tABitch)6's VPIP: 0.253521
+OldBotv1(Ain'tABitch)6's PFR: 0.014085
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.093750
+OldBotv1(Ain'tABitch)6's AF: 70.000000
+OldBotv2(MOUSE)6's VPIP: 0.239437
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.521127
+OldBotv2(MOUSE)6's AF: 0.295455
+BAMF6's VPIP: 0.126761
+BAMF6's PFR: 0.014085
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (518)
+OldBotv2(MOUSE)6 posts big blind, stack size (79)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 2h 9c
+
+OldBotv1(Ain'tABitch)6's EV: -0.215000
+OldBotv1(Ain'tABitch)6's Equity: 0.357
+OldBotv1(Ain'tABitch)6's EV: -0.215000
+OldBotv1(Ain'tABitch)6's Equity: 0.357
+OldBotv1(Ain'tABitch)6's Implied Odds: -1
+OldBotv1(Ain'tABitch)6 folds.
+
+
+NEWHAND:73
+
+['NEWHAND', '73', '2', 'Kc', '6h', '82', '518', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.611792']
+Active Players:2
+
+Our hand: Kc 6h
+OldBotv2(MOUSE)6's VPIP: 0.236111
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.521127
+OldBotv2(MOUSE)6's AF: 0.295455
+OldBotv1(Ain'tABitch)6's VPIP: 0.250000
+OldBotv1(Ain'tABitch)6's PFR: 0.013889
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.097222
+OldBotv1(Ain'tABitch)6's AF: 70.000000
+BAMF6's VPIP: 0.125000
+BAMF6's PFR: 0.013889
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (81)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (516)
+
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:74
+
+['NEWHAND', '74', '1', '6c', '4s', '519', '81', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.611792']
+Active Players:2
+
+Our hand: 6c 4s
+OldBotv1(Ain'tABitch)6's VPIP: 0.246575
+OldBotv1(Ain'tABitch)6's PFR: 0.013699
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.097222
+OldBotv1(Ain'tABitch)6's AF: 70.000000
+OldBotv2(MOUSE)6's VPIP: 0.232877
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.520548
+OldBotv2(MOUSE)6's AF: 0.295455
+BAMF6's VPIP: 0.123288
+BAMF6's PFR: 0.013699
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (518)
+OldBotv2(MOUSE)6 posts big blind, stack size (79)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 6c 4s
+
+OldBotv1(Ain'tABitch)6's EV: -0.002500
+OldBotv1(Ain'tABitch)6's Equity: 0.3995
+OldBotv1(Ain'tABitch)6's EV: -0.002500
+OldBotv1(Ain'tABitch)6's Equity: 0.3995
+OldBotv1(Ain'tABitch)6's Implied Odds: -1
+OldBotv1(Ain'tABitch)6 folds.
+
+
+NEWHAND:75
+
+['NEWHAND', '75', '2', 'Qs', '6c', '82', '518', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.601856']
+Active Players:2
+
+Our hand: Qs 6c
+OldBotv2(MOUSE)6's VPIP: 0.229730
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.520548
+OldBotv2(MOUSE)6's AF: 0.295455
+OldBotv1(Ain'tABitch)6's VPIP: 0.243243
+OldBotv1(Ain'tABitch)6's PFR: 0.013514
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 70.000000
+BAMF6's VPIP: 0.121622
+BAMF6's PFR: 0.013514
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (81)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (516)
+
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:76
+
+['NEWHAND', '76', '1', '9d', '6d', '519', '81', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.601856']
+Active Players:2
+
+Our hand: 9d 6d
+OldBotv1(Ain'tABitch)6's VPIP: 0.240000
+OldBotv1(Ain'tABitch)6's PFR: 0.013333
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 70.000000
+OldBotv2(MOUSE)6's VPIP: 0.226667
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.520000
+OldBotv2(MOUSE)6's AF: 0.295455
+BAMF6's VPIP: 0.120000
+BAMF6's PFR: 0.013333
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (518)
+OldBotv2(MOUSE)6 posts big blind, stack size (79)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 9d 6d
+
+OldBotv1(Ain'tABitch)6's EV: 0.332500
+OldBotv1(Ain'tABitch)6's Equity: 0.4665
+OldBotv1(Ain'tABitch)6's EV: 0.332500
+OldBotv1(Ain'tABitch)6's Equity: 0.4665
+OldBotv1(Ain'tABitch)6's Implied Odds: -2
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(13) Board:(3d Jc Th)
+Our hand: 9d 6d
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv2(MOUSE)6 bet 5.
+OldBotv1(Ain'tABitch)6's EV: 0.904000
+OldBotv1(Ain'tABitch)6's Equity: 0.328
+OldBotv1(Ain'tABitch)6's EV: 0.904000
+OldBotv1(Ain'tABitch)6's Equity: 0.328
+OldBotv1(Ain'tABitch)6's Implied Odds: -7
+OldBotv1(Ain'tABitch)6 raise 10.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:77
+
+['NEWHAND', '77', '2', '4c', '2h', '72', '528', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.585970']
+Active Players:2
+
+Our hand: 4c 2h
+OldBotv2(MOUSE)6's VPIP: 0.223684
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.520000
+OldBotv2(MOUSE)6's AF: 0.311111
+OldBotv1(Ain'tABitch)6's VPIP: 0.236842
+OldBotv1(Ain'tABitch)6's PFR: 0.013158
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 72.000000
+BAMF6's VPIP: 0.118421
+BAMF6's PFR: 0.013158
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (71)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (526)
+
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:78
+
+['NEWHAND', '78', '1', 'As', 'Kh', '529', '71', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.585970']
+Active Players:2
+
+Our hand: As Kh
+OldBotv1(Ain'tABitch)6's VPIP: 0.233766
+OldBotv1(Ain'tABitch)6's PFR: 0.012987
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 72.000000
+OldBotv2(MOUSE)6's VPIP: 0.220779
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.519481
+OldBotv2(MOUSE)6's AF: 0.311111
+BAMF6's VPIP: 0.116883
+BAMF6's PFR: 0.012987
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (528)
+OldBotv2(MOUSE)6 posts big blind, stack size (69)
+
+
+***PREFLOP***(3) Board:()
+Our hand: As Kh
+
+OldBotv1(Ain'tABitch)6's EV: 1.355000
+OldBotv1(Ain'tABitch)6's Equity: 0.671
+OldBotv1(Ain'tABitch)6's EV: 1.355000
+OldBotv1(Ain'tABitch)6's Equity: 0.671
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:79
+
+['NEWHAND', '79', '2', '8d', '9c', '69', '531', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.574070']
+Active Players:2
+
+Our hand: 8d 9c
+OldBotv2(MOUSE)6's VPIP: 0.217949
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.525641
+OldBotv2(MOUSE)6's AF: 0.311111
+OldBotv1(Ain'tABitch)6's VPIP: 0.243590
+OldBotv1(Ain'tABitch)6's PFR: 0.012821
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 73.000000
+BAMF6's VPIP: 0.115385
+BAMF6's PFR: 0.012821
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (68)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (529)
+
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:80
+
+['NEWHAND', '80', '1', '3s', '8s', '532', '68', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.574070']
+Active Players:2
+
+Our hand: 3s 8s
+OldBotv1(Ain'tABitch)6's VPIP: 0.240506
+OldBotv1(Ain'tABitch)6's PFR: 0.012658
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 73.000000
+OldBotv2(MOUSE)6's VPIP: 0.215190
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.531646
+OldBotv2(MOUSE)6's AF: 0.311111
+BAMF6's VPIP: 0.113924
+BAMF6's PFR: 0.012658
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (531)
+OldBotv2(MOUSE)6 posts big blind, stack size (66)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 3s 8s
+
+OldBotv1(Ain'tABitch)6's EV: 0.145000
+OldBotv1(Ain'tABitch)6's Equity: 0.429
+OldBotv1(Ain'tABitch)6's EV: 0.145000
+OldBotv1(Ain'tABitch)6's Equity: 0.429
+OldBotv1(Ain'tABitch)6's Implied Odds: -2
+OldBotv1(Ain'tABitch)6 raise 4.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:81
+
+['NEWHAND', '81', '2', '4c', '9c', '66', '534', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.565360']
+Active Players:2
+
+Our hand: 4c 9c
+OldBotv2(MOUSE)6's VPIP: 0.212500
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.537500
+OldBotv2(MOUSE)6's AF: 0.311111
+OldBotv1(Ain'tABitch)6's VPIP: 0.250000
+OldBotv1(Ain'tABitch)6's PFR: 0.012500
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 74.000000
+BAMF6's VPIP: 0.112500
+BAMF6's PFR: 0.012500
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (65)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (532)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 4c 9c
+
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 1.724000
+OldBotv1(Ain'tABitch)6's Equity: 0.431
+OldBotv1(Ain'tABitch)6's EV: 1.724000
+OldBotv1(Ain'tABitch)6's Equity: 0.431
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(Ac 4h Jc)
+Our hand: 4c 9c
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 5.876000
+OldBotv1(Ain'tABitch)6's Equity: 0.7345
+OldBotv1(Ain'tABitch)6's EV: 5.876000
+OldBotv1(Ain'tABitch)6's Equity: 0.7345
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***FLOP***(13) Board:(Ac 4h Jc)
+Our hand: 4c 9c
+
+OldBotv2(MOUSE)6 bet 5.
+OldBotv1(Ain'tABitch)6's EV: 8.221000
+OldBotv1(Ain'tABitch)6's Equity: 0.7345
+OldBotv1(Ain'tABitch)6's EV: 8.221000
+OldBotv1(Ain'tABitch)6's Equity: 0.7345
+OldBotv1(Ain'tABitch)6's Implied Odds: -16
+OldBotv1(Ain'tABitch)6 raise 10.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:82
+
+['NEWHAND', '82', '1', '7d', '7c', '543', '57', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.533763']
+Active Players:2
+
+Our hand: 7d 7c
+OldBotv1(Ain'tABitch)6's VPIP: 0.246914
+OldBotv1(Ain'tABitch)6's PFR: 0.012346
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 76.000000
+OldBotv2(MOUSE)6's VPIP: 0.222222
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.537500
+OldBotv2(MOUSE)6's AF: 0.319149
+BAMF6's VPIP: 0.111111
+BAMF6's PFR: 0.012346
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (542)
+OldBotv2(MOUSE)6 posts big blind, stack size (55)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 7d 7c
+
+OldBotv1(Ain'tABitch)6's EV: 1.370000
+OldBotv1(Ain'tABitch)6's Equity: 0.674
+OldBotv1(Ain'tABitch)6's EV: 1.370000
+OldBotv1(Ain'tABitch)6's Equity: 0.674
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(4h 5d 5s)
+Our hand: 7d 7c
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 5.832000
+OldBotv1(Ain'tABitch)6's Equity: 0.729
+OldBotv1(Ain'tABitch)6's EV: 5.832000
+OldBotv1(Ain'tABitch)6's Equity: 0.729
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(8) Board:(4h 5d 5s 2d)
+Our hand: 7d 7c
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 5.616000
+OldBotv1(Ain'tABitch)6's Equity: 0.702
+OldBotv1(Ain'tABitch)6's EV: 5.616000
+OldBotv1(Ain'tABitch)6's Equity: 0.702
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(8) Board:(4h 5d 5s 2d 8h)
+Our hand: 7d 7c
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 5.636364
+OldBotv1(Ain'tABitch)6's Equity: 0.704545454545
+OldBotv1(Ain'tABitch)6's EV: 5.636364
+OldBotv1(Ain'tABitch)6's Equity: 0.704545454545
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+OldBotv2(MOUSE)6 WTSD percentage is: 0.170732
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.317073
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.231707
+
+
+NEWHAND:83
+
+['NEWHAND', '83', '2', '8s', '6d', '53', '547', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.505131']
+Active Players:2
+
+Our hand: 8s 6d
+OldBotv2(MOUSE)6's VPIP: 0.219512
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.537500
+OldBotv2(MOUSE)6's AF: 0.312500
+OldBotv1(Ain'tABitch)6's VPIP: 0.243902
+OldBotv1(Ain'tABitch)6's PFR: 0.012195
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 77.000000
+BAMF6's VPIP: 0.109756
+BAMF6's PFR: 0.012195
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (52)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (545)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 8s 6d
+
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 1.742000
+OldBotv1(Ain'tABitch)6's Equity: 0.4355
+OldBotv1(Ain'tABitch)6's EV: 1.742000
+OldBotv1(Ain'tABitch)6's Equity: 0.4355
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(Jd As 6c)
+Our hand: 8s 6d
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 5.052000
+OldBotv1(Ain'tABitch)6's Equity: 0.6315
+OldBotv1(Ain'tABitch)6's EV: 5.052000
+OldBotv1(Ain'tABitch)6's Equity: 0.6315
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(8) Board:(Jd As 6c 3c)
+Our hand: 8s 6d
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 5.212000
+OldBotv1(Ain'tABitch)6's Equity: 0.6515
+OldBotv1(Ain'tABitch)6's EV: 5.212000
+OldBotv1(Ain'tABitch)6's Equity: 0.6515
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(8) Board:(Jd As 6c 3c Ah)
+Our hand: 8s 6d
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 5.632323
+OldBotv1(Ain'tABitch)6's Equity: 0.70404040404
+OldBotv1(Ain'tABitch)6's EV: 5.632323
+OldBotv1(Ain'tABitch)6's Equity: 0.70404040404
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+OldBotv2(MOUSE)6 checks.
+OldBotv2(MOUSE)6 WTSD percentage is: 0.180723
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.325301
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.240964
+
+
+NEWHAND:84
+
+['NEWHAND', '84', '1', '6c', '8s', '551', '49', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.478966']
+Active Players:2
+
+Our hand: 6c 8s
+OldBotv1(Ain'tABitch)6's VPIP: 0.240964
+OldBotv1(Ain'tABitch)6's PFR: 0.012048
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 78.000000
+OldBotv2(MOUSE)6's VPIP: 0.228916
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.537500
+OldBotv2(MOUSE)6's AF: 0.300000
+BAMF6's VPIP: 0.108434
+BAMF6's PFR: 0.012048
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (550)
+OldBotv2(MOUSE)6 posts big blind, stack size (47)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 6c 8s
+
+OldBotv1(Ain'tABitch)6's EV: 0.210000
+OldBotv1(Ain'tABitch)6's Equity: 0.442
+OldBotv1(Ain'tABitch)6's EV: 0.210000
+OldBotv1(Ain'tABitch)6's Equity: 0.442
+OldBotv1(Ain'tABitch)6's Implied Odds: -2
+OldBotv1(Ain'tABitch)6 raise 4.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:85
+
+['NEWHAND', '85', '2', 'Jh', '7h', '47', '553', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.470600']
+Active Players:2
+
+Our hand: Jh 7h
+OldBotv2(MOUSE)6's VPIP: 0.226190
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.523810
+OldBotv2(MOUSE)6's AF: 0.300000
+OldBotv1(Ain'tABitch)6's VPIP: 0.250000
+OldBotv1(Ain'tABitch)6's PFR: 0.011905
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 79.000000
+BAMF6's VPIP: 0.107143
+BAMF6's PFR: 0.011905
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (46)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (551)
+
+
+***PREFLOP***(4) Board:()
+Our hand: Jh 7h
+
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 2.080000
+OldBotv1(Ain'tABitch)6's Equity: 0.52
+OldBotv1(Ain'tABitch)6's EV: 2.080000
+OldBotv1(Ain'tABitch)6's Equity: 0.52
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(8d 7c 8h)
+Our hand: Jh 7h
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 5.744000
+OldBotv1(Ain'tABitch)6's Equity: 0.718
+OldBotv1(Ain'tABitch)6's EV: 5.744000
+OldBotv1(Ain'tABitch)6's Equity: 0.718
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(8) Board:(8d 7c 8h 6s)
+Our hand: Jh 7h
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 5.564000
+OldBotv1(Ain'tABitch)6's Equity: 0.6955
+OldBotv1(Ain'tABitch)6's EV: 5.564000
+OldBotv1(Ain'tABitch)6's Equity: 0.6955
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(8) Board:(8d 7c 8h 6s 7d)
+Our hand: Jh 7h
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 7.127273
+OldBotv1(Ain'tABitch)6's Equity: 0.890909090909
+OldBotv1(Ain'tABitch)6's EV: 7.127273
+OldBotv1(Ain'tABitch)6's Equity: 0.890909090909
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(11) Board:(8d 7c 8h 6s 7d)
+Our hand: Jh 7h
+
+OldBotv2(MOUSE)6 bet 3.
+OldBotv1(Ain'tABitch)6's EV: 9.472727
+OldBotv1(Ain'tABitch)6's Equity: 0.890909090909
+OldBotv1(Ain'tABitch)6's EV: 9.472727
+OldBotv1(Ain'tABitch)6's Equity: 0.890909090909
+OldBotv1(Ain'tABitch)6's Implied Odds: -13
+OldBotv1(Ain'tABitch)6 raise 6.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:86
+
+['NEWHAND', '86', '1', 'Ts', 'Jd', '560', '40', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.440939']
+Active Players:2
+
+Our hand: Ts Jd
+OldBotv1(Ain'tABitch)6's VPIP: 0.247059
+OldBotv1(Ain'tABitch)6's PFR: 0.011765
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 81.000000
+OldBotv2(MOUSE)6's VPIP: 0.235294
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.523810
+OldBotv2(MOUSE)6's AF: 0.307692
+BAMF6's VPIP: 0.105882
+BAMF6's PFR: 0.011765
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (559)
+OldBotv2(MOUSE)6 posts big blind, stack size (38)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ts Jd
+
+OldBotv1(Ain'tABitch)6's EV: 0.850000
+OldBotv1(Ain'tABitch)6's Equity: 0.57
+OldBotv1(Ain'tABitch)6's EV: 0.850000
+OldBotv1(Ain'tABitch)6's Equity: 0.57
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:87
+
+['NEWHAND', '87', '2', '7s', '9s', '38', '562', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.429747']
+Active Players:2
+
+Our hand: 7s 9s
+OldBotv2(MOUSE)6's VPIP: 0.232558
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.523256
+OldBotv2(MOUSE)6's AF: 0.307692
+OldBotv1(Ain'tABitch)6's VPIP: 0.255814
+OldBotv1(Ain'tABitch)6's PFR: 0.011628
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 82.000000
+BAMF6's VPIP: 0.104651
+BAMF6's PFR: 0.011628
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (37)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (560)
+
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:88
+
+['NEWHAND', '88', '1', '3c', '9d', '563', '37', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.429747']
+Active Players:2
+
+Our hand: 3c 9d
+OldBotv1(Ain'tABitch)6's VPIP: 0.252874
+OldBotv1(Ain'tABitch)6's PFR: 0.011494
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 82.000000
+OldBotv2(MOUSE)6's VPIP: 0.229885
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.528736
+OldBotv2(MOUSE)6's AF: 0.307692
+BAMF6's VPIP: 0.103448
+BAMF6's PFR: 0.011494
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (562)
+OldBotv2(MOUSE)6 posts big blind, stack size (35)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 3c 9d
+
+OldBotv1(Ain'tABitch)6's EV: 0.042500
+OldBotv1(Ain'tABitch)6's Equity: 0.4085
+OldBotv1(Ain'tABitch)6's EV: 0.042500
+OldBotv1(Ain'tABitch)6's Equity: 0.4085
+OldBotv1(Ain'tABitch)6's Implied Odds: -2
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(11) Board:(Qh Ah 2h)
+Our hand: 3c 9d
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv2(MOUSE)6 bet 3.
+OldBotv1(Ain'tABitch)6's EV: 0.150000
+OldBotv1(Ain'tABitch)6's Equity: 0.225
+OldBotv1(Ain'tABitch)6's EV: 0.150000
+OldBotv1(Ain'tABitch)6's Equity: 0.225
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 6.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:89
+
+['NEWHAND', '89', '2', '7h', '8h', '30', '570', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.414079']
+Active Players:2
+
+Our hand: 7h 8h
+OldBotv2(MOUSE)6's VPIP: 0.227273
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.528736
+OldBotv2(MOUSE)6's AF: 0.320755
+OldBotv1(Ain'tABitch)6's VPIP: 0.250000
+OldBotv1(Ain'tABitch)6's PFR: 0.011364
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 84.000000
+BAMF6's VPIP: 0.102273
+BAMF6's PFR: 0.011364
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (29)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (568)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 7h 8h
+
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 2.008000
+OldBotv1(Ain'tABitch)6's Equity: 0.502
+OldBotv1(Ain'tABitch)6's EV: 2.008000
+OldBotv1(Ain'tABitch)6's Equity: 0.502
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(As 9s 2s)
+Our hand: 7h 8h
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 1.796000
+OldBotv1(Ain'tABitch)6's Equity: 0.2245
+OldBotv1(Ain'tABitch)6's EV: 1.796000
+OldBotv1(Ain'tABitch)6's Equity: 0.2245
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(8) Board:(As 9s 2s 5c)
+Our hand: 7h 8h
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 1.640000
+OldBotv1(Ain'tABitch)6's Equity: 0.205
+OldBotv1(Ain'tABitch)6's EV: 1.640000
+OldBotv1(Ain'tABitch)6's Equity: 0.205
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(8) Board:(As 9s 2s 5c 2h)
+Our hand: 7h 8h
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 0.674747
+OldBotv1(Ain'tABitch)6's Equity: 0.0843434343434
+OldBotv1(Ain'tABitch)6's EV: 0.674747
+OldBotv1(Ain'tABitch)6's Equity: 0.0843434343434
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+OldBotv2(MOUSE)6 checks.
+OldBotv2(MOUSE)6 WTSD percentage is: 0.179775
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.314607
+OldBotv2(MOUSE)6 W$SD percentage is: 0.056180
+
+
+NEWHAND:90
+
+['NEWHAND', '90', '1', '7s', '9c', '566', '34', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.388388']
+Active Players:2
+
+Our hand: 7s 9c
+OldBotv1(Ain'tABitch)6's VPIP: 0.247191
+OldBotv1(Ain'tABitch)6's PFR: 0.011236
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 85.000000
+OldBotv2(MOUSE)6's VPIP: 0.235955
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.528736
+OldBotv2(MOUSE)6's AF: 0.309091
+BAMF6's VPIP: 0.101124
+BAMF6's PFR: 0.011236
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (565)
+OldBotv2(MOUSE)6 posts big blind, stack size (32)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 7s 9c
+
+OldBotv1(Ain'tABitch)6's EV: 0.345000
+OldBotv1(Ain'tABitch)6's Equity: 0.469
+OldBotv1(Ain'tABitch)6's EV: 0.345000
+OldBotv1(Ain'tABitch)6's Equity: 0.469
+OldBotv1(Ain'tABitch)6's Implied Odds: -2
+OldBotv1(Ain'tABitch)6 raise 4.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:91
+
+['NEWHAND', '91', '2', 'Ah', '6d', '32', '568', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.379708']
+Active Players:2
+
+Our hand: Ah 6d
+OldBotv2(MOUSE)6's VPIP: 0.233333
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.522222
+OldBotv2(MOUSE)6's AF: 0.309091
+OldBotv1(Ain'tABitch)6's VPIP: 0.255556
+OldBotv1(Ain'tABitch)6's PFR: 0.011111
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 86.000000
+BAMF6's VPIP: 0.100000
+BAMF6's PFR: 0.011111
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (31)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (566)
+
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:92
+
+['NEWHAND', '92', '1', 'Td', '7h', '569', '31', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.379708']
+Active Players:2
+
+Our hand: Td 7h
+OldBotv1(Ain'tABitch)6's VPIP: 0.252747
+OldBotv1(Ain'tABitch)6's PFR: 0.010989
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 86.000000
+OldBotv2(MOUSE)6's VPIP: 0.230769
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.527473
+OldBotv2(MOUSE)6's AF: 0.309091
+BAMF6's VPIP: 0.098901
+BAMF6's PFR: 0.010989
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (568)
+OldBotv2(MOUSE)6 posts big blind, stack size (29)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Td 7h
+
+OldBotv1(Ain'tABitch)6's EV: 0.445000
+OldBotv1(Ain'tABitch)6's Equity: 0.489
+OldBotv1(Ain'tABitch)6's EV: 0.445000
+OldBotv1(Ain'tABitch)6's Equity: 0.489
+OldBotv1(Ain'tABitch)6's Implied Odds: -2
+OldBotv1(Ain'tABitch)6 raise 4.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:93
+
+['NEWHAND', '93', '2', '2d', '8h', '29', '571', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.370738']
+Active Players:2
+
+Our hand: 2d 8h
+OldBotv2(MOUSE)6's VPIP: 0.228261
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.532609
+OldBotv2(MOUSE)6's AF: 0.309091
+OldBotv1(Ain'tABitch)6's VPIP: 0.260870
+OldBotv1(Ain'tABitch)6's PFR: 0.010870
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 87.000000
+BAMF6's VPIP: 0.097826
+BAMF6's PFR: 0.010870
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (28)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (569)
+
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:94
+
+['NEWHAND', '94', '1', '9c', '9d', '572', '28', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.370738']
+Active Players:2
+
+Our hand: 9c 9d
+OldBotv1(Ain'tABitch)6's VPIP: 0.258065
+OldBotv1(Ain'tABitch)6's PFR: 0.010753
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 87.000000
+OldBotv2(MOUSE)6's VPIP: 0.225806
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.537634
+OldBotv2(MOUSE)6's AF: 0.309091
+BAMF6's VPIP: 0.096774
+BAMF6's PFR: 0.010753
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (571)
+OldBotv2(MOUSE)6 posts big blind, stack size (26)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 9c 9d
+
+OldBotv1(Ain'tABitch)6's EV: 1.690000
+OldBotv1(Ain'tABitch)6's Equity: 0.738
+OldBotv1(Ain'tABitch)6's EV: 1.690000
+OldBotv1(Ain'tABitch)6's Equity: 0.738
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(16) Board:(3d Ad Qc)
+Our hand: 9c 9d
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv2(MOUSE)6 bet 8.
+OldBotv1(Ain'tABitch)6's EV: 6.712000
+OldBotv1(Ain'tABitch)6's Equity: 0.613
+OldBotv1(Ain'tABitch)6's EV: 6.712000
+OldBotv1(Ain'tABitch)6's Equity: 0.613
+OldBotv1(Ain'tABitch)6's Implied Odds: -18
+OldBotv1(Ain'tABitch)6 raise 16.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:95
+
+['NEWHAND', '95', '2', 'Td', '3h', '16', '584', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.345512']
+Active Players:2
+
+Our hand: Td 3h
+OldBotv2(MOUSE)6's VPIP: 0.223404
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.537634
+OldBotv2(MOUSE)6's AF: 0.321429
+OldBotv1(Ain'tABitch)6's VPIP: 0.255319
+OldBotv1(Ain'tABitch)6's PFR: 0.010638
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 89.000000
+BAMF6's VPIP: 0.095745
+BAMF6's PFR: 0.010638
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (15)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (582)
+
+
+***PREFLOP***(4) Board:()
+Our hand: Td 3h
+
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 1.732000
+OldBotv1(Ain'tABitch)6's Equity: 0.433
+OldBotv1(Ain'tABitch)6's EV: 1.732000
+OldBotv1(Ain'tABitch)6's Equity: 0.433
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(7d 5c Kh)
+Our hand: Td 3h
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 2.056000
+OldBotv1(Ain'tABitch)6's Equity: 0.257
+OldBotv1(Ain'tABitch)6's EV: 2.056000
+OldBotv1(Ain'tABitch)6's Equity: 0.257
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***FLOP***(11) Board:(7d 5c Kh)
+Our hand: Td 3h
+
+OldBotv2(MOUSE)6 bet 3.
+OldBotv1(Ain'tABitch)6's EV: 0.598000
+OldBotv1(Ain'tABitch)6's Equity: 0.257
+OldBotv1(Ain'tABitch)6's EV: 0.598000
+OldBotv1(Ain'tABitch)6's Equity: 0.257
+OldBotv1(Ain'tABitch)6's Implied Odds: -5
+OldBotv1(Ain'tABitch)6 raise 6.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:96
+
+['NEWHAND', '96', '1', 'Jd', 'Qh', '591', '9', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.320270']
+Active Players:2
+
+Our hand: Jd Qh
+OldBotv1(Ain'tABitch)6's VPIP: 0.252632
+OldBotv1(Ain'tABitch)6's PFR: 0.010526
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 91.000000
+OldBotv2(MOUSE)6's VPIP: 0.231579
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.537634
+OldBotv2(MOUSE)6's AF: 0.327586
+BAMF6's VPIP: 0.094737
+BAMF6's PFR: 0.010526
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (590)
+OldBotv2(MOUSE)6 posts big blind, stack size (7)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Jd Qh
+
+OldBotv1(Ain'tABitch)6's EV: 0.970000
+OldBotv1(Ain'tABitch)6's Equity: 0.594
+OldBotv1(Ain'tABitch)6's EV: 0.970000
+OldBotv1(Ain'tABitch)6's Equity: 0.594
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 4.
+OldBotv2(MOUSE)6 folds.
+
+
+NEWHAND:97
+
+['NEWHAND', '97', '2', '9s', 'Qc', '7', '593', '0', 'OldBotv2(MOUSE)6', "OldBotv1(Ain'tABitch)6", 'BAMF6', '2', 'true', 'true', 'false', '13.309555']
+Active Players:2
+
+Our hand: 9s Qc
+OldBotv2(MOUSE)6's VPIP: 0.229167
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.531250
+OldBotv2(MOUSE)6's AF: 0.327586
+OldBotv1(Ain'tABitch)6's VPIP: 0.260417
+OldBotv1(Ain'tABitch)6's PFR: 0.010417
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 92.000000
+BAMF6's VPIP: 0.093750
+BAMF6's PFR: 0.010417
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv2(MOUSE)6 posts small blind/and is dealer, stack size (6)
+OldBotv1(Ain'tABitch)6 posts big blind, stack size (591)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 9s Qc
+
+OldBotv2(MOUSE)6 called 2.
+OldBotv1(Ain'tABitch)6's EV: 2.118000
+OldBotv1(Ain'tABitch)6's Equity: 0.5295
+OldBotv1(Ain'tABitch)6's EV: 2.118000
+OldBotv1(Ain'tABitch)6's Equity: 0.5295
+OldBotv1(Ain'tABitch)6's Implied Odds: -4
+OldBotv1(Ain'tABitch)6 raise 4.
+
+***FLOP***(8) Board:(Ad 6s Jd)
+Our hand: 9s Qc
+
+OldBotv2(MOUSE)6 called 4.
+OldBotv1(Ain'tABitch)6's EV: 3.136000
+OldBotv1(Ain'tABitch)6's Equity: 0.392
+OldBotv1(Ain'tABitch)6's EV: 3.136000
+OldBotv1(Ain'tABitch)6's Equity: 0.392
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***TURN***(8) Board:(Ad 6s Jd Qd)
+Our hand: 9s Qc
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 5.140000
+OldBotv1(Ain'tABitch)6's Equity: 0.6425
+OldBotv1(Ain'tABitch)6's EV: 5.140000
+OldBotv1(Ain'tABitch)6's Equity: 0.6425
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+
+***RIVER***(8) Board:(Ad 6s Jd Qd 2d)
+Our hand: 9s Qc
+
+OldBotv2(MOUSE)6 checks.
+OldBotv1(Ain'tABitch)6's EV: 3.692929
+OldBotv1(Ain'tABitch)6's Equity: 0.461616161616
+OldBotv1(Ain'tABitch)6's EV: 3.692929
+OldBotv1(Ain'tABitch)6's Equity: 0.461616161616
+OldBotv1(Ain'tABitch)6's Implied Odds: -8
+OldBotv1(Ain'tABitch)6 raise 2.
+OldBotv1(Ain'tABitch)6 bets 2.
+OldBotv2(MOUSE)6 checks.
+OldBotv2(MOUSE)6 WTSD percentage is: 0.175258
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.298969
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.216495
+
+
+NEWHAND:98
+
+['NEWHAND', '98', '1', 'Kh', '3d', '597', '3', '0', "OldBotv1(Ain'tABitch)6", 'OldBotv2(MOUSE)6', 'BAMF6', '2', 'true', 'true', 'false', '13.283865']
+Active Players:2
+
+Our hand: Kh 3d
+OldBotv1(Ain'tABitch)6's VPIP: 0.257732
+OldBotv1(Ain'tABitch)6's PFR: 0.010309
+OldBotv1(Ain'tABitch)6's estimated fold percentage is 0.108108
+OldBotv1(Ain'tABitch)6's AF: 93.000000
+OldBotv2(MOUSE)6's VPIP: 0.237113
+OldBotv2(MOUSE)6's PFR: 0.000000
+OldBotv2(MOUSE)6's estimated fold percentage is 0.531250
+OldBotv2(MOUSE)6's AF: 0.316667
+BAMF6's VPIP: 0.092784
+BAMF6's PFR: 0.010309
+BAMF6's estimated fold percentage is 0.354839
+BAMF6's AF: 0.411765
+BAMF6 is eliminated
+
+OldBotv1(Ain'tABitch)6 posts small blind/and is dealer, stack size (596)
+OldBotv2(MOUSE)6 posts big blind, stack size (1)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Kh 3d
+
+OldBotv1(Ain'tABitch)6's EV: 0.560000
+OldBotv1(Ain'tABitch)6's Equity: 0.512
+OldBotv1(Ain'tABitch)6's EV: 0.560000
+OldBotv1(Ain'tABitch)6's Equity: 0.512
+OldBotv1(Ain'tABitch)6's Implied Odds: -3
+OldBotv1(Ain'tABitch)6 raise 3.
+OldBotv2(MOUSE)6 called 3.
+OldBotv2(MOUSE)6 WTSD percentage is: 0.183673
+OldBotv1(Ain'tABitch)6 WTSD percentage is: 0.306122
+OldBotv1(Ain'tABitch)6 W$SD percentage is: 0.224490
+Gameover, engine disconnected.

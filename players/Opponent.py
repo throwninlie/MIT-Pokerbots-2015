@@ -66,16 +66,18 @@ class Opponent:
     def updateAction(self,action,bet = None):
         self.action = action
         if bet is not None:
-            self.lastBet = bet
+            self.lastBet = int(bet)
     def getAction(self):
         return self.action
+    def getLastBet(self):
+        return self.lastBet
 
     #updates stack value of player
     def updateStack(self,stack):
-        self.stackSize = stack   
+        self.stackSize = int(stack)  
     #retrieves stacksize of player     
     def getStack(self):
-        return self.stackSize
+        return int(self.stackSize)
 
     #updates whether eliminated or not
     def updateEliminated(self):
@@ -169,7 +171,7 @@ class Opponent:
     def getWMSD(self):
         return self.WMSD
     def updateWMSD(self):
-        self.WMSD = float(self.showdownWin) / self.handsPlayed
+        self.WMSD = float(self.showdownWin) / self.showdown
     #adds to showdown win value (one more showdown counted)
     def showdownWinAdd(self):   
         self.showdownWin += 1.0
@@ -241,17 +243,19 @@ class Opponent:
         #     self.playerType = "ROCK"
 
         #NIT player, combo of mouse and rock
+        #VPIP <= 0.13 and self.PFR <= 0.13
         if self.VPIP <= .13 and self.PFR <= .13:
             self.playerType = "NIT"
 
         #A winning, tight aggressive player.
         #watch out for these.
-        elif (self.VPIP >= 0.10 and self.VPIP <= .22) and (self.PFR >= 0.6 and self.PFR <= 0.13) and (float(self.PFR)/self.VPIP >= .65) and (self.AFflop >= 2.5 )and (self.WMSD >= .50):
+        #there was a bug, self.PFR was >= 0.6 and self.PFR <=0.13
+        elif (self.VPIP >= 0.10 and self.VPIP <= .30) and (self.PFR >= 0.05 and self.PFR <= 0.25) and (self.AFflop >= 2.5 )and (self.WMSD >= .40):
             #TAG player type usually
             self.playerType = "SHARK"
 
         #Bombs are loose preflop, but also aggressive pre- and postflop.
-        elif self.VPIP <= .25 and self.PFR >= .13 and self.AFflop >= 5:        
+        elif self.VPIP <= .40 and self.PFR >= .13 and self.AFflop >= 5:        
             self.playerType = "BOMB"
 
         #Maniacs are very loose and aggressive.
@@ -263,7 +267,7 @@ class Opponent:
         #They're loose passive and love to call you down.
         #exploit these!
         #their bets and raises are almost never bluffs though/ be careful, don't give them money
-        elif self.VPIP >= 0.20 and self.VPIP <= .30 and self.PFR <= 0.10 and self.WTSD >= 0.33 and self.AFflop <= 2.5:
+        elif self.VPIP >= 0.20 and self.VPIP <= .40 and self.PFR <= 0.15 and self.WTSD >= 0.35 and self.AFflop <= 3:
             self.playerType = "CALLING STATION"
  
         #Cashcows can probably only be found on microlimit. 
@@ -272,8 +276,10 @@ class Opponent:
         #call pfr - 
         #The percentage of hands where the player called a preflop raise when they had the opportunity. This counts all hands where the player faced a preflop raise regardless of any previous or subsequent actions in that hand.
         #Formula:    ( Total Hands Called Pre-Flop Raise / Total Hands Faced Pre-Flop Raise ) * 100
-        elif self.VPIP >= .39 and self.PFR >= 0.30 and self.WTSD < .30 and self.AFq <= .50:
+        elif self.VPIP >= .35 and self.PFR >= 0.25 and self.WTSD < .38 and self.AFq <= .50:
             self.playerType = "CASHCOW"
+        elif self.AFq >= 0.40 and self.PFR >= 0.13:
+            self.playerType = "LOOSE"
         else:
             self.playerType = "UNKNOWN"
             
