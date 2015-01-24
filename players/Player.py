@@ -795,27 +795,32 @@ def betLogic(input_socket,board,equities,pot_size,our_seat,bot1,bot2 = None):
         #you want to bet a bit more
         else:
             no_reraise = False
-
+    our_m = our_bot.getMRatio()
     print our_name +"'s EV: %f"%ev
     print our_name +"'s Equity: %s"%equities.ev[0]
     print our_name +"'s Implied Odds: %d"%impliedOdds
     print our_name +"'s maxBetFold: %d"%maxBetFold
+    print our_name +"'s M ratio:%d"%our_m
     print our_name +"'s maxBetEV: %d\n"%maxBetEV
-    our_m = our_bot.getMRatio()
 
+    
+    
     if our_equity > 0.6 and our_m >= 4 and our_m <= 7:
         #all in or fold (all in)
         action = "BET"
+        print "all in 1"
         maxBet = our_stack
         minBet = our_stack
         bettingActions(s,action,minBet,maxBet)
     elif our_m > 4 and our_m <=7:
         #all in or fold (fold)
+        print "no all in, fold"
         action ="FOLD"
         bettingActions(s,action)
 
     elif our_m <= 4:
         #all in if we're this low, dependant on luck
+        print "all in2"
         action = "BET"
         maxBet = our_stack
         minBet = our_stack

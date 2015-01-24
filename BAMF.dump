@@ -2,1866 +2,1456 @@
 C:\Users\Er\Dropbox\Pokerbot\players>python Player.py 3000 
 Connecting to localhost:3000
 Our name: BAMF
-Opp1 name: OldBotv1raisebug
-Opp2 name: OldBotv3bug
+Opp1 name: Clone
+Opp2 name: Doppelganger
 
 
 NEWHAND:1
 
-['NEWHAND', '1', '1', 'Qd', 'Ts', '200', '200', '200', 'BAMF', 'OldBotv1raisebug', 'OldBotv3bug', '3', 'true', 'true', 'true', '15.000000']
+['NEWHAND', '1', '1', 'Qd', '3c', '200', '200', '200', 'BAMF', 'Clone', 'Doppelganger', '3', 'true', 'true', 'true', '15.000000']
 Active Players:3
 
-Our hand: Qd Ts
+Our hand: Qd 3c
 BAMF's VPIP: 0.000000
 BAMF's PFR: 0.000000
 BAMF's estimated fold percentage is 0.000000
 BAMF's AF flop/postflop: 0.000000
 BAMF's Player Type: NIT
 BAMF's Seat:1
-OldBotv1raisebug's VPIP: 0.000000
-OldBotv1raisebug's PFR: 0.000000
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:2
-OldBotv3bug's VPIP: 0.000000
-OldBotv3bug's PFR: 0.000000
-OldBotv3bug's estimated fold percentage is 0.000000
-OldBotv3bug's AF flop/postflop: 0.000000
-OldBotv3bug's Player Type: NIT
-OldBotv3bug's Seat:3
+Clone's VPIP: 0.000000
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.000000
+Clone's AF flop/postflop: 0.000000
+Clone's Player Type: NIT
+Clone's Seat:2
+Doppelganger's VPIP: 0.000000
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.000000
+Doppelganger's AF flop/postflop: 0.000000
+Doppelganger's Player Type: NIT
+Doppelganger's Seat:3
 
-OldBotv1raisebug posts small blind, stack size (199)
-OldBotv3bug posts big blind, stack size (198)
+Clone posts small blind, stack size (199)
+Doppelganger posts big blind, stack size (198)
 
 ['CALL:2', 'FOLD', 'RAISE:4:7']
 {}
 
 ***PREFLOP***(3) Board:()
-Our hand: Qd Ts
+Our hand: Qd 3c
 
 our last bet of 0 was in round 0
-BAMF's EV: 0.857500
-BAMF's Equity: 0.5715
-BAMF's Implied Odds: -3
+BAMF's EV: 0.497500
+BAMF's Equity: 0.4995
+BAMF's Implied Odds: -2
 BAMF's maxBetFold: 0
-BAMF's maxBetEV: 4
+BAMF's M ratio:66
+BAMF's maxBetEV: 2
 
 BAMF calls 2.
 our bot's last action is CALL for 2
-['FOLD', 'CALL:7', 'RAISE:10:25']
+['CHECK', 'BET:2:6']
 {}
 
-***PREFLOP***(13) Board:()
-Our hand: Qd Ts
+***FLOP***(6) Board:(Kh Jc Ts)
+Our hand: Qd 3c
 
-OldBotv1raisebug raised to 4.
-OldBotv3bug raised to 7.
+Clone called 2.
+Doppelganger checks.
+Clone checks.
+Doppelganger checks.
 our last bet of 2 was in round 0
-BAMF's EV: 5.287000
-BAMF's Equity: 0.5715
-BAMF's Implied Odds: -14
+BAMF's EV: 3.183000
+BAMF's Equity: 0.5305
+BAMF's Implied Odds: -6
 BAMF's maxBetFold: 0
-BAMF's maxBetEV: 17
+BAMF's M ratio:66
+BAMF's maxBetEV: 6
 
-BAMF calls 7.
-our bot's last action is CALL for 7
-['FOLD', 'CALL:13', 'RAISE:16:49']
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:6']
 {}
 
-***PREFLOP***(30) Board:()
-Our hand: Qd Ts
+***TURN***(6) Board:(Kh Jc Ts Kd)
+Our hand: Qd 3c
 
-OldBotv1raisebug raised to 10.
-OldBotv3bug raised to 13.
-our last bet of 7 was in round 0
-BAMF's EV: 14.574000
-BAMF's Equity: 0.5715
-BAMF's Implied Odds: -31
+Clone checks.
+Doppelganger checks.
+our last bet of 0 was in round 3
+BAMF's EV: 3.039000
+BAMF's Equity: 0.5065
+BAMF's Implied Odds: -6
 BAMF's maxBetFold: 0
-BAMF's maxBetEV: 40
+BAMF's M ratio:66
+BAMF's maxBetEV: 6
 
-BAMF calls 13.
-our bot's last action is CALL for 13
-['FOLD', 'CALL:160', 'RAISE:200:200']
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:6']
 {}
 
-***PREFLOP***(225) Board:()
-Our hand: Qd Ts
+***RIVER***(6) Board:(Kh Jc Ts Kd 5s)
+Our hand: Qd 3c
 
-OldBotv1raisebug raised to 52.
-OldBotv3bug raised to 160.
-our last bet of 13 was in round 0
-BAMF's EV: 65.598000
-BAMF's Equity: 0.5715
-BAMF's Implied Odds: -261
+Clone checks.
+Doppelganger checks.
+our last bet of 0 was in round 4
+BAMF's EV: 2.100000
+BAMF's Equity: 0.35
+BAMF's Implied Odds: -6
 BAMF's maxBetFold: 0
-BAMF's maxBetEV: 300
+BAMF's M ratio:66
+BAMF's maxBetEV: 3
 
-BAMF calls 160.
-our bot's last action is CALL for 160
-['FOLD', 'CALL:200']
-{}
-
-***PREFLOP***(520) Board:()
-Our hand: Qd Ts
-
-OldBotv1raisebug raised to 200.
-OldBotv3bug folds.
-our last bet of 160 was in round 0
-BAMF's EV: 280.040000
-BAMF's Equity: 0.5715
-BAMF's Implied Odds: -530
-BAMF's maxBetFold: 40
-BAMF's maxBetEV: 693
-
-BAMF calls 200.
-our bot's last action is CALL for 200
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
 BAMF WTSD percentage is: 1.000000
-OldBotv1raisebug WTSD percentage is: 1.000000
-BAMF W$SD percentage is: 1.000000
+Clone WTSD percentage is: 1.000000
+Doppelganger WTSD percentage is: 1.000000
+Doppelganger W$SD percentage is: 1.000000
 
 
 NEWHAND:2
 
-['NEWHAND', '2', '2', 'Kh', '5d', '40', '560', '0', 'OldBotv3bug', 'BAMF', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.955409']
-Active Players:2
+['NEWHAND', '2', '2', '5d', '2d', '204', '198', '198', 'Doppelganger', 'BAMF', 'Clone', '3', 'true', 'true', 'true', '14.976668']
+Active Players:3
 
-Our hand: Kh 5d
-OldBotv3bug's VPIP: 1.000000
-OldBotv3bug's PFR: 1.000000
-OldBotv3bug's estimated fold percentage is 1.000000
-OldBotv3bug's AF flop/postflop: 0.000000
-OldBotv3bug's Player Type: CASHCOW
-OldBotv3bug's Seat:1
-BAMF's VPIP: 1.000000
+Our hand: 5d 2d
+Doppelganger's VPIP: 0.000000
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.000000
+Doppelganger's AF flop/postflop: 0.000000
+Doppelganger's Player Type: NIT
+Doppelganger's Seat:1
+BAMF's VPIP: 0.000000
 BAMF's PFR: 0.000000
 BAMF's estimated fold percentage is 0.000000
 BAMF's AF flop/postflop: 0.000000
-BAMF's Player Type: UNKNOWN
+BAMF's Player Type: NIT
 BAMF's Seat:2
-OldBotv1raisebug's VPIP: 1.000000
-OldBotv1raisebug's PFR: 1.000000
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: UNKNOWN
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Clone's VPIP: 0.000000
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.000000
+Clone's AF flop/postflop: 0.000000
+Clone's Player Type: NIT
+Clone's Seat:3
 
-OldBotv3bug posts small blind/and is dealer, stack size (39)
-BAMF posts big blind, stack size (558)
+BAMF posts small blind, stack size (197)
+Clone posts big blind, stack size (196)
 
-['FOLD', 'CALL:4', 'RAISE:6:12']
+['FOLD', 'CALL:2', 'RAISE:4:8']
 {}
 
-***PREFLOP***(6) Board:()
-Our hand: Kh 5d
+***PREFLOP***(5) Board:()
+Our hand: 5d 2d
 
-OldBotv3bug raised to 4.
-our last bet of 2 was in round 0
-BAMF's EV: 2.480000
-BAMF's Equity: 0.56
-BAMF's Implied Odds: -6
-BAMF's maxBetFold: 558
-BAMF's maxBetEV: 7
-
-BAMF calls 4.
-our bot's last action is CALL for 4
-['CHECK', 'BET:2:8']
-{}
-
-***FLOP***(8) Board:(Qc 7s 6h)
-Our hand: Kh 5d
-
-our last bet of 4 was in round 0
-BAMF's EV: 3.104000
-BAMF's Equity: 0.388
-BAMF's Implied Odds: -8
-BAMF's maxBetFold: 556
-BAMF's maxBetEV: 5
-
-line 6
-BAMF checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:8']
-{}
-
-***TURN***(8) Board:(Qc 7s 6h 2h)
-Our hand: Kh 5d
-
-OldBotv3bug checks.
-our last bet of 0 was in round 3
-BAMF's EV: 2.520000
-BAMF's Equity: 0.315
-BAMF's Implied Odds: -8
-BAMF's maxBetFold: 556
+Doppelganger called 2.
+our last bet of 1 was in round 0
+BAMF's EV: 1.295000
+BAMF's Equity: 0.3825
+BAMF's Implied Odds: -4
+BAMF's maxBetFold: 0
+BAMF's M ratio:65
 BAMF's maxBetEV: 3
 
-line 4
-final max bet:8
-final min bet:8
-Bet range: 2 8
-BAMF bets 8.
-our bot's last action is BET for 8
-['FOLD', 'CALL:29', 'RAISE:36:36']
-{}
-
-***TURN***(45) Board:(Qc 7s 6h 2h)
-Our hand: Kh 5d
-
-OldBotv3bug raised to 29.
-our last bet of 8 was in round 4
-BAMF's EV: -0.210000
-BAMF's Equity: 0.315
-BAMF's Implied Odds: -20
-BAMF's maxBetFold: 548
-BAMF's maxBetEV: 20
-
+NOT BLUFFING FOLD
 BAMF folds.
 our bot's last action is FOLD for 0
+Clone raised to 5.
+Doppelganger called 5.
+Clone bet 11.
+Doppelganger raised to 34.
+Clone called 34.
+Clone bet 8.
+Doppelganger raised to 73.
+Clone folds.
 
 
 NEWHAND:3
 
-['NEWHAND', '3', '1', '5d', '7c', '548', '52', '0', 'BAMF', 'OldBotv3bug', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.920731']
-Active Players:2
+['NEWHAND', '3', '3', 'As', 'Jc', '151', '252', '197', 'Clone', 'Doppelganger', 'BAMF', '3', 'true', 'true', 'true', '14.969836']
+Active Players:3
 
-Our hand: 5d 7c
-BAMF's VPIP: 0.500000
+Our hand: As Jc
+Clone's VPIP: 0.000000
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.000000
+Clone's AF flop/postflop: 1.500000
+Clone's Player Type: NIT
+Clone's Seat:1
+Doppelganger's VPIP: 0.500000
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.000000
+Doppelganger's AF flop/postflop: 2.000000
+Doppelganger's Player Type: UNKNOWN
+Doppelganger's Seat:2
+BAMF's VPIP: 0.000000
 BAMF's PFR: 0.000000
 BAMF's estimated fold percentage is 0.000000
-BAMF's AF flop/postflop: 0.500000
-BAMF's Player Type: UNKNOWN
-BAMF's Seat:1
-OldBotv3bug's VPIP: 1.000000
-OldBotv3bug's PFR: 0.500000
-OldBotv3bug's estimated fold percentage is 1.000000
-OldBotv3bug's AF flop/postflop: 1.000000
-OldBotv3bug's Player Type: MANIAC
-OldBotv3bug's Seat:2
-OldBotv1raisebug's VPIP: 0.500000
-OldBotv1raisebug's PFR: 0.500000
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: UNKNOWN
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+BAMF's AF flop/postflop: 0.000000
+BAMF's Player Type: NIT
+BAMF's Seat:3
 
-BAMF posts small blind/and is dealer, stack size (547)
-OldBotv3bug posts big blind, stack size (50)
+Doppelganger posts small blind, stack size (251)
+BAMF posts big blind, stack size (195)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
+['CHECK', 'RAISE:4:6']
 {}
 
-***PREFLOP***(3) Board:()
-Our hand: 5d 7c
+***PREFLOP***(4) Board:()
+Our hand: As Jc
 
-our last bet of 1 was in round 0
-BAMF's EV: 0.664000
-BAMF's Equity: 0.416
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 547
-BAMF's maxBetEV: 2
+Clone folds.
+Doppelganger called 2.
+our last bet of 2 was in round 0
+BAMF's EV: 2.436000
+BAMF's Equity: 0.609
+BAMF's Implied Odds: -4
+BAMF's maxBetFold: 0
+BAMF's M ratio:65
+BAMF's maxBetEV: 6
 
-final max raise:6
+BAMF checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:3', 'RAISE:6:13']
+{}
+
+***FLOP***(7) Board:(Jd Qd Tc)
+Our hand: As Jc
+
+Doppelganger bet 3.
+our last bet of 0 was in round 0
+BAMF's EV: 4.140000
+BAMF's Equity: 0.714
+BAMF's Implied Odds: -8
+BAMF's maxBetFold: 0
+BAMF's M ratio:65
+BAMF's maxBetEV: 17
+
+line 1
+final max raise:13
 final min raise:6
-Raise range: 4 6
-BAMF raises to 6.
-our bot's last action is RAISE for 6
-['FOLD', 'CALL:14', 'RAISE:22:42']
+Raise range: 6 13
+BAMF raises to 10.
+our bot's last action is RAISE for 10
+['FOLD', 'CALL:19', 'RAISE:28:61']
 {}
 
-***PREFLOP***(20) Board:()
-Our hand: 5d 7c
+***FLOP***(33) Board:(Jd Qd Tc)
+Our hand: As Jc
 
-OldBotv3bug raised to 14.
-our last bet of 6 was in round 0
-BAMF's EV: 3.648000
-BAMF's Equity: 0.416
-BAMF's Implied Odds: -16
-BAMF's maxBetFold: 542
-BAMF's maxBetEV: 14
+Doppelganger raised to 19.
+our last bet of 10 was in round 3
+BAMF's EV: 20.988000
+BAMF's Equity: 0.714
+BAMF's Implied Odds: -38
+BAMF's maxBetFold: 0
+BAMF's M ratio:61
+BAMF's maxBetEV: 82
 
-final max raise:42
-final min raise:22
-Raise range: 22 42
-BAMF raises to 24.
-our bot's last action is RAISE for 24
-['FOLD', 'CALL:35', 'RAISE:46:52']
+line 1
+final max raise:61
+final min raise:28
+Raise range: 28 61
+BAMF raises to 39.
+our bot's last action is RAISE for 39
+['FOLD', 'CALL:107', 'RAISE:175:195']
 {}
 
-***PREFLOP***(59) Board:()
-Our hand: 5d 7c
+***FLOP***(150) Board:(Jd Qd Tc)
+Our hand: As Jc
 
-OldBotv3bug raised to 35.
-our last bet of 24 was in round 0
-BAMF's EV: 18.120000
-BAMF's Equity: 0.416
-BAMF's Implied Odds: -54
-BAMF's maxBetFold: 524
-BAMF's maxBetEV: 42
+Doppelganger raised to 107.
+our last bet of 39 was in round 3
+BAMF's EV: 87.652000
+BAMF's Equity: 0.714
+BAMF's Implied Odds: -190
+BAMF's maxBetFold: 0
+BAMF's M ratio:52
+BAMF's maxBetEV: 374
 
-NOT BLUFFING FOLD
-BAMF folds.
-our bot's last action is FOLD for 0
+line 1
+final max raise:175
+final min raise:175
+Raise range: 175 195
+BAMF calls 107.
+our bot's last action is CALL for 107
+['FOLD', 'CALL:45', 'RAISE:88:88']
+{}
+
+***TURN***(263) Board:(Jd Qd Tc 6d)
+Our hand: As Jc
+
+Doppelganger bet 45.
+our last bet of 107 was in round 3
+BAMF's EV: 154.122000
+BAMF's Equity: 0.6465
+BAMF's Implied Odds: -283
+BAMF's maxBetFold: 0
+BAMF's M ratio:29
+BAMF's maxBetEV: 480
+
+line 1
+final max raise:88
+final min raise:88
+Raise range: 88 88
+BAMF calls 45.
+our bot's last action is CALL for 45
+['FOLD', 'CALL:21', 'RAISE:42:43']
+{}
+
+***RIVER***(329) Board:(Jd Qd Tc 6d 6s)
+Our hand: As Jc
+
+Doppelganger bet 21.
+our last bet of 45 was in round 4
+BAMF's EV: 216.575758
+BAMF's Equity: 0.678787878788
+BAMF's Implied Odds: -340
+BAMF's maxBetFold: 0
+BAMF's M ratio:14
+BAMF's maxBetEV: 695
+
+line 1
+final max raise:43
+final min raise:42
+Raise range: 42 43
+BAMF calls 21.
+our bot's last action is CALL for 21
+Doppelganger WTSD percentage is: 0.666667
+BAMF WTSD percentage is: 0.666667
+Doppelganger W$SD percentage is: 1.000000
 
 
 NEWHAND:4
 
-['NEWHAND', '4', '2', '9c', '3c', '76', '524', '0', 'OldBotv3bug', 'BAMF', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.896193']
-Active Players:2
+['NEWHAND', '4', '1', '4h', '3s', '22', '151', '427', 'BAMF', 'Clone', 'Doppelganger', '3', 'true', 'true', 'true', '14.935412']
+Active Players:3
 
-Our hand: 9c 3c
-OldBotv3bug's VPIP: 1.000000
-OldBotv3bug's PFR: 0.333333
-OldBotv3bug's estimated fold percentage is 1.000000
-OldBotv3bug's AF flop/postflop: 1.000000
-OldBotv3bug's Player Type: MANIAC
-OldBotv3bug's Seat:1
-BAMF's VPIP: 0.666667
-BAMF's PFR: 0.333333
-BAMF's estimated fold percentage is 0.333333
+Our hand: 4h 3s
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.000000
 BAMF's AF flop/postflop: 0.500000
-BAMF's Player Type: UNKNOWN
-BAMF's Seat:2
-OldBotv1raisebug's VPIP: 0.333333
-OldBotv1raisebug's PFR: 0.333333
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: UNKNOWN
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+BAMF's Player Type: NIT
+BAMF's Seat:1
+Clone's VPIP: 0.000000
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.333333
+Clone's AF flop/postflop: 1.500000
+Clone's Player Type: NIT
+Clone's Seat:2
+Doppelganger's VPIP: 0.666667
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.000000
+Doppelganger's AF flop/postflop: 7.000000
+Doppelganger's Player Type: UNKNOWN
+Doppelganger's Seat:3
 
-OldBotv3bug posts small blind/and is dealer, stack size (75)
-BAMF posts big blind, stack size (522)
+Clone posts small blind, stack size (150)
+Doppelganger posts big blind, stack size (425)
 
-['FOLD', 'CALL:4', 'RAISE:6:12']
+['CALL:2', 'FOLD', 'RAISE:4:7']
 {}
 
-***PREFLOP***(6) Board:()
-Our hand: 9c 3c
+***PREFLOP***(3) Board:()
+Our hand: 4h 3s
 
-OldBotv3bug raised to 4.
-our last bet of 2 was in round 0
-BAMF's EV: 1.388000
-BAMF's Equity: 0.4235
-BAMF's Implied Odds: -5
-BAMF's maxBetFold: 522
-BAMF's maxBetEV: 4
+our last bet of 0 was in round 0
+BAMF's EV: -0.302500
+BAMF's Equity: 0.3395
+BAMF's Implied Odds: -1
+BAMF's maxBetFold: 0
+BAMF's M ratio:7
+BAMF's maxBetEV: 1
 
 NOT BLUFFING FOLD
 BAMF folds.
 our bot's last action is FOLD for 0
+Clone folds.
 
 
 NEWHAND:5
 
-['NEWHAND', '5', '1', '5c', '9s', '522', '78', '0', 'BAMF', 'OldBotv3bug', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.887607']
-Active Players:2
+['NEWHAND', '5', '2', '3c', 'Ac', '428', '22', '150', 'Doppelganger', 'BAMF', 'Clone', '3', 'true', 'true', 'true', '14.926386']
+Active Players:3
 
-Our hand: 5c 9s
-BAMF's VPIP: 0.500000
-BAMF's PFR: 0.250000
-BAMF's estimated fold percentage is 0.500000
+Our hand: 3c Ac
+Doppelganger's VPIP: 0.500000
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.000000
+Doppelganger's AF flop/postflop: 7.000000
+Doppelganger's Player Type: UNKNOWN
+Doppelganger's Seat:1
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
 BAMF's AF flop/postflop: 0.500000
-BAMF's Player Type: UNKNOWN
-BAMF's Seat:1
-OldBotv3bug's VPIP: 1.000000
-OldBotv3bug's PFR: 0.250000
-OldBotv3bug's estimated fold percentage is 1.000000
-OldBotv3bug's AF flop/postflop: 1.000000
-OldBotv3bug's Player Type: MANIAC
-OldBotv3bug's Seat:2
-OldBotv1raisebug's VPIP: 0.250000
-OldBotv1raisebug's PFR: 0.250000
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: UNKNOWN
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+BAMF's Player Type: NIT
+BAMF's Seat:2
+Clone's VPIP: 0.000000
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.500000
+Clone's AF flop/postflop: 1.500000
+Clone's Player Type: NIT
+Clone's Seat:3
 
-BAMF posts small blind/and is dealer, stack size (521)
-OldBotv3bug posts big blind, stack size (76)
+BAMF posts small blind, stack size (21)
+Clone posts big blind, stack size (148)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
+['FOLD', 'CALL:2', 'RAISE:4:8']
 {}
 
-***PREFLOP***(3) Board:()
-Our hand: 5c 9s
+***PREFLOP***(5) Board:()
+Our hand: 3c Ac
 
+Doppelganger called 2.
 our last bet of 1 was in round 0
-BAMF's EV: 0.654000
-BAMF's Equity: 0.4135
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 521
-BAMF's maxBetEV: 2
+BAMF's EV: 2.468000
+BAMF's Equity: 0.578
+BAMF's Implied Odds: -5
+BAMF's maxBetFold: 0
+BAMF's M ratio:7
+BAMF's maxBetEV: 6
 
-final max raise:6
-final min raise:6
-Raise range: 4 6
-BAMF raises to 6.
-our bot's last action is RAISE for 6
-['FOLD', 'CALL:10', 'RAISE:14:30']
-{}
-
-***PREFLOP***(16) Board:()
-Our hand: 5c 9s
-
-OldBotv3bug raised to 10.
-our last bet of 6 was in round 0
-BAMF's EV: 4.270000
-BAMF's Equity: 0.4135
-BAMF's Implied Odds: -14
-BAMF's maxBetFold: 516
-BAMF's maxBetEV: 11
-
-final max raise:30
-final min raise:14
-Raise range: 14 30
-BAMF raises to 18.
-our bot's last action is RAISE for 18
-OldBotv3bug folds.
+no all in, fold
+BAMF folds.
+our bot's last action is FOLD for 0
+Clone raised to 7.
+Doppelganger called 7.
+Clone checks.
+Doppelganger bet 11.
+Clone folds.
 
 
 NEWHAND:6
 
-['NEWHAND', '6', '2', '6d', '3c', '68', '532', '0', 'OldBotv3bug', 'BAMF', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.867175']
-Active Players:2
+['NEWHAND', '6', '3', '5d', 'Kh', '143', '436', '21', 'Clone', 'Doppelganger', 'BAMF', '3', 'true', 'true', 'true', '14.918274']
+Active Players:3
 
-Our hand: 6d 3c
-OldBotv3bug's VPIP: 1.000000
-OldBotv3bug's PFR: 0.200000
-OldBotv3bug's estimated fold percentage is 0.400000
-OldBotv3bug's AF flop/postflop: 1.000000
-OldBotv3bug's Player Type: LOOSE
-OldBotv3bug's Seat:1
-BAMF's VPIP: 0.600000
-BAMF's PFR: 0.200000
-BAMF's estimated fold percentage is 0.500000
+Our hand: 5d Kh
+Clone's VPIP: 0.000000
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.500000
+Clone's AF flop/postflop: 2.000000
+Clone's Player Type: NIT
+Clone's Seat:1
+Doppelganger's VPIP: 0.600000
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.000000
+Doppelganger's AF flop/postflop: 4.000000
+Doppelganger's Player Type: UNKNOWN
+Doppelganger's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
 BAMF's AF flop/postflop: 0.500000
-BAMF's Player Type: UNKNOWN
-BAMF's Seat:2
-OldBotv1raisebug's VPIP: 0.200000
-OldBotv1raisebug's PFR: 0.200000
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: UNKNOWN
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+BAMF's Player Type: NIT
+BAMF's Seat:3
 
-OldBotv3bug posts small blind/and is dealer, stack size (67)
-BAMF posts big blind, stack size (530)
+Doppelganger posts small blind, stack size (435)
+BAMF posts big blind, stack size (19)
 
-['FOLD', 'CALL:4', 'RAISE:6:12']
+['CHECK', 'RAISE:4:8']
 {}
 
 ***PREFLOP***(6) Board:()
-Our hand: 6d 3c
+Our hand: 5d Kh
 
-OldBotv3bug raised to 4.
+Clone called 2.
+Doppelganger called 2.
 our last bet of 2 was in round 0
-BAMF's EV: 0.800000
-BAMF's Equity: 0.35
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 4
-BAMF's maxBetEV: 3
+BAMF's EV: 3.096000
+BAMF's Equity: 0.516
+BAMF's Implied Odds: -6
+BAMF's maxBetFold: 0
+BAMF's M ratio:6
+BAMF's maxBetEV: 6
 
-NOT BLUFFING FOLD
+no all in, fold
+BAMF checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:6', 'RAISE:12:19']
+{}
+
+***FLOP***(12) Board:(3c 6d 9d)
+Our hand: 5d Kh
+
+Doppelganger bet 6.
+our last bet of 0 was in round 0
+BAMF's EV: 1.065000
+BAMF's Equity: 0.3925
+BAMF's Implied Odds: -8
+BAMF's maxBetFold: 0
+BAMF's M ratio:6
+BAMF's maxBetEV: 7
+
+no all in, fold
 BAMF folds.
 our bot's last action is FOLD for 0
+Clone called 6.
+Doppelganger bet 9.
+Clone called 9.
+Doppelganger checks.
+Clone bet 26.
+Doppelganger raised to 55.
+Clone called 55.
+Clone WTSD percentage is: 0.333333
+Doppelganger WTSD percentage is: 0.500000
+Doppelganger W$SD percentage is: 1.000000
 
 
 NEWHAND:7
 
-['NEWHAND', '7', '1', '8s', '4s', '530', '70', '0', 'BAMF', 'OldBotv3bug', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.850727']
-Active Players:2
+['NEWHAND', '7', '1', 'Qc', 'Ad', '19', '71', '510', 'BAMF', 'Clone', 'Doppelganger', '3', 'true', 'true', 'true', '14.904045']
+Active Players:3
 
-Our hand: 8s 4s
-BAMF's VPIP: 0.500000
-BAMF's PFR: 0.166667
-BAMF's estimated fold percentage is 0.500000
+Our hand: Qc Ad
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
 BAMF's AF flop/postflop: 0.500000
-BAMF's Player Type: UNKNOWN
+BAMF's Player Type: NIT
 BAMF's Seat:1
-OldBotv3bug's VPIP: 1.000000
-OldBotv3bug's PFR: 0.166667
-OldBotv3bug's estimated fold percentage is 0.400000
-OldBotv3bug's AF flop/postflop: 1.000000
-OldBotv3bug's Player Type: LOOSE
-OldBotv3bug's Seat:2
-OldBotv1raisebug's VPIP: 0.166667
-OldBotv1raisebug's PFR: 0.166667
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: UNKNOWN
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Clone's VPIP: 0.166667
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.500000
+Clone's AF flop/postflop: 1.000000
+Clone's Player Type: UNKNOWN
+Clone's Seat:2
+Doppelganger's VPIP: 0.666667
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.000000
+Doppelganger's AF flop/postflop: 5.500000
+Doppelganger's Player Type: UNKNOWN
+Doppelganger's Seat:3
 
-BAMF posts small blind/and is dealer, stack size (529)
-OldBotv3bug posts big blind, stack size (68)
+Clone posts small blind, stack size (70)
+Doppelganger posts big blind, stack size (508)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
+['CALL:2', 'FOLD', 'RAISE:4:7']
 {}
 
 ***PREFLOP***(3) Board:()
-Our hand: 8s 4s
+Our hand: Qc Ad
 
-our last bet of 1 was in round 0
-BAMF's EV: 0.678000
-BAMF's Equity: 0.4195
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 2
-BAMF's maxBetEV: 2
+our last bet of 0 was in round 0
+BAMF's EV: 1.217500
+BAMF's Equity: 0.6435
+BAMF's Implied Odds: -3
+BAMF's maxBetFold: 0
+BAMF's M ratio:6
+BAMF's maxBetEV: 5
 
-NOT BLUFFING FOLD
-BAMF folds.
-our bot's last action is FOLD for 0
+all in 1
+final max raise:7
+final min raise:7
+Raise range: 4 7
+BAMF raises to 7.
+our bot's last action is RAISE for 7
+['FOLD', 'CALL:10', 'RAISE:12:12']
+{}
+
+***FLOP***(25) Board:(7s 9h Qh)
+Our hand: Qc Ad
+
+Clone folds.
+Doppelganger called 7.
+Doppelganger bet 10.
+our last bet of 7 was in round 0
+BAMF's EV: 18.402500
+BAMF's Equity: 0.8115
+BAMF's Implied Odds: -32
+BAMF's maxBetFold: 0
+BAMF's M ratio:4
+BAMF's maxBetEV: 107
+
+all in 1
+final max raise:12
+final min raise:12
+Raise range: 12 12
+BAMF calls 10.
+our bot's last action is CALL for 10
+['CHECK', 'BET:2:2']
+{}
+
+***TURN***(35) Board:(7s 9h Qh 4c)
+Our hand: Qc Ad
+
+Doppelganger checks.
+our last bet of 10 was in round 3
+BAMF's EV: 30.730000
+BAMF's Equity: 0.878
+BAMF's Implied Odds: -35
+BAMF's maxBetFold: 0
+BAMF's M ratio:0
+BAMF's maxBetEV: 251
+
+all in2
+final max bet:2
+final min bet:2
+Bet range: 2 2
+BAMF bets 2.
+our bot's last action is BET for 2
+Doppelganger called 2.
+BAMF WTSD percentage is: 0.428571
+Doppelganger WTSD percentage is: 0.571429
+BAMF W$SD percentage is: 0.333333
 
 
 NEWHAND:8
 
-['NEWHAND', '8', '2', '8h', 'Qh', '71', '529', '0', 'OldBotv3bug', 'BAMF', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.841628']
-Active Players:2
+['NEWHAND', '8', '2', '4d', '6c', '491', '39', '70', 'Doppelganger', 'BAMF', 'Clone', '3', 'true', 'true', 'true', '14.876132']
+Active Players:3
 
-Our hand: 8h Qh
-OldBotv3bug's VPIP: 0.857143
-OldBotv3bug's PFR: 0.142857
-OldBotv3bug's estimated fold percentage is 0.400000
-OldBotv3bug's AF flop/postflop: 1.000000
-OldBotv3bug's Player Type: LOOSE
-OldBotv3bug's Seat:1
-BAMF's VPIP: 0.428571
-BAMF's PFR: 0.142857
-BAMF's estimated fold percentage is 0.571429
-BAMF's AF flop/postflop: 0.500000
-BAMF's Player Type: UNKNOWN
+Our hand: 4d 6c
+Doppelganger's VPIP: 0.571429
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.000000
+Doppelganger's AF flop/postflop: 3.000000
+Doppelganger's Player Type: UNKNOWN
+Doppelganger's Seat:1
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.800000
+BAMF's Player Type: NIT
 BAMF's Seat:2
-OldBotv1raisebug's VPIP: 0.142857
-OldBotv1raisebug's PFR: 0.142857
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: UNKNOWN
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Clone's VPIP: 0.142857
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.500000
+Clone's AF flop/postflop: 1.000000
+Clone's Player Type: UNKNOWN
+Clone's Seat:3
 
-OldBotv3bug posts small blind/and is dealer, stack size (70)
-BAMF posts big blind, stack size (527)
+BAMF posts small blind, stack size (38)
+Clone posts big blind, stack size (68)
 
-['FOLD', 'CALL:4', 'RAISE:6:12']
+['FOLD', 'CALL:2', 'RAISE:4:6']
 {}
 
-***PREFLOP***(6) Board:()
-Our hand: 8h Qh
+***PREFLOP***(3) Board:()
+Our hand: 4d 6c
 
-OldBotv3bug raised to 4.
-our last bet of 2 was in round 0
-BAMF's EV: 2.288000
-BAMF's Equity: 0.536
-BAMF's Implied Odds: -6
-BAMF's maxBetFold: 4
-BAMF's maxBetEV: 6
+Doppelganger folds.
+our last bet of 1 was in round 0
+BAMF's EV: 0.594000
+BAMF's Equity: 0.3985
+BAMF's Implied Odds: -2
+BAMF's maxBetFold: 0
+BAMF's M ratio:12
+BAMF's maxBetEV: 1
 
-BAMF calls 4.
-our bot's last action is CALL for 4
-['CHECK', 'BET:2:8']
-{}
-
-***FLOP***(8) Board:(Kd 6h 8d)
-Our hand: 8h Qh
-
-our last bet of 4 was in round 0
-BAMF's EV: 5.632000
-BAMF's Equity: 0.704
-BAMF's Implied Odds: -8
-BAMF's maxBetFold: 5
-BAMF's maxBetEV: 19
-
-line 1
-final max bet:8
-final min bet:2
-Bet range: 2 8
-BAMF bets 4.
-our bot's last action is BET for 4
-['CHECK', 'BET:2:16']
-{}
-
-***TURN***(16) Board:(Kd 6h 8d Ad)
-Our hand: 8h Qh
-
-OldBotv3bug called 4.
-our last bet of 4 was in round 3
-BAMF's EV: 9.688000
-BAMF's Equity: 0.6055
-BAMF's Implied Odds: -16
-BAMF's maxBetFold: 10
-BAMF's maxBetEV: 24
-
-line 1
-final max bet:16
-final min bet:2
-Bet range: 2 16
-BAMF bets 11.
-our bot's last action is BET for 11
-OldBotv3bug folds.
+NOT BLUFFING FOLD
+BAMF folds.
+our bot's last action is FOLD for 0
 
 
 NEWHAND:9
 
-['NEWHAND', '9', '1', '2c', 'Qc', '537', '63', '0', 'BAMF', 'OldBotv3bug', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.818145']
-Active Players:2
+['NEWHAND', '9', '3', '4d', '6h', '71', '491', '38', 'Clone', 'Doppelganger', 'BAMF', '3', 'true', 'true', 'true', '14.869685']
+Active Players:3
 
-Our hand: 2c Qc
-BAMF's VPIP: 0.375000
-BAMF's PFR: 0.125000
-BAMF's estimated fold percentage is 0.571429
-BAMF's AF flop/postflop: 1.000000
-BAMF's Player Type: CALLING STATION
-BAMF's Seat:1
-OldBotv3bug's VPIP: 0.875000
-OldBotv3bug's PFR: 0.125000
-OldBotv3bug's estimated fold percentage is 0.400000
-OldBotv3bug's AF flop/postflop: 1.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:2
-OldBotv1raisebug's VPIP: 0.125000
-OldBotv1raisebug's PFR: 0.125000
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Our hand: 4d 6h
+Clone's VPIP: 0.125000
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.500000
+Clone's AF flop/postflop: 1.000000
+Clone's Player Type: NIT
+Clone's Seat:1
+Doppelganger's VPIP: 0.500000
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.125000
+Doppelganger's AF flop/postflop: 3.000000
+Doppelganger's Player Type: UNKNOWN
+Doppelganger's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.800000
+BAMF's Player Type: NIT
+BAMF's Seat:3
 
-BAMF posts small blind/and is dealer, stack size (536)
-OldBotv3bug posts big blind, stack size (61)
+Doppelganger posts small blind, stack size (490)
+BAMF posts big blind, stack size (36)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 2c Qc
-
-our last bet of 1 was in round 0
-BAMF's EV: 1.006000
-BAMF's Equity: 0.5015
-BAMF's Implied Odds: -3
-BAMF's maxBetFold: 2
-BAMF's maxBetEV: 3
-
-BAMF calls 2.
-our bot's last action is CALL for 2
-['FOLD', 'CALL:4', 'RAISE:6:12']
+['CHECK', 'RAISE:4:8']
 {}
 
 ***PREFLOP***(6) Board:()
-Our hand: 2c Qc
+Our hand: 4d 6h
 
-OldBotv3bug raised to 4.
+Clone called 2.
+Doppelganger called 2.
 our last bet of 2 was in round 0
-BAMF's EV: 1.708000
-BAMF's Equity: 0.4635
-BAMF's Implied Odds: -5
-BAMF's maxBetFold: 4
-BAMF's maxBetEV: 5
-
-BAMF calls 4.
-our bot's last action is CALL for 4
-['CHECK', 'BET:2:8']
-{}
-
-***FLOP***(8) Board:(Jd 8s 7s)
-Our hand: 2c Qc
-
-OldBotv3bug checks.
-our last bet of 4 was in round 0
-BAMF's EV: 2.464000
-BAMF's Equity: 0.308
-BAMF's Implied Odds: -8
-BAMF's maxBetFold: 5
+BAMF's EV: 2.178000
+BAMF's Equity: 0.363
+BAMF's Implied Odds: -6
+BAMF's maxBetFold: 0
+BAMF's M ratio:12
 BAMF's maxBetEV: 3
 
-line 6
+NOT BLUFFING FOLD
 BAMF checks.
 our bot's last action is CHECK for 0
-['FOLD', 'CALL:2', 'RAISE:4:14']
+['CHECK', 'BET:2:6']
 {}
 
-***TURN***(10) Board:(Jd 8s 7s 6s)
-Our hand: 2c Qc
+***FLOP***(6) Board:(3d 8d 4c)
+Our hand: 4d 6h
 
-OldBotv3bug bet 2.
-our last bet of 0 was in round 3
-BAMF's EV: 0.190000
-BAMF's Equity: 0.1825
-BAMF's Implied Odds: -3
-BAMF's maxBetFold: 6
-BAMF's maxBetEV: 2
+Doppelganger checks.
+our last bet of 0 was in round 0
+BAMF's EV: 3.957000
+BAMF's Equity: 0.6595
+BAMF's Implied Odds: -6
+BAMF's maxBetFold: 0
+BAMF's M ratio:12
+BAMF's maxBetEV: 11
 
-line 6
-BAMF calls 2.
-our bot's last action is CALL for 2
-['FOLD', 'CALL:12', 'RAISE:24:48']
+line 1
+final max bet:6
+final min bet:2
+Bet range: 2 6
+BAMF bets 4.
+our bot's last action is BET for 4
+['FOLD', 'CALL:11', 'RAISE:18:36']
 {}
 
-***RIVER***(24) Board:(Jd 8s 7s 6s Kh)
-Our hand: 2c Qc
+***FLOP***(32) Board:(3d 8d 4c)
+Our hand: 4d 6h
 
-OldBotv3bug bet 12.
-our last bet of 2 was in round 4
-BAMF's EV: -5.436364
-BAMF's Equity: 0.182323232323
-BAMF's Implied Odds: 17
-BAMF's maxBetFold: 16
-BAMF's maxBetEV: 5
+Clone raised to 11.
+Doppelganger called 11.
+our last bet of 4 was in round 3
+BAMF's EV: 18.720500
+BAMF's Equity: 0.6595
+BAMF's Implied Odds: -35
+BAMF's maxBetFold: 4
+BAMF's M ratio:10
+BAMF's maxBetEV: 61
 
-BAMF folds.
-our bot's last action is FOLD for 0
+line 1
+final max raise:32
+final min raise:18
+Raise range: 18 36
+BAMF raises to 32.
+our bot's last action is RAISE for 32
+['FOLD', 'CALL:36']
+{}
+
+***FLOP***(125) Board:(3d 8d 4c)
+Our hand: 4d 6h
+
+Clone called 32.
+Doppelganger raised to 55.
+our last bet of 32 was in round 3
+BAMF's EV: 81.075500
+BAMF's Equity: 0.6595
+BAMF's Implied Odds: -126
+BAMF's maxBetFold: 17
+BAMF's M ratio:1
+BAMF's maxBetEV: 242
+
+all in2
+final call min:36
+BAMF calls 36.
+our bot's last action is CALL for 36
+Clone called 55.
+Doppelganger checks.
+Clone bet 14.
+Doppelganger called 14.
+Clone WTSD percentage is: 0.333333
+Doppelganger WTSD percentage is: 0.555556
+BAMF WTSD percentage is: 0.444444
+Clone W$SD percentage is: 0.333333
+Clone W$SD percentage is: 0.666667
 
 
 NEWHAND:10
 
-['NEWHAND', '10', '2', 'Jh', 'Jd', '69', '531', '0', 'OldBotv3bug', 'BAMF', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.774453']
+['NEWHAND', '10', '3', 'Qc', 'Tc', '420', '180', '0', 'Doppelganger', 'Clone', 'BAMF', '2', 'true', 'true', 'false', '14.845552']
 Active Players:2
 
-Our hand: Jh Jd
-OldBotv3bug's VPIP: 0.888889
-OldBotv3bug's PFR: 0.111111
-OldBotv3bug's estimated fold percentage is 0.400000
-OldBotv3bug's AF flop/postflop: 3.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:1
-BAMF's VPIP: 0.444444
-BAMF's PFR: 0.111111
-BAMF's estimated fold percentage is 0.571429
-BAMF's AF flop/postflop: 0.600000
-BAMF's Player Type: UNKNOWN
-BAMF's Seat:2
-OldBotv1raisebug's VPIP: 0.111111
-OldBotv1raisebug's PFR: 0.111111
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Our hand: Qc Tc
+Doppelganger's VPIP: 0.555556
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.125000
+Doppelganger's AF flop/postflop: 2.166667
+Doppelganger's Player Type: UNKNOWN
+Doppelganger's Seat:1
+Clone's VPIP: 0.222222
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.500000
+Clone's AF flop/postflop: 1.000000
+Clone's Player Type: UNKNOWN
+Clone's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: NIT
+BAMF's Seat:3
+BAMF is eliminated
 
-OldBotv3bug posts small blind/and is dealer, stack size (68)
-BAMF posts big blind, stack size (529)
+Doppelganger posts small blind/and is dealer, stack size (419)
+Clone posts big blind, stack size (178)
 
-['FOLD', 'CALL:4', 'RAISE:6:12']
-{}
-
-***PREFLOP***(6) Board:()
-Our hand: Jh Jd
-
-OldBotv3bug raised to 4.
-our last bet of 2 was in round 0
-BAMF's EV: 4.140000
-BAMF's Equity: 0.7675
-BAMF's Implied Odds: -7
-BAMF's maxBetFold: 4
-BAMF's maxBetEV: 19
-
-BETTING LOOSE2
-final max raise:12
-final min raise:6
-Raise range: 6 12
-BAMF raises to 9.
-our bot's last action is RAISE for 9
-OldBotv3bug folds.
+Doppelganger called 2.
+Clone checks.
+Clone checks.
+Doppelganger checks.
+Clone checks.
+Doppelganger checks.
+Clone checks.
+Doppelganger bet 3.
+Clone folds.
 
 
 NEWHAND:11
 
-['NEWHAND', '11', '1', '3d', '5s', '535', '65', '0', 'BAMF', 'OldBotv3bug', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.764970']
+['NEWHAND', '11', '3', '7s', '2h', '178', '422', '0', 'Clone', 'Doppelganger', 'BAMF', '2', 'true', 'true', 'false', '14.845552']
 Active Players:2
 
-Our hand: 3d 5s
-BAMF's VPIP: 0.500000
-BAMF's PFR: 0.100000
-BAMF's estimated fold percentage is 0.571429
-BAMF's AF flop/postflop: 0.600000
-BAMF's Player Type: UNKNOWN
-BAMF's Seat:1
-OldBotv3bug's VPIP: 0.900000
-OldBotv3bug's PFR: 0.100000
-OldBotv3bug's estimated fold percentage is 0.300000
-OldBotv3bug's AF flop/postflop: 3.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:2
-OldBotv1raisebug's VPIP: 0.100000
-OldBotv1raisebug's PFR: 0.100000
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Our hand: 7s 2h
+Clone's VPIP: 0.200000
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.500000
+Clone's AF flop/postflop: 1.000000
+Clone's Player Type: UNKNOWN
+Clone's Seat:1
+Doppelganger's VPIP: 0.500000
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.125000
+Doppelganger's AF flop/postflop: 2.000000
+Doppelganger's Player Type: UNKNOWN
+Doppelganger's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: NIT
+BAMF's Seat:3
+BAMF is eliminated
 
-BAMF posts small blind/and is dealer, stack size (534)
-OldBotv3bug posts big blind, stack size (63)
+Clone posts small blind/and is dealer, stack size (177)
+Doppelganger posts big blind, stack size (420)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 3d 5s
-
-our last bet of 1 was in round 0
-BAMF's EV: 0.430000
-BAMF's Equity: 0.3575
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 1
-
-NOT BLUFFING FOLD
-BAMF folds.
-our bot's last action is FOLD for 0
+Clone called 2.
+Doppelganger checks.
+Doppelganger checks.
+Clone bet 4.
+Doppelganger called 4.
+Doppelganger checks.
+Clone bet 11.
+Doppelganger called 11.
+Doppelganger checks.
+Clone bet 25.
+Doppelganger called 25.
+Doppelganger WTSD percentage is: 0.545455
+Clone WTSD percentage is: 0.363636
+Clone W$SD percentage is: 0.750000
 
 
 NEWHAND:12
 
-['NEWHAND', '12', '2', 'Jd', '4h', '66', '534', '0', 'OldBotv3bug', 'BAMF', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.755935']
+['NEWHAND', '12', '3', '8d', '4d', '380', '220', '0', 'Doppelganger', 'Clone', 'BAMF', '2', 'true', 'true', 'false', '14.845552']
 Active Players:2
 
-Our hand: Jd 4h
-OldBotv3bug's VPIP: 0.818182
-OldBotv3bug's PFR: 0.090909
-OldBotv3bug's estimated fold percentage is 0.300000
-OldBotv3bug's AF flop/postflop: 3.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:1
-BAMF's VPIP: 0.454545
-BAMF's PFR: 0.090909
-BAMF's estimated fold percentage is 0.454545
-BAMF's AF flop/postflop: 0.600000
-BAMF's Player Type: UNKNOWN
-BAMF's Seat:2
-OldBotv1raisebug's VPIP: 0.090909
-OldBotv1raisebug's PFR: 0.090909
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Our hand: 8d 4d
+Doppelganger's VPIP: 0.454545
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.125000
+Doppelganger's AF flop/postflop: 1.400000
+Doppelganger's Player Type: UNKNOWN
+Doppelganger's Seat:1
+Clone's VPIP: 0.181818
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.500000
+Clone's AF flop/postflop: 1.250000
+Clone's Player Type: UNKNOWN
+Clone's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: NIT
+BAMF's Seat:3
+BAMF is eliminated
 
-OldBotv3bug posts small blind/and is dealer, stack size (65)
-BAMF posts big blind, stack size (532)
+Doppelganger posts small blind/and is dealer, stack size (379)
+Clone posts big blind, stack size (218)
 
-OldBotv3bug folds.
+Doppelganger called 2.
+Clone checks.
+Clone checks.
+Doppelganger bet 2.
+Clone called 2.
+Clone bet 8.
+Doppelganger raised to 22.
+Clone called 22.
+Clone checks.
+Doppelganger bet 13.
+Clone called 13.
+Clone WTSD percentage is: 0.416667
+Doppelganger WTSD percentage is: 0.583333
+Doppelganger W$SD percentage is: 0.571429
 
 
 NEWHAND:13
 
-['NEWHAND', '13', '1', '2h', '7h', '535', '65', '0', 'BAMF', 'OldBotv3bug', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.755935']
+['NEWHAND', '13', '3', '6s', '7c', '181', '419', '0', 'Clone', 'Doppelganger', 'BAMF', '2', 'true', 'true', 'false', '14.845552']
 Active Players:2
 
-Our hand: 2h 7h
-BAMF's VPIP: 0.416667
-BAMF's PFR: 0.083333
-BAMF's estimated fold percentage is 0.454545
-BAMF's AF flop/postflop: 0.600000
-BAMF's Player Type: UNKNOWN
-BAMF's Seat:1
-OldBotv3bug's VPIP: 0.750000
-OldBotv3bug's PFR: 0.083333
-OldBotv3bug's estimated fold percentage is 0.333333
-OldBotv3bug's AF flop/postflop: 3.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:2
-OldBotv1raisebug's VPIP: 0.083333
-OldBotv1raisebug's PFR: 0.083333
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Our hand: 6s 7c
+Clone's VPIP: 0.166667
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.500000
+Clone's AF flop/postflop: 1.000000
+Clone's Player Type: UNKNOWN
+Clone's Seat:1
+Doppelganger's VPIP: 0.416667
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.125000
+Doppelganger's AF flop/postflop: 1.545455
+Doppelganger's Player Type: UNKNOWN
+Doppelganger's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: NIT
+BAMF's Seat:3
+BAMF is eliminated
 
-BAMF posts small blind/and is dealer, stack size (534)
-OldBotv3bug posts big blind, stack size (63)
+Clone posts small blind/and is dealer, stack size (180)
+Doppelganger posts big blind, stack size (417)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 2h 7h
-
-our last bet of 1 was in round 0
-BAMF's EV: 0.540000
-BAMF's Equity: 0.385
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 1
-
-NOT BLUFFING FOLD
-BAMF folds.
-our bot's last action is FOLD for 0
+Clone called 2.
+Doppelganger checks.
+Doppelganger checks.
+Clone checks.
+Doppelganger checks.
+Clone checks.
+Doppelganger checks.
+Clone checks.
+Clone WTSD percentage is: 0.461538
+Doppelganger WTSD percentage is: 0.615385
+Doppelganger W$SD percentage is: 0.625000
 
 
 NEWHAND:14
 
-['NEWHAND', '14', '2', 'Ac', '4d', '66', '534', '0', 'OldBotv3bug', 'BAMF', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.743461']
+['NEWHAND', '14', '3', 'Qc', 'Kc', '421', '179', '0', 'Doppelganger', 'Clone', 'BAMF', '2', 'true', 'true', 'false', '14.845552']
 Active Players:2
 
-Our hand: Ac 4d
-OldBotv3bug's VPIP: 0.692308
-OldBotv3bug's PFR: 0.076923
-OldBotv3bug's estimated fold percentage is 0.333333
-OldBotv3bug's AF flop/postflop: 3.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:1
-BAMF's VPIP: 0.384615
-BAMF's PFR: 0.076923
-BAMF's estimated fold percentage is 0.461538
-BAMF's AF flop/postflop: 0.600000
-BAMF's Player Type: CALLING STATION
-BAMF's Seat:2
-OldBotv1raisebug's VPIP: 0.076923
-OldBotv1raisebug's PFR: 0.076923
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Our hand: Qc Kc
+Doppelganger's VPIP: 0.384615
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.125000
+Doppelganger's AF flop/postflop: 1.545455
+Doppelganger's Player Type: CALLING STATION
+Doppelganger's Seat:1
+Clone's VPIP: 0.153846
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.500000
+Clone's AF flop/postflop: 0.916667
+Clone's Player Type: UNKNOWN
+Clone's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: NIT
+BAMF's Seat:3
+BAMF is eliminated
 
-OldBotv3bug posts small blind/and is dealer, stack size (65)
-BAMF posts big blind, stack size (532)
+Doppelganger posts small blind/and is dealer, stack size (420)
+Clone posts big blind, stack size (177)
 
-OldBotv3bug folds.
+Doppelganger called 2.
+Clone checks.
+Clone checks.
+Doppelganger checks.
+Clone checks.
+Doppelganger checks.
+Clone checks.
+Doppelganger checks.
+Doppelganger WTSD percentage is: 0.642857
+Clone WTSD percentage is: 0.500000
+Doppelganger W$SD percentage is: 0.666667
 
 
 NEWHAND:15
 
-['NEWHAND', '15', '1', '3c', 'As', '535', '65', '0', 'BAMF', 'OldBotv3bug', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.743461']
+['NEWHAND', '15', '3', '9d', 'Jd', '177', '423', '0', 'Clone', 'Doppelganger', 'BAMF', '2', 'true', 'true', 'false', '14.845552']
 Active Players:2
 
-Our hand: 3c As
-BAMF's VPIP: 0.357143
-BAMF's PFR: 0.071429
-BAMF's estimated fold percentage is 0.461538
-BAMF's AF flop/postflop: 0.600000
-BAMF's Player Type: CALLING STATION
-BAMF's Seat:1
-OldBotv3bug's VPIP: 0.642857
-OldBotv3bug's PFR: 0.071429
-OldBotv3bug's estimated fold percentage is 0.357143
-OldBotv3bug's AF flop/postflop: 3.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:2
-OldBotv1raisebug's VPIP: 0.071429
-OldBotv1raisebug's PFR: 0.071429
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Our hand: 9d Jd
+Clone's VPIP: 0.142857
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.500000
+Clone's AF flop/postflop: 0.916667
+Clone's Player Type: UNKNOWN
+Clone's Seat:1
+Doppelganger's VPIP: 0.357143
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.125000
+Doppelganger's AF flop/postflop: 1.416667
+Doppelganger's Player Type: CALLING STATION
+Doppelganger's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: NIT
+BAMF's Seat:3
+BAMF is eliminated
 
-BAMF posts small blind/and is dealer, stack size (534)
-OldBotv3bug posts big blind, stack size (63)
+Clone posts small blind/and is dealer, stack size (176)
+Doppelganger posts big blind, stack size (421)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 3c As
-
-our last bet of 1 was in round 0
-BAMF's EV: 1.242000
-BAMF's Equity: 0.5605
-BAMF's Implied Odds: -3
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
-
-BAMF calls 2.
-our bot's last action is CALL for 2
-['FOLD', 'CALL:4', 'RAISE:6:12']
-{}
-
-***PREFLOP***(6) Board:()
-Our hand: 3c As
-
-OldBotv3bug raised to 4.
-our last bet of 2 was in round 0
-BAMF's EV: 2.484000
-BAMF's Equity: 0.5605
-BAMF's Implied Odds: -6
-BAMF's maxBetFold: 3
-BAMF's maxBetEV: 7
-
-BAMF calls 4.
-our bot's last action is CALL for 4
-['FOLD', 'CALL:8', 'RAISE:16:32']
-{}
-
-***FLOP***(16) Board:(9s 8c 9c)
-Our hand: 3c As
-
-OldBotv3bug bet 8.
-our last bet of 4 was in round 0
-BAMF's EV: 5.296000
-BAMF's Equity: 0.554
-BAMF's Implied Odds: -17
-BAMF's maxBetFold: 8
-BAMF's maxBetEV: 19
-
-line 6
-BAMF calls 8.
-our bot's last action is CALL for 8
-['FOLD', 'CALL:2', 'RAISE:4:30']
-{}
-
-***TURN***(26) Board:(9s 8c 9c 6h)
-Our hand: 3c As
-
-OldBotv3bug bet 2.
-our last bet of 8 was in round 3
-BAMF's EV: 10.726000
-BAMF's Equity: 0.4545
-BAMF's Implied Odds: -25
-BAMF's maxBetFold: 14
-BAMF's maxBetEV: 21
-
-line 6
-BAMF calls 2.
-our bot's last action is CALL for 2
-['FOLD', 'CALL:2', 'RAISE:4:34']
-{}
-
-***RIVER***(30) Board:(9s 8c 9c 6h Kh)
-Our hand: 3c As
-
-OldBotv3bug bet 2.
-our last bet of 2 was in round 4
-BAMF's EV: 11.462626
-BAMF's Equity: 0.420707070707
-BAMF's Implied Odds: -29
-BAMF's maxBetFold: 16
-BAMF's maxBetEV: 21
-
-line 4
-final max raise:16
-final min raise:8
-Raise range: 4 34
-BAMF raises to 16.
-our bot's last action is RAISE for 16
-OldBotv3bug folds.
+Clone called 2.
+Doppelganger checks.
+Doppelganger bet 3.
+Clone called 3.
+Doppelganger bet 7.
+Clone called 7.
+Doppelganger checks.
+Clone bet 15.
+Doppelganger called 15.
+Clone WTSD percentage is: 0.533333
+Doppelganger WTSD percentage is: 0.666667
+Clone W$SD percentage is: 0.500000
 
 
 NEWHAND:16
 
-['NEWHAND', '16', '2', '3h', '3d', '49', '551', '0', 'OldBotv3bug', 'BAMF', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.698361']
+['NEWHAND', '16', '3', 'Ah', 'Qd', '396', '204', '0', 'Doppelganger', 'Clone', 'BAMF', '2', 'true', 'true', 'false', '14.845552']
 Active Players:2
 
-Our hand: 3h 3d
-OldBotv3bug's VPIP: 0.666667
-OldBotv3bug's PFR: 0.066667
-OldBotv3bug's estimated fold percentage is 0.357143
-OldBotv3bug's AF flop/postflop: 6.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:1
-BAMF's VPIP: 0.400000
-BAMF's PFR: 0.066667
-BAMF's estimated fold percentage is 0.461538
-BAMF's AF flop/postflop: 0.500000
-BAMF's Player Type: CALLING STATION
-BAMF's Seat:2
-OldBotv1raisebug's VPIP: 0.066667
-OldBotv1raisebug's PFR: 0.066667
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Our hand: Ah Qd
+Doppelganger's VPIP: 0.333333
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.125000
+Doppelganger's AF flop/postflop: 1.461538
+Doppelganger's Player Type: CALLING STATION
+Doppelganger's Seat:1
+Clone's VPIP: 0.133333
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.500000
+Clone's AF flop/postflop: 0.800000
+Clone's Player Type: UNKNOWN
+Clone's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: NIT
+BAMF's Seat:3
+BAMF is eliminated
 
-OldBotv3bug posts small blind/and is dealer, stack size (48)
-BAMF posts big blind, stack size (549)
+Doppelganger posts small blind/and is dealer, stack size (395)
+Clone posts big blind, stack size (202)
 
-['FOLD', 'CALL:4', 'RAISE:6:12']
-{}
-
-***PREFLOP***(6) Board:()
-Our hand: 3h 3d
-
-OldBotv3bug raised to 4.
-our last bet of 2 was in round 0
-BAMF's EV: 2.212000
-BAMF's Equity: 0.5265
-BAMF's Implied Odds: -6
-BAMF's maxBetFold: 3
-BAMF's maxBetEV: 6
-
-BAMF calls 4.
-our bot's last action is CALL for 4
-['CHECK', 'BET:2:8']
-{}
-
-***FLOP***(8) Board:(Ts 8d Th)
-Our hand: 3h 3d
-
-our last bet of 4 was in round 0
-BAMF's EV: 3.784000
-BAMF's Equity: 0.473
-BAMF's Implied Odds: -8
-BAMF's maxBetFold: 4
-BAMF's maxBetEV: 7
-
-line 6
-BAMF checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:2', 'RAISE:4:14']
-{}
-
-***FLOP***(10) Board:(Ts 8d Th)
-Our hand: 3h 3d
-
-OldBotv3bug bet 2.
-our last bet of 0 was in round 3
-BAMF's EV: 3.676000
-BAMF's Equity: 0.473
-BAMF's Implied Odds: -9
-BAMF's maxBetFold: 5
-BAMF's maxBetEV: 8
-
-line 6
-BAMF calls 2.
-our bot's last action is CALL for 2
-['CHECK', 'BET:2:12']
-{}
-
-***TURN***(12) Board:(Ts 8d Th Ah)
-Our hand: 3h 3d
-
-our last bet of 2 was in round 3
-BAMF's EV: 6.156000
-BAMF's Equity: 0.513
-BAMF's Implied Odds: -12
-BAMF's maxBetFold: 6
-BAMF's maxBetEV: 12
-
-line 6
-BAMF checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:2', 'RAISE:4:18']
-{}
-
-***TURN***(14) Board:(Ts 8d Th Ah)
-Our hand: 3h 3d
-
-OldBotv3bug bet 2.
-our last bet of 0 was in round 4
-BAMF's EV: 6.208000
-BAMF's Equity: 0.513
-BAMF's Implied Odds: -14
-BAMF's maxBetFold: 7
-BAMF's maxBetEV: 14
-
-line 6
-BAMF calls 2.
-our bot's last action is CALL for 2
-['CHECK', 'BET:2:16']
-{}
-
-***RIVER***(16) Board:(Ts 8d Th Ah Jd)
-Our hand: 3h 3d
-
-our last bet of 2 was in round 4
-BAMF's EV: 7.604040
-BAMF's Equity: 0.475252525253
-BAMF's Implied Odds: -16
-BAMF's maxBetFold: 8
-BAMF's maxBetEV: 14
-
-line 6
-BAMF checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:2', 'RAISE:4:22']
-{}
-
-***RIVER***(18) Board:(Ts 8d Th Ah Jd)
-Our hand: 3h 3d
-
-OldBotv3bug bet 2.
-our last bet of 0 was in round 5
-BAMF's EV: 7.505051
-BAMF's Equity: 0.475252525253
-BAMF's Implied Odds: -17
-BAMF's maxBetFold: 10
-BAMF's maxBetEV: 16
-
-line 4
-final max raise:10
-final min raise:8
-Raise range: 4 22
-BAMF raises to 9.
-our bot's last action is RAISE for 9
-OldBotv3bug folds.
+Doppelganger folds.
 
 
 NEWHAND:17
 
-['NEWHAND', '17', '1', 'Qd', '8s', '561', '39', '0', 'BAMF', 'OldBotv3bug', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.600392']
+['NEWHAND', '17', '3', 'Qd', 'Jh', '205', '395', '0', 'Clone', 'Doppelganger', 'BAMF', '2', 'true', 'true', 'false', '14.845552']
 Active Players:2
 
-Our hand: Qd 8s
-BAMF's VPIP: 0.375000
-BAMF's PFR: 0.062500
-BAMF's estimated fold percentage is 0.461538
-BAMF's AF flop/postflop: 0.454545
-BAMF's Player Type: CALLING STATION
-BAMF's Seat:1
-OldBotv3bug's VPIP: 0.687500
-OldBotv3bug's PFR: 0.062500
-OldBotv3bug's estimated fold percentage is 0.357143
-OldBotv3bug's AF flop/postflop: 9.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:2
-OldBotv1raisebug's VPIP: 0.062500
-OldBotv1raisebug's PFR: 0.062500
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Our hand: Qd Jh
+Clone's VPIP: 0.125000
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.500000
+Clone's AF flop/postflop: 0.800000
+Clone's Player Type: NIT
+Clone's Seat:1
+Doppelganger's VPIP: 0.312500
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.125000
+Doppelganger's AF flop/postflop: 1.461538
+Doppelganger's Player Type: CALLING STATION
+Doppelganger's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: NIT
+BAMF's Seat:3
+BAMF is eliminated
 
-BAMF posts small blind/and is dealer, stack size (560)
-OldBotv3bug posts big blind, stack size (37)
+Clone posts small blind/and is dealer, stack size (204)
+Doppelganger posts big blind, stack size (393)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: Qd 8s
-
-our last bet of 1 was in round 0
-BAMF's EV: 1.098000
-BAMF's Equity: 0.5245
-BAMF's Implied Odds: -3
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
-
-BAMF calls 2.
-our bot's last action is CALL for 2
-['FOLD', 'CALL:4', 'RAISE:6:12']
-{}
-
-***PREFLOP***(6) Board:()
-Our hand: Qd 8s
-
-OldBotv3bug raised to 4.
-our last bet of 2 was in round 0
-BAMF's EV: 2.196000
-BAMF's Equity: 0.5245
-BAMF's Implied Odds: -6
-BAMF's maxBetFold: 3
-BAMF's maxBetEV: 6
-
-BAMF calls 4.
-our bot's last action is CALL for 4
-['FOLD', 'CALL:2', 'RAISE:4:14']
-{}
-
-***FLOP***(10) Board:(8c 9s Th)
-Our hand: Qd 8s
-
-OldBotv3bug bet 2.
-our last bet of 4 was in round 0
-BAMF's EV: 6.028000
-BAMF's Equity: 0.669
-BAMF's Implied Odds: -11
-BAMF's maxBetFold: 5
-BAMF's maxBetEV: 20
-
-line 1
-final max raise:14
-final min raise:4
-Raise range: 4 14
-BAMF raises to 5.
-our bot's last action is RAISE for 5
-['FOLD', 'CALL:15', 'RAISE:25:35']
-{}
-
-***FLOP***(28) Board:(8c 9s Th)
-Our hand: Qd 8s
-
-OldBotv3bug raised to 15.
-our last bet of 5 was in round 3
-BAMF's EV: 15.422000
-BAMF's Equity: 0.669
-BAMF's Implied Odds: -33
-BAMF's maxBetFold: 15
-BAMF's maxBetEV: 56
-
-line 1
-final max raise:35
-final min raise:25
-Raise range: 25 35
-BAMF raises to 26.
-our bot's last action is RAISE for 26
-OldBotv3bug folds.
+Clone folds.
 
 
 NEWHAND:18
 
-['NEWHAND', '18', '2', '2c', 'Jh', '20', '580', '0', 'OldBotv3bug', 'BAMF', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.561742']
+['NEWHAND', '18', '3', '9s', '7c', '396', '204', '0', 'Doppelganger', 'Clone', 'BAMF', '2', 'true', 'true', 'false', '14.845552']
 Active Players:2
 
-Our hand: 2c Jh
-OldBotv3bug's VPIP: 0.705882
-OldBotv3bug's PFR: 0.058824
-OldBotv3bug's estimated fold percentage is 0.357143
-OldBotv3bug's AF flop/postflop: 11.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:1
-BAMF's VPIP: 0.411765
-BAMF's PFR: 0.058824
-BAMF's estimated fold percentage is 0.461538
-BAMF's AF flop/postflop: 0.583333
-BAMF's Player Type: UNKNOWN
-BAMF's Seat:2
-OldBotv1raisebug's VPIP: 0.058824
-OldBotv1raisebug's PFR: 0.058824
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Our hand: 9s 7c
+Doppelganger's VPIP: 0.294118
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.125000
+Doppelganger's AF flop/postflop: 1.461538
+Doppelganger's Player Type: CALLING STATION
+Doppelganger's Seat:1
+Clone's VPIP: 0.117647
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.176471
+Clone's AF flop/postflop: 0.800000
+Clone's Player Type: NIT
+Clone's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: NIT
+BAMF's Seat:3
+BAMF is eliminated
 
-OldBotv3bug posts small blind/and is dealer, stack size (19)
-BAMF posts big blind, stack size (578)
+Doppelganger posts small blind/and is dealer, stack size (395)
+Clone posts big blind, stack size (202)
 
-OldBotv3bug folds.
+Doppelganger called 2.
+Clone checks.
+Clone checks.
+Doppelganger bet 4.
+Clone folds.
 
 
 NEWHAND:19
 
-['NEWHAND', '19', '1', '2d', '4c', '581', '19', '0', 'BAMF', 'OldBotv3bug', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.561742']
+['NEWHAND', '19', '3', 'Ac', '4d', '202', '398', '0', 'Clone', 'Doppelganger', 'BAMF', '2', 'true', 'true', 'false', '14.845552']
 Active Players:2
 
-Our hand: 2d 4c
-BAMF's VPIP: 0.388889
-BAMF's PFR: 0.055556
-BAMF's estimated fold percentage is 0.461538
-BAMF's AF flop/postflop: 0.583333
-BAMF's Player Type: CALLING STATION
-BAMF's Seat:1
-OldBotv3bug's VPIP: 0.666667
-OldBotv3bug's PFR: 0.055556
-OldBotv3bug's estimated fold percentage is 0.333333
-OldBotv3bug's AF flop/postflop: 11.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:2
-OldBotv1raisebug's VPIP: 0.055556
-OldBotv1raisebug's PFR: 0.055556
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Our hand: Ac 4d
+Clone's VPIP: 0.111111
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.176471
+Clone's AF flop/postflop: 0.800000
+Clone's Player Type: NIT
+Clone's Seat:1
+Doppelganger's VPIP: 0.277778
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.125000
+Doppelganger's AF flop/postflop: 1.428571
+Doppelganger's Player Type: CALLING STATION
+Doppelganger's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: NIT
+BAMF's Seat:3
+BAMF is eliminated
 
-BAMF posts small blind/and is dealer, stack size (580)
-OldBotv3bug posts big blind, stack size (17)
+Clone posts small blind/and is dealer, stack size (201)
+Doppelganger posts big blind, stack size (396)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 2d 4c
-
-our last bet of 1 was in round 0
-BAMF's EV: 0.274000
-BAMF's Equity: 0.3185
-BAMF's Implied Odds: -1
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 1
-
-NOT BLUFFING FOLD
-BAMF folds.
-our bot's last action is FOLD for 0
+Clone called 2.
+Doppelganger checks.
+Doppelganger bet 4.
+Clone raised to 15.
+Doppelganger raised to 44.
+Clone raised to 114.
+Doppelganger raised to 195.
+Clone called 195.
+Doppelganger bet 4.
+Clone called 4.
+Doppelganger bet 1.
+Clone called 1.
+Clone WTSD percentage is: 0.473684
+Doppelganger WTSD percentage is: 0.578947
+Clone W$SD percentage is: 0.555556
 
 
 NEWHAND:20
 
-['NEWHAND', '20', '2', 'Kh', '8h', '20', '580', '0', 'OldBotv3bug', 'BAMF', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.552965']
+['NEWHAND', '20', '3', 'As', 'Th', '196', '404', '0', 'Doppelganger', 'Clone', 'BAMF', '2', 'true', 'true', 'false', '14.845552']
 Active Players:2
 
-Our hand: Kh 8h
-OldBotv3bug's VPIP: 0.631579
-OldBotv3bug's PFR: 0.052632
-OldBotv3bug's estimated fold percentage is 0.333333
-OldBotv3bug's AF flop/postflop: 11.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:1
-BAMF's VPIP: 0.368421
-BAMF's PFR: 0.052632
-BAMF's estimated fold percentage is 0.368421
-BAMF's AF flop/postflop: 0.583333
-BAMF's Player Type: CALLING STATION
-BAMF's Seat:2
-OldBotv1raisebug's VPIP: 0.052632
-OldBotv1raisebug's PFR: 0.052632
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Our hand: As Th
+Doppelganger's VPIP: 0.263158
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.125000
+Doppelganger's AF flop/postflop: 1.785714
+Doppelganger's Player Type: CALLING STATION
+Doppelganger's Seat:1
+Clone's VPIP: 0.105263
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.176471
+Clone's AF flop/postflop: 0.736842
+Clone's Player Type: NIT
+Clone's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: NIT
+BAMF's Seat:3
+BAMF is eliminated
 
-OldBotv3bug posts small blind/and is dealer, stack size (19)
-BAMF posts big blind, stack size (578)
+Doppelganger posts small blind/and is dealer, stack size (195)
+Clone posts big blind, stack size (402)
 
-OldBotv3bug folds.
+Doppelganger called 2.
+Clone checks.
+Clone bet 3.
+Doppelganger raised to 9.
+Clone raised to 23.
+Doppelganger raised to 42.
+Clone raised to 102.
+Doppelganger called 102.
+Clone bet 51.
+Doppelganger called 51.
+Clone bet 33.
+Doppelganger called 33.
+Doppelganger WTSD percentage is: 0.600000
+Clone WTSD percentage is: 0.500000
+Doppelganger W$SD percentage is: 0.583333
 
 
 NEWHAND:21
 
-['NEWHAND', '21', '1', '9c', '4s', '581', '19', '0', 'BAMF', 'OldBotv3bug', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.552965']
+['NEWHAND', '21', '3', '3c', 'Td', '216', '384', '0', 'Clone', 'Doppelganger', 'BAMF', '2', 'true', 'true', 'false', '14.845552']
 Active Players:2
 
-Our hand: 9c 4s
-BAMF's VPIP: 0.350000
-BAMF's PFR: 0.050000
-BAMF's estimated fold percentage is 0.368421
-BAMF's AF flop/postflop: 0.583333
-BAMF's Player Type: CALLING STATION
-BAMF's Seat:1
-OldBotv3bug's VPIP: 0.600000
-OldBotv3bug's PFR: 0.050000
-OldBotv3bug's estimated fold percentage is 0.350000
-OldBotv3bug's AF flop/postflop: 11.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:2
-OldBotv1raisebug's VPIP: 0.050000
-OldBotv1raisebug's PFR: 0.050000
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Our hand: 3c Td
+Clone's VPIP: 0.100000
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.176471
+Clone's AF flop/postflop: 1.000000
+Clone's Player Type: NIT
+Clone's Seat:1
+Doppelganger's VPIP: 0.250000
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.125000
+Doppelganger's AF flop/postflop: 1.500000
+Doppelganger's Player Type: CALLING STATION
+Doppelganger's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: NIT
+BAMF's Seat:3
+BAMF is eliminated
 
-BAMF posts small blind/and is dealer, stack size (580)
-OldBotv3bug posts big blind, stack size (17)
+Clone posts small blind/and is dealer, stack size (215)
+Doppelganger posts big blind, stack size (382)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 9c 4s
-
-our last bet of 1 was in round 0
-BAMF's EV: 0.516000
-BAMF's Equity: 0.379
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 1
-
-NOT BLUFFING FOLD
-BAMF folds.
-our bot's last action is FOLD for 0
+Clone called 2.
+Doppelganger checks.
+Doppelganger checks.
+Clone checks.
+Doppelganger checks.
+Clone checks.
+Doppelganger checks.
+Clone bet 2.
+Doppelganger folds.
 
 
 NEWHAND:22
 
-['NEWHAND', '22', '2', '5h', 'Ad', '20', '580', '0', 'OldBotv3bug', 'BAMF', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.529947']
+['NEWHAND', '22', '3', 'Qd', '6c', '382', '218', '0', 'Doppelganger', 'Clone', 'BAMF', '2', 'true', 'true', 'false', '14.845552']
 Active Players:2
 
-Our hand: 5h Ad
-OldBotv3bug's VPIP: 0.571429
-OldBotv3bug's PFR: 0.047619
-OldBotv3bug's estimated fold percentage is 0.350000
-OldBotv3bug's AF flop/postflop: 11.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:1
-BAMF's VPIP: 0.333333
-BAMF's PFR: 0.047619
-BAMF's estimated fold percentage is 0.380952
-BAMF's AF flop/postflop: 0.583333
-BAMF's Player Type: CALLING STATION
-BAMF's Seat:2
-OldBotv1raisebug's VPIP: 0.047619
-OldBotv1raisebug's PFR: 0.047619
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Our hand: Qd 6c
+Doppelganger's VPIP: 0.238095
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.125000
+Doppelganger's AF flop/postflop: 1.500000
+Doppelganger's Player Type: CALLING STATION
+Doppelganger's Seat:1
+Clone's VPIP: 0.095238
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.176471
+Clone's AF flop/postflop: 1.000000
+Clone's Player Type: NIT
+Clone's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: NIT
+BAMF's Seat:3
+BAMF is eliminated
 
-OldBotv3bug posts small blind/and is dealer, stack size (19)
-BAMF posts big blind, stack size (578)
+Doppelganger posts small blind/and is dealer, stack size (381)
+Clone posts big blind, stack size (216)
 
-OldBotv3bug folds.
+Doppelganger called 2.
+Clone checks.
+Clone checks.
+Doppelganger checks.
+Clone checks.
+Doppelganger bet 4.
+Clone folds.
 
 
 NEWHAND:23
 
-['NEWHAND', '23', '1', 'Qd', '7c', '581', '19', '0', 'BAMF', 'OldBotv3bug', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.529947']
+['NEWHAND', '23', '3', '3c', '5c', '216', '384', '0', 'Clone', 'Doppelganger', 'BAMF', '2', 'true', 'true', 'false', '14.845552']
 Active Players:2
 
-Our hand: Qd 7c
-BAMF's VPIP: 0.318182
-BAMF's PFR: 0.045455
-BAMF's estimated fold percentage is 0.380952
-BAMF's AF flop/postflop: 0.583333
-BAMF's Player Type: CALLING STATION
-BAMF's Seat:1
-OldBotv3bug's VPIP: 0.545455
-OldBotv3bug's PFR: 0.045455
-OldBotv3bug's estimated fold percentage is 0.363636
-OldBotv3bug's AF flop/postflop: 11.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:2
-OldBotv1raisebug's VPIP: 0.045455
-OldBotv1raisebug's PFR: 0.045455
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Our hand: 3c 5c
+Clone's VPIP: 0.090909
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.176471
+Clone's AF flop/postflop: 1.000000
+Clone's Player Type: NIT
+Clone's Seat:1
+Doppelganger's VPIP: 0.227273
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.125000
+Doppelganger's AF flop/postflop: 1.473684
+Doppelganger's Player Type: CALLING STATION
+Doppelganger's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: NIT
+BAMF's Seat:3
+BAMF is eliminated
 
-BAMF posts small blind/and is dealer, stack size (580)
-OldBotv3bug posts big blind, stack size (17)
+Clone posts small blind/and is dealer, stack size (215)
+Doppelganger posts big blind, stack size (382)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: Qd 7c
-
-our last bet of 1 was in round 0
-BAMF's EV: 1.112000
-BAMF's Equity: 0.528
-BAMF's Implied Odds: -3
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
-
-BAMF calls 2.
-our bot's last action is CALL for 2
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(Ah 4s 3h)
-Our hand: Qd 7c
-
-OldBotv3bug checks.
-OldBotv3bug checks.
-our last bet of 2 was in round 0
-BAMF's EV: 1.490000
-BAMF's Equity: 0.3725
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 2
-BAMF's maxBetEV: 2
-
-line 6
-BAMF checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***TURN***(4) Board:(Ah 4s 3h Js)
-Our hand: Qd 7c
-
-OldBotv3bug checks.
-our last bet of 0 was in round 3
-BAMF's EV: 1.226000
-BAMF's Equity: 0.3065
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 2
-BAMF's maxBetEV: 1
-
-line 6
-BAMF checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***RIVER***(4) Board:(Ah 4s 3h Js Ac)
-Our hand: Qd 7c
-
-OldBotv3bug checks.
-our last bet of 0 was in round 4
-BAMF's EV: 1.359596
-BAMF's Equity: 0.339898989899
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 2
-BAMF's maxBetEV: 2
-
-line 6
-BAMF checks.
-our bot's last action is CHECK for 0
-OldBotv3bug WTSD percentage is: 0.043478
-BAMF WTSD percentage is: 0.086957
-BAMF W$SD percentage is: 1.000000
+Clone called 2.
+Doppelganger checks.
+Doppelganger checks.
+Clone bet 4.
+Doppelganger folds.
 
 
 NEWHAND:24
 
-['NEWHAND', '24', '2', '7s', '2h', '17', '583', '0', 'OldBotv3bug', 'BAMF', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.497187']
+['NEWHAND', '24', '3', '7d', '6c', '382', '218', '0', 'Doppelganger', 'Clone', 'BAMF', '2', 'true', 'true', 'false', '14.845552']
 Active Players:2
 
-Our hand: 7s 2h
-OldBotv3bug's VPIP: 0.521739
-OldBotv3bug's PFR: 0.043478
-OldBotv3bug's estimated fold percentage is 0.363636
-OldBotv3bug's AF flop/postflop: 11.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:1
-BAMF's VPIP: 0.304348
-BAMF's PFR: 0.043478
-BAMF's estimated fold percentage is 0.380952
-BAMF's AF flop/postflop: 0.538462
-BAMF's Player Type: UNKNOWN
-BAMF's Seat:2
-OldBotv1raisebug's VPIP: 0.043478
-OldBotv1raisebug's PFR: 0.043478
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Our hand: 7d 6c
+Doppelganger's VPIP: 0.217391
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.125000
+Doppelganger's AF flop/postflop: 1.473684
+Doppelganger's Player Type: CALLING STATION
+Doppelganger's Seat:1
+Clone's VPIP: 0.086957
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.176471
+Clone's AF flop/postflop: 1.000000
+Clone's Player Type: NIT
+Clone's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: NIT
+BAMF's Seat:3
+BAMF is eliminated
 
-OldBotv3bug posts small blind/and is dealer, stack size (16)
-BAMF posts big blind, stack size (581)
+Doppelganger posts small blind/and is dealer, stack size (381)
+Clone posts big blind, stack size (216)
 
-OldBotv3bug folds.
+Doppelganger folds.
 
 
 NEWHAND:25
 
-['NEWHAND', '25', '1', '9s', '5h', '584', '16', '0', 'BAMF', 'OldBotv3bug', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.497187']
+['NEWHAND', '25', '3', '2h', 'Ad', '219', '381', '0', 'Clone', 'Doppelganger', 'BAMF', '2', 'true', 'true', 'false', '14.845552']
 Active Players:2
 
-Our hand: 9s 5h
-BAMF's VPIP: 0.291667
-BAMF's PFR: 0.041667
-BAMF's estimated fold percentage is 0.380952
-BAMF's AF flop/postflop: 0.538462
-BAMF's Player Type: UNKNOWN
-BAMF's Seat:1
-OldBotv3bug's VPIP: 0.500000
-OldBotv3bug's PFR: 0.041667
-OldBotv3bug's estimated fold percentage is 0.375000
-OldBotv3bug's AF flop/postflop: 11.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:2
-OldBotv1raisebug's VPIP: 0.041667
-OldBotv1raisebug's PFR: 0.041667
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Our hand: 2h Ad
+Clone's VPIP: 0.083333
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.176471
+Clone's AF flop/postflop: 1.000000
+Clone's Player Type: NIT
+Clone's Seat:1
+Doppelganger's VPIP: 0.208333
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.125000
+Doppelganger's AF flop/postflop: 1.473684
+Doppelganger's Player Type: CALLING STATION
+Doppelganger's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: NIT
+BAMF's Seat:3
+BAMF is eliminated
 
-BAMF posts small blind/and is dealer, stack size (583)
-OldBotv3bug posts big blind, stack size (14)
+Clone posts small blind/and is dealer, stack size (218)
+Doppelganger posts big blind, stack size (379)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 9s 5h
-
-our last bet of 1 was in round 0
-BAMF's EV: 0.650000
-BAMF's Equity: 0.4125
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 2
-
-NOT BLUFFING FOLD
-BAMF folds.
-our bot's last action is FOLD for 0
+Clone called 2.
+Doppelganger checks.
+Doppelganger checks.
+Clone checks.
+Doppelganger checks.
+Clone checks.
+Doppelganger checks.
+Clone checks.
+Clone WTSD percentage is: 0.440000
+Doppelganger WTSD percentage is: 0.520000
+Clone W$SD percentage is: 0.545455
 
 
 NEWHAND:26
 
-['NEWHAND', '26', '2', '5d', '7h', '17', '583', '0', 'OldBotv3bug', 'BAMF', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.486482']
+['NEWHAND', '26', '3', '2h', '7h', '379', '221', '0', 'Doppelganger', 'Clone', 'BAMF', '2', 'true', 'true', 'false', '14.845552']
 Active Players:2
 
-Our hand: 5d 7h
-OldBotv3bug's VPIP: 0.480000
-OldBotv3bug's PFR: 0.040000
-OldBotv3bug's estimated fold percentage is 0.375000
-OldBotv3bug's AF flop/postflop: 11.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:1
-BAMF's VPIP: 0.280000
-BAMF's PFR: 0.040000
-BAMF's estimated fold percentage is 0.360000
-BAMF's AF flop/postflop: 0.538462
-BAMF's Player Type: UNKNOWN
-BAMF's Seat:2
-OldBotv1raisebug's VPIP: 0.040000
-OldBotv1raisebug's PFR: 0.040000
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
+Our hand: 2h 7h
+Doppelganger's VPIP: 0.200000
+Doppelganger's PFR: 0.000000
+Doppelganger's estimated fold percentage is 0.125000
+Doppelganger's AF flop/postflop: 1.473684
+Doppelganger's Player Type: CALLING STATION
+Doppelganger's Seat:1
+Clone's VPIP: 0.080000
+Clone's PFR: 0.000000
+Clone's estimated fold percentage is 0.176471
+Clone's AF flop/postflop: 0.954545
+Clone's Player Type: NIT
+Clone's Seat:2
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: NIT
+BAMF's Seat:3
+BAMF is eliminated
 
-OldBotv3bug posts small blind/and is dealer, stack size (16)
-BAMF posts big blind, stack size (581)
+Doppelganger posts small blind/and is dealer, stack size (378)
+Clone posts big blind, stack size (219)
 
-OldBotv3bug folds.
-
-
-NEWHAND:27
-
-['NEWHAND', '27', '1', '8s', '5h', '584', '16', '0', 'BAMF', 'OldBotv3bug', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.486482']
-Active Players:2
-
-Our hand: 8s 5h
-BAMF's VPIP: 0.269231
-BAMF's PFR: 0.038462
-BAMF's estimated fold percentage is 0.360000
-BAMF's AF flop/postflop: 0.538462
-BAMF's Player Type: UNKNOWN
-BAMF's Seat:1
-OldBotv3bug's VPIP: 0.461538
-OldBotv3bug's PFR: 0.038462
-OldBotv3bug's estimated fold percentage is 0.384615
-OldBotv3bug's AF flop/postflop: 11.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:2
-OldBotv1raisebug's VPIP: 0.038462
-OldBotv1raisebug's PFR: 0.038462
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
-
-BAMF posts small blind/and is dealer, stack size (583)
-OldBotv3bug posts big blind, stack size (14)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 8s 5h
-
-our last bet of 1 was in round 0
-BAMF's EV: 0.682000
-BAMF's Equity: 0.4205
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 2
-
-NOT BLUFFING FOLD
-BAMF folds.
-our bot's last action is FOLD for 0
-
-
-NEWHAND:28
-
-['NEWHAND', '28', '2', '5h', 'Jh', '17', '583', '0', 'OldBotv3bug', 'BAMF', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.476924']
-Active Players:2
-
-Our hand: 5h Jh
-OldBotv3bug's VPIP: 0.444444
-OldBotv3bug's PFR: 0.037037
-OldBotv3bug's estimated fold percentage is 0.384615
-OldBotv3bug's AF flop/postflop: 11.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:1
-BAMF's VPIP: 0.259259
-BAMF's PFR: 0.037037
-BAMF's estimated fold percentage is 0.370370
-BAMF's AF flop/postflop: 0.538462
-BAMF's Player Type: UNKNOWN
-BAMF's Seat:2
-OldBotv1raisebug's VPIP: 0.037037
-OldBotv1raisebug's PFR: 0.037037
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
-
-OldBotv3bug posts small blind/and is dealer, stack size (16)
-BAMF posts big blind, stack size (581)
-
-OldBotv3bug folds.
-
-
-NEWHAND:29
-
-['NEWHAND', '29', '1', '9h', '7c', '584', '16', '0', 'BAMF', 'OldBotv3bug', 'OldBotv1raisebug', '2', 'true', 'true', 'false', '14.476924']
-Active Players:2
-
-Our hand: 9h 7c
-BAMF's VPIP: 0.250000
-BAMF's PFR: 0.035714
-BAMF's estimated fold percentage is 0.370370
-BAMF's AF flop/postflop: 0.538462
-BAMF's Player Type: UNKNOWN
-BAMF's Seat:1
-OldBotv3bug's VPIP: 0.428571
-OldBotv3bug's PFR: 0.035714
-OldBotv3bug's estimated fold percentage is 0.392857
-OldBotv3bug's AF flop/postflop: 11.000000
-OldBotv3bug's Player Type: UNKNOWN
-OldBotv3bug's Seat:2
-OldBotv1raisebug's VPIP: 0.035714
-OldBotv1raisebug's PFR: 0.035714
-OldBotv1raisebug's estimated fold percentage is 0.000000
-OldBotv1raisebug's AF flop/postflop: 0.000000
-OldBotv1raisebug's Player Type: NIT
-OldBotv1raisebug's Seat:3
-OldBotv1raisebug is eliminated
-
-BAMF posts small blind/and is dealer, stack size (583)
-OldBotv3bug posts big blind, stack size (14)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 9h 7c
-
-our last bet of 1 was in round 0
-BAMF's EV: 0.874000
-BAMF's Equity: 0.4685
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 2
-
-BAMF calls 2.
-our bot's last action is CALL for 2
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(8c 9s 4h)
-Our hand: 9h 7c
-
-OldBotv3bug checks.
-OldBotv3bug checks.
-our last bet of 2 was in round 0
-BAMF's EV: 2.952000
-BAMF's Equity: 0.738
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 2
-BAMF's maxBetEV: 11
-
-line 1
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF bets 4.
-our bot's last action is BET for 4
-['FOLD', 'CALL:14']
-{}
-
-***FLOP***(22) Board:(8c 9s 4h)
-Our hand: 9h 7c
-
-OldBotv3bug raised to 14.
-our last bet of 4 was in round 3
-BAMF's EV: 13.616000
-BAMF's Equity: 0.738
-BAMF's Implied Odds: -28
-BAMF's maxBetFold: 14
-BAMF's maxBetEV: 61
-
-line 1
-final call min:14
-BAMF calls 14.
-our bot's last action is CALL for 14
-OldBotv3bug WTSD percentage is: 0.068966
-BAMF WTSD percentage is: 0.103448
-BAMF W$SD percentage is: 1.000000
+Doppelganger called 2.
+Clone checks.
+Clone bet 2.
+Doppelganger raised to 10.
+Clone raised to 22.
+Doppelganger raised to 65.
+Clone raised to 133.
+Doppelganger called 133.
+Clone checks.
+Doppelganger bet 39.
+Clone called 39.
+Clone bet 47.
+Doppelganger called 47.
+Doppelganger WTSD percentage is: 0.538462
+Clone WTSD percentage is: 0.461538
+Doppelganger W$SD percentage is: 0.571429
 Gameover, engine disconnected.

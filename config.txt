@@ -45,13 +45,13 @@ PLAYER_1_RESET_KEYS = false
 #PLAYER_1_RESET_KEYS = false
 
 PLAYER_2_TYPE = FOLDER 
-PLAYER_2_PATH = ./Versions/v1
-PLAYER_2_NAME = OldBotv1raisebug
+PLAYER_2_PATH = ./players
+PLAYER_2_NAME = Clone
 PLAYER_2_RESET_KEYS = false
 
 PLAYER_3_TYPE = FOLDER 
-PLAYER_3_PATH = ./Versions/v3bug
-PLAYER_3_NAME = OldBotv3bug
+PLAYER_3_PATH = ./players
+PLAYER_3_NAME = Doppelganger
 PLAYER_3_RESET_KEYS = false
 
 
