@@ -2,408 +2,3142 @@
 C:\Users\Er\Dropbox\Pokerbot\players>python Player.py 3000 
 Connecting to localhost:3000
 Our name: BAMF5
-Opp1 name: OldBotv1(Ain'tABitch)5
-Opp2 name: OldBotv2(MOUSE)5
+Opp1 name: Rando5
+Opp2 name: Randy5
 
 
 NEWHAND:1
 
-['NEWHAND', '1', '2', '5d', '6c', '200', '200', '200', 'OldBotv2(MOUSE)5', 'BAMF5', "OldBotv1(Ain'tABitch)5", '3', 'true', 'true', 'true', '15.000000']
+['NEWHAND', '1', '2', 'Jh', '6s', '200', '200', '200', 'Randy5', 'BAMF5', 'Rando5', '3', 'true', 'true', 'true', '15.000000']
 Active Players:3
 
-Our hand: 5d 6c
-OldBotv2(MOUSE)5's VPIP: 0.000000
-OldBotv2(MOUSE)5's PFR: 0.000000
-OldBotv2(MOUSE)5's estimated fold percentage is 0.000000
-OldBotv2(MOUSE)5's AF flop/postflop: 0.000000
-OldBotv2(MOUSE)5's Player Type: NIT
-OldBotv2(MOUSE)5's Seat:1
+Our hand: Jh 6s
+Randy5's VPIP: 0.000000
+Randy5's PFR: 0.000000
+Randy5's estimated fold percentage is 0.000000
+Randy5's AF flop/postflop: 0.000000
+Randy5's Player Type: NIT
+Randy5's Seat:1
 BAMF5's VPIP: 0.000000
 BAMF5's PFR: 0.000000
 BAMF5's estimated fold percentage is 0.000000
 BAMF5's AF flop/postflop: 0.000000
 BAMF5's Player Type: NIT
 BAMF5's Seat:2
-OldBotv1(Ain'tABitch)5's VPIP: 0.000000
-OldBotv1(Ain'tABitch)5's PFR: 0.000000
-OldBotv1(Ain'tABitch)5's estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)5's AF flop/postflop: 0.000000
-OldBotv1(Ain'tABitch)5's Player Type: NIT
-OldBotv1(Ain'tABitch)5's Seat:3
+Rando5's VPIP: 0.000000
+Rando5's PFR: 0.000000
+Rando5's estimated fold percentage is 0.000000
+Rando5's AF flop/postflop: 0.000000
+Rando5's Player Type: NIT
+Rando5's Seat:3
 
 BAMF5 posts small blind, stack size (199)
-OldBotv1(Ain'tABitch)5 posts big blind, stack size (198)
+Rando5 posts big blind, stack size (198)
 
+['FOLD', 'CALL:2', 'RAISE:4:6']
+{}
 
-***PREFLOP***(5) Board:()
-Our hand: 5d 6c
+***PREFLOP***(3) Board:()
+Our hand: Jh 6s
 
-OldBotv2(MOUSE)5 called 2.
+Randy5 folds.
 our last bet of 1 was in round 0
-BAMF5's EV: 1.232000
-BAMF5's Equity: 0.372
+BAMF5's EV: 1.020000
+BAMF5's Equity: 0.505
+BAMF5's Implied Odds: -3
+BAMF5's maxBetFold: 199
+BAMF5's maxBetEV: 3
+
+BAMF5 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(4h Qs 9d)
+Our hand: Jh 6s
+
+Rando5 checks.
+our last bet of 2 was in round 0
+BAMF5's EV: 1.440000
+BAMF5's Equity: 0.36
 BAMF5's Implied Odds: -4
-BAMF5's maxBetFold: 0
+BAMF5's maxBetFold: 198
 BAMF5's maxBetEV: 2
 
-BAMF5 folds.
-BAMF5 calls 2.
-OldBotv1(Ain'tABitch)5 raised to 4.
-OldBotv2(MOUSE)5 called 4.
-OldBotv1(Ain'tABitch)5 checks.
-OldBotv2(MOUSE)5 checks.
-OldBotv1(Ain'tABitch)5 checks.
-OldBotv2(MOUSE)5 bet 5.
-OldBotv1(Ain'tABitch)5 raised to 10.
-OldBotv2(MOUSE)5 folds.
+line 6
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:3', 'RAISE:6:13']
+{}
+
+***FLOP***(7) Board:(4h Qs 9d)
+Our hand: Jh 6s
+
+Rando5 bet 3.
+our last bet of 0 was in round 3
+BAMF5's EV: 0.600000
+BAMF5's Equity: 0.36
+BAMF5's Implied Odds: -4
+BAMF5's maxBetFold: 198
+BAMF5's maxBetEV: 3
+
+line 4
+final max raise:13
+final min raise:8
+Raise range: 6 13
+BAMF5 raises to 11.
+our bot's last action is RAISE for 11
+['FOLD', 'CALL:20', 'RAISE:29:64']
+{}
+
+***FLOP***(35) Board:(4h Qs 9d)
+Our hand: Jh 6s
+
+Rando5 raised to 20.
+our last bet of 11 was in round 3
+BAMF5's EV: 6.840000
+BAMF5's Equity: 0.36
+BAMF5's Implied Odds: -28
+BAMF5's maxBetFold: 187
+BAMF5's maxBetEV: 19
+
+line 4
+final max raise:64
+final min raise:29
+Raise range: 29 64
+BAMF5 raises to 43.
+our bot's last action is RAISE for 43
+Rando5 folds.
 
 
 NEWHAND:2
 
-['NEWHAND', '2', '3', 'Jh', '6d', '210', '191', '199', "OldBotv1(Ain'tABitch)5", 'OldBotv2(MOUSE)5', 'BAMF5', '3', 'true', 'true', 'true', '14.990115']
+['NEWHAND', '2', '3', '5d', 'Ad', '178', '200', '222', 'Rando5', 'Randy5', 'BAMF5', '3', 'true', 'true', 'true', '14.949363']
 Active Players:3
 
-Our hand: Jh 6d
-OldBotv1(Ain'tABitch)5's VPIP: 0.000000
-OldBotv1(Ain'tABitch)5's PFR: 0.000000
-OldBotv1(Ain'tABitch)5's estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)5's AF flop/postflop: 2.000000
-OldBotv1(Ain'tABitch)5's Player Type: NIT
-OldBotv1(Ain'tABitch)5's Seat:1
-OldBotv2(MOUSE)5's VPIP: 1.000000
-OldBotv2(MOUSE)5's PFR: 0.000000
-OldBotv2(MOUSE)5's estimated fold percentage is 0.000000
-OldBotv2(MOUSE)5's AF flop/postflop: 1.000000
-OldBotv2(MOUSE)5's Player Type: UNKNOWN
-OldBotv2(MOUSE)5's Seat:2
+Our hand: 5d Ad
+Rando5's VPIP: 0.000000
+Rando5's PFR: 0.000000
+Rando5's estimated fold percentage is 0.000000
+Rando5's AF flop/postflop: 2.000000
+Rando5's Player Type: NIT
+Rando5's Seat:1
+Randy5's VPIP: 0.000000
+Randy5's PFR: 0.000000
+Randy5's estimated fold percentage is 1.000000
+Randy5's AF flop/postflop: 0.000000
+Randy5's Player Type: NIT
+Randy5's Seat:2
 BAMF5's VPIP: 0.000000
 BAMF5's PFR: 0.000000
 BAMF5's estimated fold percentage is 0.000000
-BAMF5's AF flop/postflop: 0.000000
+BAMF5's AF flop/postflop: 2.000000
 BAMF5's Player Type: NIT
 BAMF5's Seat:3
 
-OldBotv2(MOUSE)5 posts small blind, stack size (190)
-BAMF5 posts big blind, stack size (197)
+Randy5 posts small blind, stack size (199)
+BAMF5 posts big blind, stack size (220)
 
+['FOLD', 'CALL:4', 'RAISE:6:14']
+{}
 
-***PREFLOP***(4) Board:()
-Our hand: Jh 6d
+***PREFLOP***(8) Board:()
+Our hand: 5d Ad
 
-OldBotv1(Ain'tABitch)5 folds.
-OldBotv2(MOUSE)5 called 2.
+Rando5 called 2.
+Randy5 raised to 4.
 our last bet of 2 was in round 0
-BAMF5's EV: 1.848000
-BAMF5's Equity: 0.462
-BAMF5's Implied Odds: -4
-BAMF5's maxBetFold: 0
-BAMF5's maxBetEV: 3
+BAMF5's EV: 3.925000
+BAMF5's Equity: 0.5925
+BAMF5's Implied Odds: -8
+BAMF5's maxBetFold: 220
+BAMF5's maxBetEV: 11
 
-final max raise:4
-final min raise:4
-Raise range: 4 6
+BAMF5 calls 4.
+our bot's last action is CALL for 4
+['FOLD', 'CALL:2', 'RAISE:4:18']
+{}
+
+***FLOP***(14) Board:(8h 7c 4s)
+Our hand: 5d Ad
+
+Rando5 called 4.
+Randy5 bet 2.
+our last bet of 4 was in round 0
+BAMF5's EV: 6.376000
+BAMF5's Equity: 0.5235
+BAMF5's Implied Odds: -14
+BAMF5's maxBetFold: 218
+BAMF5's maxBetEV: 15
+
+line 6
+BAMF5 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:18']
+{}
+
+***TURN***(18) Board:(8h 7c 4s 2s)
+Our hand: 5d Ad
+
+Rando5 called 2.
+Randy5 checks.
+our last bet of 2 was in round 3
+BAMF5's EV: 8.244000
+BAMF5's Equity: 0.458
+BAMF5's Implied Odds: -18
+BAMF5's maxBetFold: 216
+BAMF5's maxBetEV: 15
+
+line 6
 BAMF5 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:10', 'RAISE:20:48']
+{}
 
-***FLOP***(7) Board:(Ah 7s 9h)
-Our hand: Jh 6d
+***RIVER***(28) Board:(8h 7c 4s 2s Js)
+Our hand: 5d Ad
 
-OldBotv2(MOUSE)5 bet 3.
-our last bet of 0 was in round 0
-BAMF5's EV: 0.660000
-BAMF5's Equity: 0.366
-BAMF5's Implied Odds: -4
-BAMF5's maxBetFold: 0
-BAMF5's maxBetEV: 4
-
-BAMF5 calls 3.
-
-***TURN***(10) Board:(Ah 7s 9h Th)
-Our hand: Jh 6d
-
-OldBotv2(MOUSE)5 checks.
-our last bet of 3 was in round 3
-BAMF5's EV: 4.090000
-BAMF5's Equity: 0.409
-BAMF5's Implied Odds: -10
-BAMF5's maxBetFold: 0
-BAMF5's maxBetEV: 6
-
-BAMF5 checks.
-
-***RIVER***(10) Board:(Ah 7s 9h Th 9s)
-Our hand: Jh 6d
-
-OldBotv2(MOUSE)5 checks.
+Rando5 checks.
+Randy5 bet 10.
 our last bet of 0 was in round 4
-BAMF5's EV: 2.247475
-BAMF5's Equity: 0.224747474747
-BAMF5's Implied Odds: -10
-BAMF5's maxBetFold: 0
-BAMF5's maxBetEV: 2
+BAMF5's EV: 0.747475
+BAMF5's Equity: 0.282828282828
+BAMF5's Implied Odds: -12
+BAMF5's maxBetFold: 216
+BAMF5's maxBetEV: 11
 
-BAMF5 checks.
-OldBotv2(MOUSE)5 WTSD percentage is: 0.500000
+line 6
+BAMF5 calls 10.
+our bot's last action is CALL for 10
+Rando5 called 10.
+Rando5 WTSD percentage is: 0.500000
+Randy5 WTSD percentage is: 0.500000
 BAMF5 WTSD percentage is: 0.500000
-OldBotv2(MOUSE)5 W$SD percentage is: 1.000000
+Randy5 W$SD percentage is: 1.000000
 
 
 NEWHAND:3
 
-['NEWHAND', '3', '1', '5s', 'Ah', '194', '210', '196', 'BAMF5', "OldBotv1(Ain'tABitch)5", 'OldBotv2(MOUSE)5', '3', 'true', 'true', 'true', '14.964678']
+['NEWHAND', '3', '1', '5h', '8s', '206', '162', '232', 'BAMF5', 'Rando5', 'Randy5', '3', 'true', 'true', 'true', '14.921811']
 Active Players:3
 
-Our hand: 5s Ah
+Our hand: 5h 8s
 BAMF5's VPIP: 0.000000
 BAMF5's PFR: 0.000000
 BAMF5's estimated fold percentage is 0.000000
-BAMF5's AF flop/postflop: 0.000000
+BAMF5's AF flop/postflop: 0.500000
 BAMF5's Player Type: NIT
 BAMF5's Seat:1
-OldBotv1(Ain'tABitch)5's VPIP: 0.000000
-OldBotv1(Ain'tABitch)5's PFR: 0.000000
-OldBotv1(Ain'tABitch)5's estimated fold percentage is 0.500000
-OldBotv1(Ain'tABitch)5's AF flop/postflop: 2.000000
-OldBotv1(Ain'tABitch)5's Player Type: NIT
-OldBotv1(Ain'tABitch)5's Seat:2
-OldBotv2(MOUSE)5's VPIP: 1.000000
-OldBotv2(MOUSE)5's PFR: 0.000000
-OldBotv2(MOUSE)5's estimated fold percentage is 0.000000
-OldBotv2(MOUSE)5's AF flop/postflop: 2.000000
-OldBotv2(MOUSE)5's Player Type: UNKNOWN
-OldBotv2(MOUSE)5's Seat:3
+Rando5's VPIP: 0.500000
+Rando5's PFR: 0.000000
+Rando5's estimated fold percentage is 0.000000
+Rando5's AF flop/postflop: 0.666667
+Rando5's Player Type: UNKNOWN
+Rando5's Seat:2
+Randy5's VPIP: 0.500000
+Randy5's PFR: 0.500000
+Randy5's estimated fold percentage is 1.000000
+Randy5's AF flop/postflop: 2.000000
+Randy5's Player Type: MANIAC
+Randy5's Seat:3
 
-OldBotv1(Ain'tABitch)5 posts small blind, stack size (209)
-OldBotv2(MOUSE)5 posts big blind, stack size (194)
+Rando5 posts small blind, stack size (161)
+Randy5 posts big blind, stack size (230)
 
+['CALL:2', 'FOLD', 'RAISE:4:7']
+{}
 
 ***PREFLOP***(3) Board:()
-Our hand: 5s Ah
+Our hand: 5h 8s
 
-our last bet of 0 was in round 5
-BAMF5's EV: 0.920000
-BAMF5's Equity: 0.584
+our last bet of 0 was in round 0
+BAMF5's EV: 0.077500
+BAMF5's Equity: 0.4155
+BAMF5's Implied Odds: -2
+BAMF5's maxBetFold: 206
+BAMF5's maxBetEV: 2
+
+NOT BLUFFING FOLD
+BAMF5 folds.
+our bot's last action is FOLD for 0
+Rando5 raised to 4.
+Randy5 raised to 7.
+Rando5 called 7.
+Rando5 checks.
+Randy5 checks.
+Rando5 checks.
+Randy5 checks.
+Rando5 checks.
+Randy5 bet 10.
+Rando5 folds.
+
+
+NEWHAND:4
+
+['NEWHAND', '4', '2', '2s', 'Jh', '239', '206', '155', 'Randy5', 'BAMF5', 'Rando5', '3', 'true', 'true', 'true', '14.911446']
+Active Players:3
+
+Our hand: 2s Jh
+Randy5's VPIP: 0.333333
+Randy5's PFR: 0.333333
+Randy5's estimated fold percentage is 1.000000
+Randy5's AF flop/postflop: 4.000000
+Randy5's Player Type: LOOSE
+Randy5's Seat:1
+BAMF5's VPIP: 0.000000
+BAMF5's PFR: 0.000000
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.500000
+BAMF5's Player Type: NIT
+BAMF5's Seat:2
+Rando5's VPIP: 0.333333
+Rando5's PFR: 0.000000
+Rando5's estimated fold percentage is 0.000000
+Rando5's AF flop/postflop: 0.750000
+Rando5's Player Type: CALLING STATION
+Rando5's Seat:3
+
+BAMF5 posts small blind, stack size (205)
+Rando5 posts big blind, stack size (153)
+
+['FOLD', 'CALL:2', 'RAISE:4:8']
+{}
+
+***PREFLOP***(5) Board:()
+Our hand: 2s Jh
+
+Randy5 called 2.
+our last bet of 1 was in round 0
+BAMF5's EV: 1.787000
+BAMF5's Equity: 0.4645
+BAMF5's Implied Odds: -4
+BAMF5's maxBetFold: 205
+BAMF5's maxBetEV: 4
+
+final max raise:8
+final min raise:8
+Raise range: 4 8
+BAMF5 raises to 8.
+our bot's last action is RAISE for 8
+['FOLD', 'CALL:23', 'RAISE:38:77']
+{}
+
+***PREFLOP***(39) Board:()
+Our hand: 2s Jh
+
+Rando5 called 8.
+Randy5 raised to 23.
+our last bet of 8 was in round 0
+BAMF5's EV: 10.083000
+BAMF5's Equity: 0.4645
+BAMF5's Implied Odds: -36
+BAMF5's maxBetFold: 198
+BAMF5's maxBetEV: 33
+
+final max raise:77
+final min raise:38
+Raise range: 38 77
+BAMF5 raises to 43.
+our bot's last action is RAISE for 43
+['FOLD', 'CALL:72', 'RAISE:101:206']
+{}
+
+***PREFLOP***(123) Board:()
+Our hand: 2s Jh
+
+Rando5 folds.
+Randy5 raised to 72.
+our last bet of 43 was in round 0
+BAMF5's EV: 41.604000
+BAMF5's Equity: 0.4645
+BAMF5's Implied Odds: -118
+BAMF5's maxBetFold: 163
+BAMF5's maxBetEV: 106
+
+BAMF5 calls 72.
+our bot's last action is CALL for 72
+['CHECK', 'BET:2:134']
+{}
+
+***FLOP***(152) Board:(6c Kd 5s)
+Our hand: 2s Jh
+
+our last bet of 72 was in round 0
+BAMF5's EV: 50.768000
+BAMF5's Equity: 0.334
+BAMF5's Implied Odds: -152
+BAMF5's maxBetFold: 134
+BAMF5's maxBetEV: 76
+
+line 4
+final max bet:134
+final min bet:8
+Bet range: 2 134
+BAMF5 bets 87.
+our bot's last action is BET for 87
+['FOLD', 'CALL:134']
+{}
+
+***FLOP***(373) Board:(6c Kd 5s)
+Our hand: 2s Jh
+
+Randy5 raised to 134.
+our last bet of 87 was in round 3
+BAMF5's EV: 93.280000
+BAMF5's Equity: 0.334
+BAMF5's Implied Odds: -326
+BAMF5's maxBetFold: 47
+BAMF5's maxBetEV: 187
+
+line 6
+BAMF5 calls 134.
+our bot's last action is CALL for 134
+Randy5 WTSD percentage is: 0.500000
+BAMF5 WTSD percentage is: 0.500000
+BAMF5 W$SD percentage is: 0.500000
+
+
+NEWHAND:5
+
+['NEWHAND', '5', '3', '4d', '9s', '147', '33', '420', 'Rando5', 'Randy5', 'BAMF5', '3', 'true', 'true', 'true', '14.869477']
+Active Players:3
+
+Our hand: 4d 9s
+Rando5's VPIP: 0.500000
+Rando5's PFR: 0.000000
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 0.750000
+Rando5's Player Type: UNKNOWN
+Rando5's Seat:1
+Randy5's VPIP: 0.500000
+Randy5's PFR: 0.250000
+Randy5's estimated fold percentage is 1.000000
+Randy5's AF flop/postflop: 5.000000
+Randy5's Player Type: MANIAC
+Randy5's Seat:2
+BAMF5's VPIP: 0.250000
+BAMF5's PFR: 0.250000
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.500000
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:3
+
+Randy5 posts small blind, stack size (32)
+BAMF5 posts big blind, stack size (418)
+
+['FOLD', 'CALL:7', 'RAISE:10:25']
+{}
+
+***PREFLOP***(13) Board:()
+Our hand: 4d 9s
+
+Rando5 raised to 4.
+Randy5 raised to 7.
+our last bet of 2 was in round 0
+BAMF5's EV: 2.227000
+BAMF5's Equity: 0.4015
+BAMF5's Implied Odds: -10
+BAMF5's maxBetFold: 418
+BAMF5's maxBetEV: 8
+
+NOT BLUFFING FOLD
+BAMF5 folds.
+our bot's last action is FOLD for 0
+Rando5 raised to 11.
+Randy5 called 11.
+Randy5 checks.
+Rando5 checks.
+Randy5 checks.
+Rando5 checks.
+Randy5 checks.
+Rando5 bet 16.
+Randy5 raised to 22.
+Rando5 called 22.
+Rando5 WTSD percentage is: 0.400000
+Randy5 WTSD percentage is: 0.600000
+Randy5 W$SD percentage is: 0.666667
+
+
+NEWHAND:6
+
+['NEWHAND', '6', '1', 'Qs', '8c', '418', '114', '68', 'BAMF5', 'Rando5', 'Randy5', '3', 'true', 'true', 'true', '14.860386']
+Active Players:3
+
+Our hand: Qs 8c
+BAMF5's VPIP: 0.200000
+BAMF5's PFR: 0.200000
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.500000
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:1
+Rando5's VPIP: 0.600000
+Rando5's PFR: 0.200000
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.000000
+Rando5's Player Type: LOOSE
+Rando5's Seat:2
+Randy5's VPIP: 0.600000
+Randy5's PFR: 0.200000
+Randy5's estimated fold percentage is 1.000000
+Randy5's AF flop/postflop: 6.000000
+Randy5's Player Type: LOOSE
+Randy5's Seat:3
+
+Rando5 posts small blind, stack size (113)
+Randy5 posts big blind, stack size (66)
+
+['CALL:2', 'FOLD', 'RAISE:4:7']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Qs 8c
+
+our last bet of 0 was in round 0
+BAMF5's EV: 0.622500
+BAMF5's Equity: 0.5245
+BAMF5's Implied Odds: -3
+BAMF5's maxBetFold: 418
+BAMF5's maxBetEV: 3
+
+BAMF5 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:4', 'RAISE:6:16']
+{}
+
+***PREFLOP***(10) Board:()
+Our hand: Qs 8c
+
+Rando5 raised to 4.
+Randy5 called 4.
+our last bet of 2 was in round 0
+BAMF5's EV: 4.294000
+BAMF5's Equity: 0.5245
+BAMF5's Implied Odds: -10
+BAMF5's maxBetFold: 416
+BAMF5's maxBetEV: 11
+
+BAMF5 calls 4.
+our bot's last action is CALL for 4
+['FOLD', 'CALL:38', 'RAISE:65:110']
+{}
+
+***FLOP***(61) Board:(Jh 8h 3s)
+Our hand: Qs 8c
+
+Rando5 bet 11.
+Randy5 raised to 38.
+our last bet of 4 was in round 0
+BAMF5's EV: 35.012500
+BAMF5's Equity: 0.7375
+BAMF5's Implied Odds: -85
+BAMF5's maxBetFold: 414
+BAMF5's maxBetEV: 171
+
+line 1
+final max raise:110
+final min raise:65
+Raise range: 65 110
+BAMF5 raises to 95.
+our bot's last action is RAISE for 95
+['FOLD', 'CALL:110']
+{}
+
+***FLOP***(281) Board:(Jh 8h 3s)
+Our hand: Qs 8c
+
+Rando5 raised to 110.
+Randy5 called 64.
+our last bet of 95 was in round 3
+BAMF5's EV: 203.300000
+BAMF5's Equity: 0.7375
+BAMF5's Implied Odds: -290
+BAMF5's maxBetFold: 319
+BAMF5's maxBetEV: 789
+
+line 1
+final call min:110
+BAMF5 calls 110.
+our bot's last action is CALL for 110
+BAMF5 WTSD percentage is: 0.500000
+Rando5 WTSD percentage is: 0.500000
+Randy5 WTSD percentage is: 0.666667
+Randy5 W$SD percentage is: 0.750000
+
+
+NEWHAND:7
+
+['NEWHAND', '7', '2', 'Th', '2d', '296', '304', '0', 'Randy5', 'BAMF5', 'Rando5', '2', 'true', 'true', 'false', '14.817808']
+Active Players:2
+
+Our hand: Th 2d
+Randy5's VPIP: 0.666667
+Randy5's PFR: 0.166667
+Randy5's estimated fold percentage is 1.000000
+Randy5's AF flop/postflop: 3.500000
+Randy5's Player Type: LOOSE
+Randy5's Seat:1
+BAMF5's VPIP: 0.333333
+BAMF5's PFR: 0.166667
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.500000
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:2
+Rando5's VPIP: 0.666667
+Rando5's PFR: 0.166667
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: LOOSE
+Rando5's Seat:3
+Rando5 is eliminated
+
+Randy5 posts small blind/and is dealer, stack size (295)
+BAMF5 posts big blind, stack size (302)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: Th 2d
+
+Randy5 called 2.
+our last bet of 2 was in round 0
+BAMF5's EV: 1.742000
+BAMF5's Equity: 0.4355
+BAMF5's Implied Odds: -4
+BAMF5's maxBetFold: 302
+BAMF5's maxBetEV: 3
+
+NOT BLUFFING FOLD
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Kd 5s 4h)
+Our hand: Th 2d
+
+our last bet of 0 was in round 0
+BAMF5's EV: 1.196000
+BAMF5's Equity: 0.299
+BAMF5's Implied Odds: -4
+BAMF5's maxBetFold: 302
+BAMF5's maxBetEV: 1
+
+line 4
+final max bet:4
+final min bet:4
+Bet range: 2 4
+BAMF5 bets 4.
+our bot's last action is BET for 4
+['CHECK', 'BET:2:12']
+{}
+
+***TURN***(12) Board:(Kd 5s 4h Qh)
+Our hand: Th 2d
+
+Randy5 called 4.
+our last bet of 4 was in round 3
+BAMF5's EV: 2.670000
+BAMF5's Equity: 0.2225
+BAMF5's Implied Odds: -12
+BAMF5's maxBetFold: 298
+BAMF5's maxBetEV: 3
+
+line 4
+final max bet:12
+final min bet:8
+Bet range: 2 12
+BAMF5 bets 10.
+our bot's last action is BET for 10
+Randy5 folds.
+
+
+NEWHAND:8
+
+['NEWHAND', '8', '1', '2h', 'Ks', '310', '290', '0', 'BAMF5', 'Randy5', 'Rando5', '2', 'true', 'true', 'false', '14.779040']
+Active Players:2
+
+Our hand: 2h Ks
+BAMF5's VPIP: 0.285714
+BAMF5's PFR: 0.142857
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.750000
+BAMF5's Player Type: CALLING STATION
+BAMF5's Seat:1
+Randy5's VPIP: 0.714286
+Randy5's PFR: 0.142857
+Randy5's estimated fold percentage is 1.000000
+Randy5's AF flop/postflop: 2.333333
+Randy5's Player Type: LOOSE
+Randy5's Seat:2
+Rando5's VPIP: 0.571429
+Rando5's PFR: 0.142857
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: LOOSE
+Rando5's Seat:3
+Rando5 is eliminated
+
+BAMF5 posts small blind/and is dealer, stack size (309)
+Randy5 posts big blind, stack size (288)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 2h Ks
+
+our last bet of 1 was in round 0
+BAMF5's EV: 1.050000
+BAMF5's Equity: 0.5125
+BAMF5's Implied Odds: -3
+BAMF5's maxBetFold: 309
+BAMF5's maxBetEV: 3
+
+BAMF5 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(4h 5d 8s)
+Our hand: 2h Ks
+
+Randy5 checks.
+Randy5 checks.
+our last bet of 2 was in round 0
+BAMF5's EV: 1.506000
+BAMF5's Equity: 0.3765
+BAMF5's Implied Odds: -4
+BAMF5's maxBetFold: 308
+BAMF5's maxBetEV: 2
+
+line 4
+final max bet:4
+final min bet:4
+Bet range: 2 4
+BAMF5 bets 4.
+our bot's last action is BET for 4
+['FOLD', 'CALL:15', 'RAISE:26:49']
+{}
+
+***FLOP***(23) Board:(4h 5d 8s)
+Our hand: 2h Ks
+
+Randy5 raised to 15.
+our last bet of 4 was in round 3
+BAMF5's EV: 1.801000
+BAMF5's Equity: 0.3765
+BAMF5's Implied Odds: -15
+BAMF5's maxBetFold: 304
+BAMF5's maxBetEV: 13
+
+line 6
+BAMF5 calls 15.
+our bot's last action is CALL for 15
+['FOLD', 'CALL:6', 'RAISE:12:52']
+{}
+
+***TURN***(40) Board:(4h 5d 8s 8d)
+Our hand: 2h Ks
+
+Randy5 bet 6.
+our last bet of 15 was in round 3
+BAMF5's EV: 11.848000
+BAMF5's Equity: 0.388
+BAMF5's Implied Odds: -36
+BAMF5's maxBetFold: 293
+BAMF5's maxBetEV: 25
+
+line 6
+BAMF5 calls 6.
+our bot's last action is CALL for 6
+['FOLD', 'CALL:17', 'RAISE:34:97']
+{}
+
+***RIVER***(63) Board:(4h 5d 8s 8d 6d)
+Our hand: 2h Ks
+
+Randy5 bet 17.
+our last bet of 6 was in round 4
+BAMF5's EV: -0.555556
+BAMF5's Equity: 0.205555555556
+BAMF5's Implied Odds: -14
+BAMF5's maxBetFold: 287
+BAMF5's maxBetEV: 16
+
+BAMF5 folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:9
+
+['NEWHAND', '9', '2', 'Jd', 'Qd', '313', '287', '0', 'Randy5', 'BAMF5', 'Rando5', '2', 'true', 'true', 'false', '14.737198']
+Active Players:2
+
+Our hand: Jd Qd
+Randy5's VPIP: 0.625000
+Randy5's PFR: 0.125000
+Randy5's estimated fold percentage is 1.000000
+Randy5's AF flop/postflop: 3.333333
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:1
+BAMF5's VPIP: 0.250000
+BAMF5's PFR: 0.125000
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.636364
+BAMF5's Player Type: CALLING STATION
+BAMF5's Seat:2
+Rando5's VPIP: 0.500000
+Rando5's PFR: 0.125000
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: UNKNOWN
+Rando5's Seat:3
+Rando5 is eliminated
+
+Randy5 posts small blind/and is dealer, stack size (312)
+BAMF5 posts big blind, stack size (285)
+
+['FOLD', 'CALL:5', 'RAISE:8:15']
+{}
+
+***PREFLOP***(7) Board:()
+Our hand: Jd Qd
+
+Randy5 raised to 5.
+our last bet of 2 was in round 0
+BAMF5's EV: 3.145000
+BAMF5's Equity: 0.6145
+BAMF5's Implied Odds: -8
+BAMF5's maxBetFold: 285
+BAMF5's maxBetEV: 11
+
+BAMF5 calls 5.
+our bot's last action is CALL for 5
+['CHECK', 'BET:2:10']
+{}
+
+***FLOP***(10) Board:(Qh 9h Qc)
+Our hand: Jd Qd
+
+our last bet of 5 was in round 0
+BAMF5's EV: 9.405000
+BAMF5's Equity: 0.9405
+BAMF5's Implied Odds: -10
+BAMF5's maxBetFold: 282
+BAMF5's maxBetEV: 158
+
+line 1
+final max bet:10
+final min bet:2
+Bet range: 2 10
+BAMF5 bets 7.
+our bot's last action is BET for 7
+Randy5 folds.
+
+
+NEWHAND:10
+
+['NEWHAND', '10', '1', 'Qc', '4c', '292', '308', '0', 'BAMF5', 'Randy5', 'Rando5', '2', 'true', 'true', 'false', '14.724084']
+Active Players:2
+
+Our hand: Qc 4c
+BAMF5's VPIP: 0.222222
+BAMF5's PFR: 0.111111
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.666667
+BAMF5's Player Type: CALLING STATION
+BAMF5's Seat:1
+Randy5's VPIP: 0.666667
+Randy5's PFR: 0.111111
+Randy5's estimated fold percentage is 1.000000
+Randy5's AF flop/postflop: 3.333333
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:2
+Rando5's VPIP: 0.444444
+Rando5's PFR: 0.111111
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: UNKNOWN
+Rando5's Seat:3
+Rando5 is eliminated
+
+BAMF5 posts small blind/and is dealer, stack size (291)
+Randy5 posts big blind, stack size (306)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Qc 4c
+
+our last bet of 1 was in round 0
+BAMF5's EV: 1.108000
+BAMF5's Equity: 0.527
+BAMF5's Implied Odds: -3
+BAMF5's maxBetFold: 291
+BAMF5's maxBetEV: 3
+
+BAMF5 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Kh 6d 8h)
+Our hand: Qc 4c
+
+Randy5 checks.
+Randy5 checks.
+our last bet of 2 was in round 0
+BAMF5's EV: 1.604000
+BAMF5's Equity: 0.401
+BAMF5's Implied Odds: -4
+BAMF5's maxBetFold: 290
+BAMF5's maxBetEV: 2
+
+line 6
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:2', 'RAISE:4:10']
+{}
+
+***TURN***(6) Board:(Kh 6d 8h 2s)
+Our hand: Qc 4c
+
+Randy5 bet 2.
+our last bet of 0 was in round 3
+BAMF5's EV: 0.416000
+BAMF5's Equity: 0.302
+BAMF5's Implied Odds: -3
+BAMF5's maxBetFold: 290
+BAMF5's maxBetEV: 2
+
+line 6
+BAMF5 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:8']
+{}
+
+***RIVER***(8) Board:(Kh 6d 8h 2s 4d)
+Our hand: Qc 4c
+
+Randy5 checks.
+our last bet of 2 was in round 4
+BAMF5's EV: 4.347475
+BAMF5's Equity: 0.543434343434
+BAMF5's Implied Odds: -8
+BAMF5's maxBetFold: 288
+BAMF5's maxBetEV: 9
+
+line 6
+BAMF5 checks.
+our bot's last action is CHECK for 0
+Randy5 WTSD percentage is: 0.500000
+BAMF5 WTSD percentage is: 0.400000
+BAMF5 W$SD percentage is: 0.500000
+
+
+NEWHAND:11
+
+['NEWHAND', '11', '2', '9s', '5s', '304', '296', '0', 'Randy5', 'BAMF5', 'Rando5', '2', 'true', 'true', 'false', '14.700241']
+Active Players:2
+
+Our hand: 9s 5s
+Randy5's VPIP: 0.600000
+Randy5's PFR: 0.100000
+Randy5's estimated fold percentage is 1.000000
+Randy5's AF flop/postflop: 3.666667
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:1
+BAMF5's VPIP: 0.200000
+BAMF5's PFR: 0.100000
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.571429
+BAMF5's Player Type: CALLING STATION
+BAMF5's Seat:2
+Rando5's VPIP: 0.400000
+Rando5's PFR: 0.100000
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: CALLING STATION
+Rando5's Seat:3
+Rando5 is eliminated
+
+Randy5 posts small blind/and is dealer, stack size (303)
+BAMF5 posts big blind, stack size (294)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 9s 5s
+
+Randy5 called 2.
+our last bet of 2 was in round 0
+BAMF5's EV: 1.800000
+BAMF5's Equity: 0.45
+BAMF5's Implied Odds: -4
+BAMF5's maxBetFold: 294
+BAMF5's maxBetEV: 3
+
+NOT BLUFFING FOLD
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Th 2d 7h)
+Our hand: 9s 5s
+
+our last bet of 0 was in round 0
+BAMF5's EV: 0.962000
+BAMF5's Equity: 0.2405
+BAMF5's Implied Odds: -4
+BAMF5's maxBetFold: 294
+BAMF5's maxBetEV: 1
+
+line 6
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Th 2d 7h Qs)
+Our hand: 9s 5s
+
+Randy5 checks.
+our last bet of 0 was in round 3
+BAMF5's EV: 0.802000
+BAMF5's Equity: 0.2005
+BAMF5's Implied Odds: -4
+BAMF5's maxBetFold: 294
+BAMF5's maxBetEV: 1
+
+line 6
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:2', 'RAISE:4:10']
+{}
+
+***TURN***(6) Board:(Th 2d 7h Qs)
+Our hand: 9s 5s
+
+Randy5 bet 2.
+our last bet of 0 was in round 4
+BAMF5's EV: -0.396000
+BAMF5's Equity: 0.2005
+BAMF5's Implied Odds: 0
+BAMF5's maxBetFold: 294
+BAMF5's maxBetEV: 1
+
+BAMF5 folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:12
+
+['NEWHAND', '12', '1', 'Kc', '2h', '294', '306', '0', 'BAMF5', 'Randy5', 'Rando5', '2', 'true', 'true', 'false', '14.672665']
+Active Players:2
+
+Our hand: Kc 2h
+BAMF5's VPIP: 0.181818
+BAMF5's PFR: 0.090909
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.571429
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:1
+Randy5's VPIP: 0.636364
+Randy5's PFR: 0.090909
+Randy5's estimated fold percentage is 1.000000
+Randy5's AF flop/postflop: 4.000000
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:2
+Rando5's VPIP: 0.363636
+Rando5's PFR: 0.090909
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: CALLING STATION
+Rando5's Seat:3
+Rando5 is eliminated
+
+BAMF5 posts small blind/and is dealer, stack size (293)
+Randy5 posts big blind, stack size (304)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Kc 2h
+
+our last bet of 1 was in round 0
+BAMF5's EV: 1.134000
+BAMF5's Equity: 0.5335
+BAMF5's Implied Odds: -3
+BAMF5's maxBetFold: 293
+BAMF5's maxBetEV: 3
+
+BAMF5 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(3h 4h 5d)
+Our hand: Kc 2h
+
+Randy5 checks.
+Randy5 checks.
+our last bet of 2 was in round 0
+BAMF5's EV: 1.982000
+BAMF5's Equity: 0.4955
+BAMF5's Implied Odds: -4
+BAMF5's maxBetFold: 292
+BAMF5's maxBetEV: 3
+
+line 6
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(3h 4h 5d 6h)
+Our hand: Kc 2h
+
+Randy5 checks.
+our last bet of 0 was in round 3
+BAMF5's EV: 2.776000
+BAMF5's Equity: 0.694
+BAMF5's Implied Odds: -4
+BAMF5's maxBetFold: 292
+BAMF5's maxBetEV: 9
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+BAMF5 bets 2.
+our bot's last action is BET for 2
+Randy5 folds.
+
+
+NEWHAND:13
+
+['NEWHAND', '13', '2', 'Qc', '6c', '304', '296', '0', 'Randy5', 'BAMF5', 'Rando5', '2', 'true', 'true', 'false', '14.655177']
+Active Players:2
+
+Our hand: Qc 6c
+Randy5's VPIP: 0.583333
+Randy5's PFR: 0.083333
+Randy5's estimated fold percentage is 1.000000
+Randy5's AF flop/postflop: 4.000000
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:1
+BAMF5's VPIP: 0.166667
+BAMF5's PFR: 0.083333
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.600000
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:2
+Rando5's VPIP: 0.333333
+Rando5's PFR: 0.083333
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: CALLING STATION
+Rando5's Seat:3
+Rando5 is eliminated
+
+Randy5 posts small blind/and is dealer, stack size (303)
+BAMF5 posts big blind, stack size (294)
+
+Randy5 folds.
+
+
+NEWHAND:14
+
+['NEWHAND', '14', '1', '7s', 'Ks', '297', '303', '0', 'BAMF5', 'Randy5', 'Rando5', '2', 'true', 'true', 'false', '14.655177']
+Active Players:2
+
+Our hand: 7s Ks
+BAMF5's VPIP: 0.153846
+BAMF5's PFR: 0.076923
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.600000
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:1
+Randy5's VPIP: 0.538462
+Randy5's PFR: 0.076923
+Randy5's estimated fold percentage is 0.153846
+Randy5's AF flop/postflop: 4.000000
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:2
+Rando5's VPIP: 0.307692
+Rando5's PFR: 0.076923
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: CALLING STATION
+Rando5's Seat:3
+Rando5 is eliminated
+
+BAMF5 posts small blind/and is dealer, stack size (296)
+Randy5 posts big blind, stack size (301)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 7s Ks
+
+our last bet of 1 was in round 0
+BAMF5's EV: 1.224000
+BAMF5's Equity: 0.556
+BAMF5's Implied Odds: -3
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 3
+
+BAMF5 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:5', 'RAISE:8:15']
+{}
+
+***PREFLOP***(7) Board:()
+Our hand: 7s Ks
+
+Randy5 raised to 5.
+our last bet of 2 was in round 0
+BAMF5's EV: 2.560000
+BAMF5's Equity: 0.556
+BAMF5's Implied Odds: -7
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 8
+
+BAMF5 calls 5.
+our bot's last action is CALL for 5
+['FOLD', 'CALL:5', 'RAISE:10:25']
+{}
+
+***FLOP***(15) Board:(Js Jh 9c)
+Our hand: 7s Ks
+
+Randy5 bet 5.
+our last bet of 5 was in round 0
+BAMF5's EV: 4.700000
+BAMF5's Equity: 0.485
+BAMF5's Implied Odds: -14
+BAMF5's maxBetFold: 2
+BAMF5's maxBetEV: 14
+
+line 6
+BAMF5 calls 5.
+our bot's last action is CALL for 5
+['FOLD', 'CALL:2', 'RAISE:4:26']
+{}
+
+***TURN***(22) Board:(Js Jh 9c 2c)
+Our hand: 7s Ks
+
+Randy5 bet 2.
+our last bet of 5 was in round 3
+BAMF5's EV: 8.272000
+BAMF5's Equity: 0.428
+BAMF5's Implied Odds: -21
+BAMF5's maxBetFold: 4
+BAMF5's maxBetEV: 16
+
+line 6
+BAMF5 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:17', 'RAISE:34:75']
+{}
+
+***RIVER***(41) Board:(Js Jh 9c 2c Jd)
+Our hand: 7s Ks
+
+Randy5 bet 17.
+our last bet of 2 was in round 4
+BAMF5's EV: 9.627273
+BAMF5's Equity: 0.459090909091
+BAMF5's Implied Odds: -37
+BAMF5's maxBetFold: 7
+BAMF5's maxBetEV: 34
+
+line 6
+BAMF5 calls 17.
+our bot's last action is CALL for 17
+Randy5 WTSD percentage is: 0.428571
+BAMF5 WTSD percentage is: 0.357143
+Randy5 W$SD percentage is: 0.666667
+
+
+NEWHAND:15
+
+['NEWHAND', '15', '2', '8s', 'Ks', '332', '268', '0', 'Randy5', 'BAMF5', 'Rando5', '2', 'true', 'true', 'false', '14.622759']
+Active Players:2
+
+Our hand: 8s Ks
+Randy5's VPIP: 0.571429
+Randy5's PFR: 0.071429
+Randy5's estimated fold percentage is 0.153846
+Randy5's AF flop/postflop: 5.000000
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:1
+BAMF5's VPIP: 0.214286
+BAMF5's PFR: 0.071429
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.473684
+BAMF5's Player Type: CALLING STATION
+BAMF5's Seat:2
+Rando5's VPIP: 0.285714
+Rando5's PFR: 0.071429
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: CALLING STATION
+Rando5's Seat:3
+Rando5 is eliminated
+
+Randy5 posts small blind/and is dealer, stack size (331)
+BAMF5 posts big blind, stack size (266)
+
+['FOLD', 'CALL:5', 'RAISE:8:15']
+{}
+
+***PREFLOP***(7) Board:()
+Our hand: 8s Ks
+
+Randy5 raised to 5.
+our last bet of 2 was in round 0
+BAMF5's EV: 2.575000
+BAMF5's Equity: 0.5575
+BAMF5's Implied Odds: -7
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 8
+
+BAMF5 calls 5.
+our bot's last action is CALL for 5
+['CHECK', 'BET:2:10']
+{}
+
+***FLOP***(10) Board:(7c Jd 4d)
+Our hand: 8s Ks
+
+our last bet of 5 was in round 0
+BAMF5's EV: 4.175000
+BAMF5's Equity: 0.4175
+BAMF5's Implied Odds: -10
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 7
+
+line 6
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:10']
+{}
+
+***TURN***(10) Board:(7c Jd 4d 8d)
+Our hand: 8s Ks
+
+Randy5 checks.
+our last bet of 0 was in round 3
+BAMF5's EV: 6.240000
+BAMF5's Equity: 0.624
+BAMF5's Implied Odds: -10
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 16
+
+line 1
+final max bet:10
+final min bet:2
+Bet range: 2 10
+BAMF5 bets 4.
+our bot's last action is BET for 4
+['FOLD', 'CALL:18', 'RAISE:32:64']
+{}
+
+***TURN***(32) Board:(7c Jd 4d 8d)
+Our hand: 8s Ks
+
+Randy5 raised to 18.
+our last bet of 4 was in round 4
+BAMF5's EV: 14.704000
+BAMF5's Equity: 0.624
+BAMF5's Implied Odds: -37
+BAMF5's maxBetFold: 5
+BAMF5's maxBetEV: 53
+
+line 1
+final max raise:53
+final min raise:32
+Raise range: 32 64
+BAMF5 raises to 40.
+our bot's last action is RAISE for 40
+['CHECK', 'BET:2:90']
+{}
+
+***RIVER***(90) Board:(7c Jd 4d 8d 4h)
+Our hand: 8s Ks
+
+Randy5 called 40.
+our last bet of 40 was in round 4
+BAMF5's EV: 59.727273
+BAMF5's Equity: 0.663636363636
+BAMF5's Implied Odds: -90
+BAMF5's maxBetFold: 16
+BAMF5's maxBetEV: 177
+
+line 1
+final max bet:90
+final min bet:2
+Bet range: 2 90
+BAMF5 bets 42.
+our bot's last action is BET for 42
+Randy5 called 42.
+BAMF5 WTSD percentage is: 0.400000
+Randy5 WTSD percentage is: 0.466667
+BAMF5 W$SD percentage is: 0.500000
+
+
+NEWHAND:16
+
+['NEWHAND', '16', '1', '7s', 'Jc', '355', '245', '0', 'BAMF5', 'Randy5', 'Rando5', '2', 'true', 'true', 'false', '14.595928']
+Active Players:2
+
+Our hand: 7s Jc
+BAMF5's VPIP: 0.200000
+BAMF5's PFR: 0.066667
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.600000
+BAMF5's Player Type: CALLING STATION
+BAMF5's Seat:1
+Randy5's VPIP: 0.600000
+Randy5's PFR: 0.066667
+Randy5's estimated fold percentage is 0.153846
+Randy5's AF flop/postflop: 3.200000
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:2
+Rando5's VPIP: 0.266667
+Rando5's PFR: 0.066667
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: CALLING STATION
+Rando5's Seat:3
+Rando5 is eliminated
+
+BAMF5 posts small blind/and is dealer, stack size (354)
+Randy5 posts big blind, stack size (243)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 7s Jc
+
+our last bet of 1 was in round 0
+BAMF5's EV: 0.930000
+BAMF5's Equity: 0.4825
+BAMF5's Implied Odds: -2
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 2
+
+BAMF5 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:5', 'RAISE:8:15']
+{}
+
+***PREFLOP***(7) Board:()
+Our hand: 7s Jc
+
+Randy5 raised to 5.
+our last bet of 2 was in round 0
+BAMF5's EV: 1.825000
+BAMF5's Equity: 0.4825
+BAMF5's Implied Odds: -6
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 6
+
+BAMF5 calls 5.
+our bot's last action is CALL for 5
+['CHECK', 'BET:2:10']
+{}
+
+***FLOP***(10) Board:(6h 7d 6s)
+Our hand: 7s Jc
+
+Randy5 checks.
+our last bet of 5 was in round 0
+BAMF5's EV: 6.880000
+BAMF5's Equity: 0.688
+BAMF5's Implied Odds: -10
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 22
+
+line 1
+final max bet:10
+final min bet:2
+Bet range: 2 10
+BAMF5 bets 5.
+our bot's last action is BET for 5
+['FOLD', 'CALL:6', 'RAISE:12:38']
+{}
+
+***TURN***(26) Board:(6h 7d 6s 9h)
+Our hand: 7s Jc
+
+Randy5 called 5.
+Randy5 bet 6.
+our last bet of 5 was in round 3
+BAMF5's EV: 13.280000
+BAMF5's Equity: 0.6025
+BAMF5's Implied Odds: -28
+BAMF5's maxBetFold: 4
+BAMF5's maxBetEV: 39
+
+line 1
+final max raise:38
+final min raise:12
+Raise range: 12 38
+BAMF5 raises to 34.
+our bot's last action is RAISE for 34
+Randy5 folds.
+
+
+NEWHAND:17
+
+['NEWHAND', '17', '2', '8d', '8s', '229', '371', '0', 'Randy5', 'BAMF5', 'Rando5', '2', 'true', 'true', 'false', '14.567332']
+Active Players:2
+
+Our hand: 8d 8s
+Randy5's VPIP: 0.625000
+Randy5's PFR: 0.062500
+Randy5's estimated fold percentage is 0.153846
+Randy5's AF flop/postflop: 2.833333
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:1
+BAMF5's VPIP: 0.250000
+BAMF5's PFR: 0.062500
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.666667
+BAMF5's Player Type: CALLING STATION
+BAMF5's Seat:2
+Rando5's VPIP: 0.250000
+Rando5's PFR: 0.062500
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: CALLING STATION
+Rando5's Seat:3
+Rando5 is eliminated
+
+Randy5 posts small blind/and is dealer, stack size (228)
+BAMF5 posts big blind, stack size (369)
+
+['FOLD', 'CALL:5', 'RAISE:8:15']
+{}
+
+***PREFLOP***(7) Board:()
+Our hand: 8d 8s
+
+Randy5 raised to 5.
+our last bet of 2 was in round 0
+BAMF5's EV: 3.960000
+BAMF5's Equity: 0.696
+BAMF5's Implied Odds: -8
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 16
+
+BAMF5 calls 5.
+our bot's last action is CALL for 5
+['CHECK', 'BET:2:10']
+{}
+
+***FLOP***(10) Board:(Qd Jc Qc)
+Our hand: 8d 8s
+
+our last bet of 5 was in round 0
+BAMF5's EV: 5.710000
+BAMF5's Equity: 0.571
+BAMF5's Implied Odds: -10
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 13
+
+line 6
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:3', 'RAISE:6:19']
+{}
+
+***FLOP***(13) Board:(Qd Jc Qc)
+Our hand: 8d 8s
+
+Randy5 bet 3.
+our last bet of 0 was in round 3
+BAMF5's EV: 6.136000
+BAMF5's Equity: 0.571
+BAMF5's Implied Odds: -13
+BAMF5's maxBetFold: 2
+BAMF5's maxBetEV: 17
+
+line 6
+BAMF5 calls 3.
+our bot's last action is CALL for 3
+['CHECK', 'BET:2:16']
+{}
+
+***TURN***(16) Board:(Qd Jc Qc As)
+Our hand: 8d 8s
+
+our last bet of 3 was in round 3
+BAMF5's EV: 8.856000
+BAMF5's Equity: 0.5535
+BAMF5's Implied Odds: -16
+BAMF5's maxBetFold: 2
+BAMF5's maxBetEV: 19
+
+line 6
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:16']
+{}
+
+***RIVER***(16) Board:(Qd Jc Qc As 5d)
+Our hand: 8d 8s
+
+Randy5 checks.
+our last bet of 0 was in round 4
+BAMF5's EV: 10.157576
+BAMF5's Equity: 0.634848484848
+BAMF5's Implied Odds: -16
+BAMF5's maxBetFold: 2
+BAMF5's maxBetEV: 27
+
+line 1
+final max bet:16
+final min bet:2
+Bet range: 2 16
+BAMF5 bets 13.
+our bot's last action is BET for 13
+Randy5 called 13.
+Randy5 WTSD percentage is: 0.470588
+BAMF5 WTSD percentage is: 0.411765
+Randy5 W$SD percentage is: 0.625000
+
+
+NEWHAND:18
+
+['NEWHAND', '18', '1', '9s', '2h', '350', '250', '0', 'BAMF5', 'Randy5', 'Rando5', '2', 'true', 'true', 'false', '14.521719']
+Active Players:2
+
+Our hand: 9s 2h
+BAMF5's VPIP: 0.235294
+BAMF5's PFR: 0.058824
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.652174
+BAMF5's Player Type: CALLING STATION
+BAMF5's Seat:1
+Randy5's VPIP: 0.647059
+Randy5's PFR: 0.058824
+Randy5's estimated fold percentage is 0.153846
+Randy5's AF flop/postflop: 2.571429
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:2
+Rando5's VPIP: 0.235294
+Rando5's PFR: 0.058824
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: CALLING STATION
+Rando5's Seat:3
+Rando5 is eliminated
+
+BAMF5 posts small blind/and is dealer, stack size (349)
+Randy5 posts big blind, stack size (248)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 9s 2h
+
+our last bet of 1 was in round 0
+BAMF5's EV: 0.660000
+BAMF5's Equity: 0.415
+BAMF5's Implied Odds: -2
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 2
+
+NOT BLUFFING FOLD
+BAMF5 folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:19
+
+['NEWHAND', '19', '2', '4h', 'Tc', '251', '349', '0', 'Randy5', 'BAMF5', 'Rando5', '2', 'true', 'true', 'false', '14.511760']
+Active Players:2
+
+Our hand: 4h Tc
+Randy5's VPIP: 0.611111
+Randy5's PFR: 0.055556
+Randy5's estimated fold percentage is 0.153846
+Randy5's AF flop/postflop: 2.571429
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:1
+BAMF5's VPIP: 0.222222
+BAMF5's PFR: 0.055556
+BAMF5's estimated fold percentage is 0.055556
+BAMF5's AF flop/postflop: 0.652174
+BAMF5's Player Type: CALLING STATION
+BAMF5's Seat:2
+Rando5's VPIP: 0.222222
+Rando5's PFR: 0.055556
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: CALLING STATION
+Rando5's Seat:3
+Rando5 is eliminated
+
+Randy5 posts small blind/and is dealer, stack size (250)
+BAMF5 posts big blind, stack size (347)
+
+['FOLD', 'CALL:5', 'RAISE:8:15']
+{}
+
+***PREFLOP***(7) Board:()
+Our hand: 4h Tc
+
+Randy5 raised to 5.
+our last bet of 2 was in round 0
+BAMF5's EV: 1.445000
+BAMF5's Equity: 0.4445
+BAMF5's Implied Odds: -6
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 5
+
+NOT BLUFFING FOLD
+BAMF5 folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:20
+
+['NEWHAND', '20', '1', '7c', '3s', '347', '253', '0', 'BAMF5', 'Randy5', 'Rando5', '2', 'true', 'true', 'false', '14.502975']
+Active Players:2
+
+Our hand: 7c 3s
+BAMF5's VPIP: 0.210526
+BAMF5's PFR: 0.052632
+BAMF5's estimated fold percentage is 0.105263
+BAMF5's AF flop/postflop: 0.652174
+BAMF5's Player Type: CALLING STATION
+BAMF5's Seat:1
+Randy5's VPIP: 0.631579
+Randy5's PFR: 0.052632
+Randy5's estimated fold percentage is 0.153846
+Randy5's AF flop/postflop: 2.571429
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:2
+Rando5's VPIP: 0.210526
+Rando5's PFR: 0.052632
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: CALLING STATION
+Rando5's Seat:3
+Rando5 is eliminated
+
+BAMF5 posts small blind/and is dealer, stack size (346)
+Randy5 posts big blind, stack size (251)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 7c 3s
+
+our last bet of 1 was in round 0
+BAMF5's EV: 0.370000
+BAMF5's Equity: 0.3425
+BAMF5's Implied Odds: -2
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 1
+
+NOT BLUFFING FOLD
+BAMF5 folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:21
+
+['NEWHAND', '21', '2', 'Td', '6d', '254', '346', '0', 'Randy5', 'BAMF5', 'Rando5', '2', 'true', 'true', 'false', '14.494127']
+Active Players:2
+
+Our hand: Td 6d
+Randy5's VPIP: 0.600000
+Randy5's PFR: 0.050000
+Randy5's estimated fold percentage is 0.153846
+Randy5's AF flop/postflop: 2.571429
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:1
+BAMF5's VPIP: 0.200000
+BAMF5's PFR: 0.050000
+BAMF5's estimated fold percentage is 0.150000
+BAMF5's AF flop/postflop: 0.652174
+BAMF5's Player Type: CALLING STATION
+BAMF5's Seat:2
+Rando5's VPIP: 0.200000
+Rando5's PFR: 0.050000
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: CALLING STATION
+Rando5's Seat:3
+Rando5 is eliminated
+
+Randy5 posts small blind/and is dealer, stack size (253)
+BAMF5 posts big blind, stack size (344)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: Td 6d
+
+Randy5 called 2.
+our last bet of 2 was in round 0
+BAMF5's EV: 1.956000
+BAMF5's Equity: 0.489
+BAMF5's Implied Odds: -4
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 3
+
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Th 8s Qd)
+Our hand: Td 6d
+
+our last bet of 0 was in round 0
+BAMF5's EV: 2.708000
+BAMF5's Equity: 0.677
+BAMF5's Implied Odds: -4
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 8
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+BAMF5 bets 3.
+our bot's last action is BET for 3
+['FOLD', 'CALL:10', 'RAISE:17:34']
+{}
+
+***FLOP***(17) Board:(Th 8s Qd)
+Our hand: Td 6d
+
+Randy5 raised to 10.
+our last bet of 3 was in round 3
+BAMF5's EV: 9.248000
+BAMF5's Equity: 0.677
+BAMF5's Implied Odds: -20
+BAMF5's maxBetFold: 3
+BAMF5's maxBetEV: 35
+
+line 1
+final max raise:34
+final min raise:17
+Raise range: 17 34
+BAMF5 raises to 32.
+our bot's last action is RAISE for 32
+['CHECK', 'BET:2:68']
+{}
+
+***TURN***(68) Board:(Th 8s Qd 4s)
+Our hand: Td 6d
+
+Randy5 called 32.
+our last bet of 32 was in round 3
+BAMF5's EV: 48.620000
+BAMF5's Equity: 0.715
+BAMF5's Implied Odds: -68
+BAMF5's maxBetFold: 12
+BAMF5's maxBetEV: 170
+
+line 1
+final max bet:68
+final min bet:2
+Bet range: 2 68
+BAMF5 bets 7.
+our bot's last action is BET for 7
+Randy5 folds.
+
+
+NEWHAND:22
+
+['NEWHAND', '22', '1', 'Jh', '4s', '380', '220', '0', 'BAMF5', 'Randy5', 'Rando5', '2', 'true', 'true', 'false', '14.459241']
+Active Players:2
+
+Our hand: Jh 4s
+BAMF5's VPIP: 0.190476
+BAMF5's PFR: 0.047619
+BAMF5's estimated fold percentage is 0.150000
+BAMF5's AF flop/postflop: 0.782609
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:1
+Randy5's VPIP: 0.619048
+Randy5's PFR: 0.047619
+Randy5's estimated fold percentage is 0.153846
+Randy5's AF flop/postflop: 2.375000
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:2
+Rando5's VPIP: 0.190476
+Rando5's PFR: 0.047619
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: UNKNOWN
+Rando5's Seat:3
+Rando5 is eliminated
+
+BAMF5 posts small blind/and is dealer, stack size (379)
+Randy5 posts big blind, stack size (218)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Jh 4s
+
+our last bet of 1 was in round 0
+BAMF5's EV: 0.884000
+BAMF5's Equity: 0.471
+BAMF5's Implied Odds: -2
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 2
+
+BAMF5 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:5', 'RAISE:8:15']
+{}
+
+***PREFLOP***(7) Board:()
+Our hand: Jh 4s
+
+Randy5 raised to 5.
+our last bet of 2 was in round 0
+BAMF5's EV: 1.710000
+BAMF5's Equity: 0.471
+BAMF5's Implied Odds: -6
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 6
+
+BAMF5 calls 5.
+our bot's last action is CALL for 5
+['CHECK', 'BET:2:10']
+{}
+
+***FLOP***(10) Board:(4h As 7d)
+Our hand: Jh 4s
+
+Randy5 checks.
+our last bet of 5 was in round 0
+BAMF5's EV: 5.980000
+BAMF5's Equity: 0.598
+BAMF5's Implied Odds: -10
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 14
+
+line 6
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:2', 'RAISE:4:16']
+{}
+
+***TURN***(12) Board:(4h As 7d 5s)
+Our hand: Jh 4s
+
+Randy5 bet 2.
+our last bet of 0 was in round 3
+BAMF5's EV: 4.174000
+BAMF5's Equity: 0.441
+BAMF5's Implied Odds: -11
+BAMF5's maxBetFold: 2
+BAMF5's maxBetEV: 9
+
+line 6
+BAMF5 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:14']
+{}
+
+***RIVER***(14) Board:(4h As 7d 5s 5d)
+Our hand: Jh 4s
+
+Randy5 checks.
+our last bet of 2 was in round 4
+BAMF5's EV: 7.678788
+BAMF5's Equity: 0.548484848485
+BAMF5's Implied Odds: -14
+BAMF5's maxBetFold: 2
+BAMF5's maxBetEV: 17
+
+line 6
+BAMF5 checks.
+our bot's last action is CHECK for 0
+Randy5 WTSD percentage is: 0.409091
+BAMF5 WTSD percentage is: 0.363636
+Randy5 W$SD percentage is: 0.666667
+BAMF5 W$SD percentage is: 0.500000
+
+
+NEWHAND:23
+
+['NEWHAND', '23', '2', '3c', 'Kc', '220', '380', '0', 'Randy5', 'BAMF5', 'Rando5', '2', 'true', 'true', 'false', '14.407204']
+Active Players:2
+
+Our hand: 3c Kc
+Randy5's VPIP: 0.636364
+Randy5's PFR: 0.045455
+Randy5's estimated fold percentage is 0.153846
+Randy5's AF flop/postflop: 2.500000
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:1
+BAMF5's VPIP: 0.227273
+BAMF5's PFR: 0.045455
+BAMF5's estimated fold percentage is 0.150000
+BAMF5's AF flop/postflop: 0.720000
+BAMF5's Player Type: CALLING STATION
+BAMF5's Seat:2
+Rando5's VPIP: 0.181818
+Rando5's PFR: 0.045455
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: UNKNOWN
+Rando5's Seat:3
+Rando5 is eliminated
+
+Randy5 posts small blind/and is dealer, stack size (219)
+BAMF5 posts big blind, stack size (378)
+
+['FOLD', 'CALL:4', 'RAISE:6:12']
+{}
+
+***PREFLOP***(6) Board:()
+Our hand: 3c Kc
+
+Randy5 raised to 4.
+our last bet of 2 was in round 0
+BAMF5's EV: 2.388000
+BAMF5's Equity: 0.5485
+BAMF5's Implied Odds: -6
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 7
+
+BAMF5 calls 4.
+our bot's last action is CALL for 4
+['CHECK', 'BET:2:8']
+{}
+
+***FLOP***(8) Board:(Ks 6c 7d)
+Our hand: 3c Kc
+
+our last bet of 4 was in round 0
+BAMF5's EV: 6.416000
+BAMF5's Equity: 0.802
+BAMF5's Implied Odds: -8
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 32
+
+line 1
+final max bet:8
+final min bet:2
+Bet range: 2 8
+BAMF5 bets 3.
+our bot's last action is BET for 3
+['CHECK', 'BET:2:14']
+{}
+
+***TURN***(14) Board:(Ks 6c 7d 7s)
+Our hand: 3c Kc
+
+Randy5 called 3.
+our last bet of 3 was in round 3
+BAMF5's EV: 11.305000
+BAMF5's Equity: 0.8075
+BAMF5's Implied Odds: -14
+BAMF5's maxBetFold: 2
+BAMF5's maxBetEV: 58
+
+line 1
+final max bet:14
+final min bet:2
+Bet range: 2 14
+BAMF5 bets 12.
+our bot's last action is BET for 12
+['FOLD', 'CALL:30', 'RAISE:48:104']
+{}
+
+***TURN***(56) Board:(Ks 6c 7d 7s)
+Our hand: 3c Kc
+
+Randy5 raised to 30.
+our last bet of 12 was in round 4
+BAMF5's EV: 41.755000
+BAMF5's Equity: 0.8075
+BAMF5's Implied Odds: -69
+BAMF5's maxBetFold: 10
+BAMF5's maxBetEV: 234
+
+line 1
+final max raise:104
+final min raise:48
+Raise range: 48 104
+BAMF5 raises to 55.
+our bot's last action is RAISE for 55
+['CHECK', 'BET:2:124']
+{}
+
+***RIVER***(124) Board:(Ks 6c 7d 7s 2s)
+Our hand: 3c Kc
+
+Randy5 called 55.
+our last bet of 55 was in round 4
+BAMF5's EV: 97.696970
+BAMF5's Equity: 0.787878787879
+BAMF5's Implied Odds: -124
+BAMF5's maxBetFold: 22
+BAMF5's maxBetEV: 460
+
+line 1
+final max bet:124
+final min bet:2
+Bet range: 2 124
+BAMF5 bets 30.
+our bot's last action is BET for 30
+Randy5 called 30.
+Randy5 WTSD percentage is: 0.434783
+BAMF5 WTSD percentage is: 0.391304
+BAMF5 W$SD percentage is: 0.555556
+
+
+NEWHAND:24
+
+['NEWHAND', '24', '1', 'Qs', 'Td', '472', '128', '0', 'BAMF5', 'Randy5', 'Rando5', '2', 'true', 'true', 'false', '14.373775']
+Active Players:2
+
+Our hand: Qs Td
+BAMF5's VPIP: 0.217391
+BAMF5's PFR: 0.043478
+BAMF5's estimated fold percentage is 0.150000
+BAMF5's AF flop/postflop: 0.846154
+BAMF5's Player Type: CALLING STATION
+BAMF5's Seat:1
+Randy5's VPIP: 0.652174
+Randy5's PFR: 0.043478
+Randy5's estimated fold percentage is 0.153846
+Randy5's AF flop/postflop: 1.909091
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:2
+Rando5's VPIP: 0.173913
+Rando5's PFR: 0.043478
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: UNKNOWN
+Rando5's Seat:3
+Rando5 is eliminated
+
+BAMF5 posts small blind/and is dealer, stack size (471)
+Randy5 posts big blind, stack size (126)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Qs Td
+
+our last bet of 1 was in round 0
+BAMF5's EV: 1.384000
+BAMF5's Equity: 0.596
 BAMF5's Implied Odds: -3
 BAMF5's maxBetFold: 0
 BAMF5's maxBetEV: 4
 
 BAMF5 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
 
-***PREFLOP***(10) Board:()
-Our hand: 5s Ah
+***FLOP***(4) Board:(7h 9d 6s)
+Our hand: Qs Td
 
-OldBotv1(Ain'tABitch)5 raised to 4.
-OldBotv2(MOUSE)5 called 4.
+Randy5 checks.
+Randy5 checks.
 our last bet of 2 was in round 0
-BAMF5's EV: 5.008000
-BAMF5's Equity: 0.584
-BAMF5's Implied Odds: -10
-BAMF5's maxBetFold: 0
-BAMF5's maxBetEV: 14
-
-final max raise:6
-final min raise:6
-Raise range: 6 16
-BAMF5 calls 4.
-
-***FLOP***(12) Board:(6s As 7h)
-Our hand: 5s Ah
-
-OldBotv1(Ain'tABitch)5 checks.
-OldBotv2(MOUSE)5 checks.
-our last bet of 4 was in round 0
-BAMF5's EV: 9.906000
-BAMF5's Equity: 0.8255
-BAMF5's Implied Odds: -12
-BAMF5's maxBetFold: 0
-BAMF5's maxBetEV: 56
-
-final max bet:12
-final min bet:2
-Bet range: 2 12
-BAMF5 bets 2.
-
-***FLOP***(22) Board:(6s As 7h)
-Our hand: 5s Ah
-
-OldBotv1(Ain'tABitch)5 raised to 4.
-OldBotv2(MOUSE)5 called 4.
-our last bet of 2 was in round 3
-BAMF5's EV: 17.812000
-BAMF5's Equity: 0.8255
-BAMF5's Implied Odds: -23
-BAMF5's maxBetFold: 0
-BAMF5's maxBetEV: 104
-
-final max raise:28
-final min raise:6
-Raise range: 6 28
-BAMF5 raise 20.
-
-***FLOP***(104) Board:(6s As 7h)
-Our hand: 5s Ah
-
-OldBotv1(Ain'tABitch)5 raised to 36.
-OldBotv2(MOUSE)5 called 36.
-our last bet of 20 was in round 3
-BAMF5's EV: 83.060000
-BAMF5's Equity: 0.8255
-BAMF5's Implied Odds: -116
-BAMF5's maxBetFold: 0
-BAMF5's maxBetEV: 491
-
-final max raise:156
-final min raise:52
-Raise range: 52 156
-BAMF5 raise 71.
-
-***FLOP***(467) Board:(6s As 7h)
-Our hand: 5s Ah
-
-OldBotv1(Ain'tABitch)5 raised to 192.
-OldBotv2(MOUSE)5 called 192.
-our last bet of 71 was in round 3
-BAMF5's EV: 364.743000
-BAMF5's Equity: 0.8255
-BAMF5's Implied Odds: -560
-BAMF5's maxBetFold: 0
-BAMF5's maxBetEV: 2209
-
-final call min:190
-BAMF5 calls 190.
-BAMF5 WTSD percentage is: 0.666667
-OldBotv1(Ain'tABitch)5 WTSD percentage is: 0.333333
-OldBotv2(MOUSE)5 WTSD percentage is: 0.666667
-BAMF5 W$SD percentage is: 0.500000
-OldBotv2(MOUSE)5 W$SD percentage is: 1.000000
-
-
-NEWHAND:4
-
-['NEWHAND', '4', '2', '7d', '3d', '4', '582', '14', 'OldBotv2(MOUSE)5', 'BAMF5', "OldBotv1(Ain'tABitch)5", '3', 'true', 'true', 'true', '14.914586']
-Active Players:3
-
-Our hand: 7d 3d
-OldBotv2(MOUSE)5's VPIP: 1.000000
-OldBotv2(MOUSE)5's PFR: 0.000000
-OldBotv2(MOUSE)5's estimated fold percentage is 0.000000
-OldBotv2(MOUSE)5's AF flop/postflop: 0.500000
-OldBotv2(MOUSE)5's Player Type: UNKNOWN
-OldBotv2(MOUSE)5's Seat:1
-BAMF5's VPIP: 0.333333
-BAMF5's PFR: 0.000000
-BAMF5's estimated fold percentage is 0.000000
-BAMF5's AF flop/postflop: 1.000000
-BAMF5's Player Type: CALLING STATION
-BAMF5's Seat:2
-OldBotv1(Ain'tABitch)5's VPIP: 0.333333
-OldBotv1(Ain'tABitch)5's PFR: 0.333333
-OldBotv1(Ain'tABitch)5's estimated fold percentage is 0.500000
-OldBotv1(Ain'tABitch)5's AF flop/postflop: 5.000000
-OldBotv1(Ain'tABitch)5's Player Type: BOMB
-OldBotv1(Ain'tABitch)5's Seat:3
-
-BAMF5 posts small blind, stack size (581)
-OldBotv1(Ain'tABitch)5 posts big blind, stack size (12)
-
-
-***PREFLOP***(5) Board:()
-Our hand: 7d 3d
-
-OldBotv2(MOUSE)5 called 2.
-our last bet of 1 was in round 3
-BAMF5's EV: 0.905000
-BAMF5's Equity: 0.415
+BAMF5's EV: 1.806000
+BAMF5's Equity: 0.4515
 BAMF5's Implied Odds: -4
 BAMF5's maxBetFold: 0
 BAMF5's maxBetEV: 3
 
-BAMF5 folds.
-BAMF5 calls 2.
-OldBotv1(Ain'tABitch)5 raised to 4.
-OldBotv2(MOUSE)5 called 4.
-OldBotv2(MOUSE)5 WTSD percentage is: 0.750000
-OldBotv1(Ain'tABitch)5 WTSD percentage is: 0.500000
-OldBotv1(Ain'tABitch)5 W$SD percentage is: 0.500000
+line 6
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:2', 'RAISE:4:10']
+{}
+
+***TURN***(6) Board:(7h 9d 6s Tc)
+Our hand: Qs Td
+
+Randy5 bet 2.
+our last bet of 0 was in round 3
+BAMF5's EV: 3.192000
+BAMF5's Equity: 0.649
+BAMF5's Implied Odds: -6
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 11
+
+line 1
+final max raise:10
+final min raise:4
+Raise range: 4 10
+BAMF5 raises to 10.
+our bot's last action is RAISE for 10
+['CHECK', 'BET:2:24']
+{}
+
+***RIVER***(24) Board:(7h 9d 6s Tc Qh)
+Our hand: Qs Td
+
+Randy5 called 10.
+Randy5 checks.
+our last bet of 10 was in round 4
+BAMF5's EV: 19.175758
+BAMF5's Equity: 0.79898989899
+BAMF5's Implied Odds: -24
+BAMF5's maxBetFold: 4
+BAMF5's maxBetEV: 95
+
+line 1
+final max bet:24
+final min bet:2
+Bet range: 2 24
+BAMF5 bets 12.
+our bot's last action is BET for 12
+Randy5 folds.
 
 
-NEWHAND:5
+NEWHAND:25
 
-['NEWHAND', '5', '1', 'Kh', 'Kc', '581', '19', '0', 'BAMF5', "OldBotv1(Ain'tABitch)5", 'OldBotv2(MOUSE)5', '2', 'true', 'true', 'false', '14.906609']
+['NEWHAND', '25', '2', '6d', '9s', '116', '484', '0', 'Randy5', 'BAMF5', 'Rando5', '2', 'true', 'true', 'false', '14.314286']
 Active Players:2
 
-Our hand: Kh Kc
-BAMF5's VPIP: 0.250000
-BAMF5's PFR: 0.000000
-BAMF5's estimated fold percentage is 0.000000
-BAMF5's AF flop/postflop: 1.000000
+Our hand: 6d 9s
+Randy5's VPIP: 0.625000
+Randy5's PFR: 0.041667
+Randy5's estimated fold percentage is 0.153846
+Randy5's AF flop/postflop: 1.833333
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:1
+BAMF5's VPIP: 0.208333
+BAMF5's PFR: 0.041667
+BAMF5's estimated fold percentage is 0.150000
+BAMF5's AF flop/postflop: 0.888889
+BAMF5's Player Type: CALLING STATION
+BAMF5's Seat:2
+Rando5's VPIP: 0.166667
+Rando5's PFR: 0.041667
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: UNKNOWN
+Rando5's Seat:3
+Rando5 is eliminated
+
+Randy5 posts small blind/and is dealer, stack size (115)
+BAMF5 posts big blind, stack size (482)
+
+Randy5 folds.
+
+
+NEWHAND:26
+
+['NEWHAND', '26', '1', '9d', 'Js', '485', '115', '0', 'BAMF5', 'Randy5', 'Rando5', '2', 'true', 'true', 'false', '14.314286']
+Active Players:2
+
+Our hand: 9d Js
+BAMF5's VPIP: 0.200000
+BAMF5's PFR: 0.040000
+BAMF5's estimated fold percentage is 0.150000
+BAMF5's AF flop/postflop: 0.888889
 BAMF5's Player Type: CALLING STATION
 BAMF5's Seat:1
-OldBotv1(Ain'tABitch)5's VPIP: 0.250000
-OldBotv1(Ain'tABitch)5's PFR: 0.250000
-OldBotv1(Ain'tABitch)5's estimated fold percentage is 0.500000
-OldBotv1(Ain'tABitch)5's AF flop/postflop: 6.000000
-OldBotv1(Ain'tABitch)5's Player Type: SHARK
-OldBotv1(Ain'tABitch)5's Seat:2
-OldBotv2(MOUSE)5's VPIP: 1.000000
-OldBotv2(MOUSE)5's PFR: 0.000000
-OldBotv2(MOUSE)5's estimated fold percentage is 0.000000
-OldBotv2(MOUSE)5's AF flop/postflop: 0.400000
-OldBotv2(MOUSE)5's Player Type: UNKNOWN
-OldBotv2(MOUSE)5's Seat:3
-OldBotv2(MOUSE)5 is eliminated
+Randy5's VPIP: 0.600000
+Randy5's PFR: 0.040000
+Randy5's estimated fold percentage is 0.120000
+Randy5's AF flop/postflop: 1.833333
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:2
+Rando5's VPIP: 0.160000
+Rando5's PFR: 0.040000
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: UNKNOWN
+Rando5's Seat:3
+Rando5 is eliminated
 
-BAMF5 posts small blind/and is dealer, stack size (580)
-OldBotv1(Ain'tABitch)5 posts big blind, stack size (17)
+BAMF5 posts small blind/and is dealer, stack size (484)
+Randy5 posts big blind, stack size (113)
 
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
 
 ***PREFLOP***(3) Board:()
-Our hand: Kh Kc
+Our hand: 9d Js
 
 our last bet of 1 was in round 0
-BAMF5's EV: 2.330000
-BAMF5's Equity: 0.8325
+BAMF5's EV: 1.134000
+BAMF5's Equity: 0.5335
 BAMF5's Implied Odds: -3
 BAMF5's maxBetFold: 0
-BAMF5's maxBetEV: 14
+BAMF5's maxBetEV: 3
 
-BETTING LOOSE2
-final max raise:6
-final min raise:4
-Raise range: 4 6
-BAMF5 raise 5.
+BAMF5 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
 
-***PREFLOP***(13) Board:()
-Our hand: Kh Kc
+***FLOP***(4) Board:(Jc Qh 6d)
+Our hand: 9d Js
 
-OldBotv1(Ain'tABitch)5 raised to 8.
-our last bet of 5 was in round 0
-BAMF5's EV: 10.320000
-BAMF5's Equity: 0.8325
-BAMF5's Implied Odds: -15
+Randy5 checks.
+Randy5 checks.
+our last bet of 2 was in round 0
+BAMF5's EV: 3.034000
+BAMF5's Equity: 0.7585
+BAMF5's Implied Odds: -4
 BAMF5's maxBetFold: 0
-BAMF5's maxBetEV: 64
+BAMF5's maxBetEV: 12
 
-BETTING LOOSE2
-final max raise:19
-final min raise:11
-Raise range: 11 19
-BAMF5 raise 17.
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+BAMF5 bets 3.
+our bot's last action is BET for 3
+['FOLD', 'CALL:4', 'RAISE:8:22']
+{}
 
-***PREFLOP***(36) Board:()
-Our hand: Kh Kc
+***TURN***(14) Board:(Jc Qh 6d 3s)
+Our hand: 9d Js
 
-OldBotv1(Ain'tABitch)5 raised to 19.
-our last bet of 17 was in round 0
-BAMF5's EV: 29.635000
-BAMF5's Equity: 0.8325
-BAMF5's Implied Odds: -37
+Randy5 called 3.
+Randy5 bet 4.
+our last bet of 3 was in round 3
+BAMF5's EV: 9.851000
+BAMF5's Equity: 0.7695
+BAMF5's Implied Odds: -16
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 46
+
+line 1
+final max raise:22
+final min raise:8
+Raise range: 8 22
+BAMF5 raises to 20.
+our bot's last action is RAISE for 20
+['FOLD', 'CALL:65', 'RAISE:110:110']
+{}
+
+***TURN***(95) Board:(Jc Qh 6d 3s)
+Our hand: 9d Js
+
+Randy5 raised to 65.
+our last bet of 20 was in round 4
+BAMF5's EV: 62.730000
+BAMF5's Equity: 0.7695
+BAMF5's Implied Odds: -126
+BAMF5's maxBetFold: 12
+BAMF5's maxBetEV: 317
+
+line 1
+final max raise:110
+final min raise:110
+Raise range: 110 110
+BAMF5 raises to 110.
+our bot's last action is RAISE for 110
+Randy5 called 110.
+Randy5 WTSD percentage is: 0.423077
+BAMF5 WTSD percentage is: 0.384615
+Randy5 W$SD percentage is: 0.636364
+
+
+NEWHAND:27
+
+['NEWHAND', '27', '2', '5s', '6d', '230', '370', '0', 'Randy5', 'BAMF5', 'Rando5', '2', 'true', 'true', 'false', '14.282454']
+Active Players:2
+
+Our hand: 5s 6d
+Randy5's VPIP: 0.576923
+Randy5's PFR: 0.038462
+Randy5's estimated fold percentage is 0.120000
+Randy5's AF flop/postflop: 1.714286
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:1
+BAMF5's VPIP: 0.192308
+BAMF5's PFR: 0.038462
+BAMF5's estimated fold percentage is 0.150000
+BAMF5's AF flop/postflop: 0.964286
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:2
+Rando5's VPIP: 0.153846
+Rando5's PFR: 0.038462
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: UNKNOWN
+Rando5's Seat:3
+Rando5 is eliminated
+
+Randy5 posts small blind/and is dealer, stack size (229)
+BAMF5 posts big blind, stack size (368)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 5s 6d
+
+Randy5 called 2.
+our last bet of 2 was in round 0
+BAMF5's EV: 1.468000
+BAMF5's Equity: 0.367
+BAMF5's Implied Odds: -4
 BAMF5's maxBetFold: 0
-BAMF5's maxBetEV: 178
+BAMF5's maxBetEV: 2
 
-BETTING LOOSE2
-final call min:19
-BAMF5 calls 19.
-OldBotv1(Ain'tABitch)5 WTSD percentage is: 0.600000
-BAMF5 WTSD percentage is: 0.600000
-BAMF5 W$SD percentage is: 0.666667
+NOT BLUFFING FOLD
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(9h 6c 5d)
+Our hand: 5s 6d
+
+our last bet of 0 was in round 0
+BAMF5's EV: 3.226000
+BAMF5's Equity: 0.8065
+BAMF5's Implied Odds: -4
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 16
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+BAMF5 bets 4.
+our bot's last action is BET for 4
+['FOLD', 'CALL:15', 'RAISE:26:49']
+{}
+
+***FLOP***(23) Board:(9h 6c 5d)
+Our hand: 5s 6d
+
+Randy5 raised to 15.
+our last bet of 4 was in round 3
+BAMF5's EV: 16.421000
+BAMF5's Equity: 0.8065
+BAMF5's Implied Odds: -31
+BAMF5's maxBetFold: 3
+BAMF5's maxBetEV: 95
+
+line 1
+final max raise:49
+final min raise:26
+Raise range: 26 49
+BAMF5 raises to 29.
+our bot's last action is RAISE for 29
+['CHECK', 'BET:2:62']
+{}
+
+***TURN***(62) Board:(9h 6c 5d 7s)
+Our hand: 5s 6d
+
+Randy5 called 29.
+our last bet of 29 was in round 3
+BAMF5's EV: 41.881000
+BAMF5's Equity: 0.6755
+BAMF5's Implied Odds: -62
+BAMF5's maxBetFold: 8
+BAMF5's maxBetEV: 129
+
+line 1
+final max bet:62
+final min bet:2
+Bet range: 2 62
+BAMF5 bets 39.
+our bot's last action is BET for 39
+['CHECK', 'BET:2:140']
+{}
+
+***RIVER***(140) Board:(9h 6c 5d 7s Jh)
+Our hand: 5s 6d
+
+Randy5 called 39.
+our last bet of 39 was in round 4
+BAMF5's EV: 102.949495
+BAMF5's Equity: 0.735353535354
+BAMF5's Implied Odds: -140
+BAMF5's maxBetFold: 19
+BAMF5's maxBetEV: 389
+
+line 1
+final max bet:140
+final min bet:2
+Bet range: 2 140
+BAMF5 bets 123.
+our bot's last action is BET for 123
+Randy5 called 123.
+BAMF5 WTSD percentage is: 0.407407
+Randy5 WTSD percentage is: 0.444444
+BAMF5 W$SD percentage is: 0.545455
+
+
+NEWHAND:28
+
+['NEWHAND', '28', '1', '6s', '3h', '563', '37', '0', 'BAMF5', 'Randy5', 'Rando5', '2', 'true', 'true', 'false', '14.235745']
+Active Players:2
+
+Our hand: 6s 3h
+BAMF5's VPIP: 0.185185
+BAMF5's PFR: 0.037037
+BAMF5's estimated fold percentage is 0.150000
+BAMF5's AF flop/postflop: 1.107143
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:1
+Randy5's VPIP: 0.592593
+Randy5's PFR: 0.037037
+Randy5's estimated fold percentage is 0.120000
+Randy5's AF flop/postflop: 1.470588
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:2
+Rando5's VPIP: 0.148148
+Rando5's PFR: 0.037037
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: UNKNOWN
+Rando5's Seat:3
+Rando5 is eliminated
+
+BAMF5 posts small blind/and is dealer, stack size (562)
+Randy5 posts big blind, stack size (35)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 6s 3h
+
+our last bet of 1 was in round 0
+BAMF5's EV: 0.436000
+BAMF5's Equity: 0.359
+BAMF5's Implied Odds: -2
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 1
+
+NOT BLUFFING FOLD
+BAMF5 folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:29
+
+['NEWHAND', '29', '2', '3c', '4s', '38', '562', '0', 'Randy5', 'BAMF5', 'Rando5', '2', 'true', 'true', 'false', '14.220698']
+Active Players:2
+
+Our hand: 3c 4s
+Randy5's VPIP: 0.571429
+Randy5's PFR: 0.035714
+Randy5's estimated fold percentage is 0.120000
+Randy5's AF flop/postflop: 1.470588
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:1
+BAMF5's VPIP: 0.178571
+BAMF5's PFR: 0.035714
+BAMF5's estimated fold percentage is 0.142857
+BAMF5's AF flop/postflop: 1.107143
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:2
+Rando5's VPIP: 0.142857
+Rando5's PFR: 0.035714
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: UNKNOWN
+Rando5's Seat:3
+Rando5 is eliminated
+
+Randy5 posts small blind/and is dealer, stack size (37)
+BAMF5 posts big blind, stack size (560)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 3c 4s
+
+Randy5 called 2.
+our last bet of 2 was in round 0
+BAMF5's EV: 1.374000
+BAMF5's Equity: 0.3435
+BAMF5's Implied Odds: -4
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 2
+
+NOT BLUFFING FOLD
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(2s Jc 6d)
+Our hand: 3c 4s
+
+our last bet of 0 was in round 0
+BAMF5's EV: 1.046000
+BAMF5's Equity: 0.2615
+BAMF5's Implied Odds: -4
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 1
+
+line 6
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:3', 'RAISE:6:13']
+{}
+
+***FLOP***(7) Board:(2s Jc 6d)
+Our hand: 3c 4s
+
+Randy5 bet 3.
+our last bet of 0 was in round 3
+BAMF5's EV: -0.385000
+BAMF5's Equity: 0.2615
+BAMF5's Implied Odds: -1
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 2
+
+BAMF5 folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:30
+
+['NEWHAND', '30', '1', 'Ac', '8h', '560', '40', '0', 'BAMF5', 'Randy5', 'Rando5', '2', 'true', 'true', 'false', '14.194963']
+Active Players:2
+
+Our hand: Ac 8h
+BAMF5's VPIP: 0.172414
+BAMF5's PFR: 0.034483
+BAMF5's estimated fold percentage is 0.142857
+BAMF5's AF flop/postflop: 1.107143
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:1
+Randy5's VPIP: 0.586207
+Randy5's PFR: 0.034483
+Randy5's estimated fold percentage is 0.120000
+Randy5's AF flop/postflop: 1.529412
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:2
+Rando5's VPIP: 0.137931
+Rando5's PFR: 0.034483
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: UNKNOWN
+Rando5's Seat:3
+Rando5 is eliminated
+
+BAMF5 posts small blind/and is dealer, stack size (559)
+Randy5 posts big blind, stack size (38)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Ac 8h
+
+our last bet of 1 was in round 0
+BAMF5's EV: 1.296000
+BAMF5's Equity: 0.574
+BAMF5's Implied Odds: -3
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 4
+
+BAMF5 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:2', 'RAISE:4:10']
+{}
+
+***FLOP***(6) Board:(3c Kd 5s)
+Our hand: Ac 8h
+
+Randy5 checks.
+Randy5 bet 2.
+our last bet of 2 was in round 0
+BAMF5's EV: 2.016000
+BAMF5's Equity: 0.502
+BAMF5's Implied Odds: -6
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 6
+
+line 6
+BAMF5 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:8']
+{}
+
+***TURN***(8) Board:(3c Kd 5s 2c)
+Our hand: Ac 8h
+
+Randy5 checks.
+our last bet of 2 was in round 3
+BAMF5's EV: 3.468000
+BAMF5's Equity: 0.4335
+BAMF5's Implied Odds: -8
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 6
+
+line 6
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:3', 'RAISE:6:17']
+{}
+
+***RIVER***(11) Board:(3c Kd 5s 2c 3h)
+Our hand: Ac 8h
+
+Randy5 bet 3.
+our last bet of 0 was in round 4
+BAMF5's EV: 3.116162
+BAMF5's Equity: 0.436868686869
+BAMF5's Implied Odds: -10
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 8
+
+line 6
+BAMF5 calls 3.
+our bot's last action is CALL for 3
+BAMF5 WTSD percentage is: 0.400000
+Randy5 WTSD percentage is: 0.433333
+BAMF5 W$SD percentage is: 0.583333
+
+
+NEWHAND:31
+
+['NEWHAND', '31', '2', 'As', '8d', '33', '567', '0', 'Randy5', 'BAMF5', 'Rando5', '2', 'true', 'true', 'false', '14.167121']
+Active Players:2
+
+Our hand: As 8d
+Randy5's VPIP: 0.566667
+Randy5's PFR: 0.033333
+Randy5's estimated fold percentage is 0.120000
+Randy5's AF flop/postflop: 1.647059
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:1
+BAMF5's VPIP: 0.166667
+BAMF5's PFR: 0.033333
+BAMF5's estimated fold percentage is 0.142857
+BAMF5's AF flop/postflop: 1.000000
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:2
+Rando5's VPIP: 0.133333
+Rando5's PFR: 0.033333
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: UNKNOWN
+Rando5's Seat:3
+Rando5 is eliminated
+
+Randy5 posts small blind/and is dealer, stack size (32)
+BAMF5 posts big blind, stack size (565)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: As 8d
+
+Randy5 called 2.
+our last bet of 2 was in round 0
+BAMF5's EV: 2.486000
+BAMF5's Equity: 0.6215
+BAMF5's Implied Odds: -4
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 6
+
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(3s 7s Qh)
+Our hand: As 8d
+
+our last bet of 0 was in round 0
+BAMF5's EV: 2.030000
+BAMF5's Equity: 0.5075
+BAMF5's Implied Odds: -4
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 4
+
+line 6
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(3s 7s Qh Qd)
+Our hand: As 8d
+
+Randy5 checks.
+our last bet of 0 was in round 3
+BAMF5's EV: 2.216000
+BAMF5's Equity: 0.554
+BAMF5's Implied Odds: -4
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 4
+
+line 6
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:2', 'RAISE:4:10']
+{}
+
+***TURN***(6) Board:(3s 7s Qh Qd)
+Our hand: As 8d
+
+Randy5 bet 2.
+our last bet of 0 was in round 4
+BAMF5's EV: 2.432000
+BAMF5's Equity: 0.554
+BAMF5's Implied Odds: -6
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 7
+
+line 6
+BAMF5 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:8']
+{}
+
+***RIVER***(8) Board:(3s 7s Qh Qd Ks)
+Our hand: As 8d
+
+our last bet of 2 was in round 4
+BAMF5's EV: 3.591919
+BAMF5's Equity: 0.44898989899
+BAMF5's Implied Odds: -8
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 6
+
+line 6
+BAMF5 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:4', 'RAISE:8:20']
+{}
+
+***RIVER***(12) Board:(3s 7s Qh Qd Ks)
+Our hand: As 8d
+
+Randy5 bet 4.
+our last bet of 0 was in round 5
+BAMF5's EV: 3.183838
+BAMF5's Equity: 0.44898989899
+BAMF5's Implied Odds: -11
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 9
+
+line 6
+BAMF5 calls 4.
+our bot's last action is CALL for 4
+Randy5 WTSD percentage is: 0.451613
+BAMF5 WTSD percentage is: 0.419355
+BAMF5 W$SD percentage is: 0.615385
+
+
+NEWHAND:32
+
+['NEWHAND', '32', '1', '2h', '3h', '575', '25', '0', 'BAMF5', 'Randy5', 'Rando5', '2', 'true', 'true', 'false', '14.137500']
+Active Players:2
+
+Our hand: 2h 3h
+BAMF5's VPIP: 0.161290
+BAMF5's PFR: 0.032258
+BAMF5's estimated fold percentage is 0.142857
+BAMF5's AF flop/postflop: 0.939394
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:1
+Randy5's VPIP: 0.580645
+Randy5's PFR: 0.032258
+Randy5's estimated fold percentage is 0.120000
+Randy5's AF flop/postflop: 1.764706
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:2
+Rando5's VPIP: 0.129032
+Rando5's PFR: 0.032258
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: NIT
+Rando5's Seat:3
+Rando5 is eliminated
+
+BAMF5 posts small blind/and is dealer, stack size (574)
+Randy5 posts big blind, stack size (23)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 2h 3h
+
+our last bet of 1 was in round 0
+BAMF5's EV: 0.476000
+BAMF5's Equity: 0.369
+BAMF5's Implied Odds: -2
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 1
+
+NOT BLUFFING FOLD
+BAMF5 folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:33
+
+['NEWHAND', '33', '2', '9c', 'Kh', '26', '574', '0', 'Randy5', 'BAMF5', 'Rando5', '2', 'true', 'true', 'false', '14.115382']
+Active Players:2
+
+Our hand: 9c Kh
+Randy5's VPIP: 0.562500
+Randy5's PFR: 0.031250
+Randy5's estimated fold percentage is 0.120000
+Randy5's AF flop/postflop: 1.764706
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:1
+BAMF5's VPIP: 0.156250
+BAMF5's PFR: 0.031250
+BAMF5's estimated fold percentage is 0.156250
+BAMF5's AF flop/postflop: 0.939394
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:2
+Rando5's VPIP: 0.125000
+Rando5's PFR: 0.031250
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: NIT
+Rando5's Seat:3
+Rando5 is eliminated
+
+Randy5 posts small blind/and is dealer, stack size (25)
+BAMF5 posts big blind, stack size (572)
+
+['FOLD', 'CALL:4', 'RAISE:6:12']
+{}
+
+***PREFLOP***(6) Board:()
+Our hand: 9c Kh
+
+Randy5 raised to 4.
+our last bet of 2 was in round 0
+BAMF5's EV: 2.592000
+BAMF5's Equity: 0.574
+BAMF5's Implied Odds: -6
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 8
+
+BAMF5 calls 4.
+our bot's last action is CALL for 4
+['CHECK', 'BET:2:8']
+{}
+
+***FLOP***(8) Board:(As 9s 7c)
+Our hand: 9c Kh
+
+our last bet of 4 was in round 0
+BAMF5's EV: 5.784000
+BAMF5's Equity: 0.723
+BAMF5's Implied Odds: -8
+BAMF5's maxBetFold: 1
+BAMF5's maxBetEV: 20
+
+line 1
+final max bet:8
+final min bet:2
+Bet range: 2 8
+BAMF5 bets 7.
+our bot's last action is BET for 7
+['FOLD', 'CALL:20', 'RAISE:22:22']
+{}
+
+***FLOP***(35) Board:(As 9s 7c)
+Our hand: 9c Kh
+
+Randy5 raised to 20.
+our last bet of 7 was in round 3
+BAMF5's EV: 21.704000
+BAMF5's Equity: 0.723
+BAMF5's Implied Odds: -43
+BAMF5's maxBetFold: 4
+BAMF5's maxBetEV: 91
+
+line 1
+final max raise:22
+final min raise:22
+Raise range: 22 22
+BAMF5 raises to 22.
+our bot's last action is RAISE for 22
+Randy5 folds.
+
+
+NEWHAND:34
+
+['NEWHAND', '34', '1', '5h', 'Jh', '598', '2', '0', 'BAMF5', 'Randy5', 'Rando5', '2', 'true', 'true', 'false', '14.069569']
+Active Players:2
+
+Our hand: 5h Jh
+BAMF5's VPIP: 0.151515
+BAMF5's PFR: 0.030303
+BAMF5's estimated fold percentage is 0.156250
+BAMF5's AF flop/postflop: 0.970588
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:1
+Randy5's VPIP: 0.575758
+Randy5's PFR: 0.030303
+Randy5's estimated fold percentage is 0.120000
+Randy5's AF flop/postflop: 1.823529
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:2
+Rando5's VPIP: 0.121212
+Rando5's PFR: 0.030303
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: NIT
+Rando5's Seat:3
+Rando5 is eliminated
+
+BAMF5 posts small blind/and is dealer, stack size (597)
+Randy5 posts big blind, stack size (0)
+
+['CALL:2', 'FOLD']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 5h Jh
+
+our last bet of 1 was in round 0
+BAMF5's EV: 0.922000
+BAMF5's Equity: 0.4805
+BAMF5's Implied Odds: -2
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 2
+
+BAMF5 calls 2.
+our bot's last action is CALL for 2
+Randy5 WTSD percentage is: 0.441176
+BAMF5 WTSD percentage is: 0.411765
+Randy5 W$SD percentage is: 0.533333
+BAMF5 W$SD percentage is: 0.642857
+
+
+NEWHAND:35
+
+['NEWHAND', '35', '2', 'As', 'Td', '2', '598', '0', 'Randy5', 'BAMF5', 'Rando5', '2', 'true', 'true', 'false', '14.020326']
+Active Players:2
+
+Our hand: As Td
+Randy5's VPIP: 0.558824
+Randy5's PFR: 0.029412
+Randy5's estimated fold percentage is 0.120000
+Randy5's AF flop/postflop: 1.823529
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:1
+BAMF5's VPIP: 0.147059
+BAMF5's PFR: 0.029412
+BAMF5's estimated fold percentage is 0.156250
+BAMF5's AF flop/postflop: 0.942857
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:2
+Rando5's VPIP: 0.117647
+Rando5's PFR: 0.029412
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: NIT
+Rando5's Seat:3
+Rando5 is eliminated
+
+Randy5 posts small blind/and is dealer, stack size (1)
+BAMF5 posts big blind, stack size (596)
+
+Randy5 called 2.
+Randy5 WTSD percentage is: 0.457143
+BAMF5 WTSD percentage is: 0.428571
+Randy5 W$SD percentage is: 0.562500
+
+
+NEWHAND:36
+
+['NEWHAND', '36', '1', 'Ad', '8s', '596', '4', '0', 'BAMF5', 'Randy5', 'Rando5', '2', 'true', 'true', 'false', '14.020326']
+Active Players:2
+
+Our hand: Ad 8s
+BAMF5's VPIP: 0.142857
+BAMF5's PFR: 0.028571
+BAMF5's estimated fold percentage is 0.156250
+BAMF5's AF flop/postflop: 0.942857
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:1
+Randy5's VPIP: 0.542857
+Randy5's PFR: 0.028571
+Randy5's estimated fold percentage is 0.120000
+Randy5's AF flop/postflop: 1.722222
+Randy5's Player Type: UNKNOWN
+Randy5's Seat:2
+Rando5's VPIP: 0.114286
+Rando5's PFR: 0.028571
+Rando5's estimated fold percentage is 0.250000
+Rando5's AF flop/postflop: 1.400000
+Rando5's Player Type: NIT
+Rando5's Seat:3
+Rando5 is eliminated
+
+BAMF5 posts small blind/and is dealer, stack size (595)
+Randy5 posts big blind, stack size (2)
+
+['CALL:2', 'FOLD', 'RAISE:4:4']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Ad 8s
+
+our last bet of 1 was in round 0
+BAMF5's EV: 1.424000
+BAMF5's Equity: 0.606
+BAMF5's Implied Odds: -3
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 4
+
+BAMF5 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:2']
+{}
+
+***FLOP***(6) Board:(2d 9h 4h)
+Our hand: Ad 8s
+
+Randy5 checks.
+Randy5 bet 2.
+our last bet of 2 was in round 0
+BAMF5's EV: 1.724000
+BAMF5's Equity: 0.4655
+BAMF5's Implied Odds: -5
+BAMF5's maxBetFold: 0
+BAMF5's maxBetEV: 5
+
+line 6
+BAMF5 calls 2.
+our bot's last action is CALL for 2
+BAMF5 WTSD percentage is: 0.444444
+Randy5 WTSD percentage is: 0.472222
+BAMF5 W$SD percentage is: 0.625000
 Gameover, engine disconnected.

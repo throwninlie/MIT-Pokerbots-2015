@@ -2,4259 +2,3015 @@
 C:\Users\Er\Dropbox\Pokerbot\players>python Player.py 3000 
 Connecting to localhost:3000
 Our name: BAMF
-Opp1 name: OldBotv1(Ain'tABitch)
-Opp2 name: OldBotv2(MOUSE)
+Opp1 name: Rando
+Opp2 name: Randy
 
 
 NEWHAND:1
 
-['NEWHAND', '1', '1', 'Tc', 'Qh', '200', '200', '200', 'BAMF', "OldBotv1(Ain'tABitch)", 'OldBotv2(MOUSE)', '3', 'true', 'true', 'true', '15.000000']
+['NEWHAND', '1', '1', '7d', 'Kd', '200', '200', '200', 'BAMF', 'Rando', 'Randy', '3', 'true', 'true', 'true', '15.000000']
 Active Players:3
 
-Our hand: Tc Qh
+Our hand: 7d Kd
 BAMF's VPIP: 0.000000
 BAMF's PFR: 0.000000
 BAMF's estimated fold percentage is 0.000000
 BAMF's AF flop/postflop: 0.000000
 BAMF's Player Type: NIT
 BAMF's Seat:1
-OldBotv1(Ain'tABitch)'s VPIP: 0.000000
-OldBotv1(Ain'tABitch)'s PFR: 0.000000
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 0.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:2
-OldBotv2(MOUSE)'s VPIP: 0.000000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.000000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.000000
-OldBotv2(MOUSE)'s Player Type: NIT
-OldBotv2(MOUSE)'s Seat:3
+Rando's VPIP: 0.000000
+Rando's PFR: 0.000000
+Rando's estimated fold percentage is 0.000000
+Rando's AF flop/postflop: 0.000000
+Rando's Player Type: NIT
+Rando's Seat:2
+Randy's VPIP: 0.000000
+Randy's PFR: 0.000000
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 0.000000
+Randy's Player Type: NIT
+Randy's Seat:3
 
-OldBotv1(Ain'tABitch) posts small blind, stack size (199)
-OldBotv2(MOUSE) posts big blind, stack size (198)
+Rando posts small blind, stack size (199)
+Randy posts big blind, stack size (198)
 
+['CALL:2', 'FOLD', 'RAISE:4:7']
+{}
 
 ***PREFLOP***(3) Board:()
-Our hand: Tc Qh
+Our hand: 7d Kd
 
 our last bet of 0 was in round 0
-BAMF's EV: 0.842500
-BAMF's Equity: 0.5685
+BAMF's EV: 0.882500
+BAMF's Equity: 0.5765
 BAMF's Implied Odds: -3
 BAMF's maxBetFold: 0
-BAMF's maxBetEV: 3
+BAMF's maxBetEV: 4
 
-final max raise:4
-final min raise:4
-Raise range: 4 7
 BAMF calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:6', 'RAISE:10:19']
+{}
 
-***PREFLOP***(8) Board:()
-Our hand: Tc Qh
+***PREFLOP***(9) Board:()
+Our hand: 7d Kd
 
-OldBotv1(Ain'tABitch) raised to 4.
-OldBotv2(MOUSE) folds.
+Rando folds.
+Randy raised to 6.
 our last bet of 2 was in round 0
-BAMF's EV: 3.685000
-BAMF's Equity: 0.5685
-BAMF's Implied Odds: -8
-BAMF's maxBetFold: 198
-BAMF's maxBetEV: 10
+BAMF's EV: 3.319000
+BAMF's Equity: 0.563
+BAMF's Implied Odds: -9
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 11
 
-final max raise:14
-final min raise:8
-Raise range: 6 14
-BAMF raise 9.
+BAMF calls 6.
+our bot's last action is CALL for 6
+['FOLD', 'CALL:6', 'RAISE:12:31']
+{}
 
-***PREFLOP***(25) Board:()
-Our hand: Tc Qh
+***FLOP***(19) Board:(4h Qs 9d)
+Our hand: 7d Kd
 
-OldBotv1(Ain'tABitch) raised to 14.
-our last bet of 9 was in round 0
-BAMF's EV: 12.055000
-BAMF's Equity: 0.5685
-BAMF's Implied Odds: -26
-BAMF's maxBetFold: 191
-BAMF's maxBetEV: 32
+Randy bet 6.
+our last bet of 6 was in round 0
+BAMF's EV: 5.412500
+BAMF's Equity: 0.4565
+BAMF's Implied Odds: -17
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 15
 
-BAMF calls 14.
+line 6
+BAMF calls 6.
+our bot's last action is CALL for 6
+['FOLD', 'CALL:21', 'RAISE:42:88']
+{}
 
-***FLOP***(30) Board:(7c Jh 6s)
-Our hand: Tc Qh
+***TURN***(46) Board:(4h Qs 9d Js)
+Our hand: 7d Kd
 
-OldBotv1(Ain'tABitch) checks.
-our last bet of 14 was in round 0
-BAMF's EV: 12.165000
-BAMF's Equity: 0.4055
-BAMF's Implied Odds: -30
-BAMF's maxBetFold: 186
-BAMF's maxBetEV: 20
+Randy bet 21.
+our last bet of 6 was in round 3
+BAMF's EV: 6.202000
+BAMF's Equity: 0.406
+BAMF's Implied Odds: -36
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 31
 
-BAMF checks.
+line 6
+BAMF calls 21.
+our bot's last action is CALL for 21
+['FOLD', 'CALL:34', 'RAISE:68:167']
+{}
 
-***TURN***(30) Board:(7c Jh 6s Ks)
-Our hand: Tc Qh
+***RIVER***(101) Board:(4h Qs 9d Js 2c)
+Our hand: 7d Kd
 
-OldBotv1(Ain'tABitch) checks.
-our last bet of 0 was in round 3
-BAMF's EV: 14.985000
-BAMF's Equity: 0.4995
-BAMF's Implied Odds: -30
-BAMF's maxBetFold: 186
-BAMF's maxBetEV: 29
+Randy bet 34.
+our last bet of 21 was in round 4
+BAMF's EV: -0.659091
+BAMF's Equity: 0.24696969697
+BAMF's Implied Odds: -31
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 33
 
-final max bet:30
-final min bet:8
-Bet range: 2 30
-BAMF bets 11.
-OldBotv1(Ain'tABitch) folds.
+BAMF folds.
+our bot's last action is FOLD for 0
 
 
 NEWHAND:2
 
-['NEWHAND', '2', '2', '4s', '6c', '198', '216', '186', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '3', 'true', 'true', 'true', '14.960757']
+['NEWHAND', '2', '2', 'Tc', '8s', '234', '167', '199', 'Randy', 'BAMF', 'Rando', '3', 'true', 'true', 'true', '14.969384']
 Active Players:3
 
-Our hand: 4s 6c
-OldBotv2(MOUSE)'s VPIP: 0.000000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 1.000000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.000000
-OldBotv2(MOUSE)'s Player Type: NIT
-OldBotv2(MOUSE)'s Seat:1
+Our hand: Tc 8s
+Randy's VPIP: 1.000000
+Randy's PFR: 1.000000
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 3.000000
+Randy's Player Type: MANIAC
+Randy's Seat:1
 BAMF's VPIP: 1.000000
-BAMF's PFR: 1.000000
+BAMF's PFR: 0.000000
 BAMF's estimated fold percentage is 0.000000
-BAMF's AF flop/postflop: 1.000000
-BAMF's Player Type: MANIAC
+BAMF's AF flop/postflop: 0.000000
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 1.000000
-OldBotv1(Ain'tABitch)'s PFR: 1.000000
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 0.000000
-OldBotv1(Ain'tABitch)'s Player Type: CASHCOW
-OldBotv1(Ain'tABitch)'s Seat:3
+Rando's VPIP: 0.000000
+Rando's PFR: 0.000000
+Rando's estimated fold percentage is 1.000000
+Rando's AF flop/postflop: 0.000000
+Rando's Player Type: NIT
+Rando's Seat:3
 
-BAMF posts small blind, stack size (215)
-OldBotv1(Ain'tABitch) posts big blind, stack size (184)
+BAMF posts small blind, stack size (166)
+Rando posts big blind, stack size (197)
 
+['FOLD', 'CALL:4', 'RAISE:6:14']
+{}
 
-***PREFLOP***(5) Board:()
-Our hand: 4s 6c
+***PREFLOP***(7) Board:()
+Our hand: Tc 8s
 
-OldBotv2(MOUSE) called 2.
-our last bet of 1 was in round 4
-BAMF's EV: 0.733500
-BAMF's Equity: 0.3905
-BAMF's Implied Odds: -3
-BAMF's maxBetFold: 215
-BAMF's maxBetEV: 3
+Randy raised to 4.
+our last bet of 1 was in round 0
+BAMF's EV: 2.220000
+BAMF's Equity: 0.522
+BAMF's Implied Odds: -7
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 7
 
-BAMF folds.
-final max raise:8
-final min raise:8
-Raise range: 4 8
-BAMF raise 8.
-OldBotv1(Ain'tABitch) raised to 4.
-OldBotv2(MOUSE) called 4.
-OldBotv1(Ain'tABitch) checks.
-OldBotv2(MOUSE) checks.
-OldBotv1(Ain'tABitch) checks.
-OldBotv2(MOUSE) checks.
-OldBotv1(Ain'tABitch) checks.
-OldBotv2(MOUSE) checks.
-OldBotv2(MOUSE) WTSD percentage is: 0.500000
-OldBotv1(Ain'tABitch) WTSD percentage is: 0.500000
-OldBotv1(Ain'tABitch) W$SD percentage is: 1.000000
+BAMF calls 4.
+our bot's last action is CALL for 4
+['CHECK', 'BET:2:12']
+{}
+
+***FLOP***(12) Board:(8h 7c 4s)
+Our hand: Tc 8s
+
+Rando called 4.
+our last bet of 4 was in round 0
+BAMF's EV: 8.730000
+BAMF's Equity: 0.7275
+BAMF's Implied Odds: -12
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 32
+
+line 1
+final max bet:12
+final min bet:2
+Bet range: 2 12
+BAMF bets 4.
+our bot's last action is BET for 4
+['FOLD', 'CALL:18', 'RAISE:32:84']
+{}
+
+***FLOP***(52) Board:(8h 7c 4s)
+Our hand: Tc 8s
+
+Rando raised to 18.
+Randy called 18.
+our last bet of 4 was in round 3
+BAMF's EV: 34.015000
+BAMF's Equity: 0.7275
+BAMF's Implied Odds: -60
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 138
+
+line 1
+final max raise:84
+final min raise:32
+Raise range: 32 84
+BAMF raises to 78.
+our bot's last action is RAISE for 78
+['FOLD', 'CALL:146', 'RAISE:163:163']
+{}
+
+***FLOP***(254) Board:(8h 7c 4s)
+Our hand: Tc 8s
+
+Rando folds.
+Randy raised to 146.
+our last bet of 78 was in round 3
+BAMF's EV: 166.255000
+BAMF's Equity: 0.7275
+BAMF's Implied Odds: -296
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 678
+
+line 1
+final max raise:163
+final min raise:163
+Raise range: 163 163
+BAMF calls 146.
+our bot's last action is CALL for 146
+['CHECK', 'BET:2:17']
+{}
+
+***TURN***(322) Board:(8h 7c 4s 2s)
+Our hand: Tc 8s
+
+our last bet of 146 was in round 3
+BAMF's EV: 248.584000
+BAMF's Equity: 0.772
+BAMF's Implied Odds: -322
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 1090
+
+final max bet:17
+final min bet:17
+Bet range: 2 17
+BAMF bets 17.
+our bot's last action is BET for 17
+Randy called 17.
+Randy WTSD percentage is: 0.500000
+BAMF WTSD percentage is: 0.500000
+BAMF W$SD percentage is: 1.000000
 
 
 NEWHAND:3
 
-['NEWHAND', '3', '3', '4c', 'Ad', '191', '194', '215', "OldBotv1(Ain'tABitch)", 'OldBotv2(MOUSE)', 'BAMF', '3', 'true', 'true', 'true', '14.953887']
+['NEWHAND', '3', '3', 'Kd', '8d', '177', '67', '356', 'Rando', 'Randy', 'BAMF', '3', 'true', 'true', 'true', '14.935509']
 Active Players:3
 
-Our hand: 4c Ad
-OldBotv1(Ain'tABitch)'s VPIP: 0.500000
-OldBotv1(Ain'tABitch)'s PFR: 0.500000
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 1.000000
-OldBotv1(Ain'tABitch)'s Player Type: MANIAC
-OldBotv1(Ain'tABitch)'s Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.500000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 1.000000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.000000
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
+Our hand: Kd 8d
+Rando's VPIP: 0.000000
+Rando's PFR: 0.000000
+Rando's estimated fold percentage is 1.000000
+Rando's AF flop/postflop: 1.000000
+Rando's Player Type: NIT
+Rando's Seat:1
+Randy's VPIP: 1.000000
+Randy's PFR: 0.500000
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 2.000000
+Randy's Player Type: MANIAC
+Randy's Seat:2
 BAMF's VPIP: 0.500000
-BAMF's PFR: 0.500000
+BAMF's PFR: 0.000000
 BAMF's estimated fold percentage is 0.000000
-BAMF's AF flop/postflop: 1.000000
-BAMF's Player Type: CASHCOW
+BAMF's AF flop/postflop: 0.600000
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:3
 
-OldBotv2(MOUSE) posts small blind, stack size (193)
-BAMF posts big blind, stack size (213)
+Randy posts small blind, stack size (66)
+BAMF posts big blind, stack size (354)
 
+['CHECK', 'RAISE:4:6']
+{}
 
-***PREFLOP***(7) Board:()
-Our hand: 4c Ad
+***PREFLOP***(4) Board:()
+Our hand: Kd 8d
 
-OldBotv1(Ain'tABitch) raised to 4.
-OldBotv2(MOUSE) folds.
+Rando folds.
+Randy called 2.
 our last bet of 2 was in round 0
-BAMF's EV: 3.125500
-BAMF's Equity: 0.5695
+BAMF's EV: 2.326000
+BAMF's Equity: 0.5815
+BAMF's Implied Odds: -4
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 5
+
+BAMF checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:2', 'RAISE:4:10']
+{}
+
+***FLOP***(6) Board:(9h 4c Ks)
+Our hand: Kd 8d
+
+Randy bet 2.
+our last bet of 0 was in round 0
+BAMF's EV: 4.556000
+BAMF's Equity: 0.8195
 BAMF's Implied Odds: -7
-BAMF's maxBetFold: 13
-BAMF's maxBetEV: 9
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 27
 
-BAMF calls 4.
-
-***FLOP***(9) Board:(Kh 3h 5s)
-Our hand: 4c Ad
-
-our last bet of 4 was in round 0
-BAMF's EV: 4.590000
-BAMF's Equity: 0.51
-BAMF's Implied Odds: -9
-BAMF's maxBetFold: 17
-BAMF's maxBetEV: 9
-
-BAMF checks.
-
-***TURN***(9) Board:(Kh 3h 5s 6d)
-Our hand: 4c Ad
-
-OldBotv1(Ain'tABitch) checks.
-our last bet of 0 was in round 3
-BAMF's EV: 4.081500
-BAMF's Equity: 0.4535
-BAMF's Implied Odds: -9
-BAMF's maxBetFold: 17
-BAMF's maxBetEV: 7
-
-BAMF checks.
-
-***RIVER***(9) Board:(Kh 3h 5s 6d 2s)
-Our hand: 4c Ad
-
-OldBotv1(Ain'tABitch) checks.
-our last bet of 0 was in round 4
-BAMF's EV: 8.359091
-BAMF's Equity: 0.928787878788
-BAMF's Implied Odds: -9
-BAMF's maxBetFold: 17
-BAMF's maxBetEV: 117
-
-final max bet:9
-final min bet:2
-Bet range: 2 9
-BAMF bets 4.
-
-***RIVER***(21) Board:(Kh 3h 5s 6d 2s)
-Our hand: 4c Ad
-
-OldBotv1(Ain'tABitch) raised to 8.
-our last bet of 4 was in round 5
-BAMF's EV: 19.219697
-BAMF's Equity: 0.928787878788
-BAMF's Implied Odds: -24
-BAMF's maxBetFold: 41
-BAMF's maxBetEV: 273
-
-final max raise:33
-final min raise:12
-Raise range: 12 33
-BAMF raise 20.
-
-***RIVER***(98) Board:(Kh 3h 5s 6d 2s)
-Our hand: 4c Ad
-
-OldBotv1(Ain'tABitch) raised to 69.
-our last bet of 20 was in round 5
-BAMF's EV: 87.531818
-BAMF's Equity: 0.928787878788
-BAMF's Implied Odds: -143
-BAMF's maxBetFold: 195
-BAMF's maxBetEV: 1278
-
-final max raise:187
-final min raise:118
-Raise range: 118 187
-BAMF raise 178.
-
-***RIVER***(374) Board:(Kh 3h 5s 6d 2s)
-Our hand: 4c Ad
-
-OldBotv1(Ain'tABitch) raised to 187.
-our last bet of 178 was in round 5
-BAMF's EV: 346.725758
-BAMF's Equity: 0.928787878788
-BAMF's Implied Odds: -382
-BAMF's maxBetFold: 747
-BAMF's maxBetEV: 4877
-
-final call min:187
-BAMF calls 187.
-OldBotv1(Ain'tABitch) WTSD percentage is: 0.666667
-BAMF WTSD percentage is: 0.333333
-BAMF W$SD percentage is: 1.000000
+line 1
+final max raise:10
+final min raise:4
+Raise range: 4 10
+BAMF raises to 7.
+our bot's last action is RAISE for 7
+Randy folds.
 
 
 NEWHAND:4
 
-['NEWHAND', '4', '2', '8d', '2h', '193', '407', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.849225']
-Active Players:2
+['NEWHAND', '4', '1', '2d', '5h', '360', '177', '63', 'BAMF', 'Rando', 'Randy', '3', 'true', 'true', 'true', '14.921660']
+Active Players:3
 
-Our hand: 8d 2h
-OldBotv2(MOUSE)'s VPIP: 0.333333
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.666667
-OldBotv2(MOUSE)'s AF flop/postflop: 0.000000
-OldBotv2(MOUSE)'s Player Type: CALLING STATION
-OldBotv2(MOUSE)'s Seat:1
+Our hand: 2d 5h
 BAMF's VPIP: 0.333333
-BAMF's PFR: 0.333333
+BAMF's PFR: 0.000000
 BAMF's estimated fold percentage is 0.000000
-BAMF's AF flop/postflop: 1.333333
-BAMF's Player Type: LOOSE
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.666667
-OldBotv1(Ain'tABitch)'s PFR: 0.333333
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: MANIAC
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+BAMF's AF flop/postflop: 0.800000
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+Rando's VPIP: 0.000000
+Rando's PFR: 0.000000
+Rando's estimated fold percentage is 0.666667
+Rando's AF flop/postflop: 1.000000
+Rando's Player Type: NIT
+Rando's Seat:2
+Randy's VPIP: 1.000000
+Randy's PFR: 0.333333
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 2.500000
+Randy's Player Type: MANIAC
+Randy's Seat:3
 
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (192)
-BAMF posts big blind, stack size (405)
+Rando posts small blind, stack size (176)
+Randy posts big blind, stack size (61)
 
-OldBotv2(MOUSE) folds.
+['CALL:2', 'FOLD', 'RAISE:4:7']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 2d 5h
+
+our last bet of 0 was in round 0
+BAMF's EV: -0.432500
+BAMF's Equity: 0.3135
+BAMF's Implied Odds: 0
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 1
+
+NOT BLUFFING FOLD
+BAMF folds.
+our bot's last action is FOLD for 0
+Rando folds.
 
 
 NEWHAND:5
 
-['NEWHAND', '5', '1', '8c', '3c', '408', '192', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.849225']
-Active Players:2
+['NEWHAND', '5', '2', 'Ad', 'Js', '64', '360', '176', 'Randy', 'BAMF', 'Rando', '3', 'true', 'true', 'true', '14.914648']
+Active Players:3
 
-Our hand: 8c 3c
+Our hand: Ad Js
+Randy's VPIP: 0.750000
+Randy's PFR: 0.250000
+Randy's estimated fold percentage is 0.000000
+Randy's AF flop/postflop: 2.500000
+Randy's Player Type: MANIAC
+Randy's Seat:1
 BAMF's VPIP: 0.250000
-BAMF's PFR: 0.250000
-BAMF's estimated fold percentage is 0.000000
-BAMF's AF flop/postflop: 1.333333
-BAMF's Player Type: LOOSE
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.250000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.750000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.000000
-OldBotv2(MOUSE)'s Player Type: CALLING STATION
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.500000
-OldBotv1(Ain'tABitch)'s PFR: 0.250000
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: MANIAC
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.800000
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+Rando's VPIP: 0.000000
+Rando's PFR: 0.000000
+Rando's estimated fold percentage is 0.750000
+Rando's AF flop/postflop: 1.000000
+Rando's Player Type: NIT
+Rando's Seat:3
 
-BAMF posts small blind/and is dealer, stack size (407)
-OldBotv2(MOUSE) posts big blind, stack size (190)
+BAMF posts small blind, stack size (359)
+Rando posts big blind, stack size (174)
 
+['FOLD', 'CALL:2', 'RAISE:4:6']
+{}
 
 ***PREFLOP***(3) Board:()
-Our hand: 8c 3c
+Our hand: Ad Js
 
-our last bet of 1 was in round 5
-BAMF's EV: -0.135000
-BAMF's Equity: 0.373
-BAMF's Implied Odds: -1
-BAMF's maxBetFold: 9
-BAMF's maxBetEV: 1
+Randy folds.
+our last bet of 1 was in round 0
+BAMF's EV: 1.542000
+BAMF's Equity: 0.6355
+BAMF's Implied Odds: -3
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 5
 
-final max raise:6
-final min raise:6
-Raise range: 4 6
-BAMF raise 6.
-EV FOLD
-BAMF folds.
+BAMF calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:4', 'RAISE:6:12']
+{}
 
-***FLOP***(20) Board:(3h Ac Qh)
-Our hand: 8c 3c
+***PREFLOP***(6) Board:()
+Our hand: Ad Js
 
-OldBotv2(MOUSE) called 6.
-OldBotv2(MOUSE) bet 8.
-our last bet of 0 was in round 0
-BAMF's EV: 7.526000
-BAMF's Equity: 0.5545
-BAMF's Implied Odds: -21
-BAMF's maxBetFold: 60
-BAMF's maxBetEV: 24
+Rando raised to 4.
+our last bet of 2 was in round 0
+BAMF's EV: 3.084000
+BAMF's Equity: 0.6355
+BAMF's Implied Odds: -6
+BAMF's maxBetFold: 1
+BAMF's maxBetEV: 10
 
-BAMF calls 8.
+BAMF calls 4.
+our bot's last action is CALL for 4
+['CHECK', 'BET:2:8']
+{}
 
-***TURN***(55) Board:(3h Ac Qh 4d)
-Our hand: 8c 3c
+***FLOP***(8) Board:(8h 9d 5c)
+Our hand: Ad Js
 
-OldBotv2(MOUSE) bet 27.
-our last bet of 8 was in round 3
-BAMF's EV: 12.319000
-BAMF's Equity: 0.4795
-BAMF's Implied Odds: -52
-BAMF's maxBetFold: 165
-BAMF's maxBetEV: 50
+our last bet of 4 was in round 0
+BAMF's EV: 4.160000
+BAMF's Equity: 0.52
+BAMF's Implied Odds: -8
+BAMF's maxBetFold: 2
+BAMF's maxBetEV: 8
 
-BAMF folds.
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:2', 'RAISE:4:14']
+{}
+
+***FLOP***(10) Board:(8h 9d 5c)
+Our hand: Ad Js
+
+Rando bet 2.
+our last bet of 0 was in round 3
+BAMF's EV: 4.240000
+BAMF's Equity: 0.52
+BAMF's Implied Odds: -10
+BAMF's maxBetFold: 2
+BAMF's maxBetEV: 10
+
+line 6
+BAMF calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:12']
+{}
+
+***TURN***(12) Board:(8h 9d 5c 2s)
+Our hand: Ad Js
+
+our last bet of 2 was in round 3
+BAMF's EV: 4.998000
+BAMF's Equity: 0.4165
+BAMF's Implied Odds: -12
+BAMF's maxBetFold: 3
+BAMF's maxBetEV: 8
+
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:9', 'RAISE:18:39']
+{}
+
+***TURN***(21) Board:(8h 9d 5c 2s)
+Our hand: Ad Js
+
+Rando bet 9.
+our last bet of 0 was in round 4
+BAMF's EV: 3.495000
+BAMF's Equity: 0.4165
+BAMF's Implied Odds: -17
+BAMF's maxBetFold: 5
+BAMF's maxBetEV: 14
+
+line 6
+BAMF calls 9.
+our bot's last action is CALL for 9
+['CHECK', 'BET:2:30']
+{}
+
+***RIVER***(30) Board:(8h 9d 5c 2s 3d)
+Our hand: Ad Js
+
+our last bet of 9 was in round 4
+BAMF's EV: 9.712121
+BAMF's Equity: 0.323737373737
+BAMF's Implied Odds: -30
+BAMF's maxBetFold: 7
+BAMF's maxBetEV: 14
+
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:16', 'RAISE:32:78']
+{}
+
+***RIVER***(46) Board:(8h 9d 5c 2s 3d)
+Our hand: Ad Js
+
+Rando bet 16.
+our last bet of 0 was in round 5
+BAMF's EV: 4.071717
+BAMF's Equity: 0.323737373737
+BAMF's Implied Odds: -28
+BAMF's maxBetFold: 11
+BAMF's maxBetEV: 22
+
+line 6
+BAMF calls 16.
+our bot's last action is CALL for 16
+BAMF WTSD percentage is: 0.400000
+Rando WTSD percentage is: 0.200000
+Rando W$SD percentage is: 1.000000
 
 
 NEWHAND:6
 
-['NEWHAND', '6', '2', '4h', 'Ah', '206', '394', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.819328']
-Active Players:2
+['NEWHAND', '6', '3', '5s', '9s', '207', '64', '329', 'Rando', 'Randy', 'BAMF', '3', 'true', 'true', 'true', '14.869015']
+Active Players:3
 
-Our hand: 4h Ah
-OldBotv2(MOUSE)'s VPIP: 0.200000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.750000
-OldBotv2(MOUSE)'s AF flop/postflop: 1.000000
-OldBotv2(MOUSE)'s Player Type: CALLING STATION
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.200000
-BAMF's PFR: 0.200000
-BAMF's estimated fold percentage is 0.000000
-BAMF's AF flop/postflop: 1.250000
-BAMF's Player Type: LOOSE
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.400000
-OldBotv1(Ain'tABitch)'s PFR: 0.200000
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: LOOSE
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Our hand: 5s 9s
+Rando's VPIP: 0.200000
+Rando's PFR: 0.200000
+Rando's estimated fold percentage is 0.750000
+Rando's AF flop/postflop: 4.000000
+Rando's Player Type: SHARK
+Rando's Seat:1
+Randy's VPIP: 0.600000
+Randy's PFR: 0.200000
+Randy's estimated fold percentage is 0.200000
+Randy's AF flop/postflop: 2.500000
+Randy's Player Type: LOOSE
+Randy's Seat:2
+BAMF's VPIP: 0.400000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.444444
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:3
 
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (205)
-BAMF posts big blind, stack size (392)
+Randy posts small blind, stack size (63)
+BAMF posts big blind, stack size (327)
 
+['CHECK', 'RAISE:4:8']
+{}
 
-***PREFLOP***(4) Board:()
-Our hand: 4h Ah
+***PREFLOP***(6) Board:()
+Our hand: 5s 9s
 
-OldBotv2(MOUSE) called 2.
-our last bet of 2 was in round 4
-BAMF's EV: 2.372000
-BAMF's Equity: 0.593
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 12
+Rando called 2.
+Randy called 2.
+our last bet of 2 was in round 0
+BAMF's EV: 2.763000
+BAMF's Equity: 0.4605
+BAMF's Implied Odds: -6
+BAMF's maxBetFold: 1
 BAMF's maxBetEV: 5
 
 BAMF checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:5', 'RAISE:10:21']
+{}
 
-***FLOP***(4) Board:(Qc Ac Kd)
-Our hand: 4h Ah
+***FLOP***(11) Board:(Jh 8h 3s)
+Our hand: 5s 9s
 
+Randy bet 5.
 our last bet of 0 was in round 0
-BAMF's EV: 3.226000
-BAMF's Equity: 0.8065
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 12
-BAMF's maxBetEV: 16
+BAMF's EV: -0.480000
+BAMF's Equity: 0.2825
+BAMF's Implied Odds: -3
+BAMF's maxBetFold: 2
+BAMF's maxBetEV: 4
 
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF bets 2.
-
-***TURN***(8) Board:(Qc Ac Kd 3c)
-Our hand: 4h Ah
-
-OldBotv2(MOUSE) called 2.
-our last bet of 2 was in round 3
-BAMF's EV: 5.876000
-BAMF's Equity: 0.7345
-BAMF's Implied Odds: -8
-BAMF's maxBetFold: 24
-BAMF's maxBetEV: 22
-
-final max bet:8
-final min bet:2
-Bet range: 2 8
-BAMF bets 2.
-
-***RIVER***(12) Board:(Qc Ac Kd 3c Js)
-Our hand: 4h Ah
-
-OldBotv2(MOUSE) called 2.
-our last bet of 2 was in round 4
-BAMF's EV: 8.084848
-BAMF's Equity: 0.673737373737
-BAMF's Implied Odds: -12
-BAMF's maxBetFold: 36
-BAMF's maxBetEV: 24
-
-final max bet:12
-final min bet:2
-Bet range: 2 12
-BAMF bets 3.
-OldBotv2(MOUSE) called 3.
-OldBotv2(MOUSE) WTSD percentage is: 0.333333
-BAMF WTSD percentage is: 0.333333
-BAMF W$SD percentage is: 1.000000
+BAMF folds.
+our bot's last action is FOLD for 0
+Rando raised to 12.
+Randy folds.
 
 
 NEWHAND:7
 
-['NEWHAND', '7', '1', '3c', '4d', '403', '197', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.791978']
-Active Players:2
+['NEWHAND', '7', '1', '3s', '4d', '327', '216', '57', 'BAMF', 'Rando', 'Randy', '3', 'true', 'true', 'true', '14.856720']
+Active Players:3
 
-Our hand: 3c 4d
-BAMF's VPIP: 0.166667
-BAMF's PFR: 0.166667
-BAMF's estimated fold percentage is 0.000000
-BAMF's AF flop/postflop: 2.000000
-BAMF's Player Type: LOOSE
+Our hand: 3s 4d
+BAMF's VPIP: 0.333333
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.444444
+BAMF's Player Type: CALLING STATION
 BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.333333
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.750000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.400000
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.333333
-OldBotv1(Ain'tABitch)'s PFR: 0.166667
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: LOOSE
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Rando's VPIP: 0.333333
+Rando's PFR: 0.166667
+Rando's estimated fold percentage is 0.750000
+Rando's AF flop/postflop: 5.000000
+Rando's Player Type: BOMB
+Rando's Seat:2
+Randy's VPIP: 0.666667
+Randy's PFR: 0.166667
+Randy's estimated fold percentage is 0.200000
+Randy's AF flop/postflop: 3.000000
+Randy's Player Type: LOOSE
+Randy's Seat:3
 
-BAMF posts small blind/and is dealer, stack size (402)
-OldBotv2(MOUSE) posts big blind, stack size (195)
+Rando posts small blind, stack size (215)
+Randy posts big blind, stack size (55)
 
+['CALL:2', 'FOLD', 'RAISE:4:7']
+{}
 
 ***PREFLOP***(3) Board:()
-Our hand: 3c 4d
+Our hand: 3s 4d
 
-our last bet of 1 was in round 5
-BAMF's EV: -0.300000
-BAMF's Equity: 0.34
+our last bet of 0 was in round 0
+BAMF's EV: -0.217500
+BAMF's Equity: 0.3565
 BAMF's Implied Odds: -1
-BAMF's maxBetFold: 9
+BAMF's maxBetFold: 0
 BAMF's maxBetEV: 1
 
-final max raise:6
-final min raise:6
-Raise range: 4 6
-BAMF raise 6.
-EV FOLD
+NOT BLUFFING FOLD
 BAMF folds.
-
-***FLOP***(12) Board:(5d 6s Th)
-Our hand: 3c 4d
-
-OldBotv2(MOUSE) called 6.
-OldBotv2(MOUSE) checks.
-our last bet of 0 was in round 0
-BAMF's EV: 4.758000
-BAMF's Equity: 0.3965
-BAMF's Implied Odds: -12
-BAMF's maxBetFold: 36
-BAMF's maxBetEV: 7
-
-BAMF checks.
-
-***TURN***(12) Board:(5d 6s Th Qs)
-Our hand: 3c 4d
-
-OldBotv2(MOUSE) checks.
-our last bet of 0 was in round 3
-BAMF's EV: 2.886000
-BAMF's Equity: 0.2405
-BAMF's Implied Odds: -12
-BAMF's maxBetFold: 36
-BAMF's maxBetEV: 3
-
-final max bet:12
-final min bet:8
-Bet range: 2 12
-BAMF bets 11.
-
-***RIVER***(34) Board:(5d 6s Th Qs Jh)
-Our hand: 3c 4d
-
-OldBotv2(MOUSE) called 11.
-OldBotv2(MOUSE) checks.
-our last bet of 11 was in round 4
-BAMF's EV: 0.566667
-BAMF's Equity: 0.0166666666667
-BAMF's Implied Odds: -34
-BAMF's maxBetFold: 102
-BAMF's maxBetEV: 0
-
-BAMF checks.
-BAMF WTSD percentage is: 0.428571
-OldBotv2(MOUSE) WTSD percentage is: 0.428571
-OldBotv2(MOUSE) W$SD percentage is: 0.333333
+our bot's last action is FOLD for 0
+Rando raised to 4.
+Randy raised to 6.
+Rando called 6.
+Rando bet 5.
+Randy folds.
 
 
 NEWHAND:8
 
-['NEWHAND', '8', '2', '7d', 'Ad', '214', '386', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.762444']
-Active Players:2
+['NEWHAND', '8', '2', '6c', '9h', '51', '327', '222', 'Randy', 'BAMF', 'Rando', '3', 'true', 'true', 'true', '14.845589']
+Active Players:3
 
-Our hand: 7d Ad
-OldBotv2(MOUSE)'s VPIP: 0.285714
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.750000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.285714
-OldBotv2(MOUSE)'s Player Type: CALLING STATION
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.142857
-BAMF's PFR: 0.142857
-BAMF's estimated fold percentage is 0.000000
-BAMF's AF flop/postflop: 2.500000
-BAMF's Player Type: SHARK
+Our hand: 6c 9h
+Randy's VPIP: 0.571429
+Randy's PFR: 0.142857
+Randy's estimated fold percentage is 0.200000
+Randy's AF flop/postflop: 3.500000
+Randy's Player Type: LOOSE
+Randy's Seat:1
+BAMF's VPIP: 0.285714
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.444444
+BAMF's Player Type: CALLING STATION
 BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.285714
-OldBotv1(Ain'tABitch)'s PFR: 0.142857
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: SHARK
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Rando's VPIP: 0.285714
+Rando's PFR: 0.142857
+Rando's estimated fold percentage is 0.750000
+Rando's AF flop/postflop: 3.500000
+Rando's Player Type: SHARK
+Rando's Seat:3
 
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (213)
-BAMF posts big blind, stack size (384)
+BAMF posts small blind, stack size (326)
+Rando posts big blind, stack size (220)
 
-OldBotv2(MOUSE) folds.
+['FOLD', 'CALL:4', 'RAISE:6:14']
+{}
+
+***PREFLOP***(7) Board:()
+Our hand: 6c 9h
+
+Randy raised to 4.
+our last bet of 1 was in round 0
+BAMF's EV: 1.465000
+BAMF's Equity: 0.4465
+BAMF's Implied Odds: -6
+BAMF's maxBetFold: 1
+BAMF's maxBetEV: 5
+
+NOT BLUFFING FOLD
+BAMF folds.
+our bot's last action is FOLD for 0
+Rando raised to 7.
+Randy raised to 14.
+Rando raised to 32.
+Randy called 32.
+Rando checks.
+Randy checks.
+Rando checks.
+Randy bet 14.
+Rando called 14.
+Rando bet 2.
+Randy folds.
 
 
 NEWHAND:9
 
-['NEWHAND', '9', '1', '3c', '2d', '387', '213', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.762444']
-Active Players:2
+['NEWHAND', '9', '3', '4d', 'Tc', '269', '5', '326', 'Rando', 'Randy', 'BAMF', '3', 'true', 'true', 'true', '14.836190']
+Active Players:3
 
-Our hand: 3c 2d
-BAMF's VPIP: 0.125000
-BAMF's PFR: 0.125000
-BAMF's estimated fold percentage is 0.000000
-BAMF's AF flop/postflop: 2.500000
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.250000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.500000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.285714
-OldBotv2(MOUSE)'s Player Type: CALLING STATION
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.250000
-OldBotv1(Ain'tABitch)'s PFR: 0.125000
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: SHARK
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Our hand: 4d Tc
+Rando's VPIP: 0.250000
+Rando's PFR: 0.125000
+Rando's estimated fold percentage is 0.750000
+Rando's AF flop/postflop: 3.333333
+Rando's Player Type: SHARK
+Rando's Seat:1
+Randy's VPIP: 0.625000
+Randy's PFR: 0.125000
+Randy's estimated fold percentage is 0.200000
+Randy's AF flop/postflop: 3.000000
+Randy's Player Type: UNKNOWN
+Randy's Seat:2
+BAMF's VPIP: 0.250000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.444444
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:3
 
-BAMF posts small blind/and is dealer, stack size (386)
-OldBotv2(MOUSE) posts big blind, stack size (211)
+Randy posts small blind, stack size (4)
+BAMF posts big blind, stack size (324)
 
+['FOLD', 'CALL:5', 'RAISE:8:16']
+{}
 
-***PREFLOP***(3) Board:()
-Our hand: 3c 2d
+***PREFLOP***(8) Board:()
+Our hand: 4d Tc
 
-our last bet of 1 was in round 5
-BAMF's EV: -0.362500
-BAMF's Equity: 0.3275
-BAMF's Implied Odds: 0
-BAMF's maxBetFold: 3
-BAMF's maxBetEV: 1
+Rando raised to 5.
+Randy folds.
+our last bet of 2 was in round 0
+BAMF's EV: 1.724500
+BAMF's Equity: 0.4295
+BAMF's Implied Odds: -7
+BAMF's maxBetFold: 2
+BAMF's maxBetEV: 6
 
+NOT BLUFFING FOLD
 BAMF folds.
-EV FOLD
-BAMF folds.
+our bot's last action is FOLD for 0
 
 
 NEWHAND:10
 
-['NEWHAND', '10', '2', 'Tc', 'Jd', '214', '386', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.752718']
-Active Players:2
+['NEWHAND', '10', '1', 'As', '2d', '324', '272', '4', 'BAMF', 'Rando', 'Randy', '3', 'true', 'true', 'true', '14.822465']
+Active Players:3
 
-Our hand: Tc Jd
-OldBotv2(MOUSE)'s VPIP: 0.222222
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.500000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.285714
-OldBotv2(MOUSE)'s Player Type: CALLING STATION
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.111111
-BAMF's PFR: 0.111111
-BAMF's estimated fold percentage is 0.111111
-BAMF's AF flop/postflop: 2.500000
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.222222
-OldBotv1(Ain'tABitch)'s PFR: 0.111111
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: SHARK
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Our hand: As 2d
+BAMF's VPIP: 0.222222
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.222222
+BAMF's AF flop/postflop: 0.444444
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+Rando's VPIP: 0.333333
+Rando's PFR: 0.111111
+Rando's estimated fold percentage is 0.750000
+Rando's AF flop/postflop: 3.333333
+Rando's Player Type: UNKNOWN
+Rando's Seat:2
+Randy's VPIP: 0.555556
+Randy's PFR: 0.111111
+Randy's estimated fold percentage is 0.222222
+Randy's AF flop/postflop: 3.000000
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
 
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (213)
-BAMF posts big blind, stack size (384)
+Rando posts small blind, stack size (271)
+Randy posts big blind, stack size (2)
 
-OldBotv2(MOUSE) folds.
+['CALL:2', 'FOLD', 'RAISE:4:7']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: As 2d
+
+our last bet of 0 was in round 0
+BAMF's EV: 0.752500
+BAMF's Equity: 0.5505
+BAMF's Implied Odds: -3
+BAMF's maxBetFold: 0
+BAMF's maxBetEV: 3
+
+BAMF calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:2', 'RAISE:4:12']
+{}
+
+***FLOP***(8) Board:(Kh 6d 8h)
+Our hand: As 2d
+
+Rando called 2.
+Randy checks.
+Rando checks.
+Randy bet 2.
+our last bet of 2 was in round 0
+BAMF's EV: 2.030000
+BAMF's Equity: 0.403
+BAMF's Implied Odds: -7
+BAMF's maxBetFold: 2
+BAMF's maxBetEV: 5
+
+line 6
+BAMF calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:5', 'RAISE:10:27']
+{}
+
+***TURN***(17) Board:(Kh 6d 8h 2s)
+Our hand: As 2d
+
+Rando called 2.
+Rando bet 5.
+our last bet of 2 was in round 3
+BAMF's EV: 6.418000
+BAMF's Equity: 0.519
+BAMF's Implied Odds: -17
+BAMF's maxBetFold: 4
+BAMF's maxBetEV: 18
+
+line 6
+BAMF calls 5.
+our bot's last action is CALL for 5
+['FOLD', 'CALL:2', 'RAISE:4:28']
+{}
+
+***RIVER***(24) Board:(Kh 6d 8h 2s 4d)
+Our hand: As 2d
+
+Rando bet 2.
+our last bet of 5 was in round 4
+BAMF's EV: 9.739394
+BAMF's Equity: 0.451515151515
+BAMF's Implied Odds: -23
+BAMF's maxBetFold: 6
+BAMF's maxBetEV: 19
+
+line 6
+BAMF calls 2.
+our bot's last action is CALL for 2
+BAMF WTSD percentage is: 0.300000
+Rando WTSD percentage is: 0.200000
+Randy WTSD percentage is: 0.200000
+Randy W$SD percentage is: 0.500000
+Rando W$SD percentage is: 1.000000
 
 
 NEWHAND:11
 
-['NEWHAND', '11', '1', '3d', 'Tc', '387', '213', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.752718']
-Active Players:2
+['NEWHAND', '11', '2', 'Ks', '8c', '12', '313', '275', 'Randy', 'BAMF', 'Rando', '3', 'true', 'true', 'true', '14.751157']
+Active Players:3
 
-Our hand: 3d Tc
-BAMF's VPIP: 0.100000
-BAMF's PFR: 0.100000
-BAMF's estimated fold percentage is 0.111111
-BAMF's AF flop/postflop: 2.500000
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.200000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.500000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.285714
-OldBotv2(MOUSE)'s Player Type: CALLING STATION
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.200000
-OldBotv1(Ain'tABitch)'s PFR: 0.100000
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: SHARK
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Our hand: Ks 8c
+Randy's VPIP: 0.500000
+Randy's PFR: 0.100000
+Randy's estimated fold percentage is 0.222222
+Randy's AF flop/postflop: 3.333333
+Randy's Player Type: UNKNOWN
+Randy's Seat:1
+BAMF's VPIP: 0.200000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.222222
+BAMF's AF flop/postflop: 0.307692
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+Rando's VPIP: 0.300000
+Rando's PFR: 0.100000
+Rando's estimated fold percentage is 0.750000
+Rando's AF flop/postflop: 2.400000
+Rando's Player Type: UNKNOWN
+Rando's Seat:3
 
-BAMF posts small blind/and is dealer, stack size (386)
-OldBotv2(MOUSE) posts big blind, stack size (211)
+BAMF posts small blind, stack size (312)
+Rando posts big blind, stack size (273)
 
+['FOLD', 'CALL:2', 'RAISE:4:6']
+{}
 
 ***PREFLOP***(3) Board:()
-Our hand: 3d Tc
+Our hand: Ks 8c
 
+Randy folds.
 our last bet of 1 was in round 0
-BAMF's EV: 0.696000
-BAMF's Equity: 0.424
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 3
-BAMF's maxBetEV: 2
+BAMF's EV: 1.184000
+BAMF's Equity: 0.546
+BAMF's Implied Odds: -3
+BAMF's maxBetFold: 1
+BAMF's maxBetEV: 3
 
-BAMF folds.
-final max raise:4
-final min raise:4
-Raise range: 4 6
 BAMF calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:5', 'RAISE:8:15']
+{}
+
+***PREFLOP***(7) Board:()
+Our hand: Ks 8c
+
+Rando raised to 5.
+our last bet of 2 was in round 0
+BAMF's EV: 2.460000
+BAMF's Equity: 0.546
+BAMF's Implied Odds: -7
+BAMF's maxBetFold: 2
+BAMF's maxBetEV: 8
+
+BAMF calls 5.
+our bot's last action is CALL for 5
+['CHECK', 'BET:2:10']
+{}
+
+***FLOP***(10) Board:(Th 2d 7h)
+Our hand: Ks 8c
+
+our last bet of 5 was in round 0
+BAMF's EV: 4.210000
+BAMF's Equity: 0.421
+BAMF's Implied Odds: -10
+BAMF's maxBetFold: 3
+BAMF's maxBetEV: 7
+
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:5', 'RAISE:10:25']
+{}
+
+***FLOP***(15) Board:(Th 2d 7h)
+Our hand: Ks 8c
+
+Rando bet 5.
+our last bet of 0 was in round 3
+BAMF's EV: 3.420000
+BAMF's Equity: 0.421
+BAMF's Implied Odds: -13
+BAMF's maxBetFold: 5
+BAMF's maxBetEV: 10
+
+line 6
+BAMF calls 5.
+our bot's last action is CALL for 5
+['CHECK', 'BET:2:20']
+{}
+
+***TURN***(20) Board:(Th 2d 7h Qs)
+Our hand: Ks 8c
+
+our last bet of 5 was in round 3
+BAMF's EV: 7.310000
+BAMF's Equity: 0.3655
+BAMF's Implied Odds: -20
+BAMF's maxBetFold: 7
+BAMF's maxBetEV: 11
+
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:20']
+{}
+
+***RIVER***(20) Board:(Th 2d 7h Qs 4d)
+Our hand: Ks 8c
+
+Rando checks.
+our last bet of 0 was in round 4
+BAMF's EV: 5.262626
+BAMF's Equity: 0.263131313131
+BAMF's Implied Odds: -20
+BAMF's maxBetFold: 7
+BAMF's maxBetEV: 7
+
+line 4
+final max bet:7
+final min bet:7
+Bet range: 2 20
+BAMF bets 7.
+our bot's last action is BET for 7
+Rando folds.
 
 
 NEWHAND:12
 
-['NEWHAND', '12', '2', '8s', 'Jd', '214', '386', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.744060']
-Active Players:2
+['NEWHAND', '12', '3', '3s', '3c', '265', '12', '323', 'Rando', 'Randy', 'BAMF', '3', 'true', 'true', 'true', '14.689665']
+Active Players:3
 
-Our hand: 8s Jd
-OldBotv2(MOUSE)'s VPIP: 0.181818
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.500000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.285714
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.090909
-BAMF's PFR: 0.090909
-BAMF's estimated fold percentage is 0.181818
-BAMF's AF flop/postflop: 2.500000
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.181818
-OldBotv1(Ain'tABitch)'s PFR: 0.090909
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: SHARK
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Our hand: 3s 3c
+Rando's VPIP: 0.363636
+Rando's PFR: 0.090909
+Rando's estimated fold percentage is 0.750000
+Rando's AF flop/postflop: 2.600000
+Rando's Player Type: UNKNOWN
+Rando's Seat:1
+Randy's VPIP: 0.454545
+Randy's PFR: 0.090909
+Randy's estimated fold percentage is 0.272727
+Randy's AF flop/postflop: 3.333333
+Randy's Player Type: UNKNOWN
+Randy's Seat:2
+BAMF's VPIP: 0.272727
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.222222
+BAMF's AF flop/postflop: 0.333333
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:3
 
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (213)
-BAMF posts big blind, stack size (384)
+Randy posts small blind, stack size (11)
+BAMF posts big blind, stack size (321)
 
-
-***PREFLOP***(4) Board:()
-Our hand: 8s Jd
-
-OldBotv2(MOUSE) called 2.
-our last bet of 2 was in round 0
-BAMF's EV: 2.044000
-BAMF's Equity: 0.511
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 4
-BAMF's maxBetEV: 4
-
-BAMF checks.
-
-***FLOP***(4) Board:(Ks 5h Tc)
-Our hand: 8s Jd
-
-our last bet of 0 was in round 0
-BAMF's EV: 1.446000
-BAMF's Equity: 0.3615
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 4
-BAMF's maxBetEV: 2
-
-final max bet:4
-final min bet:4
-Bet range: 2 4
-BAMF bets 4.
-OldBotv2(MOUSE) folds.
+Rando folds.
+Randy folds.
 
 
 NEWHAND:13
 
-['NEWHAND', '13', '1', '7s', '5s', '388', '212', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.727052']
-Active Players:2
+['NEWHAND', '13', '1', '3d', 'As', '324', '265', '11', 'BAMF', 'Rando', 'Randy', '3', 'true', 'true', 'true', '14.689665']
+Active Players:3
 
-Our hand: 7s 5s
-BAMF's VPIP: 0.083333
-BAMF's PFR: 0.083333
-BAMF's estimated fold percentage is 0.181818
-BAMF's AF flop/postflop: 2.750000
-BAMF's Player Type: NIT
+Our hand: 3d As
+BAMF's VPIP: 0.250000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.222222
+BAMF's AF flop/postflop: 0.333333
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.250000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.500000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.285714
-OldBotv2(MOUSE)'s Player Type: CALLING STATION
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.166667
-OldBotv1(Ain'tABitch)'s PFR: 0.083333
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: SHARK
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Rando's VPIP: 0.333333
+Rando's PFR: 0.083333
+Rando's estimated fold percentage is 0.333333
+Rando's AF flop/postflop: 2.600000
+Rando's Player Type: UNKNOWN
+Rando's Seat:2
+Randy's VPIP: 0.416667
+Randy's PFR: 0.083333
+Randy's estimated fold percentage is 0.333333
+Randy's AF flop/postflop: 3.333333
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
 
-BAMF posts small blind/and is dealer, stack size (387)
-OldBotv2(MOUSE) posts big blind, stack size (210)
+Rando posts small blind, stack size (264)
+Randy posts big blind, stack size (9)
 
+['CALL:2', 'FOLD', 'RAISE:4:7']
+{}
 
 ***PREFLOP***(3) Board:()
-Our hand: 7s 5s
+Our hand: 3d As
 
-our last bet of 1 was in round 3
-BAMF's EV: 0.180000
-BAMF's Equity: 0.436
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 3
-BAMF's maxBetEV: 2
+our last bet of 0 was in round 0
+BAMF's EV: 0.855000
+BAMF's Equity: 0.571
+BAMF's Implied Odds: -3
+BAMF's maxBetFold: 1
+BAMF's maxBetEV: 3
 
-BAMF folds.
 BAMF calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:6', 'RAISE:10:20']
+{}
+
+***PREFLOP***(10) Board:()
+Our hand: 3d As
+
+Rando raised to 6.
+Randy folds.
+our last bet of 2 was in round 0
+BAMF's EV: 3.994000
+BAMF's Equity: 0.571
+BAMF's Implied Odds: -10
+BAMF's maxBetFold: 6
+BAMF's maxBetEV: 13
+
+BAMF calls 6.
+our bot's last action is CALL for 6
+['FOLD', 'CALL:10', 'RAISE:20:44']
+{}
+
+***FLOP***(24) Board:(Ac Th Ks)
+Our hand: 3d As
+
+Rando bet 10.
+our last bet of 6 was in round 0
+BAMF's EV: 17.013000
+BAMF's Equity: 0.7945
+BAMF's Implied Odds: -31
+BAMF's maxBetFold: 15
+BAMF's maxBetEV: 92
+
+line 1
+final max raise:44
+final min raise:20
+Raise range: 20 44
+BAMF raises to 37.
+our bot's last action is RAISE for 37
+Rando folds.
 
 
 NEWHAND:14
 
-['NEWHAND', '14', '2', '9d', 'Kh', '213', '387', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.682156']
-Active Players:2
+['NEWHAND', '14', '2', '3h', 'As', '9', '342', '249', 'Randy', 'BAMF', 'Rando', '3', 'true', 'true', 'true', '14.658559']
+Active Players:3
 
-Our hand: 9d Kh
-OldBotv2(MOUSE)'s VPIP: 0.230769
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.500000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.285714
-OldBotv2(MOUSE)'s Player Type: CALLING STATION
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.076923
-BAMF's PFR: 0.076923
-BAMF's estimated fold percentage is 0.230769
-BAMF's AF flop/postflop: 2.750000
-BAMF's Player Type: NIT
+Our hand: 3h As
+Randy's VPIP: 0.384615
+Randy's PFR: 0.076923
+Randy's estimated fold percentage is 0.384615
+Randy's AF flop/postflop: 3.333333
+Randy's Player Type: UNKNOWN
+Randy's Seat:1
+BAMF's VPIP: 0.307692
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.222222
+BAMF's AF flop/postflop: 0.375000
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.153846
-OldBotv1(Ain'tABitch)'s PFR: 0.076923
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: SHARK
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Rando's VPIP: 0.384615
+Rando's PFR: 0.076923
+Rando's estimated fold percentage is 0.333333
+Rando's AF flop/postflop: 2.800000
+Rando's Player Type: UNKNOWN
+Rando's Seat:3
 
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (212)
-BAMF posts big blind, stack size (385)
+BAMF posts small blind, stack size (341)
+Rando posts big blind, stack size (247)
 
+['FOLD', 'CALL:2', 'RAISE:4:8']
+{}
 
-***PREFLOP***(4) Board:()
-Our hand: 9d Kh
+***PREFLOP***(5) Board:()
+Our hand: 3h As
 
-OldBotv2(MOUSE) called 2.
-our last bet of 2 was in round 0
-BAMF's EV: 2.334000
-BAMF's Equity: 0.5835
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 4
-BAMF's maxBetEV: 5
-
-BAMF checks.
-
-***FLOP***(4) Board:(Td 5s Js)
-Our hand: 9d Kh
-
-our last bet of 0 was in round 0
-BAMF's EV: 2.040000
-BAMF's Equity: 0.51
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 4
-BAMF's maxBetEV: 4
-
-final max bet:4
-final min bet:4
-Bet range: 2 4
-BAMF bets 4.
-
-***FLOP***(6) Board:(Td 5s Js)
-Our hand: 9d Kh
-
-OldBotv2(MOUSE) bet 2.
-our last bet of 4 was in round 3
-BAMF's EV: 2.080000
-BAMF's Equity: 0.51
-BAMF's Implied Odds: -6
-BAMF's maxBetFold: 6
+Randy called 2.
+our last bet of 1 was in round 0
+BAMF's EV: 2.384000
+BAMF's Equity: 0.564
+BAMF's Implied Odds: -5
+BAMF's maxBetFold: 3
 BAMF's maxBetEV: 6
 
-final max raise:6
-final min raise:6
-Raise range: 4 10
-BAMF raise 6.
-OldBotv2(MOUSE) folds.
+BAMF calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:4', 'RAISE:6:16']
+{}
+
+***PREFLOP***(10) Board:()
+Our hand: 3h As
+
+Rando raised to 4.
+Randy called 4.
+our last bet of 2 was in round 0
+BAMF's EV: 4.768000
+BAMF's Equity: 0.564
+BAMF's Implied Odds: -10
+BAMF's maxBetFold: 6
+BAMF's maxBetEV: 12
+
+BAMF calls 4.
+our bot's last action is CALL for 4
+['CHECK', 'BET:2:12']
+{}
+
+***FLOP***(12) Board:(Js Jh 9c)
+Our hand: 3h As
+
+our last bet of 4 was in round 0
+BAMF's EV: 6.012000
+BAMF's Equity: 0.501
+BAMF's Implied Odds: -12
+BAMF's maxBetFold: 7
+BAMF's maxBetEV: 12
+
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:9', 'RAISE:18:44']
+{}
+
+***FLOP***(26) Board:(Js Jh 9c)
+Our hand: 3h As
+
+Rando bet 9.
+Randy called 5.
+our last bet of 0 was in round 3
+BAMF's EV: 8.535000
+BAMF's Equity: 0.501
+BAMF's Implied Odds: -26
+BAMF's maxBetFold: 16
+BAMF's maxBetEV: 26
+
+line 6
+BAMF calls 9.
+our bot's last action is CALL for 9
+['CHECK', 'BET:2:35']
+{}
+
+***TURN***(35) Board:(Js Jh 9c 2c)
+Our hand: 3h As
+
+our last bet of 9 was in round 3
+BAMF's EV: 17.780000
+BAMF's Equity: 0.508
+BAMF's Implied Odds: -35
+BAMF's maxBetFold: 21
+BAMF's maxBetEV: 36
+
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:35']
+{}
+
+***RIVER***(35) Board:(Js Jh 9c 2c Jd)
+Our hand: 3h As
+
+Rando checks.
+our last bet of 0 was in round 4
+BAMF's EV: 20.452020
+BAMF's Equity: 0.584343434343
+BAMF's Implied Odds: -35
+BAMF's maxBetFold: 21
+BAMF's maxBetEV: 49
+
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+Rando checks.
+Randy WTSD percentage is: 0.214286
+BAMF WTSD percentage is: 0.285714
+Rando WTSD percentage is: 0.214286
+Randy W$SD percentage is: 0.666667
+BAMF W$SD percentage is: 0.500000
 
 
 NEWHAND:15
 
-['NEWHAND', '15', '1', '5d', '5s', '391', '209', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.658944']
-Active Players:2
+['NEWHAND', '15', '3', 'Ts', '7h', '236', '27', '337', 'Rando', 'Randy', 'BAMF', '3', 'true', 'true', 'true', '14.606553']
+Active Players:3
 
-Our hand: 5d 5s
-BAMF's VPIP: 0.071429
-BAMF's PFR: 0.071429
-BAMF's estimated fold percentage is 0.230769
-BAMF's AF flop/postflop: 3.000000
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.285714
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.500000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.428571
-OldBotv2(MOUSE)'s Player Type: CALLING STATION
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.142857
-OldBotv1(Ain'tABitch)'s PFR: 0.071429
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: SHARK
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Our hand: Ts 7h
+Rando's VPIP: 0.428571
+Rando's PFR: 0.071429
+Rando's estimated fold percentage is 0.333333
+Rando's AF flop/postflop: 3.000000
+Rando's Player Type: UNKNOWN
+Rando's Seat:1
+Randy's VPIP: 0.428571
+Randy's PFR: 0.071429
+Randy's estimated fold percentage is 0.384615
+Randy's AF flop/postflop: 2.500000
+Randy's Player Type: UNKNOWN
+Randy's Seat:2
+BAMF's VPIP: 0.357143
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.222222
+BAMF's AF flop/postflop: 0.333333
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:3
 
-BAMF posts small blind/and is dealer, stack size (390)
-OldBotv2(MOUSE) posts big blind, stack size (207)
+Randy posts small blind, stack size (26)
+BAMF posts big blind, stack size (335)
 
+['FOLD', 'CALL:7', 'RAISE:12:23']
+{}
 
-***PREFLOP***(3) Board:()
-Our hand: 5d 5s
+***PREFLOP***(11) Board:()
+Our hand: Ts 7h
 
-our last bet of 1 was in round 3
-BAMF's EV: 1.160000
-BAMF's Equity: 0.632
-BAMF's Implied Odds: -3
-BAMF's maxBetFold: 3
-BAMF's maxBetEV: 5
-
-BAMF calls 2.
-
-***FLOP***(6) Board:(Qc Qd 6h)
-Our hand: 5d 5s
-
-OldBotv2(MOUSE) checks.
-OldBotv2(MOUSE) bet 2.
+Rando called 2.
+Randy raised to 7.
 our last bet of 2 was in round 0
-BAMF's EV: 2.488000
-BAMF's Equity: 0.561
-BAMF's Implied Odds: -6
+BAMF's EV: 2.936000
+BAMF's Equity: 0.496
+BAMF's Implied Odds: -10
 BAMF's maxBetFold: 6
-BAMF's maxBetEV: 7
+BAMF's maxBetEV: 10
 
-BAMF calls 2.
+BAMF calls 7.
+our bot's last action is CALL for 7
+['FOLD', 'CALL:16', 'RAISE:25:55']
+{}
 
-***TURN***(14) Board:(Qc Qd 6h Jh)
-Our hand: 5d 5s
+***PREFLOP***(30) Board:()
+Our hand: Ts 7h
 
-OldBotv2(MOUSE) bet 6.
-our last bet of 2 was in round 3
-BAMF's EV: 4.140000
-BAMF's Equity: 0.507
-BAMF's Implied Odds: -14
-BAMF's maxBetFold: 14
-BAMF's maxBetEV: 14
-
-BAMF calls 6.
-
-***RIVER***(20) Board:(Qc Qd 6h Jh Ac)
-Our hand: 5d 5s
-
-OldBotv2(MOUSE) checks.
-our last bet of 6 was in round 4
-BAMF's EV: 10.393939
-BAMF's Equity: 0.519696969697
-BAMF's Implied Odds: -20
+Rando raised to 16.
+Randy folds.
+our last bet of 7 was in round 0
+BAMF's EV: 10.344000
+BAMF's Equity: 0.496
+BAMF's Implied Odds: -29
 BAMF's maxBetFold: 20
-BAMF's maxBetEV: 21
+BAMF's maxBetEV: 29
 
-BAMF checks.
-OldBotv2(MOUSE) WTSD percentage is: 0.266667
-BAMF WTSD percentage is: 0.266667
-OldBotv2(MOUSE) W$SD percentage is: 0.500000
+final max raise:25
+final min raise:25
+Raise range: 25 55
+BAMF folds.
+our bot's last action is FOLD for 0
 
 
 NEWHAND:16
 
-['NEWHAND', '16', '2', '8c', '9h', '219', '381', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.590709']
-Active Players:2
+['NEWHAND', '16', '1', 'Ts', '3h', '330', '250', '20', 'BAMF', 'Rando', 'Randy', '3', 'true', 'true', 'true', '14.579784']
+Active Players:3
 
-Our hand: 8c 9h
-OldBotv2(MOUSE)'s VPIP: 0.266667
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.500000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.714286
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.066667
-BAMF's PFR: 0.066667
-BAMF's estimated fold percentage is 0.230769
-BAMF's AF flop/postflop: 1.714286
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.133333
-OldBotv1(Ain'tABitch)'s PFR: 0.066667
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: SHARK
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Our hand: Ts 3h
+BAMF's VPIP: 0.400000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.200000
+BAMF's AF flop/postflop: 0.333333
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:1
+Rando's VPIP: 0.466667
+Rando's PFR: 0.066667
+Rando's estimated fold percentage is 0.333333
+Rando's AF flop/postflop: 3.000000
+Rando's Player Type: UNKNOWN
+Rando's Seat:2
+Randy's VPIP: 0.466667
+Randy's PFR: 0.066667
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 2.500000
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
 
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (218)
-BAMF posts big blind, stack size (379)
+Rando posts small blind, stack size (249)
+Randy posts big blind, stack size (18)
 
+['CALL:2', 'FOLD', 'RAISE:4:7']
+{}
 
-***PREFLOP***(4) Board:()
-Our hand: 8c 9h
-
-OldBotv2(MOUSE) called 2.
-our last bet of 2 was in round 5
-BAMF's EV: 2.038000
-BAMF's Equity: 0.5095
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 4
-BAMF's maxBetEV: 4
-
-BAMF checks.
-
-***FLOP***(4) Board:(Kd 6h As)
-Our hand: 8c 9h
+***PREFLOP***(3) Board:()
+Our hand: Ts 3h
 
 our last bet of 0 was in round 0
-BAMF's EV: 1.284000
-BAMF's Equity: 0.321
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 4
-BAMF's maxBetEV: 1
+BAMF's EV: 0.160000
+BAMF's Equity: 0.432
+BAMF's Implied Odds: -2
+BAMF's maxBetFold: 2
+BAMF's maxBetEV: 2
 
-final max bet:4
-final min bet:4
-Bet range: 2 4
-BAMF bets 4.
-
-***TURN***(12) Board:(Kd 6h As Ks)
-Our hand: 8c 9h
-
-OldBotv2(MOUSE) called 4.
-our last bet of 4 was in round 3
-BAMF's EV: 3.450000
-BAMF's Equity: 0.2875
-BAMF's Implied Odds: -12
-BAMF's maxBetFold: 12
-BAMF's maxBetEV: 4
-
-BAMF checks.
-
-***RIVER***(12) Board:(Kd 6h As Ks Js)
-Our hand: 8c 9h
-
-OldBotv2(MOUSE) checks.
-our last bet of 0 was in round 4
-BAMF's EV: 2.866667
-BAMF's Equity: 0.238888888889
-BAMF's Implied Odds: -12
-BAMF's maxBetFold: 12
-BAMF's maxBetEV: 3
-
-BAMF checks.
-
-***RIVER***(22) Board:(Kd 6h As Ks Js)
-Our hand: 8c 9h
-
-OldBotv2(MOUSE) bet 10.
-our last bet of 0 was in round 5
-BAMF's EV: -2.355556
-BAMF's Equity: 0.238888888889
-BAMF's Implied Odds: 0
-BAMF's maxBetFold: 22
-BAMF's maxBetEV: 6
-
+NOT BLUFFING FOLD
 BAMF folds.
+our bot's last action is FOLD for 0
+Rando raised to 5.
+Randy called 5.
+Rando bet 6.
+Randy called 6.
+Rando checks.
+Randy bet 6.
+Rando folds.
 
 
 NEWHAND:17
 
-['NEWHAND', '17', '1', 'Ts', '4d', '375', '225', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.557310']
-Active Players:2
+['NEWHAND', '17', '2', 'Jh', '4s', '31', '330', '239', 'Randy', 'BAMF', 'Rando', '3', 'true', 'true', 'true', '14.571120']
+Active Players:3
 
-Our hand: Ts 4d
-BAMF's VPIP: 0.062500
-BAMF's PFR: 0.062500
-BAMF's estimated fold percentage is 0.230769
-BAMF's AF flop/postflop: 1.857143
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.312500
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.500000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.750000
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.125000
-OldBotv1(Ain'tABitch)'s PFR: 0.062500
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Our hand: Jh 4s
+Randy's VPIP: 0.437500
+Randy's PFR: 0.062500
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 1.833333
+Randy's Player Type: UNKNOWN
+Randy's Seat:1
+BAMF's VPIP: 0.375000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.200000
+BAMF's AF flop/postflop: 0.333333
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+Rando's VPIP: 0.437500
+Rando's PFR: 0.062500
+Rando's estimated fold percentage is 0.333333
+Rando's AF flop/postflop: 3.400000
+Rando's Player Type: UNKNOWN
+Rando's Seat:3
 
-BAMF posts small blind/and is dealer, stack size (374)
-OldBotv2(MOUSE) posts big blind, stack size (223)
+BAMF posts small blind, stack size (329)
+Rando posts big blind, stack size (237)
 
+['FOLD', 'CALL:4', 'RAISE:6:14']
+{}
 
-***PREFLOP***(3) Board:()
-Our hand: Ts 4d
+***PREFLOP***(7) Board:()
+Our hand: Jh 4s
 
-our last bet of 1 was in round 5
-BAMF's EV: 0.160000
-BAMF's Equity: 0.432
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 3
-BAMF's maxBetEV: 2
+Randy raised to 4.
+our last bet of 1 was in round 0
+BAMF's EV: 1.645000
+BAMF's Equity: 0.4645
+BAMF's Implied Odds: -6
+BAMF's maxBetFold: 4
+BAMF's maxBetEV: 6
 
-BAMF folds.
-BAMF calls 2.
+BAMF calls 4.
+our bot's last action is CALL for 4
+['CHECK', 'BET:2:12']
+{}
+
+***FLOP***(12) Board:(Qd Jc Qc)
+Our hand: Jh 4s
+
+Rando called 4.
+our last bet of 4 was in round 0
+BAMF's EV: 8.808000
+BAMF's Equity: 0.734
+BAMF's Implied Odds: -12
+BAMF's maxBetFold: 8
+BAMF's maxBetEV: 33
+
+line 1
+final max bet:12
+final min bet:2
+Bet range: 2 12
+BAMF bets 8.
+our bot's last action is BET for 8
+['CHECK', 'BET:2:19']
+{}
+
+***TURN***(28) Board:(Qd Jc Qc As)
+Our hand: Jh 4s
+
+Rando folds.
+Randy called 8.
+our last bet of 8 was in round 3
+BAMF's EV: 19.250000
+BAMF's Equity: 0.6875
+BAMF's Implied Odds: -28
+BAMF's maxBetFold: 18
+BAMF's maxBetEV: 61
+
+line 1
+final max bet:19
+final min bet:2
+Bet range: 2 19
+BAMF bets 9.
+our bot's last action is BET for 9
+Randy folds.
 
 
 NEWHAND:18
 
-['NEWHAND', '18', '2', '3h', 'Kd', '226', '374', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.547501']
-Active Players:2
+['NEWHAND', '18', '3', '7d', 'Qs', '235', '19', '346', 'Rando', 'Randy', 'BAMF', '3', 'true', 'true', 'true', '14.542236']
+Active Players:3
 
-Our hand: 3h Kd
-OldBotv2(MOUSE)'s VPIP: 0.294118
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.500000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.750000
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.058824
-BAMF's PFR: 0.058824
-BAMF's estimated fold percentage is 0.235294
-BAMF's AF flop/postflop: 1.857143
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.117647
-OldBotv1(Ain'tABitch)'s PFR: 0.058824
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Our hand: 7d Qs
+Rando's VPIP: 0.411765
+Rando's PFR: 0.058824
+Rando's estimated fold percentage is 0.333333
+Rando's AF flop/postflop: 2.833333
+Rando's Player Type: UNKNOWN
+Rando's Seat:1
+Randy's VPIP: 0.470588
+Randy's PFR: 0.058824
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 1.571429
+Randy's Player Type: UNKNOWN
+Randy's Seat:2
+BAMF's VPIP: 0.352941
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.200000
+BAMF's AF flop/postflop: 0.421053
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:3
 
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (225)
-BAMF posts big blind, stack size (372)
+Randy posts small blind, stack size (18)
+BAMF posts big blind, stack size (344)
 
-OldBotv2(MOUSE) folds.
+['FOLD', 'CALL:12', 'RAISE:20:40']
+{}
+
+***PREFLOP***(18) Board:()
+Our hand: 7d Qs
+
+Rando raised to 4.
+Randy raised to 12.
+our last bet of 2 was in round 0
+BAMF's EV: 4.182000
+BAMF's Equity: 0.5065
+BAMF's Implied Odds: -18
+BAMF's maxBetFold: 12
+BAMF's maxBetEV: 18
+
+BAMF calls 12.
+our bot's last action is CALL for 12
+['FOLD', 'CALL:4', 'RAISE:7:7']
+{}
+
+***FLOP***(32) Board:(6s 2d Qc)
+Our hand: 7d Qs
+
+Rando folds.
+Randy bet 4.
+our last bet of 12 was in round 0
+BAMF's EV: 25.736000
+BAMF's Equity: 0.826
+BAMF's Implied Odds: -35
+BAMF's maxBetFold: 21
+BAMF's maxBetEV: 151
+
+line 1
+final max raise:7
+final min raise:7
+Raise range: 7 7
+BAMF raises to 7.
+our bot's last action is RAISE for 7
+Randy folds.
 
 
 NEWHAND:19
 
-['NEWHAND', '19', '1', 'Qc', '8h', '375', '225', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.547501']
-Active Players:2
+['NEWHAND', '19', '1', '2s', '6s', '366', '231', '3', 'BAMF', 'Rando', 'Randy', '3', 'true', 'true', 'true', '14.525904']
+Active Players:3
 
-Our hand: Qc 8h
-BAMF's VPIP: 0.055556
-BAMF's PFR: 0.055556
-BAMF's estimated fold percentage is 0.235294
-BAMF's AF flop/postflop: 1.857143
-BAMF's Player Type: NIT
+Our hand: 2s 6s
+BAMF's VPIP: 0.333333
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.200000
+BAMF's AF flop/postflop: 0.450000
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.277778
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.333333
-OldBotv2(MOUSE)'s AF flop/postflop: 0.750000
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.111111
-OldBotv1(Ain'tABitch)'s PFR: 0.055556
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Rando's VPIP: 0.444444
+Rando's PFR: 0.055556
+Rando's estimated fold percentage is 0.333333
+Rando's AF flop/postflop: 2.833333
+Rando's Player Type: UNKNOWN
+Rando's Seat:2
+Randy's VPIP: 0.500000
+Randy's PFR: 0.055556
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 1.714286
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
 
-BAMF posts small blind/and is dealer, stack size (374)
-OldBotv2(MOUSE) posts big blind, stack size (223)
+Rando posts small blind, stack size (230)
+Randy posts big blind, stack size (1)
 
+['CALL:2', 'FOLD', 'RAISE:4:7']
+{}
 
 ***PREFLOP***(3) Board:()
-Our hand: Qc 8h
+Our hand: 2s 6s
 
-our last bet of 1 was in round 0
-BAMF's EV: 1.096000
-BAMF's Equity: 0.524
-BAMF's Implied Odds: -3
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
+our last bet of 0 was in round 0
+BAMF's EV: -0.160000
+BAMF's Equity: 0.368
+BAMF's Implied Odds: -1
+BAMF's maxBetFold: 2
+BAMF's maxBetEV: 1
 
-final max raise:4
-final min raise:4
-Raise range: 4 6
-BAMF calls 2.
-
-***FLOP***(4) Board:(7s Qd 6h)
-Our hand: Qc 8h
-
-OldBotv2(MOUSE) checks.
-OldBotv2(MOUSE) checks.
-our last bet of 2 was in round 0
-BAMF's EV: 3.176000
-BAMF's Equity: 0.794
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 15
-
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF bets 2.
-
-***TURN***(10) Board:(7s Qd 6h 9h)
-Our hand: Qc 8h
-
-OldBotv2(MOUSE) called 2.
-OldBotv2(MOUSE) bet 2.
-our last bet of 2 was in round 3
-BAMF's EV: 7.612000
-BAMF's Equity: 0.801
-BAMF's Implied Odds: -11
-BAMF's maxBetFold: 4
-BAMF's maxBetEV: 40
-
-final max raise:14
-final min raise:4
-Raise range: 4 14
-BAMF raise 6.
-OldBotv2(MOUSE) folds.
+NOT BLUFFING FOLD
+BAMF folds.
+our bot's last action is FOLD for 0
+Rando folds.
 
 
 NEWHAND:20
 
-['NEWHAND', '20', '2', '3h', 'Qh', '219', '381', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.522691']
-Active Players:2
+['NEWHAND', '20', '2', 'Ad', '4c', '4', '366', '230', 'Randy', 'BAMF', 'Rando', '3', 'true', 'true', 'true', '14.517302']
+Active Players:3
 
-Our hand: 3h Qh
-OldBotv2(MOUSE)'s VPIP: 0.263158
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.333333
-OldBotv2(MOUSE)'s AF flop/postflop: 0.777778
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.052632
-BAMF's PFR: 0.052632
-BAMF's estimated fold percentage is 0.235294
-BAMF's AF flop/postflop: 1.875000
-BAMF's Player Type: NIT
+Our hand: Ad 4c
+Randy's VPIP: 0.473684
+Randy's PFR: 0.052632
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 1.714286
+Randy's Player Type: UNKNOWN
+Randy's Seat:1
+BAMF's VPIP: 0.315789
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.210526
+BAMF's AF flop/postflop: 0.450000
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.105263
-OldBotv1(Ain'tABitch)'s PFR: 0.052632
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Rando's VPIP: 0.421053
+Rando's PFR: 0.052632
+Rando's estimated fold percentage is 0.263158
+Rando's AF flop/postflop: 2.833333
+Rando's Player Type: UNKNOWN
+Rando's Seat:3
 
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (218)
-BAMF posts big blind, stack size (379)
+BAMF posts small blind, stack size (365)
+Rando posts big blind, stack size (228)
 
-OldBotv2(MOUSE) folds.
+['FOLD', 'CALL:4', 'RAISE:6:14']
+{}
+
+***PREFLOP***(7) Board:()
+Our hand: Ad 4c
+
+Randy raised to 4.
+our last bet of 1 was in round 0
+BAMF's EV: 2.455000
+BAMF's Equity: 0.5455
+BAMF's Implied Odds: -7
+BAMF's maxBetFold: 4
+BAMF's maxBetEV: 8
+
+BAMF calls 4.
+our bot's last action is CALL for 4
+['FOLD', 'CALL:15', 'RAISE:26:49']
+{}
+
+***PREFLOP***(23) Board:()
+Our hand: Ad 4c
+
+Rando raised to 15.
+our last bet of 4 was in round 0
+BAMF's EV: 7.547000
+BAMF's Equity: 0.5455
+BAMF's Implied Odds: -24
+BAMF's maxBetFold: 15
+BAMF's maxBetEV: 27
+
+BAMF calls 15.
+our bot's last action is CALL for 15
+['CHECK', 'BET:2:34']
+{}
+
+***FLOP***(34) Board:(8c 9s Qh)
+Our hand: Ad 4c
+
+our last bet of 15 was in round 0
+BAMF's EV: 13.940000
+BAMF's Equity: 0.41
+BAMF's Implied Odds: -34
+BAMF's maxBetFold: 22
+BAMF's maxBetEV: 23
+
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:32', 'RAISE:64:130']
+{}
+
+***FLOP***(66) Board:(8c 9s Qh)
+Our hand: Ad 4c
+
+Rando bet 32.
+our last bet of 0 was in round 3
+BAMF's EV: 8.180000
+BAMF's Equity: 0.41
+BAMF's Implied Odds: -51
+BAMF's maxBetFold: 44
+BAMF's maxBetEV: 45
+
+line 6
+BAMF calls 32.
+our bot's last action is CALL for 32
+['CHECK', 'BET:2:98']
+{}
+
+***TURN***(98) Board:(8c 9s Qh Kd)
+Our hand: Ad 4c
+
+our last bet of 32 was in round 3
+BAMF's EV: 37.681000
+BAMF's Equity: 0.3845
+BAMF's Implied Odds: -98
+BAMF's maxBetFold: 65
+BAMF's maxBetEV: 61
+
+line 4
+final max bet:65
+final min bet:8
+Bet range: 2 98
+BAMF bets 14.
+our bot's last action is BET for 14
+['CHECK', 'BET:2:126']
+{}
+
+***RIVER***(126) Board:(8c 9s Qh Kd Jh)
+Our hand: Ad 4c
+
+Rando called 14.
+our last bet of 14 was in round 4
+BAMF's EV: 32.390909
+BAMF's Equity: 0.257070707071
+BAMF's Implied Odds: -126
+BAMF's maxBetFold: 84
+BAMF's maxBetEV: 43
+
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:60', 'RAISE:120:169']
+{}
+
+***RIVER***(186) Board:(8c 9s Qh Kd Jh)
+Our hand: Ad 4c
+
+Rando bet 60.
+our last bet of 0 was in round 5
+BAMF's EV: 3.239394
+BAMF's Equity: 0.257070707071
+BAMF's Implied Odds: -72
+BAMF's maxBetFold: 124
+BAMF's maxBetEV: 64
+
+line 6
+BAMF calls 60.
+our bot's last action is CALL for 60
+Randy WTSD percentage is: 0.200000
+BAMF WTSD percentage is: 0.250000
+Rando WTSD percentage is: 0.200000
+BAMF W$SD percentage is: 0.600000
+BAMF W$SD percentage is: 0.800000
 
 
 NEWHAND:21
 
-['NEWHAND', '21', '1', '4s', '7s', '382', '218', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.522691']
+['NEWHAND', '21', '1', 'Tc', '7h', '491', '109', '0', 'BAMF', 'Rando', 'Randy', '2', 'true', 'true', 'false', '14.438580']
 Active Players:2
 
-Our hand: 4s 7s
-BAMF's VPIP: 0.050000
-BAMF's PFR: 0.050000
-BAMF's estimated fold percentage is 0.235294
-BAMF's AF flop/postflop: 1.875000
-BAMF's Player Type: NIT
+Our hand: Tc 7h
+BAMF's VPIP: 0.350000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.210526
+BAMF's AF flop/postflop: 0.434783
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.250000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.350000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.777778
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.100000
-OldBotv1(Ain'tABitch)'s PFR: 0.050000
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Rando's VPIP: 0.450000
+Rando's PFR: 0.050000
+Rando's estimated fold percentage is 0.263158
+Rando's AF flop/postflop: 2.714286
+Rando's Player Type: UNKNOWN
+Rando's Seat:2
+Randy's VPIP: 0.500000
+Randy's PFR: 0.050000
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 1.714286
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
+Randy is eliminated
 
-BAMF posts small blind/and is dealer, stack size (381)
-OldBotv2(MOUSE) posts big blind, stack size (216)
+BAMF posts small blind/and is dealer, stack size (490)
+Rando posts big blind, stack size (107)
 
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
 
 ***PREFLOP***(3) Board:()
-Our hand: 4s 7s
+Our hand: Tc 7h
 
-our last bet of 1 was in round 4
-BAMF's EV: 0.085000
-BAMF's Equity: 0.417
+our last bet of 1 was in round 0
+BAMF's EV: 0.830000
+BAMF's Equity: 0.4575
 BAMF's Implied Odds: -2
-BAMF's maxBetFold: 1
+BAMF's maxBetFold: 2
 BAMF's maxBetEV: 2
 
-BAMF folds.
+final max raise:4
+final min raise:4
+Raise range: 4 6
 BAMF calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:2', 'RAISE:4:10']
+{}
+
+***FLOP***(6) Board:(Th 8s Qd)
+Our hand: Tc 7h
+
+Rando checks.
+Rando bet 2.
+our last bet of 2 was in round 0
+BAMF's EV: 3.612000
+BAMF's Equity: 0.7015
+BAMF's Implied Odds: -7
+BAMF's maxBetFold: 4
+BAMF's maxBetEV: 14
+
+line 1
+final max raise:10
+final min raise:4
+Raise range: 4 10
+BAMF raises to 7.
+our bot's last action is RAISE for 7
+['FOLD', 'CALL:21', 'RAISE:35:67']
+{}
+
+***FLOP***(32) Board:(Th 8s Qd)
+Our hand: Tc 7h
+
+Rando raised to 21.
+our last bet of 7 was in round 3
+BAMF's EV: 18.269000
+BAMF's Equity: 0.7015
+BAMF's Implied Odds: -40
+BAMF's maxBetFold: 21
+BAMF's maxBetEV: 75
+
+line 1
+final max raise:67
+final min raise:35
+Raise range: 35 67
+BAMF raises to 63.
+our bot's last action is RAISE for 63
+Rando folds.
 
 
 NEWHAND:22
 
-['NEWHAND', '22', '2', 'Jd', '6d', '219', '381', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.514316']
+['NEWHAND', '22', '2', '6c', '4d', '86', '514', '0', 'Rando', 'BAMF', 'Randy', '2', 'true', 'true', 'false', '14.409778']
 Active Players:2
 
-Our hand: Jd 6d
-OldBotv2(MOUSE)'s VPIP: 0.238095
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.350000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.777778
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.047619
-BAMF's PFR: 0.047619
-BAMF's estimated fold percentage is 0.238095
-BAMF's AF flop/postflop: 1.875000
-BAMF's Player Type: NIT
+Our hand: 6c 4d
+Rando's VPIP: 0.428571
+Rando's PFR: 0.047619
+Rando's estimated fold percentage is 0.263158
+Rando's AF flop/postflop: 3.000000
+Rando's Player Type: UNKNOWN
+Rando's Seat:1
+BAMF's VPIP: 0.333333
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.210526
+BAMF's AF flop/postflop: 0.500000
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.095238
-OldBotv1(Ain'tABitch)'s PFR: 0.047619
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Randy's VPIP: 0.476190
+Randy's PFR: 0.047619
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 1.714286
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
+Randy is eliminated
 
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (218)
-BAMF posts big blind, stack size (379)
+Rando posts small blind/and is dealer, stack size (85)
+BAMF posts big blind, stack size (512)
 
+['CHECK', 'RAISE:4:6']
+{}
 
 ***PREFLOP***(4) Board:()
-Our hand: Jd 6d
+Our hand: 6c 4d
 
-OldBotv2(MOUSE) called 2.
+Rando called 2.
 our last bet of 2 was in round 0
-BAMF's EV: 1.970000
-BAMF's Equity: 0.4925
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 2
-BAMF's maxBetEV: 3
-
-BAMF checks.
-
-***FLOP***(4) Board:(5h 4s 8d)
-Our hand: Jd 6d
-
-our last bet of 0 was in round 0
-BAMF's EV: 1.658000
-BAMF's Equity: 0.4145
+BAMF's EV: 1.482000
+BAMF's Equity: 0.3705
 BAMF's Implied Odds: -4
 BAMF's maxBetFold: 2
 BAMF's maxBetEV: 2
 
+NOT BLUFFING FOLD
 BAMF checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
 
-***TURN***(4) Board:(5h 4s 8d 3c)
-Our hand: Jd 6d
+***FLOP***(4) Board:(4h As 7d)
+Our hand: 6c 4d
 
-OldBotv2(MOUSE) checks.
-our last bet of 0 was in round 3
-BAMF's EV: 1.272000
-BAMF's Equity: 0.318
+our last bet of 0 was in round 0
+BAMF's EV: 2.296000
+BAMF's Equity: 0.574
 BAMF's Implied Odds: -4
 BAMF's maxBetFold: 2
-BAMF's maxBetEV: 1
+BAMF's maxBetEV: 5
 
-final max bet:2
-final min bet:2
-Bet range: 2 4
-BAMF bets 2.
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:2', 'RAISE:4:10']
+{}
 
-***RIVER***(8) Board:(5h 4s 8d 3c 6c)
-Our hand: Jd 6d
+***FLOP***(6) Board:(4h As 7d)
+Our hand: 6c 4d
 
-OldBotv2(MOUSE) called 2.
-our last bet of 2 was in round 4
-BAMF's EV: 3.604040
-BAMF's Equity: 0.450505050505
-BAMF's Implied Odds: -8
+Rando bet 2.
+our last bet of 0 was in round 3
+BAMF's EV: 2.592000
+BAMF's Equity: 0.574
+BAMF's Implied Odds: -6
 BAMF's maxBetFold: 4
-BAMF's maxBetEV: 6
+BAMF's maxBetEV: 8
 
-final max bet:4
-final min bet:4
-Bet range: 2 8
-BAMF bets 4.
-OldBotv2(MOUSE) folds.
+line 6
+BAMF calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:8']
+{}
+
+***TURN***(8) Board:(4h As 7d 5s)
+Our hand: 6c 4d
+
+our last bet of 2 was in round 3
+BAMF's EV: 4.548000
+BAMF's Equity: 0.5685
+BAMF's Implied Odds: -8
+BAMF's maxBetFold: 5
+BAMF's maxBetEV: 10
+
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:4', 'RAISE:8:20']
+{}
+
+***TURN***(12) Board:(4h As 7d 5s)
+Our hand: 6c 4d
+
+Rando bet 4.
+our last bet of 0 was in round 4
+BAMF's EV: 5.096000
+BAMF's Equity: 0.5685
+BAMF's Implied Odds: -12
+BAMF's maxBetFold: 8
+BAMF's maxBetEV: 15
+
+line 6
+BAMF calls 4.
+our bot's last action is CALL for 4
+['CHECK', 'BET:2:16']
+{}
+
+***RIVER***(16) Board:(4h As 7d 5s 5d)
+Our hand: 6c 4d
+
+our last bet of 4 was in round 4
+BAMF's EV: 8.905051
+BAMF's Equity: 0.556565656566
+BAMF's Implied Odds: -16
+BAMF's maxBetFold: 10
+BAMF's maxBetEV: 20
+
+line 4
+final max bet:10
+final min bet:8
+Bet range: 2 16
+BAMF bets 8.
+our bot's last action is BET for 8
+Rando called 8.
+BAMF WTSD percentage is: 0.272727
+Rando WTSD percentage is: 0.227273
+BAMF W$SD percentage is: 0.833333
+Rando W$SD percentage is: 0.600000
 
 
 NEWHAND:23
 
-['NEWHAND', '23', '1', '4h', '7h', '385', '215', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.481373']
+['NEWHAND', '23', '1', '8s', '4d', '514', '86', '0', 'BAMF', 'Rando', 'Randy', '2', 'true', 'true', 'false', '14.367784']
 Active Players:2
 
-Our hand: 4h 7h
-BAMF's VPIP: 0.045455
-BAMF's PFR: 0.045455
-BAMF's estimated fold percentage is 0.238095
-BAMF's AF flop/postflop: 2.125000
-BAMF's Player Type: NIT
+Our hand: 8s 4d
+BAMF's VPIP: 0.318182
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.210526
+BAMF's AF flop/postflop: 0.500000
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.272727
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.350000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.700000
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.090909
-OldBotv1(Ain'tABitch)'s PFR: 0.045455
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Rando's VPIP: 0.454545
+Rando's PFR: 0.045455
+Rando's estimated fold percentage is 0.263158
+Rando's AF flop/postflop: 2.875000
+Rando's Player Type: UNKNOWN
+Rando's Seat:2
+Randy's VPIP: 0.454545
+Randy's PFR: 0.045455
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 1.714286
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
+Randy is eliminated
 
-BAMF posts small blind/and is dealer, stack size (384)
-OldBotv2(MOUSE) posts big blind, stack size (213)
+BAMF posts small blind/and is dealer, stack size (513)
+Rando posts big blind, stack size (84)
 
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
 
 ***PREFLOP***(3) Board:()
-Our hand: 4h 7h
+Our hand: 8s 4d
 
-our last bet of 1 was in round 5
-BAMF's EV: 0.135000
-BAMF's Equity: 0.427
+our last bet of 1 was in round 0
+BAMF's EV: 0.646000
+BAMF's Equity: 0.4115
 BAMF's Implied Odds: -2
-BAMF's maxBetFold: 1
+BAMF's maxBetFold: 2
 BAMF's maxBetEV: 2
 
-BAMF folds.
+final max raise:4
+final min raise:4
+Raise range: 4 6
 BAMF calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:4', 'RAISE:6:12']
+{}
+
+***PREFLOP***(6) Board:()
+Our hand: 8s 4d
+
+Rando raised to 4.
+our last bet of 2 was in round 0
+BAMF's EV: 1.292000
+BAMF's Equity: 0.4115
+BAMF's Implied Odds: -5
+BAMF's maxBetFold: 4
+BAMF's maxBetEV: 4
+
+NOT BLUFFING FOLD
+BAMF folds.
+our bot's last action is FOLD for 0
 
 
 NEWHAND:24
 
-['NEWHAND', '24', '2', 'Js', '3h', '216', '384', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.466971']
+['NEWHAND', '24', '2', '5s', '7c', '88', '512', '0', 'Rando', 'BAMF', 'Randy', '2', 'true', 'true', 'false', '14.349830']
 Active Players:2
 
-Our hand: Js 3h
-OldBotv2(MOUSE)'s VPIP: 0.260870
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.350000
-OldBotv2(MOUSE)'s AF flop/postflop: 0.700000
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.043478
-BAMF's PFR: 0.043478
-BAMF's estimated fold percentage is 0.260870
-BAMF's AF flop/postflop: 2.125000
-BAMF's Player Type: NIT
+Our hand: 5s 7c
+Rando's VPIP: 0.478261
+Rando's PFR: 0.043478
+Rando's estimated fold percentage is 0.263158
+Rando's AF flop/postflop: 2.875000
+Rando's Player Type: UNKNOWN
+Rando's Seat:1
+BAMF's VPIP: 0.347826
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.217391
+BAMF's AF flop/postflop: 0.500000
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.086957
-OldBotv1(Ain'tABitch)'s PFR: 0.043478
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Randy's VPIP: 0.434783
+Randy's PFR: 0.043478
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 1.714286
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
+Randy is eliminated
 
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (215)
-BAMF posts big blind, stack size (382)
+Rando posts small blind/and is dealer, stack size (87)
+BAMF posts big blind, stack size (510)
 
-OldBotv2(MOUSE) folds.
+Rando folds.
 
 
 NEWHAND:25
 
-['NEWHAND', '25', '1', '2s', 'Ah', '385', '215', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.466971']
+['NEWHAND', '25', '1', '5d', '6s', '513', '87', '0', 'BAMF', 'Rando', 'Randy', '2', 'true', 'true', 'false', '14.349830']
 Active Players:2
 
-Our hand: 2s Ah
-BAMF's VPIP: 0.041667
-BAMF's PFR: 0.041667
-BAMF's estimated fold percentage is 0.260870
-BAMF's AF flop/postflop: 2.125000
-BAMF's Player Type: NIT
+Our hand: 5d 6s
+BAMF's VPIP: 0.333333
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.217391
+BAMF's AF flop/postflop: 0.500000
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.250000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.333333
-OldBotv2(MOUSE)'s AF flop/postflop: 0.700000
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.083333
-OldBotv1(Ain'tABitch)'s PFR: 0.041667
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Rando's VPIP: 0.458333
+Rando's PFR: 0.041667
+Rando's estimated fold percentage is 0.250000
+Rando's AF flop/postflop: 2.875000
+Rando's Player Type: UNKNOWN
+Rando's Seat:2
+Randy's VPIP: 0.416667
+Randy's PFR: 0.041667
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 1.714286
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
+Randy is eliminated
 
-BAMF posts small blind/and is dealer, stack size (384)
-OldBotv2(MOUSE) posts big blind, stack size (213)
+BAMF posts small blind/and is dealer, stack size (512)
+Rando posts big blind, stack size (85)
 
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
 
 ***PREFLOP***(3) Board:()
-Our hand: 2s Ah
+Our hand: 5d 6s
 
 our last bet of 1 was in round 0
-BAMF's EV: 1.060000
-BAMF's Equity: 0.515
-BAMF's Implied Odds: -3
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
+BAMF's EV: 0.536000
+BAMF's Equity: 0.384
+BAMF's Implied Odds: -2
+BAMF's maxBetFold: 2
+BAMF's maxBetEV: 1
 
 final max raise:4
 final min raise:4
 Raise range: 4 6
 BAMF calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
 
-***FLOP***(4) Board:(Ks Ac 7c)
-Our hand: 2s Ah
+***FLOP***(4) Board:(Kc 8s Qc)
+Our hand: 5d 6s
 
-OldBotv2(MOUSE) checks.
-OldBotv2(MOUSE) checks.
+Rando checks.
+Rando checks.
 our last bet of 2 was in round 0
-BAMF's EV: 3.334000
-BAMF's Equity: 0.8335
+BAMF's EV: 0.848000
+BAMF's Equity: 0.212
 BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 20
+BAMF's maxBetFold: 2
+BAMF's maxBetEV: 1
 
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF bets 2.
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
 
-***TURN***(8) Board:(Ks Ac 7c Kd)
-Our hand: 2s Ah
+***TURN***(4) Board:(Kc 8s Qc 2c)
+Our hand: 5d 6s
 
-OldBotv2(MOUSE) called 2.
-OldBotv2(MOUSE) checks.
-our last bet of 2 was in round 3
-BAMF's EV: 6.624000
-BAMF's Equity: 0.828
-BAMF's Implied Odds: -8
-BAMF's maxBetFold: 3
-BAMF's maxBetEV: 38
+Rando checks.
+our last bet of 0 was in round 3
+BAMF's EV: 0.398000
+BAMF's Equity: 0.0995
+BAMF's Implied Odds: -4
+BAMF's maxBetFold: 2
+BAMF's maxBetEV: 0
 
-final max bet:8
-final min bet:2
-Bet range: 2 8
-BAMF bets 6.
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
 
-***RIVER***(20) Board:(Ks Ac 7c Kd 9s)
-Our hand: 2s Ah
+***RIVER***(4) Board:(Kc 8s Qc 2c 8c)
+Our hand: 5d 6s
 
-OldBotv2(MOUSE) called 6.
-OldBotv2(MOUSE) checks.
-our last bet of 6 was in round 4
-BAMF's EV: 17.030303
-BAMF's Equity: 0.851515151515
-BAMF's Implied Odds: -20
-BAMF's maxBetFold: 9
-BAMF's maxBetEV: 114
+Rando checks.
+our last bet of 0 was in round 4
+BAMF's EV: 0.117172
+BAMF's Equity: 0.0292929292929
+BAMF's Implied Odds: -4
+BAMF's maxBetFold: 2
+BAMF's maxBetEV: 0
 
-final max bet:20
-final min bet:2
-Bet range: 2 20
-BAMF bets 15.
-OldBotv2(MOUSE) called 15.
-BAMF WTSD percentage is: 0.200000
-OldBotv2(MOUSE) WTSD percentage is: 0.200000
-BAMF W$SD percentage is: 0.600000
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+BAMF WTSD percentage is: 0.280000
+Rando WTSD percentage is: 0.240000
+Rando W$SD percentage is: 0.666667
 
 
 NEWHAND:26
 
-['NEWHAND', '26', '2', '3s', '3h', '190', '410', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.440169']
+['NEWHAND', '26', '2', '3c', '3d', '89', '511', '0', 'Rando', 'BAMF', 'Randy', '2', 'true', 'true', 'false', '14.322715']
 Active Players:2
 
-Our hand: 3s 3h
-OldBotv2(MOUSE)'s VPIP: 0.240000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.333333
-OldBotv2(MOUSE)'s AF flop/postflop: 0.538462
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.040000
-BAMF's PFR: 0.040000
-BAMF's estimated fold percentage is 0.260870
-BAMF's AF flop/postflop: 2.222222
-BAMF's Player Type: NIT
+Our hand: 3c 3d
+Rando's VPIP: 0.440000
+Rando's PFR: 0.040000
+Rando's estimated fold percentage is 0.250000
+Rando's AF flop/postflop: 2.875000
+Rando's Player Type: UNKNOWN
+Rando's Seat:1
+BAMF's VPIP: 0.320000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.217391
+BAMF's AF flop/postflop: 0.481481
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.080000
-OldBotv1(Ain'tABitch)'s PFR: 0.040000
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Randy's VPIP: 0.400000
+Randy's PFR: 0.040000
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 1.714286
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
+Randy is eliminated
 
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (189)
-BAMF posts big blind, stack size (408)
+Rando posts small blind/and is dealer, stack size (88)
+BAMF posts big blind, stack size (509)
 
-OldBotv2(MOUSE) folds.
+Rando folds.
 
 
 NEWHAND:27
 
-['NEWHAND', '27', '1', '7d', '2h', '411', '189', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.440169']
+['NEWHAND', '27', '1', 'Ad', 'Ac', '512', '88', '0', 'BAMF', 'Rando', 'Randy', '2', 'true', 'true', 'false', '14.322715']
 Active Players:2
 
-Our hand: 7d 2h
-BAMF's VPIP: 0.038462
-BAMF's PFR: 0.038462
-BAMF's estimated fold percentage is 0.260870
-BAMF's AF flop/postflop: 2.222222
-BAMF's Player Type: NIT
+Our hand: Ad Ac
+BAMF's VPIP: 0.307692
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.217391
+BAMF's AF flop/postflop: 0.481481
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.230769
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.346154
-OldBotv2(MOUSE)'s AF flop/postflop: 0.538462
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.076923
-OldBotv1(Ain'tABitch)'s PFR: 0.038462
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Rando's VPIP: 0.423077
+Rando's PFR: 0.038462
+Rando's estimated fold percentage is 0.269231
+Rando's AF flop/postflop: 2.875000
+Rando's Player Type: UNKNOWN
+Rando's Seat:2
+Randy's VPIP: 0.384615
+Randy's PFR: 0.038462
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 1.714286
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
+Randy is eliminated
 
-BAMF posts small blind/and is dealer, stack size (410)
-OldBotv2(MOUSE) posts big blind, stack size (187)
+BAMF posts small blind/and is dealer, stack size (511)
+Rando posts big blind, stack size (86)
 
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
 
 ***PREFLOP***(3) Board:()
-Our hand: 7d 2h
+Our hand: Ad Ac
 
-our last bet of 1 was in round 5
-BAMF's EV: -0.185000
-BAMF's Equity: 0.363
-BAMF's Implied Odds: -1
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 1
+our last bet of 1 was in round 0
+BAMF's EV: 2.460000
+BAMF's Equity: 0.865
+BAMF's Implied Odds: -3
+BAMF's maxBetFold: 2
+BAMF's maxBetEV: 19
 
-BAMF folds.
-EV FOLD
-BAMF folds.
+BETTING LOOSE2
+final max raise:6
+final min raise:4
+Raise range: 4 6
+BAMF raises to 4.
+our bot's last action is RAISE for 4
+Rando folds.
 
 
 NEWHAND:28
 
-['NEWHAND', '28', '2', '3h', '9c', '190', '410', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.430513']
+['NEWHAND', '28', '2', '6h', 'Jc', '86', '514', '0', 'Rando', 'BAMF', 'Randy', '2', 'true', 'true', 'false', '14.314220']
 Active Players:2
 
-Our hand: 3h 9c
-OldBotv2(MOUSE)'s VPIP: 0.222222
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.346154
-OldBotv2(MOUSE)'s AF flop/postflop: 0.538462
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.037037
+Our hand: 6h Jc
+Rando's VPIP: 0.407407
+Rando's PFR: 0.037037
+Rando's estimated fold percentage is 0.296296
+Rando's AF flop/postflop: 2.875000
+Rando's Player Type: UNKNOWN
+Rando's Seat:1
+BAMF's VPIP: 0.333333
 BAMF's PFR: 0.037037
-BAMF's estimated fold percentage is 0.259259
-BAMF's AF flop/postflop: 2.222222
-BAMF's Player Type: NIT
+BAMF's estimated fold percentage is 0.217391
+BAMF's AF flop/postflop: 0.481481
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.074074
-OldBotv1(Ain'tABitch)'s PFR: 0.037037
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Randy's VPIP: 0.370370
+Randy's PFR: 0.037037
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 1.714286
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
+Randy is eliminated
 
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (189)
-BAMF posts big blind, stack size (408)
+Rando posts small blind/and is dealer, stack size (85)
+BAMF posts big blind, stack size (512)
 
+['FOLD', 'CALL:5', 'RAISE:8:15']
+{}
 
-***PREFLOP***(4) Board:()
-Our hand: 3h 9c
+***PREFLOP***(7) Board:()
+Our hand: 6h Jc
 
-OldBotv2(MOUSE) called 2.
+Rando raised to 5.
 our last bet of 2 was in round 0
-BAMF's EV: 1.656000
-BAMF's Equity: 0.414
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 2
-BAMF's maxBetEV: 2
+BAMF's EV: 1.670000
+BAMF's Equity: 0.467
+BAMF's Implied Odds: -6
+BAMF's maxBetFold: 4
+BAMF's maxBetEV: 6
 
-final max raise:4
-final min raise:4
-Raise range: 4 6
+BAMF calls 5.
+our bot's last action is CALL for 5
+['CHECK', 'BET:2:10']
+{}
+
+***FLOP***(10) Board:(8c 4d Ks)
+Our hand: 6h Jc
+
+our last bet of 5 was in round 0
+BAMF's EV: 3.650000
+BAMF's Equity: 0.365
+BAMF's Implied Odds: -10
+BAMF's maxBetFold: 6
+BAMF's maxBetEV: 5
+
+line 4
+final max bet:6
+final min bet:6
+Bet range: 2 10
+BAMF bets 6.
+our bot's last action is BET for 6
+['CHECK', 'BET:2:22']
+{}
+
+***TURN***(22) Board:(8c 4d Ks Qd)
+Our hand: 6h Jc
+
+Rando called 6.
+our last bet of 6 was in round 3
+BAMF's EV: 7.260000
+BAMF's Equity: 0.33
+BAMF's Implied Odds: -22
+BAMF's maxBetFold: 14
+BAMF's maxBetEV: 10
+
+line 6
 BAMF checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:22']
+{}
+
+***RIVER***(22) Board:(8c 4d Ks Qd Ac)
+Our hand: 6h Jc
+
+Rando checks.
+our last bet of 0 was in round 4
+BAMF's EV: 7.566667
+BAMF's Equity: 0.343939393939
+BAMF's Implied Odds: -22
+BAMF's maxBetFold: 14
+BAMF's maxBetEV: 11
+
+line 6
 BAMF checks.
-
-***FLOP***(4) Board:(9s 9h Qc)
-Our hand: 3h 9c
-
-our last bet of 0 was in round 0
-BAMF's EV: 3.724000
-BAMF's Equity: 0.931
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 2
-BAMF's maxBetEV: 53
-
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF bets 4.
-OldBotv2(MOUSE) folds.
+our bot's last action is CHECK for 0
+Rando checks.
+BAMF WTSD percentage is: 0.285714
+Rando WTSD percentage is: 0.250000
+BAMF W$SD percentage is: 0.750000
 
 
 NEWHAND:29
 
-['NEWHAND', '29', '1', '4c', '7c', '412', '188', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.413597']
+['NEWHAND', '29', '1', '7h', 'Kh', '525', '75', '0', 'BAMF', 'Rando', 'Randy', '2', 'true', 'true', 'false', '14.285508']
 Active Players:2
 
-Our hand: 4c 7c
-BAMF's VPIP: 0.035714
+Our hand: 7h Kh
+BAMF's VPIP: 0.321429
 BAMF's PFR: 0.035714
-BAMF's estimated fold percentage is 0.259259
-BAMF's AF flop/postflop: 2.333333
-BAMF's Player Type: NIT
+BAMF's estimated fold percentage is 0.217391
+BAMF's AF flop/postflop: 0.500000
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.250000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.346154
-OldBotv2(MOUSE)'s AF flop/postflop: 0.538462
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.071429
-OldBotv1(Ain'tABitch)'s PFR: 0.035714
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Rando's VPIP: 0.428571
+Rando's PFR: 0.035714
+Rando's estimated fold percentage is 0.296296
+Rando's AF flop/postflop: 2.555556
+Rando's Player Type: UNKNOWN
+Rando's Seat:2
+Randy's VPIP: 0.357143
+Randy's PFR: 0.035714
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 1.714286
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
+Randy is eliminated
 
-BAMF posts small blind/and is dealer, stack size (411)
-OldBotv2(MOUSE) posts big blind, stack size (186)
+BAMF posts small blind/and is dealer, stack size (524)
+Rando posts big blind, stack size (73)
 
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
 
 ***PREFLOP***(3) Board:()
-Our hand: 4c 7c
+Our hand: 7h Kh
 
-our last bet of 1 was in round 3
-BAMF's EV: 0.092500
-BAMF's Equity: 0.4185
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 1
+our last bet of 1 was in round 0
+BAMF's EV: 1.244000
+BAMF's Equity: 0.561
+BAMF's Implied Odds: -3
+BAMF's maxBetFold: 2
+BAMF's maxBetEV: 3
+
+BAMF calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(2s Jc 6d)
+Our hand: 7h Kh
+
+Rando checks.
+Rando checks.
+our last bet of 2 was in round 0
+BAMF's EV: 1.686000
+BAMF's Equity: 0.4215
+BAMF's Implied Odds: -4
+BAMF's maxBetFold: 2
 BAMF's maxBetEV: 2
 
-BAMF folds.
-BAMF calls 2.
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:3', 'RAISE:6:13']
+{}
+
+***TURN***(7) Board:(2s Jc 6d 6s)
+Our hand: 7h Kh
+
+Rando bet 3.
+our last bet of 0 was in round 3
+BAMF's EV: 1.105000
+BAMF's Equity: 0.4105
+BAMF's Implied Odds: -5
+BAMF's maxBetFold: 4
+BAMF's maxBetEV: 4
+
+line 6
+BAMF calls 3.
+our bot's last action is CALL for 3
+['CHECK', 'BET:2:10']
+{}
+
+***RIVER***(10) Board:(2s Jc 6d 6s 3s)
+Our hand: 7h Kh
+
+Rando checks.
+our last bet of 3 was in round 4
+BAMF's EV: 3.050505
+BAMF's Equity: 0.305050505051
+BAMF's Implied Odds: -10
+BAMF's maxBetFold: 6
+BAMF's maxBetEV: 4
+
+line 4
+final max bet:6
+final min bet:6
+Bet range: 2 10
+BAMF bets 6.
+our bot's last action is BET for 6
+Rando called 6.
+BAMF WTSD percentage is: 0.310345
+Rando WTSD percentage is: 0.275862
+Rando W$SD percentage is: 0.625000
 
 
 NEWHAND:30
 
-['NEWHAND', '30', '2', '3s', '9c', '189', '411', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.400302']
+['NEWHAND', '30', '2', '9d', 'Tc', '86', '514', '0', 'Rando', 'BAMF', 'Randy', '2', 'true', 'true', 'false', '14.252127']
 Active Players:2
 
-Our hand: 3s 9c
-OldBotv2(MOUSE)'s VPIP: 0.241379
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.346154
-OldBotv2(MOUSE)'s AF flop/postflop: 0.538462
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.034483
+Our hand: 9d Tc
+Rando's VPIP: 0.413793
+Rando's PFR: 0.034483
+Rando's estimated fold percentage is 0.296296
+Rando's AF flop/postflop: 2.400000
+Rando's Player Type: UNKNOWN
+Rando's Seat:1
+BAMF's VPIP: 0.310345
 BAMF's PFR: 0.034483
-BAMF's estimated fold percentage is 0.275862
-BAMF's AF flop/postflop: 2.333333
-BAMF's Player Type: NIT
+BAMF's estimated fold percentage is 0.217391
+BAMF's AF flop/postflop: 0.500000
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.068966
-OldBotv1(Ain'tABitch)'s PFR: 0.034483
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Randy's VPIP: 0.344828
+Randy's PFR: 0.034483
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 1.714286
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
+Randy is eliminated
 
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (188)
-BAMF posts big blind, stack size (409)
+Rando posts small blind/and is dealer, stack size (85)
+BAMF posts big blind, stack size (512)
 
+['CHECK', 'RAISE:4:6']
+{}
 
 ***PREFLOP***(4) Board:()
-Our hand: 3s 9c
+Our hand: 9d Tc
 
-OldBotv2(MOUSE) called 2.
+Rando called 2.
 our last bet of 2 was in round 0
-BAMF's EV: 1.610000
-BAMF's Equity: 0.4025
+BAMF's EV: 2.118000
+BAMF's Equity: 0.5295
 BAMF's Implied Odds: -4
 BAMF's maxBetFold: 2
-BAMF's maxBetEV: 2
+BAMF's maxBetEV: 4
 
-NOT BLUFFING FOLD
 BAMF checks.
-BAMF checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
 
-***FLOP***(4) Board:(Qs 8s 6d)
-Our hand: 3s 9c
+***FLOP***(4) Board:(3c Kd 5s)
+Our hand: 9d Tc
 
 our last bet of 0 was in round 0
-BAMF's EV: 1.214000
-BAMF's Equity: 0.3035
+BAMF's EV: 1.314000
+BAMF's Equity: 0.3285
 BAMF's Implied Odds: -4
 BAMF's maxBetFold: 2
 BAMF's maxBetEV: 1
 
-final max bet:2
-final min bet:2
-Bet range: 2 4
-BAMF bets 2.
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
 
-***TURN***(8) Board:(Qs 8s 6d 4d)
-Our hand: 3s 9c
+***TURN***(4) Board:(3c Kd 5s 2c)
+Our hand: 9d Tc
 
-OldBotv2(MOUSE) called 2.
-our last bet of 2 was in round 3
-BAMF's EV: 1.032000
-BAMF's Equity: 0.129
-BAMF's Implied Odds: -8
+Rando checks.
+our last bet of 0 was in round 3
+BAMF's EV: 0.834000
+BAMF's Equity: 0.2085
+BAMF's Implied Odds: -4
+BAMF's maxBetFold: 2
+BAMF's maxBetEV: 1
+
+line 6
+BAMF checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:2', 'RAISE:4:10']
+{}
+
+***TURN***(6) Board:(3c Kd 5s 2c)
+Our hand: 9d Tc
+
+Rando bet 2.
+our last bet of 0 was in round 4
+BAMF's EV: -0.332000
+BAMF's Equity: 0.2085
+BAMF's Implied Odds: 0
 BAMF's maxBetFold: 4
 BAMF's maxBetEV: 1
 
-BAMF checks.
-
-***RIVER***(8) Board:(Qs 8s 6d 4d Qh)
-Our hand: 3s 9c
-
-OldBotv2(MOUSE) checks.
-our last bet of 0 was in round 4
-BAMF's EV: 0.682828
-BAMF's Equity: 0.0853535353535
-BAMF's Implied Odds: -8
-BAMF's maxBetFold: 4
-BAMF's maxBetEV: 0
-
-BAMF checks.
-OldBotv2(MOUSE) checks.
-OldBotv2(MOUSE) WTSD percentage is: 0.200000
-BAMF WTSD percentage is: 0.200000
-OldBotv2(MOUSE) W$SD percentage is: 0.500000
+BAMF folds.
+our bot's last action is FOLD for 0
 
 
 NEWHAND:31
 
-['NEWHAND', '31', '1', '3h', 'Ts', '407', '193', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.373732']
+['NEWHAND', '31', '1', '2d', 'Jc', '512', '88', '0', 'BAMF', 'Rando', 'Randy', '2', 'true', 'true', 'false', '14.209845']
 Active Players:2
 
-Our hand: 3h Ts
-BAMF's VPIP: 0.033333
+Our hand: 2d Jc
+BAMF's VPIP: 0.300000
 BAMF's PFR: 0.033333
-BAMF's estimated fold percentage is 0.275862
-BAMF's AF flop/postflop: 2.444444
-BAMF's Player Type: NIT
+BAMF's estimated fold percentage is 0.217391
+BAMF's AF flop/postflop: 0.500000
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.266667
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.346154
-OldBotv2(MOUSE)'s AF flop/postflop: 0.500000
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.066667
-OldBotv1(Ain'tABitch)'s PFR: 0.033333
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Rando's VPIP: 0.433333
+Rando's PFR: 0.033333
+Rando's estimated fold percentage is 0.296296
+Rando's AF flop/postflop: 2.500000
+Rando's Player Type: UNKNOWN
+Rando's Seat:2
+Randy's VPIP: 0.333333
+Randy's PFR: 0.033333
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 1.714286
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
+Randy is eliminated
 
-BAMF posts small blind/and is dealer, stack size (406)
-OldBotv2(MOUSE) posts big blind, stack size (191)
+BAMF posts small blind/and is dealer, stack size (511)
+Rando posts big blind, stack size (86)
 
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
 
 ***PREFLOP***(3) Board:()
-Our hand: 3h Ts
+Our hand: 2d Jc
 
-our last bet of 1 was in round 5
-BAMF's EV: 0.107500
-BAMF's Equity: 0.4215
+our last bet of 1 was in round 0
+BAMF's EV: 0.762000
+BAMF's Equity: 0.4405
 BAMF's Implied Odds: -2
-BAMF's maxBetFold: 1
+BAMF's maxBetFold: 2
 BAMF's maxBetEV: 2
 
-BAMF folds.
+final max raise:4
+final min raise:4
+Raise range: 4 6
 BAMF calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:5', 'RAISE:8:15']
+{}
+
+***PREFLOP***(7) Board:()
+Our hand: 2d Jc
+
+Rando raised to 5.
+our last bet of 2 was in round 0
+BAMF's EV: 1.405000
+BAMF's Equity: 0.4405
+BAMF's Implied Odds: -6
+BAMF's maxBetFold: 4
+BAMF's maxBetEV: 5
+
+final max raise:8
+final min raise:8
+Raise range: 8 15
+BAMF calls 5.
+our bot's last action is CALL for 5
+['FOLD', 'CALL:6', 'RAISE:12:28']
+{}
+
+***FLOP***(16) Board:(3s 7s Qh)
+Our hand: 2d Jc
+
+Rando bet 6.
+our last bet of 5 was in round 0
+BAMF's EV: 0.908000
+BAMF's Equity: 0.314
+BAMF's Implied Odds: -8
+BAMF's maxBetFold: 10
+BAMF's maxBetEV: 7
+
+line 6
+BAMF calls 6.
+our bot's last action is CALL for 6
+['CHECK', 'BET:2:22']
+{}
+
+***TURN***(22) Board:(3s 7s Qh Qd)
+Our hand: 2d Jc
+
+Rando checks.
+our last bet of 6 was in round 3
+BAMF's EV: 7.370000
+BAMF's Equity: 0.335
+BAMF's Implied Odds: -22
+BAMF's maxBetFold: 14
+BAMF's maxBetEV: 11
+
+line 4
+final max bet:14
+final min bet:8
+Bet range: 2 22
+BAMF bets 14.
+our bot's last action is BET for 14
+['CHECK', 'BET:2:50']
+{}
+
+***RIVER***(50) Board:(3s 7s Qh Qd Ks)
+Our hand: 2d Jc
+
+Rando called 14.
+Rando checks.
+our last bet of 14 was in round 4
+BAMF's EV: 15.732323
+BAMF's Equity: 0.314646464646
+BAMF's Implied Odds: -50
+BAMF's maxBetFold: 33
+BAMF's maxBetEV: 22
+
+line 4
+final max bet:33
+final min bet:8
+Bet range: 2 50
+BAMF bets 8.
+our bot's last action is BET for 8
+Rando called 8.
+BAMF WTSD percentage is: 0.322581
+Rando WTSD percentage is: 0.290323
+Rando W$SD percentage is: 0.666667
 
 
 NEWHAND:32
 
-['NEWHAND', '32', '2', '4s', '7c', '194', '406', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.365902']
+['NEWHAND', '32', '2', '3c', '3d', '121', '479', '0', 'Rando', 'BAMF', 'Randy', '2', 'true', 'true', 'false', '14.166338']
 Active Players:2
 
-Our hand: 4s 7c
-OldBotv2(MOUSE)'s VPIP: 0.258065
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.346154
-OldBotv2(MOUSE)'s AF flop/postflop: 0.500000
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.032258
+Our hand: 3c 3d
+Rando's VPIP: 0.451613
+Rando's PFR: 0.032258
+Rando's estimated fold percentage is 0.296296
+Rando's AF flop/postflop: 2.166667
+Rando's Player Type: UNKNOWN
+Rando's Seat:1
+BAMF's VPIP: 0.322581
 BAMF's PFR: 0.032258
-BAMF's estimated fold percentage is 0.290323
-BAMF's AF flop/postflop: 2.444444
-BAMF's Player Type: NIT
+BAMF's estimated fold percentage is 0.217391
+BAMF's AF flop/postflop: 0.531250
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.064516
-OldBotv1(Ain'tABitch)'s PFR: 0.032258
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Randy's VPIP: 0.322581
+Randy's PFR: 0.032258
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 1.714286
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
+Randy is eliminated
 
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (193)
-BAMF posts big blind, stack size (404)
+Rando posts small blind/and is dealer, stack size (120)
+BAMF posts big blind, stack size (477)
 
-OldBotv2(MOUSE) folds.
+['FOLD', 'CALL:4', 'RAISE:6:12']
+{}
+
+***PREFLOP***(6) Board:()
+Our hand: 3c 3d
+
+Rando raised to 4.
+our last bet of 2 was in round 0
+BAMF's EV: 2.312000
+BAMF's Equity: 0.539
+BAMF's Implied Odds: -6
+BAMF's maxBetFold: 4
+BAMF's maxBetEV: 7
+
+BAMF calls 4.
+our bot's last action is CALL for 4
+['CHECK', 'BET:2:8']
+{}
+
+***FLOP***(8) Board:(6d Kc 3s)
+Our hand: 3c 3d
+
+our last bet of 4 was in round 0
+BAMF's EV: 7.780000
+BAMF's Equity: 0.9725
+BAMF's Implied Odds: -8
+BAMF's maxBetFold: 5
+BAMF's maxBetEV: 282
+
+line 1
+final max bet:8
+final min bet:2
+Bet range: 2 8
+BAMF bets 4.
+our bot's last action is BET for 4
+['FOLD', 'CALL:10', 'RAISE:16:38']
+{}
+
+***FLOP***(22) Board:(6d Kc 3s)
+Our hand: 3c 3d
+
+Rando raised to 10.
+our last bet of 4 was in round 3
+BAMF's EV: 21.230000
+BAMF's Equity: 0.9725
+BAMF's Implied Odds: -27
+BAMF's maxBetFold: 14
+BAMF's maxBetEV: 778
+
+line 1
+final max raise:38
+final min raise:16
+Raise range: 16 38
+BAMF raises to 25.
+our bot's last action is RAISE for 25
+['FOLD', 'CALL:45', 'RAISE:65:117']
+{}
+
+***FLOP***(78) Board:(6d Kc 3s)
+Our hand: 3c 3d
+
+Rando raised to 45.
+our last bet of 25 was in round 3
+BAMF's EV: 75.305000
+BAMF's Equity: 0.9725
+BAMF's Implied Odds: -97
+BAMF's maxBetFold: 52
+BAMF's maxBetEV: 2758
+
+line 1
+final max raise:117
+final min raise:65
+Raise range: 65 117
+BAMF raises to 91.
+our bot's last action is RAISE for 91
+['CHECK', 'BET:2:26']
+{}
+
+***TURN***(190) Board:(6d Kc 3s Ah)
+Our hand: 3c 3d
+
+Rando called 91.
+our last bet of 91 was in round 3
+BAMF's EV: 184.490000
+BAMF's Equity: 0.971
+BAMF's Implied Odds: -190
+BAMF's maxBetFold: 126
+BAMF's maxBetEV: 6361
+
+line 1
+final max bet:26
+final min bet:2
+Bet range: 2 26
+BAMF bets 20.
+our bot's last action is BET for 20
+Rando folds.
 
 
 NEWHAND:33
 
-['NEWHAND', '33', '1', '3h', '3c', '407', '193', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.365902']
+['NEWHAND', '33', '1', '5s', '8d', '574', '26', '0', 'BAMF', 'Rando', 'Randy', '2', 'true', 'true', 'false', '14.124957']
 Active Players:2
 
-Our hand: 3h 3c
-BAMF's VPIP: 0.031250
+Our hand: 5s 8d
+BAMF's VPIP: 0.312500
 BAMF's PFR: 0.031250
-BAMF's estimated fold percentage is 0.290323
-BAMF's AF flop/postflop: 2.444444
-BAMF's Player Type: NIT
+BAMF's estimated fold percentage is 0.217391
+BAMF's AF flop/postflop: 0.636364
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.250000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.312500
-OldBotv2(MOUSE)'s AF flop/postflop: 0.500000
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.062500
-OldBotv1(Ain'tABitch)'s PFR: 0.031250
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Rando's VPIP: 0.468750
+Rando's PFR: 0.031250
+Rando's estimated fold percentage is 0.296296
+Rando's AF flop/postflop: 2.153846
+Rando's Player Type: UNKNOWN
+Rando's Seat:2
+Randy's VPIP: 0.312500
+Randy's PFR: 0.031250
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 1.714286
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
+Randy is eliminated
 
-BAMF posts small blind/and is dealer, stack size (406)
-OldBotv2(MOUSE) posts big blind, stack size (191)
+BAMF posts small blind/and is dealer, stack size (573)
+Rando posts big blind, stack size (24)
 
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
 
 ***PREFLOP***(3) Board:()
-Our hand: 3h 3c
+Our hand: 5s 8d
 
 our last bet of 1 was in round 0
-BAMF's EV: 1.120000
-BAMF's Equity: 0.53
-BAMF's Implied Odds: -3
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
-
-BAMF calls 2.
-
-***FLOP***(6) Board:(9c 7c 4d)
-Our hand: 3h 3c
-
-OldBotv2(MOUSE) checks.
-OldBotv2(MOUSE) bet 2.
-our last bet of 2 was in round 0
-BAMF's EV: 1.896000
-BAMF's Equity: 0.487
-BAMF's Implied Odds: -5
+BAMF's EV: 0.554000
+BAMF's Equity: 0.3885
+BAMF's Implied Odds: -2
 BAMF's maxBetFold: 2
-BAMF's maxBetEV: 5
-
-BAMF calls 2.
-
-***TURN***(10) Board:(9c 7c 4d 6h)
-Our hand: 3h 3c
-
-OldBotv2(MOUSE) bet 2.
-our last bet of 2 was in round 3
-BAMF's EV: 2.926000
-BAMF's Equity: 0.4105
-BAMF's Implied Odds: -9
-BAMF's maxBetFold: 4
-BAMF's maxBetEV: 6
+BAMF's maxBetEV: 1
 
 final max raise:4
 final min raise:4
-Raise range: 4 14
-BAMF raise 4.
-OldBotv2(MOUSE) folds.
+Raise range: 4 6
+BAMF calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:3', 'RAISE:6:13']
+{}
+
+***FLOP***(7) Board:(As 9s 7c)
+Our hand: 5s 8d
+
+Rando checks.
+Rando bet 3.
+our last bet of 2 was in round 0
+BAMF's EV: 0.925000
+BAMF's Equity: 0.3925
+BAMF's Implied Odds: -5
+BAMF's maxBetFold: 4
+BAMF's maxBetEV: 4
+
+line 6
+BAMF calls 3.
+our bot's last action is CALL for 3
+['FOLD', 'CALL:7', 'RAISE:14:21']
+{}
+
+***TURN***(17) Board:(As 9s 7c 8c)
+Our hand: 5s 8d
+
+Rando bet 7.
+our last bet of 3 was in round 3
+BAMF's EV: 7.484000
+BAMF's Equity: 0.6035
+BAMF's Implied Odds: -19
+BAMF's maxBetFold: 11
+BAMF's maxBetEV: 25
+
+line 1
+final max raise:21
+final min raise:14
+Raise range: 14 21
+BAMF raises to 21.
+our bot's last action is RAISE for 21
+Rando folds.
 
 
 NEWHAND:34
 
-['NEWHAND', '34', '2', '3s', '3h', '187', '413', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.338568']
+['NEWHAND', '34', '2', 'Jc', '5s', '14', '586', '0', 'Rando', 'BAMF', 'Randy', '2', 'true', 'true', 'false', '14.101089']
 Active Players:2
 
-Our hand: 3s 3h
-OldBotv2(MOUSE)'s VPIP: 0.242424
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.312500
-OldBotv2(MOUSE)'s AF flop/postflop: 0.642857
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.030303
+Our hand: Jc 5s
+Rando's VPIP: 0.454545
+Rando's PFR: 0.030303
+Rando's estimated fold percentage is 0.296296
+Rando's AF flop/postflop: 2.307692
+Rando's Player Type: UNKNOWN
+Rando's Seat:1
+BAMF's VPIP: 0.303030
 BAMF's PFR: 0.030303
-BAMF's estimated fold percentage is 0.290323
-BAMF's AF flop/postflop: 2.090909
-BAMF's Player Type: NIT
+BAMF's estimated fold percentage is 0.217391
+BAMF's AF flop/postflop: 0.628571
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.060606
-OldBotv1(Ain'tABitch)'s PFR: 0.030303
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Randy's VPIP: 0.303030
+Randy's PFR: 0.030303
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 1.714286
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
+Randy is eliminated
 
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (186)
-BAMF posts big blind, stack size (411)
+Rando posts small blind/and is dealer, stack size (13)
+BAMF posts big blind, stack size (584)
 
-OldBotv2(MOUSE) folds.
+Rando folds.
 
 
 NEWHAND:35
 
-['NEWHAND', '35', '1', '9c', 'Ac', '414', '186', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.338568']
+['NEWHAND', '35', '1', 'Qc', '2h', '587', '13', '0', 'BAMF', 'Rando', 'Randy', '2', 'true', 'true', 'false', '14.101089']
 Active Players:2
 
-Our hand: 9c Ac
-BAMF's VPIP: 0.029412
+Our hand: Qc 2h
+BAMF's VPIP: 0.294118
 BAMF's PFR: 0.029412
-BAMF's estimated fold percentage is 0.290323
-BAMF's AF flop/postflop: 2.090909
-BAMF's Player Type: NIT
+BAMF's estimated fold percentage is 0.217391
+BAMF's AF flop/postflop: 0.628571
+BAMF's Player Type: UNKNOWN
 BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.235294
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.323529
-OldBotv2(MOUSE)'s AF flop/postflop: 0.642857
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.058824
-OldBotv1(Ain'tABitch)'s PFR: 0.029412
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
+Rando's VPIP: 0.441176
+Rando's PFR: 0.029412
+Rando's estimated fold percentage is 0.264706
+Rando's AF flop/postflop: 2.307692
+Rando's Player Type: UNKNOWN
+Rando's Seat:2
+Randy's VPIP: 0.294118
+Randy's PFR: 0.029412
+Randy's estimated fold percentage is 0.400000
+Randy's AF flop/postflop: 1.714286
+Randy's Player Type: UNKNOWN
+Randy's Seat:3
+Randy is eliminated
 
-BAMF posts small blind/and is dealer, stack size (413)
-OldBotv2(MOUSE) posts big blind, stack size (184)
+BAMF posts small blind/and is dealer, stack size (586)
+Rando posts big blind, stack size (11)
 
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
 
 ***PREFLOP***(3) Board:()
-Our hand: 9c Ac
+Our hand: Qc 2h
 
-our last bet of 1 was in round 4
-BAMF's EV: 1.147500
-BAMF's Equity: 0.6295
-BAMF's Implied Odds: -3
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 5
-
-BAMF calls 2.
-
-***FLOP***(4) Board:(3d 8s Kd)
-Our hand: 9c Ac
-
-OldBotv2(MOUSE) checks.
-OldBotv2(MOUSE) checks.
-our last bet of 2 was in round 0
-BAMF's EV: 1.940000
-BAMF's Equity: 0.485
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
-
-final max bet:2
-final min bet:2
-Bet range: 2 4
-BAMF checks.
-
-***TURN***(4) Board:(3d 8s Kd 2h)
-Our hand: 9c Ac
-
-OldBotv2(MOUSE) checks.
-our last bet of 0 was in round 3
-BAMF's EV: 1.724000
-BAMF's Equity: 0.431
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
-
-BAMF checks.
-
-***RIVER***(7) Board:(3d 8s Kd 2h 9h)
-Our hand: 9c Ac
-
-OldBotv2(MOUSE) bet 3.
-our last bet of 0 was in round 4
-BAMF's EV: 4.898990
-BAMF's Equity: 0.789898989899
-BAMF's Implied Odds: -9
-BAMF's maxBetFold: 3
-BAMF's maxBetEV: 26
-
-final max raise:13
-final min raise:6
-Raise range: 6 13
-BAMF raise 12.
-OldBotv2(MOUSE) folds.
-
-
-NEWHAND:36
-
-['NEWHAND', '36', '2', '3h', '2h', '181', '419', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.309630']
-Active Players:2
-
-Our hand: 3h 2h
-OldBotv2(MOUSE)'s VPIP: 0.228571
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.323529
-OldBotv2(MOUSE)'s AF flop/postflop: 0.714286
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.028571
-BAMF's PFR: 0.028571
-BAMF's estimated fold percentage is 0.290323
-BAMF's AF flop/postflop: 2.000000
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.057143
-OldBotv1(Ain'tABitch)'s PFR: 0.028571
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (180)
-BAMF posts big blind, stack size (417)
-
-OldBotv2(MOUSE) folds.
-
-
-NEWHAND:37
-
-['NEWHAND', '37', '1', 'Ac', '4h', '420', '180', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.309630']
-Active Players:2
-
-Our hand: Ac 4h
-BAMF's VPIP: 0.027778
-BAMF's PFR: 0.027778
-BAMF's estimated fold percentage is 0.290323
-BAMF's AF flop/postflop: 2.000000
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.222222
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.333333
-OldBotv2(MOUSE)'s AF flop/postflop: 0.714286
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.055556
-OldBotv1(Ain'tABitch)'s PFR: 0.027778
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-BAMF posts small blind/and is dealer, stack size (419)
-OldBotv2(MOUSE) posts big blind, stack size (178)
-
-
-***PREFLOP***(3) Board:()
-Our hand: Ac 4h
-
-our last bet of 1 was in round 5
-BAMF's EV: 0.837500
-BAMF's Equity: 0.5675
-BAMF's Implied Odds: -3
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
-
-final max raise:4
-final min raise:4
-Raise range: 4 6
-BAMF calls 2.
-
-***FLOP***(6) Board:(3s 5h 9d)
-Our hand: Ac 4h
-
-OldBotv2(MOUSE) checks.
-OldBotv2(MOUSE) bet 2.
-our last bet of 2 was in round 0
-BAMF's EV: 2.124000
-BAMF's Equity: 0.5155
-BAMF's Implied Odds: -6
+our last bet of 1 was in round 0
+BAMF's EV: 0.930000
+BAMF's Equity: 0.4825
+BAMF's Implied Odds: -2
 BAMF's maxBetFold: 2
-BAMF's maxBetEV: 6
+BAMF's maxBetEV: 2
 
 BAMF calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:3', 'RAISE:6:11']
+{}
 
-***TURN***(11) Board:(3s 5h 9d 6d)
-Our hand: Ac 4h
+***FLOP***(7) Board:(4c 5c 4h)
+Our hand: Qc 2h
 
-OldBotv2(MOUSE) bet 3.
-our last bet of 2 was in round 3
-BAMF's EV: 3.293000
-BAMF's Equity: 0.4495
-BAMF's Implied Odds: -10
-BAMF's maxBetFold: 5
-BAMF's maxBetEV: 8
+Rando checks.
+Rando bet 3.
+our last bet of 2 was in round 0
+BAMF's EV: 0.990000
+BAMF's Equity: 0.399
+BAMF's Implied Odds: -5
+BAMF's maxBetFold: 4
+BAMF's maxBetEV: 4
 
+line 6
 BAMF calls 3.
+our bot's last action is CALL for 3
+['FOLD', 'CALL:4', 'RAISE:8:8']
+{}
 
-***RIVER***(28) Board:(3s 5h 9d 6d Ks)
-Our hand: Ac 4h
+***TURN***(14) Board:(4c 5c 4h Ac)
+Our hand: Qc 2h
 
-OldBotv2(MOUSE) bet 14.
-our last bet of 3 was in round 4
-BAMF's EV: -2.015152
-BAMF's Equity: 0.285353535354
-BAMF's Implied Odds: -6
-BAMF's maxBetFold: 13
-BAMF's maxBetEV: 11
-
-BAMF folds.
-
-
-NEWHAND:38
-
-['NEWHAND', '38', '2', '6d', 'Th', '187', '413', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.280865']
-Active Players:2
-
-Our hand: 6d Th
-OldBotv2(MOUSE)'s VPIP: 0.216216
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.333333
-OldBotv2(MOUSE)'s AF flop/postflop: 0.928571
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.027027
-BAMF's PFR: 0.027027
-BAMF's estimated fold percentage is 0.290323
-BAMF's AF flop/postflop: 1.600000
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.054054
-OldBotv1(Ain'tABitch)'s PFR: 0.027027
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (186)
-BAMF posts big blind, stack size (411)
-
-
-***PREFLOP***(4) Board:()
-Our hand: 6d Th
-
-OldBotv2(MOUSE) called 2.
-our last bet of 2 was in round 5
-BAMF's EV: 1.972000
+Rando bet 4.
+our last bet of 3 was in round 3
+BAMF's EV: 4.874000
 BAMF's Equity: 0.493
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
-
-final max raise:4
-final min raise:4
-Raise range: 4 6
-BAMF checks.
-
-***FLOP***(4) Board:(Qh 7c 2c)
-Our hand: 6d Th
-
-our last bet of 0 was in round 0
-BAMF's EV: 1.182000
-BAMF's Equity: 0.2955
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 1
-
-BAMF checks.
-
-***FLOP***(7) Board:(Qh 7c 2c)
-Our hand: 6d Th
-
-OldBotv2(MOUSE) bet 3.
-our last bet of 0 was in round 3
-BAMF's EV: -0.045000
-BAMF's Equity: 0.2955
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 3
-BAMF's maxBetEV: 2
-
-BAMF folds.
-
-
-NEWHAND:39
-
-['NEWHAND', '39', '1', '7s', 'Kc', '411', '189', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.259118']
-Active Players:2
-
-Our hand: 7s Kc
-BAMF's VPIP: 0.026316
-BAMF's PFR: 0.026316
-BAMF's estimated fold percentage is 0.290323
-BAMF's AF flop/postflop: 1.600000
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.236842
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.333333
-OldBotv2(MOUSE)'s AF flop/postflop: 1.000000
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.052632
-OldBotv1(Ain'tABitch)'s PFR: 0.026316
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-BAMF posts small blind/and is dealer, stack size (410)
-OldBotv2(MOUSE) posts big blind, stack size (187)
-
-
-***PREFLOP***(3) Board:()
-Our hand: 7s Kc
-
-our last bet of 1 was in round 3
-BAMF's EV: 0.780000
-BAMF's Equity: 0.556
-BAMF's Implied Odds: -3
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
-
-BAMF calls 2.
-
-***FLOP***(7) Board:(6s 5d 8s)
-Our hand: 7s Kc
-
-OldBotv2(MOUSE) checks.
-OldBotv2(MOUSE) bet 3.
-our last bet of 2 was in round 0
-BAMF's EV: 2.675000
-BAMF's Equity: 0.5675
-BAMF's Implied Odds: -7
-BAMF's maxBetFold: 3
-BAMF's maxBetEV: 9
-
-BAMF calls 3.
-
-***TURN***(17) Board:(6s 5d 8s 2h)
-Our hand: 7s Kc
-
-OldBotv2(MOUSE) bet 7.
-our last bet of 3 was in round 3
-BAMF's EV: 3.392000
-BAMF's Equity: 0.433
-BAMF's Implied Odds: -14
-BAMF's maxBetFold: 8
-BAMF's maxBetEV: 12
-
-BAMF calls 7.
-
-***RIVER***(43) Board:(6s 5d 8s 2h Tc)
-Our hand: 7s Kc
-
-OldBotv2(MOUSE) bet 19.
-our last bet of 7 was in round 4
-BAMF's EV: -5.942424
-BAMF's Equity: 0.210606060606
-BAMF's Implied Odds: 9
-BAMF's maxBetFold: 21
-BAMF's maxBetEV: 11
-
-BAMF folds.
-
-
-NEWHAND:40
-
-['NEWHAND', '40', '2', '6c', 'Qs', '201', '399', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.234601']
-Active Players:2
-
-Our hand: 6c Qs
-OldBotv2(MOUSE)'s VPIP: 0.230769
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.333333
-OldBotv2(MOUSE)'s AF flop/postflop: 1.214286
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.025641
-BAMF's PFR: 0.025641
-BAMF's estimated fold percentage is 0.290323
-BAMF's AF flop/postflop: 1.333333
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.051282
-OldBotv1(Ain'tABitch)'s PFR: 0.025641
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (200)
-BAMF posts big blind, stack size (397)
-
-
-***PREFLOP***(4) Board:()
-Our hand: 6c Qs
-
-OldBotv2(MOUSE) called 2.
-our last bet of 2 was in round 5
-BAMF's EV: 1.896000
-BAMF's Equity: 0.474
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
-
-BAMF checks.
-
-***FLOP***(4) Board:(Ks Kc Tc)
-Our hand: 6c Qs
-
-our last bet of 0 was in round 0
-BAMF's EV: 2.124000
-BAMF's Equity: 0.531
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 4
-
-BAMF checks.
-
-***TURN***(4) Board:(Ks Kc Tc 7d)
-Our hand: 6c Qs
-
-OldBotv2(MOUSE) checks.
-our last bet of 0 was in round 3
-BAMF's EV: 1.620000
-BAMF's Equity: 0.405
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 2
-
-BAMF checks.
-
-***RIVER***(4) Board:(Ks Kc Tc 7d 6s)
-Our hand: 6c Qs
-
-OldBotv2(MOUSE) checks.
-our last bet of 0 was in round 4
-BAMF's EV: 2.468687
-BAMF's Equity: 0.617171717172
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 6
-
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF bets 2.
-OldBotv2(MOUSE) called 2.
-BAMF WTSD percentage is: 0.175000
-OldBotv2(MOUSE) WTSD percentage is: 0.175000
-BAMF W$SD percentage is: 0.571429
-
-
-NEWHAND:41
-
-['NEWHAND', '41', '1', 'Qs', '2h', '403', '197', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.204009']
-Active Players:2
-
-Our hand: Qs 2h
-BAMF's VPIP: 0.025000
-BAMF's PFR: 0.025000
-BAMF's estimated fold percentage is 0.290323
-BAMF's AF flop/postflop: 1.388889
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.250000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.333333
-OldBotv2(MOUSE)'s AF flop/postflop: 1.133333
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.050000
-OldBotv1(Ain'tABitch)'s PFR: 0.025000
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-BAMF posts small blind/and is dealer, stack size (402)
-OldBotv2(MOUSE) posts big blind, stack size (195)
-
-
-***PREFLOP***(3) Board:()
-Our hand: Qs 2h
-
-our last bet of 1 was in round 5
-BAMF's EV: 0.270000
-BAMF's Equity: 0.454
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 2
-
-BAMF folds.
-final max raise:4
-final min raise:4
-Raise range: 4 6
-BAMF calls 2.
-
-
-NEWHAND:42
-
-['NEWHAND', '42', '2', '7d', '9d', '198', '402', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.162282']
-Active Players:2
-
-Our hand: 7d 9d
-OldBotv2(MOUSE)'s VPIP: 0.243902
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.333333
-OldBotv2(MOUSE)'s AF flop/postflop: 1.133333
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.024390
-BAMF's PFR: 0.024390
-BAMF's estimated fold percentage is 0.243902
-BAMF's AF flop/postflop: 1.388889
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.048780
-OldBotv1(Ain'tABitch)'s PFR: 0.024390
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (197)
-BAMF posts big blind, stack size (400)
-
-
-***PREFLOP***(4) Board:()
-Our hand: 7d 9d
-
-OldBotv2(MOUSE) called 2.
-our last bet of 2 was in round 0
-BAMF's EV: 1.892000
-BAMF's Equity: 0.473
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
-
-BAMF checks.
-
-***FLOP***(4) Board:(Qs Th 3d)
-Our hand: 7d 9d
-
-our last bet of 0 was in round 0
-BAMF's EV: 1.300000
-BAMF's Equity: 0.325
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 1
-
-final max bet:2
-final min bet:2
-Bet range: 2 4
-BAMF checks.
-
-***TURN***(4) Board:(Qs Th 3d 2h)
-Our hand: 7d 9d
-
-OldBotv2(MOUSE) checks.
-our last bet of 0 was in round 3
-BAMF's EV: 0.860000
-BAMF's Equity: 0.215
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 1
-
-final max bet:2
-final min bet:2
-Bet range: 2 4
-BAMF checks.
-
-***RIVER***(4) Board:(Qs Th 3d 2h 6h)
-Our hand: 7d 9d
-
-OldBotv2(MOUSE) checks.
-our last bet of 0 was in round 4
-BAMF's EV: 0.359596
-BAMF's Equity: 0.089898989899
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 0
-
-final max bet:2
-final min bet:2
-Bet range: 2 4
-BAMF checks.
-
-***RIVER***(7) Board:(Qs Th 3d 2h 6h)
-Our hand: 7d 9d
-
-OldBotv2(MOUSE) bet 3.
-our last bet of 0 was in round 5
-BAMF's EV: -2.101010
-BAMF's Equity: 0.089898989899
-BAMF's Implied Odds: 20
-BAMF's maxBetFold: 3
-BAMF's maxBetEV: 0
-
-BAMF folds.
-
-
-NEWHAND:43
-
-['NEWHAND', '43', '1', '2d', '3h', '400', '200', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.115839']
-Active Players:2
-
-Our hand: 2d 3h
-BAMF's VPIP: 0.023810
-BAMF's PFR: 0.023810
-BAMF's estimated fold percentage is 0.243902
-BAMF's AF flop/postflop: 1.388889
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.261905
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.333333
-OldBotv2(MOUSE)'s AF flop/postflop: 1.200000
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.047619
-OldBotv1(Ain'tABitch)'s PFR: 0.023810
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-BAMF posts small blind/and is dealer, stack size (399)
-OldBotv2(MOUSE) posts big blind, stack size (198)
-
-
-***PREFLOP***(3) Board:()
-Our hand: 2d 3h
-
-our last bet of 1 was in round 5
-BAMF's EV: -0.372500
-BAMF's Equity: 0.3255
-BAMF's Implied Odds: 0
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 1
-
-BAMF folds.
-EV FOLD
-BAMF folds.
-
-
-NEWHAND:44
-
-['NEWHAND', '44', '2', 'Td', 'Jc', '201', '399', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.102799']
-Active Players:2
-
-Our hand: Td Jc
-OldBotv2(MOUSE)'s VPIP: 0.255814
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.333333
-OldBotv2(MOUSE)'s AF flop/postflop: 1.200000
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.023256
-BAMF's PFR: 0.023256
-BAMF's estimated fold percentage is 0.255814
-BAMF's AF flop/postflop: 1.388889
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.046512
-OldBotv1(Ain'tABitch)'s PFR: 0.023256
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (200)
-BAMF posts big blind, stack size (397)
-
-OldBotv2(MOUSE) folds.
-
-
-NEWHAND:45
-
-['NEWHAND', '45', '1', '2s', 'Td', '400', '200', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.102799']
-Active Players:2
-
-Our hand: 2s Td
-BAMF's VPIP: 0.022727
-BAMF's PFR: 0.022727
-BAMF's estimated fold percentage is 0.255814
-BAMF's AF flop/postflop: 1.388889
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.250000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.295455
-OldBotv2(MOUSE)'s AF flop/postflop: 1.200000
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.045455
-OldBotv1(Ain'tABitch)'s PFR: 0.022727
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-BAMF posts small blind/and is dealer, stack size (399)
-OldBotv2(MOUSE) posts big blind, stack size (198)
-
-
-***PREFLOP***(3) Board:()
-Our hand: 2s Td
-
-our last bet of 1 was in round 0
-BAMF's EV: 0.712000
-BAMF's Equity: 0.428
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 2
-
-BAMF folds.
-BAMF calls 2.
-
-
-NEWHAND:46
-
-['NEWHAND', '46', '2', 'Js', '7d', '201', '399', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.102166']
-Active Players:2
-
-Our hand: Js 7d
-OldBotv2(MOUSE)'s VPIP: 0.244444
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.295455
-OldBotv2(MOUSE)'s AF flop/postflop: 1.200000
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.022222
-BAMF's PFR: 0.022222
-BAMF's estimated fold percentage is 0.266667
-BAMF's AF flop/postflop: 1.388889
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.044444
-OldBotv1(Ain'tABitch)'s PFR: 0.022222
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (200)
-BAMF posts big blind, stack size (397)
-
-
-***PREFLOP***(4) Board:()
-Our hand: Js 7d
-
-OldBotv2(MOUSE) called 2.
-our last bet of 2 was in round 0
-BAMF's EV: 1.966000
-BAMF's Equity: 0.4915
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
-
-BAMF checks.
-
-***FLOP***(4) Board:(6h 2d 4d)
-Our hand: Js 7d
-
-our last bet of 0 was in round 0
-BAMF's EV: 1.236000
-BAMF's Equity: 0.309
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 1
-
-BAMF checks.
-
-***TURN***(4) Board:(6h 2d 4d 3c)
-Our hand: Js 7d
-
-OldBotv2(MOUSE) checks.
-our last bet of 0 was in round 3
-BAMF's EV: 0.892000
-BAMF's Equity: 0.223
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 1
-
-BAMF checks.
-
-***RIVER***(4) Board:(6h 2d 4d 3c Qd)
-Our hand: Js 7d
-
-OldBotv2(MOUSE) checks.
-our last bet of 0 was in round 4
-BAMF's EV: 0.345455
-BAMF's Equity: 0.0863636363636
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 0
-
-final max bet:2
-final min bet:2
-Bet range: 2 4
-BAMF checks.
-OldBotv2(MOUSE) checks.
-BAMF WTSD percentage is: 0.173913
-OldBotv2(MOUSE) WTSD percentage is: 0.173913
-OldBotv2(MOUSE) W$SD percentage is: 0.500000
-
-
-NEWHAND:47
-
-['NEWHAND', '47', '1', '8h', 'Qs', '397', '203', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.075744']
-Active Players:2
-
-Our hand: 8h Qs
-BAMF's VPIP: 0.021739
-BAMF's PFR: 0.021739
-BAMF's estimated fold percentage is 0.266667
-BAMF's AF flop/postflop: 1.388889
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.260870
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.295455
-OldBotv2(MOUSE)'s AF flop/postflop: 1.200000
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.043478
-OldBotv1(Ain'tABitch)'s PFR: 0.021739
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-BAMF posts small blind/and is dealer, stack size (396)
-OldBotv2(MOUSE) posts big blind, stack size (201)
-
-
-***PREFLOP***(3) Board:()
-Our hand: 8h Qs
-
-our last bet of 1 was in round 5
-BAMF's EV: 0.715000
-BAMF's Equity: 0.543
-BAMF's Implied Odds: -3
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
-
-BAMF calls 2.
-
-***FLOP***(8) Board:(9d Ts 6c)
-Our hand: 8h Qs
-
-OldBotv2(MOUSE) checks.
-OldBotv2(MOUSE) bet 4.
-our last bet of 2 was in round 0
-BAMF's EV: 2.378000
-BAMF's Equity: 0.5315
-BAMF's Implied Odds: -8
-BAMF's maxBetFold: 3
-BAMF's maxBetEV: 9
-
+BAMF's Implied Odds: -13
+BAMF's maxBetFold: 9
+BAMF's maxBetEV: 13
+
+line 6
 BAMF calls 4.
+our bot's last action is CALL for 4
+['CHECK', 'BET:2:4']
+{}
 
-***TURN***(22) Board:(9d Ts 6c Qh)
-Our hand: 8h Qs
+***RIVER***(18) Board:(4c 5c 4h Ac 8c)
+Our hand: Qc 2h
 
-OldBotv2(MOUSE) bet 10.
-our last bet of 4 was in round 3
-BAMF's EV: 15.072000
-BAMF's Equity: 0.7835
-BAMF's Implied Odds: -29
-BAMF's maxBetFold: 9
-BAMF's maxBetEV: 79
-
-final max raise:42
-final min raise:20
-Raise range: 20 42
-BAMF raise 28.
-OldBotv2(MOUSE) folds.
-
-
-NEWHAND:48
-
-['NEWHAND', '48', '2', 'Ac', 'Js', '187', '413', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.049573']
-Active Players:2
-
-Our hand: Ac Js
-OldBotv2(MOUSE)'s VPIP: 0.255319
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.295455
-OldBotv2(MOUSE)'s AF flop/postflop: 1.333333
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.021277
-BAMF's PFR: 0.021277
-BAMF's estimated fold percentage is 0.266667
-BAMF's AF flop/postflop: 1.300000
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.042553
-OldBotv1(Ain'tABitch)'s PFR: 0.021277
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (186)
-BAMF posts big blind, stack size (411)
-
-OldBotv2(MOUSE) folds.
-
-
-NEWHAND:49
-
-['NEWHAND', '49', '1', '8s', '7s', '414', '186', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.049573']
-Active Players:2
-
-Our hand: 8s 7s
-BAMF's VPIP: 0.020833
-BAMF's PFR: 0.020833
-BAMF's estimated fold percentage is 0.266667
-BAMF's AF flop/postflop: 1.300000
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.250000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.291667
-OldBotv2(MOUSE)'s AF flop/postflop: 1.333333
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.041667
-OldBotv1(Ain'tABitch)'s PFR: 0.020833
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-BAMF posts small blind/and is dealer, stack size (413)
-OldBotv2(MOUSE) posts big blind, stack size (184)
-
-
-***PREFLOP***(3) Board:()
-Our hand: 8s 7s
-
-our last bet of 1 was in round 4
-BAMF's EV: 0.235000
-BAMF's Equity: 0.447
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 2
-
-BAMF folds.
-BAMF calls 2.
-
-
-NEWHAND:50
-
-['NEWHAND', '50', '2', '6d', '5d', '187', '413', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '14.030542']
-Active Players:2
-
-Our hand: 6d 5d
-OldBotv2(MOUSE)'s VPIP: 0.244898
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.291667
-OldBotv2(MOUSE)'s AF flop/postflop: 1.333333
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.020408
-BAMF's PFR: 0.020408
-BAMF's estimated fold percentage is 0.265306
-BAMF's AF flop/postflop: 1.300000
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.040816
-OldBotv1(Ain'tABitch)'s PFR: 0.020408
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (186)
-BAMF posts big blind, stack size (411)
-
-
-***PREFLOP***(4) Board:()
-Our hand: 6d 5d
-
-OldBotv2(MOUSE) called 2.
-our last bet of 2 was in round 0
-BAMF's EV: 1.918000
-BAMF's Equity: 0.4795
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
-
-final max raise:4
-final min raise:4
-Raise range: 4 6
-BAMF checks.
-
-***FLOP***(4) Board:(9s Js 8h)
-Our hand: 6d 5d
-
-our last bet of 0 was in round 0
-BAMF's EV: 1.036000
-BAMF's Equity: 0.259
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 1
-
-BAMF checks.
-
-***FLOP***(6) Board:(9s Js 8h)
-Our hand: 6d 5d
-
-OldBotv2(MOUSE) bet 2.
-our last bet of 0 was in round 3
-BAMF's EV: 0.072000
-BAMF's Equity: 0.259
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 2
-BAMF's maxBetEV: 2
-
-BAMF calls 2.
-
-***TURN***(8) Board:(9s Js 8h 5h)
-Our hand: 6d 5d
-
-our last bet of 2 was in round 3
-BAMF's EV: 4.060000
-BAMF's Equity: 0.5075
-BAMF's Implied Odds: -8
-BAMF's maxBetFold: 3
-BAMF's maxBetEV: 8
-
-BAMF checks.
-
-***TURN***(15) Board:(9s Js 8h 5h)
-Our hand: 6d 5d
-
-OldBotv2(MOUSE) bet 7.
-our last bet of 0 was in round 4
-BAMF's EV: 4.165000
-BAMF's Equity: 0.5075
-BAMF's Implied Odds: -15
-BAMF's maxBetFold: 6
-BAMF's maxBetEV: 15
-
-BAMF calls 7.
-
-***RIVER***(22) Board:(9s Js 8h 5h Tc)
-Our hand: 6d 5d
-
-our last bet of 7 was in round 4
-BAMF's EV: 5.622222
-BAMF's Equity: 0.255555555556
-BAMF's Implied Odds: -22
-BAMF's maxBetFold: 9
-BAMF's maxBetEV: 7
-
-final max bet:9
-final min bet:8
-Bet range: 2 22
-BAMF bets 9.
-OldBotv2(MOUSE) folds.
-
-
-NEWHAND:51
-
-['NEWHAND', '51', '1', '3h', '7c', '424', '176', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '13.988988']
-Active Players:2
-
-Our hand: 3h 7c
-BAMF's VPIP: 0.020000
-BAMF's PFR: 0.020000
-BAMF's estimated fold percentage is 0.265306
-BAMF's AF flop/postflop: 1.227273
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.260000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.291667
-OldBotv2(MOUSE)'s AF flop/postflop: 1.466667
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.040000
-OldBotv1(Ain'tABitch)'s PFR: 0.020000
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-BAMF posts small blind/and is dealer, stack size (423)
-OldBotv2(MOUSE) posts big blind, stack size (174)
-
-
-***PREFLOP***(3) Board:()
-Our hand: 3h 7c
-
-our last bet of 1 was in round 5
-BAMF's EV: -0.150000
-BAMF's Equity: 0.37
-BAMF's Implied Odds: -1
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 1
-
-BAMF folds.
-EV FOLD
-BAMF folds.
-
-
-NEWHAND:52
-
-['NEWHAND', '52', '2', '6c', 'Qh', '177', '423', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '13.980623']
-Active Players:2
-
-Our hand: 6c Qh
-OldBotv2(MOUSE)'s VPIP: 0.254902
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.291667
-OldBotv2(MOUSE)'s AF flop/postflop: 1.466667
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.019608
-BAMF's PFR: 0.019608
-BAMF's estimated fold percentage is 0.274510
-BAMF's AF flop/postflop: 1.227273
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.039216
-OldBotv1(Ain'tABitch)'s PFR: 0.019608
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (176)
-BAMF posts big blind, stack size (421)
-
-OldBotv2(MOUSE) folds.
-
-
-NEWHAND:53
-
-['NEWHAND', '53', '1', '5s', 'Td', '424', '176', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '13.980623']
-Active Players:2
-
-Our hand: 5s Td
-BAMF's VPIP: 0.019231
-BAMF's PFR: 0.019231
-BAMF's estimated fold percentage is 0.274510
-BAMF's AF flop/postflop: 1.227273
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.250000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.288462
-OldBotv2(MOUSE)'s AF flop/postflop: 1.466667
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.038462
-OldBotv1(Ain'tABitch)'s PFR: 0.019231
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-BAMF posts small blind/and is dealer, stack size (423)
-OldBotv2(MOUSE) posts big blind, stack size (174)
-
-
-***PREFLOP***(3) Board:()
-Our hand: 5s Td
-
-our last bet of 1 was in round 0
-BAMF's EV: 0.792000
-BAMF's Equity: 0.448
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 2
-
-BAMF folds.
-BAMF calls 2.
-
-
-NEWHAND:54
-
-['NEWHAND', '54', '2', 'Qd', '6d', '177', '423', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '13.971440']
-Active Players:2
-
-Our hand: Qd 6d
-OldBotv2(MOUSE)'s VPIP: 0.245283
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.288462
-OldBotv2(MOUSE)'s AF flop/postflop: 1.466667
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.018868
-BAMF's PFR: 0.018868
-BAMF's estimated fold percentage is 0.283019
-BAMF's AF flop/postflop: 1.227273
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.037736
-OldBotv1(Ain'tABitch)'s PFR: 0.018868
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (176)
-BAMF posts big blind, stack size (421)
-
-
-***PREFLOP***(4) Board:()
-Our hand: Qd 6d
-
-OldBotv2(MOUSE) called 2.
-our last bet of 2 was in round 0
-BAMF's EV: 2.170000
-BAMF's Equity: 0.5425
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 4
-
-final max raise:4
-final min raise:4
-Raise range: 4 6
-BAMF checks.
-
-***FLOP***(4) Board:(3h Kh 5c)
-Our hand: Qd 6d
-
-our last bet of 0 was in round 0
-BAMF's EV: 1.562000
-BAMF's Equity: 0.3905
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 2
-
-BAMF checks.
-
-***FLOP***(7) Board:(3h Kh 5c)
-Our hand: Qd 6d
-
-OldBotv2(MOUSE) bet 3.
-our last bet of 0 was in round 3
-BAMF's EV: 0.905000
-BAMF's Equity: 0.3905
-BAMF's Implied Odds: -5
-BAMF's maxBetFold: 2
-BAMF's maxBetEV: 4
-
-BAMF calls 3.
-
-***TURN***(10) Board:(3h Kh 5c 4s)
-Our hand: Qd 6d
-
-our last bet of 3 was in round 3
-BAMF's EV: 3.950000
-BAMF's Equity: 0.395
-BAMF's Implied Odds: -10
-BAMF's maxBetFold: 4
-BAMF's maxBetEV: 6
-
-BAMF checks.
-
-***TURN***(13) Board:(3h Kh 5c 4s)
-Our hand: Qd 6d
-
-OldBotv2(MOUSE) bet 3.
-our last bet of 0 was in round 4
-BAMF's EV: 3.320000
-BAMF's Equity: 0.395
-BAMF's Implied Odds: -11
-BAMF's maxBetFold: 5
-BAMF's maxBetEV: 8
-
-final max raise:6
-final min raise:6
-Raise range: 6 19
-BAMF calls 3.
-
-***RIVER***(16) Board:(3h Kh 5c 4s Jh)
-Our hand: Qd 6d
-
-our last bet of 3 was in round 4
-BAMF's EV: 3.200000
-BAMF's Equity: 0.2
-BAMF's Implied Odds: -16
-BAMF's maxBetFold: 6
-BAMF's maxBetEV: 4
-
-final max bet:6
-final min bet:6
-Bet range: 2 16
-BAMF bets 6.
-OldBotv2(MOUSE) folds.
-
-
-NEWHAND:55
-
-['NEWHAND', '55', '1', 'Kc', '7h', '431', '169', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '13.927836']
-Active Players:2
-
-Our hand: Kc 7h
-BAMF's VPIP: 0.018519
-BAMF's PFR: 0.018519
-BAMF's estimated fold percentage is 0.283019
-BAMF's AF flop/postflop: 1.166667
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.259259
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.288462
-OldBotv2(MOUSE)'s AF flop/postflop: 1.600000
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.037037
-OldBotv1(Ain'tABitch)'s PFR: 0.018519
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-BAMF posts small blind/and is dealer, stack size (430)
-OldBotv2(MOUSE) posts big blind, stack size (167)
-
-
-***PREFLOP***(3) Board:()
-Our hand: Kc 7h
-
-our last bet of 1 was in round 5
-BAMF's EV: 0.735000
-BAMF's Equity: 0.547
-BAMF's Implied Odds: -3
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
-
-BAMF calls 2.
-
-***FLOP***(7) Board:(Jd 7c 8c)
-Our hand: Kc 7h
-
-OldBotv2(MOUSE) checks.
-OldBotv2(MOUSE) bet 3.
-our last bet of 2 was in round 0
-BAMF's EV: 3.115000
-BAMF's Equity: 0.6115
-BAMF's Implied Odds: -8
-BAMF's maxBetFold: 2
-BAMF's maxBetEV: 11
-
-final max raise:11
-final min raise:6
-Raise range: 6 13
-BAMF raise 10.
-OldBotv2(MOUSE) folds.
-
-
-NEWHAND:56
-
-['NEWHAND', '56', '2', '9s', '7c', '164', '436', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '13.909802']
-Active Players:2
-
-Our hand: 9s 7c
-OldBotv2(MOUSE)'s VPIP: 0.254545
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.288462
-OldBotv2(MOUSE)'s AF flop/postflop: 1.666667
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.018182
-BAMF's PFR: 0.018182
-BAMF's estimated fold percentage is 0.283019
-BAMF's AF flop/postflop: 1.160000
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.036364
-OldBotv1(Ain'tABitch)'s PFR: 0.018182
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (163)
-BAMF posts big blind, stack size (434)
-
-OldBotv2(MOUSE) folds.
-
-
-NEWHAND:57
-
-['NEWHAND', '57', '1', 'Ks', '9d', '437', '163', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '13.909802']
-Active Players:2
-
-Our hand: Ks 9d
-BAMF's VPIP: 0.017857
-BAMF's PFR: 0.017857
-BAMF's estimated fold percentage is 0.283019
-BAMF's AF flop/postflop: 1.160000
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.250000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.285714
-OldBotv2(MOUSE)'s AF flop/postflop: 1.666667
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.035714
-OldBotv1(Ain'tABitch)'s PFR: 0.017857
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-BAMF posts small blind/and is dealer, stack size (436)
-OldBotv2(MOUSE) posts big blind, stack size (161)
-
-
-***PREFLOP***(3) Board:()
-Our hand: Ks 9d
-
-our last bet of 1 was in round 3
-BAMF's EV: 0.967500
-BAMF's Equity: 0.5935
-BAMF's Implied Odds: -3
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 4
-
-BAMF calls 2.
-
-***FLOP***(6) Board:(4d Ad Kc)
-Our hand: Ks 9d
-
-OldBotv2(MOUSE) checks.
-OldBotv2(MOUSE) bet 2.
-our last bet of 2 was in round 0
-BAMF's EV: 4.172000
-BAMF's Equity: 0.7715
-BAMF's Implied Odds: -7
-BAMF's maxBetFold: 2
-BAMF's maxBetEV: 20
-
-final max raise:10
-final min raise:4
-Raise range: 4 10
-BAMF raise 5.
-OldBotv2(MOUSE) folds.
-
-
-NEWHAND:58
-
-['NEWHAND', '58', '2', 'Th', '7s', '159', '441', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '13.890376']
-Active Players:2
-
-Our hand: Th 7s
-OldBotv2(MOUSE)'s VPIP: 0.245614
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.285714
-OldBotv2(MOUSE)'s AF flop/postflop: 1.733333
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.017544
-BAMF's PFR: 0.017544
-BAMF's estimated fold percentage is 0.283019
-BAMF's AF flop/postflop: 1.153846
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.035088
-OldBotv1(Ain'tABitch)'s PFR: 0.017544
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (158)
-BAMF posts big blind, stack size (439)
-
-
-***PREFLOP***(4) Board:()
-Our hand: Th 7s
-
-OldBotv2(MOUSE) called 2.
-our last bet of 2 was in round 3
-BAMF's EV: 1.898000
-BAMF's Equity: 0.4745
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
-
-final max raise:4
-final min raise:4
-Raise range: 4 6
-BAMF checks.
-
-***FLOP***(4) Board:(7c 9s 2c)
-Our hand: Th 7s
-
-our last bet of 0 was in round 0
-BAMF's EV: 2.706000
-BAMF's Equity: 0.6765
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 8
-
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF bets 2.
-OldBotv2(MOUSE) folds.
-
-
-NEWHAND:59
-
-['NEWHAND', '59', '1', 'Tc', '8s', '443', '157', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '13.862425']
-Active Players:2
-
-Our hand: Tc 8s
-BAMF's VPIP: 0.017241
-BAMF's PFR: 0.017241
-BAMF's estimated fold percentage is 0.283019
-BAMF's AF flop/postflop: 1.192308
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.258621
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.285714
-OldBotv2(MOUSE)'s AF flop/postflop: 1.733333
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.034483
-OldBotv1(Ain'tABitch)'s PFR: 0.017241
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-BAMF posts small blind/and is dealer, stack size (442)
-OldBotv2(MOUSE) posts big blind, stack size (155)
-
-
-***PREFLOP***(3) Board:()
-Our hand: Tc 8s
-
-our last bet of 1 was in round 3
-BAMF's EV: 0.432500
-BAMF's Equity: 0.4865
-BAMF's Implied Odds: -2
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 2
-
-BAMF calls 2.
-
-***FLOP***(4) Board:(Ks Th 9d)
-Our hand: Tc 8s
-
-OldBotv2(MOUSE) checks.
-OldBotv2(MOUSE) checks.
-our last bet of 2 was in round 0
-BAMF's EV: 2.786000
-BAMF's Equity: 0.6965
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 9
-
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF bets 3.
-OldBotv2(MOUSE) folds.
-
-
-NEWHAND:60
-
-['NEWHAND', '60', '2', '4s', '2h', '155', '445', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '13.845092']
-Active Players:2
-
-Our hand: 4s 2h
-OldBotv2(MOUSE)'s VPIP: 0.254237
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.285714
-OldBotv2(MOUSE)'s AF flop/postflop: 1.733333
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.016949
-BAMF's PFR: 0.016949
-BAMF's estimated fold percentage is 0.283019
-BAMF's AF flop/postflop: 1.185185
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.033898
-OldBotv1(Ain'tABitch)'s PFR: 0.016949
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (154)
-BAMF posts big blind, stack size (443)
-
-OldBotv2(MOUSE) folds.
-
-
-NEWHAND:61
-
-['NEWHAND', '61', '1', '5h', '7c', '446', '154', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '13.845092']
-Active Players:2
-
-Our hand: 5h 7c
-BAMF's VPIP: 0.016667
-BAMF's PFR: 0.016667
-BAMF's estimated fold percentage is 0.283019
-BAMF's AF flop/postflop: 1.185185
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.250000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.283333
-OldBotv2(MOUSE)'s AF flop/postflop: 1.733333
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.033333
-OldBotv1(Ain'tABitch)'s PFR: 0.016667
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-BAMF posts small blind/and is dealer, stack size (445)
-OldBotv2(MOUSE) posts big blind, stack size (152)
-
-
-***PREFLOP***(3) Board:()
-Our hand: 5h 7c
-
-our last bet of 1 was in round 3
-BAMF's EV: -0.010000
-BAMF's Equity: 0.398
-BAMF's Implied Odds: -1
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 1
-
-BAMF folds.
-EV FOLD
-BAMF folds.
-
-
-NEWHAND:62
-
-['NEWHAND', '62', '2', '4d', '3d', '155', '445', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '13.835550']
-Active Players:2
-
-Our hand: 4d 3d
-OldBotv2(MOUSE)'s VPIP: 0.245902
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.283333
-OldBotv2(MOUSE)'s AF flop/postflop: 1.733333
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.016393
-BAMF's PFR: 0.016393
-BAMF's estimated fold percentage is 0.262295
-BAMF's AF flop/postflop: 1.185185
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.032787
-OldBotv1(Ain'tABitch)'s PFR: 0.016393
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (154)
-BAMF posts big blind, stack size (443)
-
-OldBotv2(MOUSE) folds.
-
-
-NEWHAND:63
-
-['NEWHAND', '63', '1', 'Ah', '2s', '446', '154', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '13.835550']
-Active Players:2
-
-Our hand: Ah 2s
-BAMF's VPIP: 0.016129
-BAMF's PFR: 0.016129
-BAMF's estimated fold percentage is 0.262295
-BAMF's AF flop/postflop: 1.185185
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.241935
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.290323
-OldBotv2(MOUSE)'s AF flop/postflop: 1.733333
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.032258
-OldBotv1(Ain'tABitch)'s PFR: 0.016129
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-BAMF posts small blind/and is dealer, stack size (445)
-OldBotv2(MOUSE) posts big blind, stack size (152)
-
-
-***PREFLOP***(3) Board:()
-Our hand: Ah 2s
-
-our last bet of 1 was in round 0
-BAMF's EV: 1.282000
-BAMF's Equity: 0.5705
-BAMF's Implied Odds: -3
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
-
-BAMF calls 2.
-
-***FLOP***(4) Board:(9h 6d 8d)
-Our hand: Ah 2s
-
-OldBotv2(MOUSE) checks.
-OldBotv2(MOUSE) checks.
-our last bet of 2 was in round 0
-BAMF's EV: 1.390000
-BAMF's Equity: 0.3475
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 2
-
-BAMF checks.
-
-***TURN***(4) Board:(9h 6d 8d 4h)
-Our hand: Ah 2s
-
-OldBotv2(MOUSE) checks.
-our last bet of 0 was in round 3
-BAMF's EV: 1.392000
-BAMF's Equity: 0.348
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 2
-
-BAMF checks.
-
-***RIVER***(4) Board:(9h 6d 8d 4h Kd)
-Our hand: Ah 2s
-
-OldBotv2(MOUSE) checks.
-our last bet of 0 was in round 4
-BAMF's EV: 1.115152
-BAMF's Equity: 0.278787878788
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 1
-
-BAMF checks.
-OldBotv2(MOUSE) WTSD percentage is: 0.142857
-BAMF WTSD percentage is: 0.142857
-OldBotv2(MOUSE) W$SD percentage is: 0.555556
-
-
-NEWHAND:64
-
-['NEWHAND', '64', '2', '6s', '5c', '156', '444', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '13.808626']
-Active Players:2
-
-Our hand: 6s 5c
-OldBotv2(MOUSE)'s VPIP: 0.238095
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.290323
-OldBotv2(MOUSE)'s AF flop/postflop: 1.733333
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.015873
-BAMF's PFR: 0.015873
-BAMF's estimated fold percentage is 0.262295
-BAMF's AF flop/postflop: 1.142857
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.031746
-OldBotv1(Ain'tABitch)'s PFR: 0.015873
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (155)
-BAMF posts big blind, stack size (442)
-
-OldBotv2(MOUSE) folds.
-
-
-NEWHAND:65
-
-['NEWHAND', '65', '1', '2s', '9d', '445', '155', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '13.808626']
-Active Players:2
-
-Our hand: 2s 9d
-BAMF's VPIP: 0.015625
-BAMF's PFR: 0.015625
-BAMF's estimated fold percentage is 0.262295
-BAMF's AF flop/postflop: 1.142857
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.234375
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.296875
-OldBotv2(MOUSE)'s AF flop/postflop: 1.733333
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.031250
-OldBotv1(Ain'tABitch)'s PFR: 0.015625
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-BAMF posts small blind/and is dealer, stack size (444)
-OldBotv2(MOUSE) posts big blind, stack size (153)
-
-
-***PREFLOP***(3) Board:()
-Our hand: 2s 9d
-
-our last bet of 1 was in round 5
-BAMF's EV: -0.047500
-BAMF's Equity: 0.3905
-BAMF's Implied Odds: -1
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 1
-
-BAMF folds.
-EV FOLD
-BAMF folds.
-
-
-NEWHAND:66
-
-['NEWHAND', '66', '2', 'Jc', '4s', '156', '444', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '13.800028']
-Active Players:2
-
-Our hand: Jc 4s
-OldBotv2(MOUSE)'s VPIP: 0.230769
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.296875
-OldBotv2(MOUSE)'s AF flop/postflop: 1.733333
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.015385
-BAMF's PFR: 0.015385
-BAMF's estimated fold percentage is 0.261538
-BAMF's AF flop/postflop: 1.142857
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.030769
-OldBotv1(Ain'tABitch)'s PFR: 0.015385
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (155)
-BAMF posts big blind, stack size (442)
-
-
-***PREFLOP***(4) Board:()
-Our hand: Jc 4s
-
-OldBotv2(MOUSE) called 2.
-our last bet of 2 was in round 0
-BAMF's EV: 1.820000
-BAMF's Equity: 0.455
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 3
-
-NOT BLUFFING FOLD
-BAMF checks.
-final max raise:4
-final min raise:4
-Raise range: 4 6
-BAMF checks.
-
-***FLOP***(4) Board:(3s Js 6c)
-Our hand: Jc 4s
-
-our last bet of 0 was in round 0
-BAMF's EV: 3.154000
-BAMF's Equity: 0.7885
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 14
-
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF bets 3.
-
-***TURN***(10) Board:(3s Js 6c Jd)
-Our hand: Jc 4s
-
-OldBotv2(MOUSE) called 3.
-our last bet of 3 was in round 3
-BAMF's EV: 9.460000
-BAMF's Equity: 0.946
-BAMF's Implied Odds: -10
-BAMF's maxBetFold: 4
-BAMF's maxBetEV: 175
-
-final max bet:10
-final min bet:2
-Bet range: 2 10
-BAMF bets 4.
-
-***RIVER***(18) Board:(3s Js 6c Jd 2d)
-Our hand: Jc 4s
-
-OldBotv2(MOUSE) called 4.
+Rando checks.
 our last bet of 4 was in round 4
-BAMF's EV: 16.845455
-BAMF's Equity: 0.935858585859
+BAMF's EV: 16.654545
+BAMF's Equity: 0.925252525253
 BAMF's Implied Odds: -18
-BAMF's maxBetFold: 7
-BAMF's maxBetEV: 262
+BAMF's maxBetFold: 12
+BAMF's maxBetEV: 222
 
-final max bet:18
-final min bet:2
-Bet range: 2 18
-BAMF bets 12.
-OldBotv2(MOUSE) folds.
-
-
-NEWHAND:67
-
-['NEWHAND', '67', '1', 'Ts', 'Ah', '453', '147', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '13.772099']
-Active Players:2
-
-Our hand: Ts Ah
-BAMF's VPIP: 0.015152
-BAMF's PFR: 0.015152
-BAMF's estimated fold percentage is 0.261538
-BAMF's AF flop/postflop: 1.250000
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.242424
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.296875
-OldBotv2(MOUSE)'s AF flop/postflop: 1.529412
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.030303
-OldBotv1(Ain'tABitch)'s PFR: 0.015152
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-BAMF posts small blind/and is dealer, stack size (452)
-OldBotv2(MOUSE) posts big blind, stack size (145)
-
-
-***PREFLOP***(3) Board:()
-Our hand: Ts Ah
-
-our last bet of 1 was in round 5
-BAMF's EV: 1.105000
-BAMF's Equity: 0.621
-BAMF's Implied Odds: -3
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 4
-
-BAMF calls 2.
-
-***FLOP***(4) Board:(9c 8d 6c)
-Our hand: Ts Ah
-
-OldBotv2(MOUSE) checks.
-OldBotv2(MOUSE) checks.
-our last bet of 2 was in round 0
-BAMF's EV: 2.088000
-BAMF's Equity: 0.522
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 4
-
-BAMF checks.
-
-***TURN***(4) Board:(9c 8d 6c Tc)
-Our hand: Ts Ah
-
-OldBotv2(MOUSE) checks.
-our last bet of 0 was in round 3
-BAMF's EV: 2.390000
-BAMF's Equity: 0.5975
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 5
-
-final max bet:2
+line 1
+final max bet:4
 final min bet:2
 Bet range: 2 4
-BAMF checks.
-
-***RIVER***(6) Board:(9c 8d 6c Tc 4c)
-Our hand: Ts Ah
-
-OldBotv2(MOUSE) bet 2.
-our last bet of 0 was in round 4
-BAMF's EV: 1.466667
-BAMF's Equity: 0.433333333333
-BAMF's Implied Odds: -5
-BAMF's maxBetFold: 2
-BAMF's maxBetEV: 4
-
-BAMF calls 2.
-BAMF WTSD percentage is: 0.149254
-OldBotv2(MOUSE) WTSD percentage is: 0.149254
-OldBotv2(MOUSE) W$SD percentage is: 0.600000
-
-
-NEWHAND:68
-
-['NEWHAND', '68', '2', '4d', '2h', '151', '449', '0', 'OldBotv2(MOUSE)', 'BAMF', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '13.741754']
-Active Players:2
-
-Our hand: 4d 2h
-OldBotv2(MOUSE)'s VPIP: 0.238806
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.296875
-OldBotv2(MOUSE)'s AF flop/postflop: 1.588235
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:1
-BAMF's VPIP: 0.014925
-BAMF's PFR: 0.014925
-BAMF's estimated fold percentage is 0.261538
-BAMF's AF flop/postflop: 1.166667
-BAMF's Player Type: NIT
-BAMF's Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.029851
-OldBotv1(Ain'tABitch)'s PFR: 0.014925
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-OldBotv2(MOUSE) posts small blind/and is dealer, stack size (150)
-BAMF posts big blind, stack size (447)
-
-
-***PREFLOP***(4) Board:()
-Our hand: 4d 2h
-
-OldBotv2(MOUSE) called 2.
-our last bet of 2 was in round 5
-BAMF's EV: 1.336000
-BAMF's Equity: 0.334
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 2
-
-NOT BLUFFING FOLD
-BAMF checks.
-final max raise:4
-final min raise:4
-Raise range: 4 6
-BAMF checks.
-
-***FLOP***(4) Board:(Ks 7h 5d)
-Our hand: 4d 2h
-
-our last bet of 0 was in round 0
-BAMF's EV: 0.690000
-BAMF's Equity: 0.1725
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 0
-
-BAMF checks.
-
-***TURN***(4) Board:(Ks 7h 5d Ts)
-Our hand: 4d 2h
-
-OldBotv2(MOUSE) checks.
-our last bet of 0 was in round 3
-BAMF's EV: 0.274000
-BAMF's Equity: 0.0685
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 0
-
-BAMF checks.
-
-***RIVER***(4) Board:(Ks 7h 5d Ts 8h)
-Our hand: 4d 2h
-
-OldBotv2(MOUSE) checks.
-our last bet of 0 was in round 4
-BAMF's EV: 0.066667
-BAMF's Equity: 0.0166666666667
-BAMF's Implied Odds: -4
-BAMF's maxBetFold: 1
-BAMF's maxBetEV: 0
-
-final max bet:2
-final min bet:2
-Bet range: 2 4
-BAMF checks.
-OldBotv2(MOUSE) checks.
-OldBotv2(MOUSE) WTSD percentage is: 0.161765
-BAMF WTSD percentage is: 0.161765
-OldBotv2(MOUSE) W$SD percentage is: 0.636364
-
-
-NEWHAND:69
-
-['NEWHAND', '69', '1', '2s', '3c', '447', '153', '0', 'BAMF', 'OldBotv2(MOUSE)', "OldBotv1(Ain'tABitch)", '2', 'true', 'true', 'false', '13.715856']
-Active Players:2
-
-Our hand: 2s 3c
-BAMF's VPIP: 0.014706
-BAMF's PFR: 0.014706
-BAMF's estimated fold percentage is 0.261538
-BAMF's AF flop/postflop: 1.166667
-BAMF's Player Type: NIT
-BAMF's Seat:1
-OldBotv2(MOUSE)'s VPIP: 0.250000
-OldBotv2(MOUSE)'s PFR: 0.000000
-OldBotv2(MOUSE)'s estimated fold percentage is 0.296875
-OldBotv2(MOUSE)'s AF flop/postflop: 1.588235
-OldBotv2(MOUSE)'s Player Type: UNKNOWN
-OldBotv2(MOUSE)'s Seat:2
-OldBotv1(Ain'tABitch)'s VPIP: 0.029412
-OldBotv1(Ain'tABitch)'s PFR: 0.014706
-OldBotv1(Ain'tABitch)'s estimated fold percentage is 0.000000
-OldBotv1(Ain'tABitch)'s AF flop/postflop: 4.000000
-OldBotv1(Ain'tABitch)'s Player Type: NIT
-OldBotv1(Ain'tABitch)'s Seat:3
-OldBotv1(Ain'tABitch) is eliminated
-
-BAMF posts small blind/and is dealer, stack size (446)
-OldBotv2(MOUSE) posts big blind, stack size (151)
-
-
-***PREFLOP***(3) Board:()
-Our hand: 2s 3c
-
-our last bet of 1 was in round 5
-BAMF's EV: -0.330000
-BAMF's Equity: 0.334
-BAMF's Implied Odds: -1
-BAMF's maxBetFold: 1
+BAMF bets 4.
+our bot's last action is BET for 4
+Rando called 4.
+BAMF WTSD percentage is: 0.314286
+Rando WTSD percentage is: 0.285714
+BAMF W$SD percentage is: 0.636364
+Gameover, engine disconnected.

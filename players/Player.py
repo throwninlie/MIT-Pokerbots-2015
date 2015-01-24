@@ -129,7 +129,7 @@ class Player:
                             small_blind = name
                             #updating bot stack sizes for each bot at the start of new hand
                             bot.updateStack(int(initStackSizes[count]) - (bb/2))
-                            bot.updateAction("",1)
+                            bot.updateAction("",1,0)
                         elif count == 1:
                             if name == our_name:
                                 #bb (heads up)
@@ -137,11 +137,11 @@ class Player:
                             big_blind = name
                             #updating bot stack sizes for each bot at the start of new hand
                             bot.updateStack(int(initStackSizes[count]) - bb)
-                            bot.updateAction("",2)
+                            bot.updateAction("",2,0)
                         elif count == 2:
                             #updating bot stack sizes for each bot at the start of new hand
                             bot.updateStack(int(initStackSizes[count]))
-                            bot.updateAction("",0)
+                            bot.updateAction("",0,0)
 
                     else:
                         if count == 1:
@@ -149,7 +149,7 @@ class Player:
                             #updating bot stack sizes for each bot at the start of new hand
                             bot.updateStack(int(initStackSizes[count]) - (bb/2))
 
-                            bot.updateAction("",1)
+                            bot.updateAction("",1,0)
                             if name == our_name:
                                 our_bets = 1
                         elif count == 2:
@@ -157,13 +157,13 @@ class Player:
                             #updating bot stack sizes for each bot at the start of new hand
                             bot.updateStack(int(initStackSizes[count]) - bb)
 
-                            bot.updateAction("",2)
+                            bot.updateAction("",2,0)
                             if name == our_name:
                                 our_bets = 2
                         else:
                             #updating bot stack sizes for each bot at the start of new hand
                             bot.updateStack(int(initStackSizes[count]))
-                            bot.updateAction("",0)
+                            bot.updateAction("",0,0)
                         
 
 
@@ -250,6 +250,8 @@ class Player:
                 #initialize dictionary of available actions
                 global avail_actions
                 avail_actions = {}
+                print legalActions
+                print avail_actions
                 for action in legalActions:
                     action = action.split(':')
                     #if fold or check is an available action, put in dictionary
@@ -405,43 +407,43 @@ class Player:
 
                     equities2 = calc_functions.equityCalculator(holeCard1, holeCard2, "", 1000, None, None)
                     if playersDict[opp1_name].inHand() == True and playersDict[opp2_name].inHand() == True:
-                        betLogic(board,equities2,pot_size,seat,playersDict[opp1_name],playersDict[opp2_name])
+                        betLogic(input_socket,board,equities2,pot_size,seat,playersDict[opp1_name],playersDict[opp2_name])
                     elif playersDict[opp1_name].inHand() == True:
-                        betLogic(board,equities2,pot_size,seat,playersDict[opp1_name])
+                        betLogic(input_socket,board,equities2,pot_size,seat,playersDict[opp1_name])
                     else:
-                        betLogic(board,equities2,pot_size,seat,playersDict[opp2_name])  
+                        betLogic(input_socket,board,equities2,pot_size,seat,playersDict[opp2_name])  
 #FLOP                       
                 elif num_board_cards == 3:
 
                     equities3 = calc_functions.equityCalculator(holeCard1, holeCard2, board, 1000, None, None)
                     if playersDict[opp1_name].inHand() == True and playersDict[opp2_name].inHand() == True:
-                        betLogic(board,equities3,pot_size,seat,playersDict[opp1_name],playersDict[opp2_name])
+                        betLogic(input_socket,board,equities3,pot_size,seat,playersDict[opp1_name],playersDict[opp2_name])
                     elif playersDict[opp1_name].inHand() == True:
-                        betLogic(board,equities3,pot_size,seat,playersDict[opp1_name])
+                        betLogic(input_socket,board,equities3,pot_size,seat,playersDict[opp1_name])
                     else:
-                        betLogic(board,equities3,pot_size,seat,playersDict[opp2_name]) 
+                        betLogic(input_socket,board,equities3,pot_size,seat,playersDict[opp2_name]) 
 
 #TURN
                 elif num_board_cards == 4:
 
                     equities4 = calc_functions.equityCalculator(holeCard1, holeCard2, board, 1000, None, None)
                     if playersDict[opp1_name].inHand() == True and playersDict[opp2_name].inHand() == True:
-                        betLogic(board,equities4,pot_size,seat,playersDict[opp1_name],playersDict[opp2_name])
+                        betLogic(input_socket,board,equities4,pot_size,seat,playersDict[opp1_name],playersDict[opp2_name])
                     elif playersDict[opp1_name].inHand() == True:
-                        betLogic(board,equities4,pot_size,seat,playersDict[opp1_name])
+                        betLogic(input_socket,board,equities4,pot_size,seat,playersDict[opp1_name])
                     else:
-                        betLogic(board,equities4,pot_size,seat,playersDict[opp2_name])   
+                        betLogic(input_socket,board,equities4,pot_size,seat,playersDict[opp2_name])   
 
 #RIVER
                 elif num_board_cards == 5:
 
                     equities5 = calc_functions.equityCalculator(holeCard1, holeCard2, board, 1000, None, None)
                     if playersDict[opp1_name].inHand() == True and playersDict[opp2_name].inHand() == True:
-                        betLogic(board,equities5,pot_size,seat,playersDict[opp1_name],playersDict[opp2_name])
+                        betLogic(input_socket,board,equities5,pot_size,seat,playersDict[opp1_name],playersDict[opp2_name])
                     elif playersDict[opp1_name].inHand() == True:
-                        betLogic(board,equities5,pot_size,seat,playersDict[opp1_name])
+                        betLogic(input_socket,board,equities5,pot_size,seat,playersDict[opp1_name])
                     else:
-                        betLogic(board,equities5,pot_size,seat,playersDict[opp2_name])   
+                        betLogic(input_socket,board,equities5,pot_size,seat,playersDict[opp2_name])   
 
                     
             elif packet_values[0] == "HANDOVER":
@@ -585,7 +587,7 @@ class Player:
                 # Send FINISH to indicate you're done.
                 s.send("FINISH\n")
         # Clean up the socket.
-        s.close()
+        input_socket.close()
 
 def reply(action, amount, socket):
     our_bot = playersDict[our_name]
@@ -597,7 +599,8 @@ def reply(action, amount, socket):
             print our_name + " checks."
         
         our_bot.updateAction(action,0,num_board_cards)
-        socket.send(action + "\n")
+        print "our bot's last action is %s for %d"%(our_bot.getAction(),our_bot.getLastBet())
+        socket.send(action + '\n')
 
     elif action == 'CALL' or action == 'BET' or action == 'RAISE':
         if action =='CALL':
@@ -605,13 +608,16 @@ def reply(action, amount, socket):
         elif action == 'BET':
             print our_name + " bets %d."%amount
         else:
-            print our_name + " raise %d."%amount
-        our_bot.updateAction(action,str(amount),num_board_cards)
-        socket.send(action+":"+str(amount)+"\n")
+            print our_name + " raises to %d."%amount
+        our_bot.updateAction(action,amount,num_board_cards)
+        print "our bot's last action is %s for %d"%(our_bot.getAction(),our_bot.getLastBet())
+        socket.send(action+':'+str(amount) + '\n')
+        #socket.send(action+':'+str(amount)+'\n')
 
 
     
-def betLogic(board,equities,pot_size,our_seat,bot1,bot2 = None):
+def betLogic(input_socket,board,equities,pot_size,our_seat,bot1,bot2 = None):
+    s= input_socket
     their_bet = 0
     #num_board_cards = len(board)
     num_opp_players = 1
@@ -797,243 +803,164 @@ def betLogic(board,equities,pot_size,our_seat,bot1,bot2 = None):
     print our_name +"'s maxBetEV: %d\n"%maxBetEV
     our_m = our_bot.getMRatio()
 
-    if our_equity > 0.53 and our_m <= 7:
+    if our_equity > 0.6 and our_m >= 4 and our_m <= 7:
+        #all in or fold (all in)
         action = "BET"
         maxBet = our_stack
         minBet = our_stack
-        bettingActions(action,minBet,maxBet)
-    elif our_m <=7:
+        bettingActions(s,action,minBet,maxBet)
+    elif our_m < 4 and our_m <=7:
+        #all in or fold (fold)
         action ="FOLD"
-        bettingActions(action)
+        bettingActions(s,action)
 
-    if our_m <= 3:
+    elif our_m <= 4:
+        #all in if we're this low, dependant on luck
         action = "BET"
         maxBet = our_stack
         minBet = our_stack
-        bettingActions(action,minBet,maxBet)
+        bettingActions(s,action,minBet,maxBet)
 
 
-    if num_board_cards == 0:
+    elif num_board_cards == 0:
         #we're the first action in the round or small blind
-
-        if firstAction or our_name == small_blind:
-            #we use equity to fold junk hands
-            #junk hands are defined as equity less than 0.43 (arbitrarily)
-            #check player type
-            if our_equity < 0.46:
-                #consider bluffing if nits
-                if nits_raising and useStats:
-                    #we don't want to fold if we have something good, but this usually means they have something
-                    #this bet is the max amount we can bluff for positive fold equity
-                    action = "FOLD"
-                    bettingActions(action)
-                else:
-                    #some percentage of the time we should bluff
-                    #bet or raise
-                    bluffRand = random.random()
-                    if bluffRand < 0.35 and their_bet < maxBetFold:
-                        action = "BET" 
-                        #max bluffing bet
-                        maxBet = min(our_stack,max(bluffMin,maxBetFold))
-                        minBet = min(bluffMin,maxBetFold)
-                        bettingActions(action,minBet,maxBet)
-                    else:
-                        action = "FOLD"
-                        bettingActions(action)
-
-            else:
-                pass
-        elif our_equity < 0.46:
+        #just bluff if our equity is low, not necessarily position
+        if our_equity < 0.46:
             #consider bluffing if nits
             if nits_raising and useStats:
                 #we don't want to fold if we have something good, but this usually means they have something
                 #this bet is the max amount we can bluff for positive fold equity
                 print "NITS RAISING FOLD"
                 action = "FOLD"
-                bettingActions(action)
-            elif useStats:
+                bettingActions(s,action)
+            else:
                 bluffRand = random.random()
                 if bluffRand < 0.35 and their_bet < maxBetFold:
                     action = "BET" 
                     #max bluffing bet
                     maxBet = min(our_stack,max(bluffMin,maxBetFold))
                     minBet = min(bluffMin,maxBet)
-                    bettingActions(action,minBet,maxBet)
+                    bettingActions(s,action,minBet,maxBet)
                 else:
                     print "NOT BLUFFING FOLD"
                     action = "FOLD"
-                    bettingActions(action)
+                    bettingActions(s,action)
         #use ev
-        if ev >= 0:
-            if ev == 0:
-                #if our equity is good we want to bet
-                #because our ev == 0 if no one has bet yet
-                #0.6 is a random threshold
-                #check for nits/tight players
-                if our_equity >= 0.6 and not no_reraise:
-                    action = "BET"
-                    maxBet = min(our_stack,max(maxBetEV,bb))
-                    minBet = min(bb,maxBet)
-                    print "BETTING LOOSE1"
-                    bettingActions(action,minBet,maxBet)
-                elif our_equity >= 0.6 and no_reraise:
-                    action= "CALL"
-                    bettingActions(action)
+        elif ev >= 0:
+            #if our equity is good we want to bet
+            #because our ev == 0 if no one has bet yet
+            #0.6 is a random threshold
+            if our_equity >= 0.6 and not no_reraise:
+                action = "BET"
+                maxBet = min(our_stack,max(maxBetEV,bb))
+                minBet = min(bb,maxBet)
+                print "BETTING LOOSE2"
+                bettingActions(s,action,minBet,maxBet)
+            elif our_equity >= 0.6 and no_reraise:
+                action = "CALL"
+                bettingActions(s,action)
+            else:
+                if watch_out and not call:
+                    print "WATCH OUT EV FOLD2"
+                    action = "FOLD"
+                    bettingActions(s,action)
                 else:
-                    if watch_out and not call:
-                        action = "FOLD"
-                        print "WATCH OUT EV FOLD 1"
-                        bettingActions(action)
+                    bluffRand = random.random()
+                    if bluffRand < 0.3 and their_bet <= (maxBetFold - 3*bb):
+                        action = "BET" 
+                        #max bluffing bet
+                        maxBet = min(our_stack,max(bluffMin,maxBetFold))
+                        minBet = min(bluffMin,maxBetFold)
+                        bettingActions(s,action,minBet,maxBet)
+                    elif our_equity > 0.45 and not no_reraise:
+                        action = "BET"
+                        maxBet = min(our_stack,max(bb,maxBetEV))
+                        minBet = min(bb,maxBet)
+                        print "BETTING LESS LOOSE2"
+                        bettingActions(s,action,minBet,maxBet)
                     else:
-                        if our_equity >0.45 and not no_reraise:
-                            action = "BET"
-                            maxBet = max(maxBetEV,bb)
-                            minBet = min(bb,maxBet)
-                            print "BETTING LESS LOOSE1"
-                            bettingActions(action,minBet,maxBet)
-                        else:
-                            action = "CALL"
-                            bettingActions(action)
-            elif ev > 0:
-                #if our equity is good we want to bet
-                #because our ev == 0 if no one has bet yet
-                #0.6 is a random threshold
-                if our_equity >= 0.6 and not no_reraise:
-                    action = "BET"
-                    maxBet = min(our_stack,max(maxBetEV,bb))
-                    minBet = min(bb,maxBet)
-                    print "BETTING LOOSE2"
-                    bettingActions(action,minBet,maxBet)
-                elif our_equity >= 0.6 and no_reraise:
-                    action = "CALL"
-                    bettingActions(action)
-                else:
-                    if watch_out and not call:
-                        print "WATCH OUT EV FOLD2"
-                        action = "FOLD"
-                        bettingActions(action)
-                    else:
-                        bluffRand = random.random()
-                        if bluffRand < 0.3:
-                            action = "BET" 
-                            #max bluffing bet
-                            maxBet = min(our_stack,max(bluffMin,maxBetFold))
-                            minBet = min(bluffMin,maxBetFold)
-                            bettingActions(action,minBet,maxBet)
-                        elif our_equity > 0.45 and not no_reraise:
-                            action = "BET"
-                            maxBet = min(our_stack,max(bb,maxBetEV))
-                            minBet = min(bb,maxBet)
-                            print "BETTING LESS LOOSE2"
-                            bettingActions(action,minBet,maxBet)
-                        else:
-                            action = "CALL"
-                            bettingActions(action)
+                        action = "CALL"
+                        bettingActions(s,action)
+
         else:
             print "EV FOLD"
             action = "FOLD"
-            bettingActions(action)
+            bettingActions(s,action)
 
     #watch out for tight players (sharks), cashcows we can exploit by making them fold
     elif num_board_cards >= 3:
         #if no sharks but there are cashcows
         #and our ev is over a certain threshold (we think we can make them fold)
-        if not blood_in_the_water and milk_the_cow:
-            #check to see their last actions (if raise/bet, watch out)
-            bluffRand = random.random()
-            if round_start and bluffRand <= 0.4 and not watch_out and our_equity<0.4:
-                #some percentage of the time we should bluff when we have nothing
-                #bet or raise
-                action = "BET" 
-                #max bluffing bet
-                maxBet = min(our_stack,max(bb,maxBetFold))
-                minBet = min(bluffMin,maxBet)
-                bettingActions(action,minBet,maxBet)
+        
+        #check to see their last actions (if raise/bet, watch out)
+        bluffRand = random.random()
+        if round_start and bluffRand <= 0.5 and not watch_out and our_equity<0.4 and not blood_in_the_water and milk_the_cow:
+            #some percentage of the time we should bluff when we have nothing
+            #bet or raise
+            print "line 001"
+            action = "BET" 
+            #max bluffing bet
+            maxBet = min(our_stack,max(bb,maxBetFold))
+            minBet = min(bluffMin,maxBet)
+            bettingActions(s,action,minBet,maxBet)
 
-            elif bluffRand <= 0.4 and not watch_out and our_equity < 0.4 and not cow_raised:
-                #some percentage of the time we should bluff
-                #bet or raise
-                action = "BET" 
-                #max bluffing bet
-                maxBet = min(our_stack,max(bb,maxBetFold))
-                minBet = min(bluffMin,maxBet)
-                bettingActions(action,minBet,maxBet)
-            else:
-                pass
-        if ev >= 0:
-            if ev == 0:
-                #if our equity is good we want to bet
-                #because our ev == 0 if no one has bet yet
-                #0.6 is a random threshold
-                #check for nits/tight players
-                if our_equity >= 0.6 and not no_reraise:
-                    action = "BET"
-                    maxBet = min(our_stack,max(bb,maxBetEV))
-                    minBet = min(bb,maxBet)
-                    bettingActions(action,minBet,maxBet)
-                elif our_equity >= 0.6 and no_reraise:
-                    action= "CALL"
-                    bettingActions(action)
-                else:
-                    if watch_out and not call:
-                        action = "FOLD"
-                        bettingActions(action)
-                    else:
-                        bluffRand = random.random()
-                        if bluffRand < 0.3 and their_bet < maxBetFold:
-                            action = "BET" 
-                            #max bluffing bet
-                            maxBet = min(our_stack,max(bluffMin,maxBetFold))
-                            minBet = min(bluffMin,maxBetFold)
-                            bettingActions(action,minBet,maxBet)
-                        elif our_equity >0.45 and not no_reraise:
-                            action = "BET"
-                            maxBet = min(our_stack,max(bb,maxBetEV))
-                            minBet = min(bb,maxBet)
-                            bettingActions(action,minBet,maxBet)
-                        else:
-                            action = "CALL"
-                            bettingActions(action)
-            else:
-                #if our equity is good we want to bet
-                #because our ev == 0 if no one has bet yet
-                #0.6 is a random threshold
-                if our_equity >= 0.6:
-                    action = "BET"
-                    maxBet = min(our_stack,max(bb,maxBetEV))
-                    minBet = min(bb,maxBet)
-                    bettingActions(action,minBet,maxBet)
-                elif our_equity >= 0.6 and no_reraise:
-                    action= "CALL"
-                    bettingActions(action)
-                else:
-                    if watch_out and not call:
-                        action = "FOLD"
-                        bettingActions(action)
-                    else:
+        elif bluffRand <= 0.5 and not watch_out and our_equity < 0.4 and not cow_raised and not blood_in_the_water and milk_the_cow:
+            #some percentage of the time we should bluff
+            #bet or raise
+            print "line 002"
+            action = "BET" 
+            #max bluffing bet
+            maxBet = min(our_stack,max(bb,maxBetFold))
+            minBet = min(bluffMin,maxBet)
+            bettingActions(s,action,minBet,maxBet)
 
-                        bluffRand = random.random()
-                        if bluffRand < 0.4 and their_bet < maxBetFold:
-                            action = "BET" 
-                            #max bluffing bet
-                            maxBet = min(our_stack,max(bluffMin,maxBetFold))
-                            minBet = min(bluffMin,maxBetFold)
-                            bettingActions(action,minBet,maxBet)
-                        elif our_equity >0.5 and not no_reraise:
-                            action = "BET"
-                            maxBet = min(our_stack,max(bb,maxBetEV))
-                            minBet = min(bb,maxBet)
-                            bettingActions(action,minBet,maxBet)
-                        else:
-                            action = "CALL"
-                            bettingActions(action)
+        elif ev >= 0:
+
+            #if our equity is good we want to bet
+            #because our ev == 0 if no one has bet yet
+            #0.6 is a random threshold
+            if our_equity >= 0.6:
+                print "line 1"
+                action = "BET"
+                maxBet = min(our_stack,max(bb,maxBetEV))
+                minBet = min(bb,maxBet)
+                bettingActions(s,action,minBet,maxBet)
+            elif our_equity >= 0.6:
+                print "line 2"
+                action= "CALL"
+                bettingActions(s,action)
+            else:
+                if watch_out and not call:
+                    print "line 3"
+                    action = "FOLD"
+                    bettingActions(s,action)
+                else:
+
+                    bluffRand = random.random()
+                    if bluffRand < 0.3 and their_bet <= (maxBetFold - 3*bb):
+                        print "line 4"
+                        action = "BET" 
+                        #max bluffing bet
+                        maxBet = min(our_stack,max(bluffMin,maxBetFold))
+                        minBet = min(bluffMin,maxBetFold)
+                        bettingActions(s,action,minBet,maxBet)
+                    elif our_equity >0.5 and not no_reraise:
+                        print "line 5"
+                        action = "BET"
+                        maxBet = min(our_stack,max(bb,maxBetEV))
+                        minBet = min(bb,maxBet)
+                        bettingActions(s,action,minBet,maxBet)
+                    else:
+                        print "line 6"
+                        action = "CALL"
+                        bettingActions(s,action)
         else:
             action = "FOLD"
-            bettingActions(action)
+            bettingActions(s,action)
 
 
 
-def bettingActions(action,our_min_bet=None,our_max_bet=None):  
+def bettingActions(s,action,our_min_bet=None,our_max_bet=None):  
     if our_min_bet == None:
         our_min_bet =0
     if our_max_bet == None:
@@ -1070,12 +997,23 @@ def bettingActions(action,our_min_bet=None,our_max_bet=None):
             else:
                 bet = random.randint(final_min,final_max)
             if our_max_bet >= our_stack and (our_stack - minCall) < minBet:
-                bettingActions("CALL")
+                if "CHECK" in avail_actions:
+                    reply("CHECK", "CHECK", s)
+                elif "CALL" in avail_actions:
+                    minBet = avail_actions["CALL"][0]
+                    reply("CALL",minBet,s)
             elif our_max_bet < minBet and minBet >10:
-                bettingActions("FOLD")
+                if "CHECK" in avail_actions:
+                    reply("CHECK", "CHECK", s)
+                else:
+                    reply("FOLD","FOLD",s)
 
             elif our_max_bet < minBet:
-                bettingActions("CALL")
+                if "CHECK" in avail_actions:
+                    reply("CHECK", "CHECK", s)
+                elif "CALL" in avail_actions:
+                    minBet = avail_actions["CALL"][0]
+                    reply("CALL",minBet,s)
             else:
                 reply("BET", bet,s)
         elif "RAISE" in avail_actions:
@@ -1096,13 +1034,24 @@ def bettingActions(action,our_min_bet=None,our_max_bet=None):
                 bet = random.randint(final_min,final_max)
             #don't want it to fold to low minbets
             if our_max_bet >= our_stack and (our_stack - minCall) <= minBet:
-                bettingActions("CALL")
+                if "CHECK" in avail_actions:
+                    reply("CHECK", "CHECK", s)
+                elif "CALL" in avail_actions:
+                    minBet = avail_actions["CALL"][0]
+                    reply("CALL",minBet,s)
 
             elif our_max_bet < minBet and minBet >10:
-                bettingActions("FOLD")
+                if "CHECK" in avail_actions:
+                    reply("CHECK", "CHECK", s)
+                else:
+                    reply("FOLD","FOLD",s)
 
             elif our_max_bet < minBet:
-                bettingActions("CALL")
+                if "CHECK" in avail_actions:
+                    reply("CHECK", "CHECK", s)
+                elif "CALL" in avail_actions:
+                    minBet = avail_actions["CALL"][0]
+                    reply("CALL",minBet,s)
             else:
                 reply("RAISE", bet,s)
         elif "CALL" in avail_actions:
@@ -1111,9 +1060,15 @@ def bettingActions(action,our_min_bet=None,our_max_bet=None):
             if our_max_bet >= our_stack and (our_stack - minCall)< minBet:
                 reply("CALL",minBet,s)
             elif our_max_bet < minBet and minBet >10:
-                bettingActions("FOLD")
+                if "CHECK" in avail_actions:
+                    reply("CHECK", "CHECK", s)
+                else:
+                    reply("FOLD","FOLD",s)
             else:
                 reply("CALL",minBet,s)
+        elif "CHECK" in avail_actions:
+            reply("CHECK","CHECK",s)
+
     elif action == "FOLD":
         if "CHECK" in avail_actions:
             reply("CHECK", "CHECK", s)
