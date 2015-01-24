@@ -1,0 +1,685 @@
+6.176 MIT Pokerbots - BAMF vs OldBotv1 vs OldBotv2 (stack=200, bb=2)
+Hand #1, BAMF (200), OldBotv1 (200), OldBotv2 (200)
+OldBotv1 posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to BAMF [Kc Qh]
+Dealt to OldBotv1 [Jd Qs]
+Dealt to OldBotv2 [9s Td]
+BAMF calls 2
+OldBotv1 raises to 4
+OldBotv2 raises to 6
+BAMF calls 6
+OldBotv1 raises to 8
+OldBotv2 folds
+BAMF calls 8
+*** FLOP *** (22) [Ah 4d 3c]
+### ILLEGAL ACTION: Raise [player=OldBotv1][amount=2]
+OldBotv1 checks
+BAMF bets 21
+OldBotv1 raises to 42
+BAMF calls 42
+*** TURN *** (106) [Ah 4d 3c] [Tc]
+### ILLEGAL ACTION: Raise [player=OldBotv1][amount=106]
+OldBotv1 checks
+BAMF checks
+*** RIVER *** (106) [Ah 4d 3c Tc] [4s]
+### ILLEGAL ACTION: Raise [player=OldBotv1][amount=106]
+OldBotv1 checks
+BAMF checks
+BAMF shows [Kc Qh]
+OldBotv1 shows [Jd Qs]
+BAMF wins the pot (106)
+
+Hand #2, OldBotv2 (194), BAMF (256), OldBotv1 (150)
+BAMF posts the blind of 1
+OldBotv1 posts the blind of 2
+Dealt to OldBotv2 [Qs Td]
+Dealt to BAMF [6h As]
+Dealt to OldBotv1 [Qd 6s]
+OldBotv2 raises to 4
+BAMF calls 4
+OldBotv1 raises to 6
+OldBotv2 raises to 8
+BAMF calls 8
+OldBotv1 raises to 10
+OldBotv2 folds
+BAMF calls 10
+*** FLOP *** (28) [5d 3d 7d]
+BAMF bets 22
+OldBotv1 raises to 94
+BAMF calls 94
+*** TURN *** (216) [5d 3d 7d] [Ac]
+BAMF bets 28
+OldBotv1 raises to 46
+BAMF calls 46
+*** RIVER *** (308) [5d 3d 7d Ac] [3c]
+BAMF shows [6h As]
+OldBotv1 shows [Qd 6s]
+BAMF wins the pot (308)
+
+Hand #3, BAMF (414), OldBotv2 (186), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to OldBotv1 [Js 4h]
+Dealt to OldBotv2 [8s Jh]
+Dealt to BAMF [Th Kd]
+BAMF calls 2
+OldBotv2 raises to 4
+BAMF calls 4
+*** FLOP *** (8) [5h 4s Qd]
+OldBotv2 checks
+BAMF checks
+*** TURN *** (8) [5h 4s Qd] [4d]
+OldBotv2 bets 2
+BAMF calls 2
+*** RIVER *** (12) [5h 4s Qd 4d] [3c]
+OldBotv2 bets 2
+BAMF raises to 17
+OldBotv2 folds
+BAMF wins the pot (31)
+
+Hand #4, OldBotv2 (178), BAMF (422), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to BAMF [Jc 8d]
+Dealt to OldBotv1 [4d Ac]
+Dealt to OldBotv2 [2s Ks]
+OldBotv2 raises to 4
+BAMF calls 4
+*** FLOP *** (8) [4c 9s Qd]
+BAMF bets 8
+OldBotv2 folds
+BAMF wins the pot (16)
+
+Hand #5, BAMF (426), OldBotv2 (174), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to OldBotv2 [4c 8s]
+Dealt to BAMF [3d 8c]
+Dealt to OldBotv1 [5d Qh]
+BAMF raises to 6
+OldBotv2 folds
+BAMF wins the pot (8)
+
+Hand #6, OldBotv2 (172), BAMF (428), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to OldBotv1 [5d 2h]
+Dealt to OldBotv2 [Ks Qh]
+Dealt to BAMF [6s 3d]
+OldBotv2 raises to 4
+BAMF folds
+OldBotv2 wins the pot (6)
+
+Hand #7, BAMF (426), OldBotv2 (174), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to BAMF [5h Qs]
+Dealt to OldBotv1 [6s Jh]
+Dealt to OldBotv2 [Jc 4c]
+BAMF calls 2
+OldBotv2 raises to 4
+BAMF calls 4
+*** FLOP *** (8) [Td 8d 6h]
+OldBotv2 checks
+BAMF checks
+*** TURN *** (8) [Td 8d 6h] [3s]
+OldBotv2 checks
+BAMF checks
+*** RIVER *** (8) [Td 8d 6h 3s] [7h]
+OldBotv2 bets 2
+BAMF folds
+OldBotv2 wins the pot (10)
+
+Hand #8, OldBotv2 (178), BAMF (422), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to OldBotv2 [Ks Qc]
+Dealt to BAMF [5d 4c]
+Dealt to OldBotv1 [8h Kd]
+OldBotv2 raises to 5
+BAMF folds
+OldBotv2 wins the pot (7)
+
+Hand #9, BAMF (420), OldBotv2 (180), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to OldBotv1 [Td 7d]
+Dealt to OldBotv2 [7c Qc]
+Dealt to BAMF [6c Jc]
+BAMF calls 2
+OldBotv2 raises to 4
+BAMF calls 4
+*** FLOP *** (8) [4s 5d 7h]
+### ILLEGAL ACTION: Bet [player=OldBotv2][amount=16]
+OldBotv2 checks
+BAMF checks
+*** TURN *** (8) [4s 5d 7h] [Tc]
+### ILLEGAL ACTION: Bet [player=OldBotv2][amount=16]
+OldBotv2 checks
+BAMF bets 8
+OldBotv2 raises to 30
+BAMF calls 30
+*** RIVER *** (68) [4s 5d 7h Tc] [9h]
+OldBotv2 bets 56
+BAMF folds
+OldBotv2 wins the pot (124)
+
+Hand #10, OldBotv2 (214), BAMF (386), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to BAMF [Ad 9c]
+Dealt to OldBotv1 [8h 9d]
+Dealt to OldBotv2 [Jc Tc]
+OldBotv2 raises to 4
+BAMF raises to 8
+OldBotv2 folds
+BAMF wins the pot (12)
+
+Hand #11, BAMF (390), OldBotv2 (210), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to OldBotv2 [5d 8c]
+Dealt to BAMF [2h Qh]
+Dealt to OldBotv1 [3c Jd]
+BAMF calls 2
+OldBotv2 checks
+*** FLOP *** (4) [6c Qd 4d]
+OldBotv2 bets 2
+BAMF raises to 4
+OldBotv2 raises to 6
+BAMF raises to 22
+OldBotv2 folds
+BAMF wins the pot (32)
+
+Hand #12, OldBotv2 (202), BAMF (398), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to OldBotv1 [Jc Ad]
+Dealt to OldBotv2 [5d Qh]
+Dealt to BAMF [Jh 3d]
+OldBotv2 raises to 4
+BAMF calls 4
+*** FLOP *** (8) [4c 8c 3h]
+BAMF checks
+OldBotv2 checks
+*** TURN *** (8) [4c 8c 3h] [6c]
+BAMF checks
+OldBotv2 bets 2
+BAMF calls 2
+*** RIVER *** (12) [4c 8c 3h 6c] [9d]
+BAMF bets 8
+OldBotv2 folds
+BAMF wins the pot (20)
+
+Hand #13, BAMF (404), OldBotv2 (196), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to BAMF [As Th]
+Dealt to OldBotv1 [6h 9c]
+Dealt to OldBotv2 [7d 6c]
+BAMF calls 2
+OldBotv2 checks
+*** FLOP *** (4) [9d 4s Jh]
+OldBotv2 bets 2
+BAMF calls 2
+*** TURN *** (8) [9d 4s Jh] [4c]
+OldBotv2 checks
+BAMF checks
+*** RIVER *** (8) [9d 4s Jh 4c] [3h]
+OldBotv2 checks
+BAMF checks
+BAMF shows [As Th]
+OldBotv2 shows [7d 6c]
+BAMF wins the pot (8)
+
+Hand #14, OldBotv2 (192), BAMF (408), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to OldBotv2 [5h 7d]
+Dealt to BAMF [7h 2h]
+Dealt to OldBotv1 [Ac 4c]
+OldBotv2 raises to 4
+BAMF folds
+OldBotv2 wins the pot (6)
+
+Hand #15, BAMF (406), OldBotv2 (194), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to OldBotv1 [9d 2s]
+Dealt to OldBotv2 [7s 7d]
+Dealt to BAMF [Tc Jc]
+BAMF calls 2
+OldBotv2 raises to 4
+BAMF calls 4
+*** FLOP *** (8) [2c 6c 3h]
+### ILLEGAL ACTION: Raise [player=OldBotv2][amount=5]
+OldBotv2 checks
+BAMF checks
+*** TURN *** (8) [2c 6c 3h] [2d]
+### ILLEGAL ACTION: Bet [player=OldBotv2][amount=20]
+OldBotv2 checks
+BAMF checks
+*** RIVER *** (8) [2c 6c 3h 2d] [Kh]
+### ILLEGAL ACTION: Bet [player=OldBotv2][amount=20]
+OldBotv2 checks
+BAMF checks
+OldBotv2 shows [7s 7d]
+BAMF shows [Tc Jc]
+OldBotv2 wins the pot (8)
+
+Hand #16, OldBotv2 (198), BAMF (402), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to BAMF [Td Qh]
+Dealt to OldBotv1 [Th Jd]
+Dealt to OldBotv2 [2s 4c]
+OldBotv2 raises to 4
+BAMF calls 4
+*** FLOP *** (8) [7s 6s Ts]
+BAMF bets 7
+OldBotv2 calls 7
+*** TURN *** (22) [7s 6s Ts] [4s]
+BAMF checks
+OldBotv2 bets 21
+BAMF folds
+OldBotv2 wins the pot (43)
+
+Hand #17, BAMF (391), OldBotv2 (209), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to OldBotv2 [As 3s]
+Dealt to BAMF [5s Ts]
+Dealt to OldBotv1 [Ac 4c]
+BAMF calls 2
+OldBotv2 raises to 4
+BAMF calls 4
+*** FLOP *** (8) [Qd 8s Jc]
+OldBotv2 bets 2
+BAMF calls 2
+*** TURN *** (12) [Qd 8s Jc] [Td]
+OldBotv2 bets 2
+BAMF raises to 9
+OldBotv2 calls 9
+*** RIVER *** (30) [Qd 8s Jc Td] [2s]
+OldBotv2 checks
+BAMF bets 18
+OldBotv2 folds
+BAMF wins the pot (48)
+
+Hand #18, OldBotv2 (194), BAMF (406), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to OldBotv1 [8c 7d]
+Dealt to OldBotv2 [4d Ad]
+Dealt to BAMF [5h 2s]
+OldBotv2 raises to 4
+BAMF calls 4
+*** FLOP *** (8) [Td 8s 3d]
+BAMF checks
+### ILLEGAL ACTION: Bet [player=OldBotv2][amount=15]
+OldBotv2 checks
+*** TURN *** (8) [Td 8s 3d] [Js]
+BAMF checks
+OldBotv2 bets 7
+BAMF folds
+OldBotv2 wins the pot (15)
+
+Hand #19, BAMF (402), OldBotv2 (198), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to BAMF [8h Qc]
+Dealt to OldBotv1 [Jc As]
+Dealt to OldBotv2 [5c 4d]
+BAMF calls 2
+OldBotv2 raises to 4
+BAMF calls 4
+*** FLOP *** (8) [2h 9h 3d]
+OldBotv2 checks
+BAMF checks
+*** TURN *** (8) [2h 9h 3d] [9d]
+OldBotv2 bets 2
+BAMF calls 2
+*** RIVER *** (12) [2h 9h 3d 9d] [7h]
+OldBotv2 bets 2
+BAMF calls 2
+BAMF shows [8h Qc]
+OldBotv2 shows [5c 4d]
+BAMF wins the pot (16)
+
+Hand #20, OldBotv2 (190), BAMF (410), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to OldBotv2 [Ad Kc]
+Dealt to BAMF [6d Th]
+Dealt to OldBotv1 [9s 5h]
+OldBotv2 raises to 5
+BAMF folds
+OldBotv2 wins the pot (7)
+
+Hand #21, BAMF (408), OldBotv2 (192), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to OldBotv1 [6d 2s]
+Dealt to OldBotv2 [4s 2d]
+Dealt to BAMF [2c Ks]
+BAMF calls 2
+OldBotv2 raises to 4
+BAMF calls 4
+*** FLOP *** (8) [As 3h Ac]
+OldBotv2 checks
+BAMF checks
+*** TURN *** (8) [As 3h Ac] [6h]
+OldBotv2 bets 2
+BAMF calls 2
+*** RIVER *** (12) [As 3h Ac 6h] [7d]
+OldBotv2 checks
+BAMF checks
+OldBotv2 shows [4s 2d]
+BAMF shows [2c Ks]
+BAMF wins the pot (12)
+
+Hand #22, OldBotv2 (186), BAMF (414), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to BAMF [2c 3c]
+Dealt to OldBotv1 [Ah 9s]
+Dealt to OldBotv2 [Qd 7h]
+OldBotv2 raises to 4
+BAMF folds
+OldBotv2 wins the pot (6)
+
+Hand #23, BAMF (412), OldBotv2 (188), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to OldBotv2 [8s Qd]
+Dealt to BAMF [Tc 2c]
+Dealt to OldBotv1 [5c Ks]
+BAMF folds
+OldBotv2 wins the pot (3)
+
+Hand #24, OldBotv2 (189), BAMF (411), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to OldBotv1 [Td 7d]
+Dealt to OldBotv2 [7s Ad]
+Dealt to BAMF [6h 7h]
+OldBotv2 raises to 4
+BAMF folds
+OldBotv2 wins the pot (6)
+
+Hand #25, BAMF (409), OldBotv2 (191), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to BAMF [Jh 8d]
+Dealt to OldBotv1 [6d 2s]
+Dealt to OldBotv2 [5s Qc]
+BAMF calls 2
+OldBotv2 raises to 4
+BAMF calls 4
+*** FLOP *** (8) [9h 4d 7d]
+OldBotv2 checks
+BAMF checks
+*** TURN *** (8) [9h 4d 7d] [4c]
+OldBotv2 checks
+BAMF checks
+*** RIVER *** (8) [9h 4d 7d 4c] [9c]
+OldBotv2 bets 2
+BAMF calls 2
+BAMF shows [Jh 8d]
+OldBotv2 shows [5s Qc]
+OldBotv2 wins the pot (12)
+
+Hand #26, OldBotv2 (197), BAMF (403), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to OldBotv2 [Jh 7s]
+Dealt to BAMF [Kc Js]
+Dealt to OldBotv1 [Ts 3h]
+OldBotv2 raises to 4
+BAMF calls 4
+*** FLOP *** (8) [3s 8d 8h]
+BAMF checks
+OldBotv2 bets 2
+BAMF calls 2
+*** TURN *** (12) [3s 8d 8h] [As]
+BAMF checks
+OldBotv2 checks
+*** RIVER *** (12) [3s 8d 8h As] [9c]
+BAMF checks
+OldBotv2 checks
+OldBotv2 shows [Jh 7s]
+BAMF shows [Kc Js]
+BAMF wins the pot (12)
+
+Hand #27, BAMF (409), OldBotv2 (191), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to OldBotv1 [6h 3s]
+Dealt to OldBotv2 [Jh 7d]
+Dealt to BAMF [7s Qc]
+BAMF calls 2
+OldBotv2 raises to 4
+BAMF calls 4
+*** FLOP *** (8) [Qh 4c 7h]
+### ILLEGAL ACTION: Bet [player=OldBotv2][amount=20]
+OldBotv2 checks
+BAMF bets 5
+OldBotv2 raises to 22
+BAMF raises to 68
+OldBotv2 raises to 152
+BAMF calls 152
+*** TURN *** (312) [Qh 4c 7h] [Ks]
+OldBotv2 bets 21
+BAMF raises to 35
+OldBotv2 folds
+BAMF wins the pot (368)
+
+Hand #28, OldBotv2 (14), BAMF (586), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to BAMF [Ah 5c]
+Dealt to OldBotv1 [3h Ac]
+Dealt to OldBotv2 [7d 8c]
+OldBotv2 folds
+BAMF wins the pot (3)
+
+Hand #29, BAMF (587), OldBotv2 (13), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to OldBotv2 [6s 2s]
+Dealt to BAMF [6c Qc]
+Dealt to OldBotv1 [5d As]
+BAMF calls 2
+OldBotv2 checks
+*** FLOP *** (4) [Kd 8h Tc]
+OldBotv2 checks
+BAMF checks
+*** TURN *** (4) [Kd 8h Tc] [4c]
+OldBotv2 checks
+BAMF checks
+*** RIVER *** (4) [Kd 8h Tc 4c] [2d]
+OldBotv2 checks
+BAMF checks
+OldBotv2 shows [6s 2s]
+BAMF shows [6c Qc]
+OldBotv2 wins the pot (4)
+
+Hand #30, OldBotv2 (15), BAMF (585), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to OldBotv1 [Jh 9c]
+Dealt to OldBotv2 [8s 6h]
+Dealt to BAMF [2s 7d]
+OldBotv2 folds
+BAMF wins the pot (3)
+
+Hand #31, BAMF (586), OldBotv2 (14), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to BAMF [Js 5s]
+Dealt to OldBotv1 [7c Qs]
+Dealt to OldBotv2 [5d Kh]
+BAMF calls 2
+### ILLEGAL ACTION: Raise [player=OldBotv2][amount=12]
+OldBotv2 checks
+*** FLOP *** (4) [7d 4h 9c]
+OldBotv2 checks
+BAMF checks
+*** TURN *** (4) [7d 4h 9c] [6c]
+OldBotv2 bets 2
+BAMF calls 2
+*** RIVER *** (8) [7d 4h 9c 6c] [3s]
+### ILLEGAL ACTION: Bet [player=OldBotv2][amount=10]
+OldBotv2 checks
+BAMF bets 3
+OldBotv2 raises to 10
+BAMF calls 10
+BAMF shows [Js 5s]
+OldBotv2 shows [5d Kh]
+BAMF ties for the pot (14)
+OldBotv2 ties for the pot (14)
+
+Hand #32, OldBotv2 (14), BAMF (586), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to OldBotv2 [5h Jd]
+Dealt to BAMF [3c 7s]
+Dealt to OldBotv1 [3s 3h]
+OldBotv2 folds
+BAMF wins the pot (3)
+
+Hand #33, BAMF (587), OldBotv2 (13), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to OldBotv1 [2h Kh]
+Dealt to OldBotv2 [5c 6d]
+Dealt to BAMF [9s 3d]
+BAMF folds
+OldBotv2 wins the pot (3)
+
+Hand #34, OldBotv2 (14), BAMF (586), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to BAMF [6d 3c]
+Dealt to OldBotv1 [4s 8h]
+Dealt to OldBotv2 [Qd Jh]
+### ILLEGAL ACTION: Raise [player=OldBotv2][amount=13]
+OldBotv2 folds
+BAMF wins the pot (3)
+
+Hand #35, BAMF (587), OldBotv2 (13), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to OldBotv2 [7d Th]
+Dealt to BAMF [3c 9s]
+Dealt to OldBotv1 [4c Qd]
+BAMF folds
+OldBotv2 wins the pot (3)
+
+Hand #36, OldBotv2 (14), BAMF (586), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to OldBotv1 [4s Qd]
+Dealt to OldBotv2 [2s 5d]
+Dealt to BAMF [3d 8h]
+OldBotv2 folds
+BAMF wins the pot (3)
+
+Hand #37, BAMF (587), OldBotv2 (13), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to BAMF [Ac Qs]
+Dealt to OldBotv1 [As Js]
+Dealt to OldBotv2 [6c Jd]
+BAMF calls 2
+### ILLEGAL ACTION: Raise [player=OldBotv2][amount=11]
+OldBotv2 checks
+*** FLOP *** (4) [Th 4c 3h]
+OldBotv2 checks
+BAMF checks
+*** TURN *** (4) [Th 4c 3h] [8h]
+OldBotv2 checks
+BAMF checks
+*** RIVER *** (4) [Th 4c 3h 8h] [6s]
+### ILLEGAL ACTION: Bet [player=OldBotv2][amount=11]
+OldBotv2 checks
+BAMF checks
+BAMF shows [Ac Qs]
+OldBotv2 shows [6c Jd]
+OldBotv2 wins the pot (4)
+
+Hand #38, OldBotv2 (15), BAMF (585), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to OldBotv2 [Tc 5h]
+Dealt to BAMF [8h 5s]
+Dealt to OldBotv1 [4d Jh]
+OldBotv2 folds
+BAMF wins the pot (3)
+
+Hand #39, BAMF (586), OldBotv2 (14), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to OldBotv1 [Ts 9h]
+Dealt to OldBotv2 [Qh 2d]
+Dealt to BAMF [Ks 6c]
+BAMF calls 2
+OldBotv2 checks
+*** FLOP *** (4) [5d 7d 6s]
+OldBotv2 checks
+BAMF checks
+*** TURN *** (4) [5d 7d 6s] [7h]
+OldBotv2 checks
+BAMF bets 2
+OldBotv2 folds
+BAMF wins the pot (6)
+
+Hand #40, OldBotv2 (12), BAMF (588), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to BAMF [Td 4h]
+Dealt to OldBotv1 [2d 3d]
+Dealt to OldBotv2 [2c 5c]
+OldBotv2 folds
+BAMF wins the pot (3)
+
+Hand #41, BAMF (589), OldBotv2 (11), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to OldBotv2 [Th 9c]
+Dealt to BAMF [4s 7c]
+Dealt to OldBotv1 [Tc Kh]
+BAMF folds
+OldBotv2 wins the pot (3)
+
+Hand #42, OldBotv2 (12), BAMF (588), OldBotv1 (0)
+OldBotv2 posts the blind of 1
+BAMF posts the blind of 2
+Dealt to OldBotv1 [7s Td]
+Dealt to OldBotv2 [9s 4h]
+Dealt to BAMF [8c 8s]
+OldBotv2 folds
+BAMF wins the pot (3)
+
+Hand #43, BAMF (589), OldBotv2 (11), OldBotv1 (0)
+BAMF posts the blind of 1
+OldBotv2 posts the blind of 2
+Dealt to BAMF [6h Ac]
+Dealt to OldBotv1 [As 8d]
+Dealt to OldBotv2 [3s 8s]
+BAMF calls 2
+OldBotv2 raises to 4
+BAMF calls 4
+*** FLOP *** (8) [9d 6s 9s]
+### ILLEGAL ACTION: Fold [player=OldBotv2]
+OldBotv2 checks
+BAMF bets 4
+OldBotv2 raises to 7
+BAMF calls 7
+*** TURN *** (22) [9d 6s 9s] [2h]
+*** RIVER *** (22) [9d 6s 9s 2h] [Jc]
+BAMF shows [6h Ac]
+OldBotv2 shows [3s 8s]
+BAMF wins the pot (22)
+

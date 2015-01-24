@@ -1,0 +1,3392 @@
+
+C:\Users\Er\Dropbox\Pokerbot\Versions\v1>python Player.py 3001 
+Connecting to localhost:3001
+Our name: OldBotv16
+Opp1 name: BAMF6
+Opp2 name: OldBotv26
+
+
+NEWHAND:1
+
+['NEWHAND', '1', '2', 'Jd', 'Qs', '200', '200', '200', 'OldBotv26', 'OldBotv16', 'BAMF6', '3', 'true', 'true', 'true', '15.000000']
+Active Players:3
+
+Our hand: Jd Qs
+OldBotv26's VPIP: 0.000000
+OldBotv26's PFR: 0.000000
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 0.000000
+OldBotv16's VPIP: 0.000000
+OldBotv16's PFR: 0.000000
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 0.000000
+BAMF6's VPIP: 0.000000
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.000000
+BAMF6's AF: 0.000000
+
+OldBotv16 posts small blind, stack size (199)
+BAMF6 posts big blind, stack size (198)
+
+
+***PREFLOP***(7) Board:()
+Our hand: Jd Qs
+
+OldBotv26 raised to 4.
+OldBotv16's EV: 2.814500
+OldBotv16's Equity: 0.6195
+OldBotv16's EV: 2.814500
+OldBotv16's Equity: 0.6195
+OldBotv16's Implied Odds: -8
+OldBotv16 raise 6.
+
+***PREFLOP***(30) Board:()
+Our hand: Jd Qs
+
+BAMF6 called 6.
+OldBotv26 raised to 18.
+OldBotv16's EV: 11.736000
+OldBotv16's Equity: 0.6195
+OldBotv16's EV: 11.736000
+OldBotv16's Equity: 0.6195
+OldBotv16's Implied Odds: -36
+OldBotv16 raise 60.
+
+***PREFLOP***(266) Board:()
+Our hand: Jd Qs
+
+BAMF6 called 60.
+OldBotv26 raised to 146.
+OldBotv16's EV: 109.234000
+OldBotv16's Equity: 0.6195
+OldBotv16's EV: 109.234000
+OldBotv16's Equity: 0.6195
+OldBotv16's Implied Odds: -322
+OldBotv16 raise 200.
+BAMF6 called 200.
+OldBotv26 folds.
+OldBotv16 WTSD percentage is: 1.000000
+BAMF6 WTSD percentage is: 1.000000
+BAMF6 W$SD percentage is: 1.000000
+
+
+NEWHAND:2
+
+['NEWHAND', '2', '3', 'Qd', '6s', '546', '54', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Qd 6s
+BAMF6's VPIP: 1.000000
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.000000
+BAMF6's AF: 0.000000
+OldBotv26's VPIP: 1.000000
+OldBotv26's PFR: 1.000000
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 3.000000
+OldBotv16's VPIP: 1.000000
+OldBotv16's PFR: 1.000000
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (545)
+OldBotv26 posts big blind, stack size (52)
+
+BAMF6 called 2.
+OldBotv26 raised to 4.
+BAMF6 called 4.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+BAMF6 WTSD percentage is: 1.000000
+OldBotv26 WTSD percentage is: 0.500000
+OldBotv26 W$SD percentage is: 0.500000
+
+
+NEWHAND:3
+
+['NEWHAND', '3', '3', 'Js', '4h', '58', '542', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Js 4h
+OldBotv26's VPIP: 0.500000
+OldBotv26's PFR: 0.500000
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 4.000000
+BAMF6's VPIP: 0.500000
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.000000
+BAMF6's AF: 0.000000
+OldBotv16's VPIP: 0.500000
+OldBotv16's PFR: 0.500000
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (57)
+BAMF6 posts big blind, stack size (540)
+
+OldBotv26 raised to 4.
+BAMF6 called 4.
+BAMF6 checks.
+OldBotv26 bet 2.
+BAMF6 called 2.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 bet 2.
+BAMF6 called 2.
+BAMF6 WTSD percentage is: 1.000000
+OldBotv26 WTSD percentage is: 0.666667
+OldBotv26 W$SD percentage is: 0.666667
+
+
+NEWHAND:4
+
+['NEWHAND', '4', '3', '4d', 'Ac', '534', '66', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 4d Ac
+BAMF6's VPIP: 0.333333
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.000000
+BAMF6's AF: 0.000000
+OldBotv26's VPIP: 0.333333
+OldBotv26's PFR: 0.333333
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 7.000000
+OldBotv16's VPIP: 0.333333
+OldBotv16's PFR: 0.333333
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (533)
+OldBotv26 posts big blind, stack size (64)
+
+BAMF6 called 2.
+OldBotv26 raised to 4.
+BAMF6 called 4.
+OldBotv26 bet 2.
+BAMF6 called 2.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 WTSD percentage is: 0.750000
+BAMF6 WTSD percentage is: 1.000000
+OldBotv26 W$SD percentage is: 0.750000
+
+
+NEWHAND:5
+
+['NEWHAND', '5', '3', '5d', 'Qh', '72', '528', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 5d Qh
+OldBotv26's VPIP: 0.250000
+OldBotv26's PFR: 0.250000
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 9.000000
+BAMF6's VPIP: 0.250000
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.000000
+BAMF6's AF: 0.000000
+OldBotv16's VPIP: 0.250000
+OldBotv16's PFR: 0.250000
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (71)
+BAMF6 posts big blind, stack size (526)
+
+OldBotv26 raised to 4.
+BAMF6 folds.
+
+
+NEWHAND:6
+
+['NEWHAND', '6', '3', '5d', '2h', '526', '74', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 5d 2h
+BAMF6's VPIP: 0.200000
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.200000
+BAMF6's AF: 0.000000
+OldBotv26's VPIP: 0.400000
+OldBotv26's PFR: 0.200000
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 10.000000
+OldBotv16's VPIP: 0.200000
+OldBotv16's PFR: 0.200000
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (525)
+OldBotv26 posts big blind, stack size (72)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 bet 2.
+BAMF6 raised to 7.
+OldBotv26 folds.
+
+
+NEWHAND:7
+
+['NEWHAND', '7', '3', '6s', 'Jh', '70', '530', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 6s Jh
+OldBotv26's VPIP: 0.333333
+OldBotv26's PFR: 0.166667
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 11.000000
+BAMF6's VPIP: 0.166667
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.200000
+BAMF6's AF: 0.083333
+OldBotv16's VPIP: 0.166667
+OldBotv16's PFR: 0.166667
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (69)
+BAMF6 posts big blind, stack size (528)
+
+OldBotv26 raised to 4.
+BAMF6 called 4.
+BAMF6 checks.
+OldBotv26 bet 2.
+BAMF6 called 2.
+BAMF6 checks.
+OldBotv26 bet 3.
+BAMF6 called 3.
+BAMF6 checks.
+OldBotv26 bet 3.
+BAMF6 folds.
+
+
+NEWHAND:8
+
+['NEWHAND', '8', '3', '8h', 'Kd', '521', '79', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 8h Kd
+BAMF6's VPIP: 0.142857
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.200000
+BAMF6's AF: 0.066667
+OldBotv26's VPIP: 0.285714
+OldBotv26's PFR: 0.142857
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 15.000000
+OldBotv16's VPIP: 0.142857
+OldBotv16's PFR: 0.142857
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (520)
+OldBotv26 posts big blind, stack size (77)
+
+BAMF6 called 2.
+OldBotv26 raised to 4.
+BAMF6 called 4.
+OldBotv26 bet 2.
+BAMF6 called 2.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 bet 3.
+BAMF6 raised to 7.
+OldBotv26 folds.
+
+
+NEWHAND:9
+
+['NEWHAND', '9', '3', 'Td', '7d', '70', '530', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Td 7d
+OldBotv26's VPIP: 0.250000
+OldBotv26's PFR: 0.125000
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 18.000000
+BAMF6's VPIP: 0.125000
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.200000
+BAMF6's AF: 0.111111
+OldBotv16's VPIP: 0.125000
+OldBotv16's PFR: 0.125000
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (69)
+BAMF6 posts big blind, stack size (528)
+
+OldBotv26 raised to 4.
+BAMF6 called 4.
+BAMF6 bet 7.
+OldBotv26 folds.
+
+
+NEWHAND:10
+
+['NEWHAND', '10', '3', '8h', '9d', '534', '66', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 8h 9d
+BAMF6's VPIP: 0.111111
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.200000
+BAMF6's AF: 0.157895
+OldBotv26's VPIP: 0.222222
+OldBotv26's PFR: 0.111111
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 19.000000
+OldBotv16's VPIP: 0.111111
+OldBotv16's PFR: 0.111111
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (533)
+OldBotv26 posts big blind, stack size (64)
+
+BAMF6 called 2.
+OldBotv26 raised to 4.
+BAMF6 called 4.
+OldBotv26 bet 2.
+BAMF6 raised to 11.
+OldBotv26 folds.
+
+
+NEWHAND:11
+
+['NEWHAND', '11', '3', '3c', 'Jd', '60', '540', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 3c Jd
+OldBotv26's VPIP: 0.200000
+OldBotv26's PFR: 0.100000
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 21.000000
+BAMF6's VPIP: 0.100000
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.200000
+BAMF6's AF: 0.190476
+OldBotv16's VPIP: 0.100000
+OldBotv16's PFR: 0.100000
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (59)
+BAMF6 posts big blind, stack size (538)
+
+OldBotv26 raised to 4.
+BAMF6 folds.
+
+
+NEWHAND:12
+
+['NEWHAND', '12', '3', 'Jc', 'Ad', '538', '62', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Jc Ad
+BAMF6's VPIP: 0.090909
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.181818
+BAMF6's AF: 0.190476
+OldBotv26's VPIP: 0.272727
+OldBotv26's PFR: 0.090909
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 22.000000
+OldBotv16's VPIP: 0.090909
+OldBotv16's PFR: 0.090909
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (537)
+OldBotv26 posts big blind, stack size (60)
+
+BAMF6 called 2.
+OldBotv26 raised to 4.
+BAMF6 called 4.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 bet 2.
+BAMF6 called 2.
+OldBotv26 bet 2.
+BAMF6 folds.
+
+
+NEWHAND:13
+
+['NEWHAND', '13', '3', '6h', '9c', '68', '532', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 6h 9c
+OldBotv26's VPIP: 0.250000
+OldBotv26's PFR: 0.083333
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 25.000000
+BAMF6's VPIP: 0.083333
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.181818
+BAMF6's AF: 0.166667
+OldBotv16's VPIP: 0.083333
+OldBotv16's PFR: 0.083333
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (67)
+BAMF6 posts big blind, stack size (530)
+
+OldBotv26 raised to 5.
+BAMF6 folds.
+
+
+NEWHAND:14
+
+['NEWHAND', '14', '3', 'Ac', '4c', '530', '70', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Ac 4c
+BAMF6's VPIP: 0.076923
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.230769
+BAMF6's AF: 0.166667
+OldBotv26's VPIP: 0.307692
+OldBotv26's PFR: 0.076923
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 26.000000
+OldBotv16's VPIP: 0.076923
+OldBotv16's PFR: 0.076923
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (529)
+OldBotv26 posts big blind, stack size (68)
+
+BAMF6 folds.
+
+
+NEWHAND:15
+
+['NEWHAND', '15', '3', '9d', '2s', '71', '529', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 9d 2s
+OldBotv26's VPIP: 0.285714
+OldBotv26's PFR: 0.071429
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 26.000000
+BAMF6's VPIP: 0.071429
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.285714
+BAMF6's AF: 0.166667
+OldBotv16's VPIP: 0.071429
+OldBotv16's PFR: 0.071429
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (70)
+BAMF6 posts big blind, stack size (527)
+
+OldBotv26 raised to 4.
+BAMF6 called 4.
+BAMF6 bet 7.
+OldBotv26 raised to 19.
+BAMF6 raised to 35.
+OldBotv26 folds.
+
+
+NEWHAND:16
+
+['NEWHAND', '16', '3', 'Th', 'Jd', '552', '48', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Th Jd
+BAMF6's VPIP: 0.066667
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.285714
+BAMF6's AF: 0.240000
+OldBotv26's VPIP: 0.266667
+OldBotv26's PFR: 0.066667
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 28.000000
+OldBotv16's VPIP: 0.066667
+OldBotv16's PFR: 0.066667
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (551)
+OldBotv26 posts big blind, stack size (46)
+
+BAMF6 folds.
+
+
+NEWHAND:17
+
+['NEWHAND', '17', '3', 'Ac', '4c', '49', '551', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Ac 4c
+OldBotv26's VPIP: 0.250000
+OldBotv26's PFR: 0.062500
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 28.000000
+BAMF6's VPIP: 0.062500
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.312500
+BAMF6's AF: 0.240000
+OldBotv16's VPIP: 0.062500
+OldBotv16's PFR: 0.062500
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (48)
+BAMF6 posts big blind, stack size (549)
+
+OldBotv26 raised to 4.
+BAMF6 called 4.
+BAMF6 checks.
+OldBotv26 bet 3.
+BAMF6 called 3.
+BAMF6 checks.
+OldBotv26 bet 11.
+BAMF6 called 11.
+BAMF6 checks.
+OldBotv26 bet 17.
+BAMF6 called 17.
+BAMF6 WTSD percentage is: 0.294118
+OldBotv26 WTSD percentage is: 0.235294
+OldBotv26 W$SD percentage is: 0.235294
+
+
+NEWHAND:18
+
+['NEWHAND', '18', '3', '8c', '7d', '516', '84', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 8c 7d
+BAMF6's VPIP: 0.058824
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.312500
+BAMF6's AF: 0.206897
+OldBotv26's VPIP: 0.235294
+OldBotv26's PFR: 0.058824
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 32.000000
+OldBotv16's VPIP: 0.058824
+OldBotv16's PFR: 0.058824
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (515)
+OldBotv26 posts big blind, stack size (82)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 bet 2.
+BAMF6 raised to 8.
+OldBotv26 folds.
+
+
+NEWHAND:19
+
+['NEWHAND', '19', '3', 'Jc', 'As', '80', '520', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Jc As
+OldBotv26's VPIP: 0.222222
+OldBotv26's PFR: 0.055556
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 33.000000
+BAMF6's VPIP: 0.055556
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.312500
+BAMF6's AF: 0.233333
+OldBotv16's VPIP: 0.055556
+OldBotv16's PFR: 0.055556
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (79)
+BAMF6 posts big blind, stack size (518)
+
+OldBotv26 raised to 4.
+BAMF6 folds.
+
+
+NEWHAND:20
+
+['NEWHAND', '20', '3', '9s', '5h', '518', '82', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 9s 5h
+BAMF6's VPIP: 0.052632
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.315789
+BAMF6's AF: 0.233333
+OldBotv26's VPIP: 0.263158
+OldBotv26's PFR: 0.052632
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 34.000000
+OldBotv16's VPIP: 0.052632
+OldBotv16's PFR: 0.052632
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (517)
+OldBotv26 posts big blind, stack size (80)
+
+BAMF6 called 2.
+OldBotv26 raised to 4.
+BAMF6 called 4.
+OldBotv26 checks.
+BAMF6 bet 7.
+OldBotv26 folds.
+
+
+NEWHAND:21
+
+['NEWHAND', '21', '3', '6d', '2s', '78', '522', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 6d 2s
+OldBotv26's VPIP: 0.250000
+OldBotv26's PFR: 0.050000
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 35.000000
+BAMF6's VPIP: 0.050000
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.315789
+BAMF6's AF: 0.250000
+OldBotv16's VPIP: 0.050000
+OldBotv16's PFR: 0.050000
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (77)
+BAMF6 posts big blind, stack size (520)
+
+OldBotv26 raised to 4.
+BAMF6 folds.
+
+
+NEWHAND:22
+
+['NEWHAND', '22', '3', 'Ah', '9s', '520', '80', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Ah 9s
+BAMF6's VPIP: 0.047619
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.333333
+BAMF6's AF: 0.250000
+OldBotv26's VPIP: 0.285714
+OldBotv26's PFR: 0.047619
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 36.000000
+OldBotv16's VPIP: 0.047619
+OldBotv16's PFR: 0.047619
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (519)
+OldBotv26 posts big blind, stack size (78)
+
+BAMF6 called 2.
+OldBotv26 raised to 4.
+BAMF6 called 4.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 bet 3.
+BAMF6 called 3.
+OldBotv26 bet 5.
+BAMF6 called 5.
+OldBotv26 WTSD percentage is: 0.227273
+BAMF6 WTSD percentage is: 0.272727
+OldBotv26 W$SD percentage is: 0.227273
+
+
+NEWHAND:23
+
+['NEWHAND', '23', '3', '5c', 'Ks', '92', '508', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 5c Ks
+OldBotv26's VPIP: 0.272727
+OldBotv26's PFR: 0.045455
+OldBotv26's estimated fold percentage is 0.000000
+OldBotv26's AF: 39.000000
+BAMF6's VPIP: 0.045455
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.333333
+BAMF6's AF: 0.222222
+OldBotv16's VPIP: 0.045455
+OldBotv16's PFR: 0.045455
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (91)
+BAMF6 posts big blind, stack size (506)
+
+OldBotv26 folds.
+
+
+NEWHAND:24
+
+['NEWHAND', '24', '3', 'Td', '7d', '509', '91', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Td 7d
+BAMF6's VPIP: 0.043478
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.333333
+BAMF6's AF: 0.222222
+OldBotv26's VPIP: 0.260870
+OldBotv26's PFR: 0.043478
+OldBotv26's estimated fold percentage is 0.043478
+OldBotv26's AF: 39.000000
+OldBotv16's VPIP: 0.043478
+OldBotv16's PFR: 0.043478
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (508)
+OldBotv26 posts big blind, stack size (89)
+
+BAMF6 called 2.
+OldBotv26 raised to 4.
+BAMF6 called 4.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+BAMF6 WTSD percentage is: 0.291667
+OldBotv26 WTSD percentage is: 0.250000
+OldBotv26 W$SD percentage is: 0.250000
+
+
+NEWHAND:25
+
+['NEWHAND', '25', '3', '6d', '2s', '95', '505', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 6d 2s
+OldBotv26's VPIP: 0.250000
+OldBotv26's PFR: 0.041667
+OldBotv26's estimated fold percentage is 0.043478
+OldBotv26's AF: 40.000000
+BAMF6's VPIP: 0.041667
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.333333
+BAMF6's AF: 0.210526
+OldBotv16's VPIP: 0.041667
+OldBotv16's PFR: 0.041667
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (94)
+BAMF6 posts big blind, stack size (503)
+
+OldBotv26 raised to 4.
+BAMF6 called 4.
+BAMF6 checks.
+OldBotv26 bet 3.
+BAMF6 called 3.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 bet 6.
+BAMF6 called 6.
+OldBotv26 WTSD percentage is: 0.280000
+BAMF6 WTSD percentage is: 0.320000
+BAMF6 W$SD percentage is: 0.080000
+
+
+NEWHAND:26
+
+['NEWHAND', '26', '3', 'Ts', '3h', '518', '82', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Ts 3h
+BAMF6's VPIP: 0.040000
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.333333
+BAMF6's AF: 0.195122
+OldBotv26's VPIP: 0.240000
+OldBotv26's PFR: 0.040000
+OldBotv26's estimated fold percentage is 0.043478
+OldBotv26's AF: 43.000000
+OldBotv16's VPIP: 0.040000
+OldBotv16's PFR: 0.040000
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (517)
+OldBotv26 posts big blind, stack size (80)
+
+BAMF6 called 2.
+OldBotv26 raised to 6.
+BAMF6 called 6.
+OldBotv26 bet 5.
+BAMF6 called 5.
+OldBotv26 bet 10.
+BAMF6 called 10.
+OldBotv26 bet 19.
+BAMF6 called 19.
+BAMF6 WTSD percentage is: 0.346154
+OldBotv26 WTSD percentage is: 0.307692
+OldBotv26 W$SD percentage is: 0.269231
+
+
+NEWHAND:27
+
+['NEWHAND', '27', '3', '6h', '3s', '122', '478', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 6h 3s
+OldBotv26's VPIP: 0.230769
+OldBotv26's PFR: 0.038462
+OldBotv26's estimated fold percentage is 0.043478
+OldBotv26's AF: 47.000000
+BAMF6's VPIP: 0.038462
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.333333
+BAMF6's AF: 0.173913
+OldBotv16's VPIP: 0.038462
+OldBotv16's PFR: 0.038462
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (121)
+BAMF6 posts big blind, stack size (476)
+
+OldBotv26 raised to 4.
+BAMF6 called 4.
+BAMF6 bet 7.
+OldBotv26 raised to 29.
+BAMF6 raised to 82.
+OldBotv26 folds.
+
+
+NEWHAND:28
+
+['NEWHAND', '28', '3', '3h', 'Ac', '511', '89', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 3h Ac
+BAMF6's VPIP: 0.037037
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.333333
+BAMF6's AF: 0.212766
+OldBotv26's VPIP: 0.222222
+OldBotv26's PFR: 0.037037
+OldBotv26's estimated fold percentage is 0.043478
+OldBotv26's AF: 49.000000
+OldBotv16's VPIP: 0.037037
+OldBotv16's PFR: 0.037037
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (510)
+OldBotv26 posts big blind, stack size (87)
+
+BAMF6 called 2.
+OldBotv26 raised to 5.
+BAMF6 called 5.
+OldBotv26 bet 10.
+BAMF6 folds.
+
+
+NEWHAND:29
+
+['NEWHAND', '29', '3', '5d', 'As', '94', '506', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 5d As
+OldBotv26's VPIP: 0.214286
+OldBotv26's PFR: 0.035714
+OldBotv26's estimated fold percentage is 0.043478
+OldBotv26's AF: 51.000000
+BAMF6's VPIP: 0.035714
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.333333
+BAMF6's AF: 0.204082
+OldBotv16's VPIP: 0.035714
+OldBotv16's PFR: 0.035714
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (93)
+BAMF6 posts big blind, stack size (504)
+
+OldBotv26 raised to 4.
+BAMF6 folds.
+
+
+NEWHAND:30
+
+['NEWHAND', '30', '3', 'Jh', '9c', '504', '96', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Jh 9c
+BAMF6's VPIP: 0.034483
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.275862
+BAMF6's AF: 0.204082
+OldBotv26's VPIP: 0.241379
+OldBotv26's PFR: 0.034483
+OldBotv26's estimated fold percentage is 0.043478
+OldBotv26's AF: 52.000000
+OldBotv16's VPIP: 0.034483
+OldBotv16's PFR: 0.034483
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (503)
+OldBotv26 posts big blind, stack size (94)
+
+BAMF6 folds.
+
+
+NEWHAND:31
+
+['NEWHAND', '31', '3', '7c', 'Qs', '97', '503', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 7c Qs
+OldBotv26's VPIP: 0.233333
+OldBotv26's PFR: 0.033333
+OldBotv26's estimated fold percentage is 0.043478
+OldBotv26's AF: 52.000000
+BAMF6's VPIP: 0.033333
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.300000
+BAMF6's AF: 0.204082
+OldBotv16's VPIP: 0.033333
+OldBotv16's PFR: 0.033333
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (96)
+BAMF6 posts big blind, stack size (501)
+
+OldBotv26 raised to 4.
+BAMF6 called 4.
+BAMF6 checks.
+OldBotv26 bet 3.
+BAMF6 called 3.
+BAMF6 checks.
+OldBotv26 bet 6.
+BAMF6 called 6.
+BAMF6 bet 22.
+OldBotv26 raised to 49.
+BAMF6 raised to 76.
+OldBotv26 folds.
+
+
+NEWHAND:32
+
+['NEWHAND', '32', '3', '3s', '3h', '565', '35', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 3s 3h
+BAMF6's VPIP: 0.032258
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.300000
+BAMF6's AF: 0.230769
+OldBotv26's VPIP: 0.225806
+OldBotv26's PFR: 0.032258
+OldBotv26's estimated fold percentage is 0.043478
+OldBotv26's AF: 56.000000
+OldBotv16's VPIP: 0.032258
+OldBotv16's PFR: 0.032258
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (564)
+OldBotv26 posts big blind, stack size (33)
+
+BAMF6 called 2.
+OldBotv26 raised to 4.
+BAMF6 called 4.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+BAMF6 WTSD percentage is: 0.312500
+OldBotv26 WTSD percentage is: 0.281250
+BAMF6 W$SD percentage is: 0.093750
+
+
+NEWHAND:33
+
+['NEWHAND', '33', '3', '2h', 'Kh', '31', '569', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 2h Kh
+OldBotv26's VPIP: 0.218750
+OldBotv26's PFR: 0.031250
+OldBotv26's estimated fold percentage is 0.043478
+OldBotv26's AF: 57.000000
+BAMF6's VPIP: 0.031250
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.300000
+BAMF6's AF: 0.222222
+OldBotv16's VPIP: 0.031250
+OldBotv16's PFR: 0.031250
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (30)
+BAMF6 posts big blind, stack size (567)
+
+OldBotv26 raised to 4.
+BAMF6 folds.
+
+
+NEWHAND:34
+
+['NEWHAND', '34', '3', '4s', '8h', '567', '33', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 4s 8h
+BAMF6's VPIP: 0.030303
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.303030
+BAMF6's AF: 0.222222
+OldBotv26's VPIP: 0.242424
+OldBotv26's PFR: 0.030303
+OldBotv26's estimated fold percentage is 0.043478
+OldBotv26's AF: 58.000000
+OldBotv16's VPIP: 0.030303
+OldBotv16's PFR: 0.030303
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (566)
+OldBotv26 posts big blind, stack size (31)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 bet 4.
+BAMF6 raised to 14.
+OldBotv26 folds.
+
+
+NEWHAND:35
+
+['NEWHAND', '35', '3', '4c', 'Qd', '27', '573', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 4c Qd
+OldBotv26's VPIP: 0.235294
+OldBotv26's PFR: 0.029412
+OldBotv26's estimated fold percentage is 0.043478
+OldBotv26's AF: 59.000000
+BAMF6's VPIP: 0.029412
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.303030
+BAMF6's AF: 0.236364
+OldBotv16's VPIP: 0.029412
+OldBotv16's PFR: 0.029412
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (26)
+BAMF6 posts big blind, stack size (571)
+
+OldBotv26 folds.
+
+
+NEWHAND:36
+
+['NEWHAND', '36', '3', '4s', 'Qd', '574', '26', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 4s Qd
+BAMF6's VPIP: 0.028571
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.303030
+BAMF6's AF: 0.236364
+OldBotv26's VPIP: 0.228571
+OldBotv26's PFR: 0.028571
+OldBotv26's estimated fold percentage is 0.057143
+OldBotv26's AF: 59.000000
+OldBotv16's VPIP: 0.028571
+OldBotv16's PFR: 0.028571
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (573)
+OldBotv26 posts big blind, stack size (24)
+
+BAMF6 folds.
+
+
+NEWHAND:37
+
+['NEWHAND', '37', '3', 'As', 'Js', '27', '573', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: As Js
+OldBotv26's VPIP: 0.222222
+OldBotv26's PFR: 0.027778
+OldBotv26's estimated fold percentage is 0.057143
+OldBotv26's AF: 59.000000
+BAMF6's VPIP: 0.027778
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.305556
+BAMF6's AF: 0.236364
+OldBotv16's VPIP: 0.027778
+OldBotv16's PFR: 0.027778
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (26)
+BAMF6 posts big blind, stack size (571)
+
+OldBotv26 raised to 5.
+BAMF6 called 5.
+BAMF6 checks.
+OldBotv26 bet 4.
+BAMF6 called 4.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+OldBotv26 WTSD percentage is: 0.270270
+BAMF6 WTSD percentage is: 0.297297
+BAMF6 W$SD percentage is: 0.108108
+
+
+NEWHAND:38
+
+['NEWHAND', '38', '3', '4d', 'Jh', '582', '18', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 4d Jh
+BAMF6's VPIP: 0.027027
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.305556
+BAMF6's AF: 0.228070
+OldBotv26's VPIP: 0.216216
+OldBotv26's PFR: 0.027027
+OldBotv26's estimated fold percentage is 0.057143
+OldBotv26's AF: 61.000000
+OldBotv16's VPIP: 0.027027
+OldBotv16's PFR: 0.027027
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (581)
+OldBotv26 posts big blind, stack size (16)
+
+BAMF6 folds.
+
+
+NEWHAND:39
+
+['NEWHAND', '39', '3', 'Ts', '9h', '19', '581', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Ts 9h
+OldBotv26's VPIP: 0.210526
+OldBotv26's PFR: 0.026316
+OldBotv26's estimated fold percentage is 0.057143
+OldBotv26's AF: 61.000000
+BAMF6's VPIP: 0.026316
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.315789
+BAMF6's AF: 0.228070
+OldBotv16's VPIP: 0.026316
+OldBotv16's PFR: 0.026316
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (18)
+BAMF6 posts big blind, stack size (579)
+
+OldBotv26 folds.
+
+
+NEWHAND:40
+
+['NEWHAND', '40', '3', '2d', '3d', '582', '18', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 2d 3d
+BAMF6's VPIP: 0.025641
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.315789
+BAMF6's AF: 0.228070
+OldBotv26's VPIP: 0.205128
+OldBotv26's PFR: 0.025641
+OldBotv26's estimated fold percentage is 0.076923
+OldBotv26's AF: 61.000000
+OldBotv16's VPIP: 0.025641
+OldBotv16's PFR: 0.025641
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (581)
+OldBotv26 posts big blind, stack size (16)
+
+BAMF6 folds.
+
+
+NEWHAND:41
+
+['NEWHAND', '41', '3', 'Tc', 'Kh', '19', '581', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Tc Kh
+OldBotv26's VPIP: 0.200000
+OldBotv26's PFR: 0.025000
+OldBotv26's estimated fold percentage is 0.076923
+OldBotv26's AF: 61.000000
+BAMF6's VPIP: 0.025000
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.325000
+BAMF6's AF: 0.228070
+OldBotv16's VPIP: 0.025000
+OldBotv16's PFR: 0.025000
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (18)
+BAMF6 posts big blind, stack size (579)
+
+OldBotv26 folds.
+
+
+NEWHAND:42
+
+['NEWHAND', '42', '3', '7s', 'Td', '582', '18', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 7s Td
+BAMF6's VPIP: 0.024390
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.325000
+BAMF6's AF: 0.228070
+OldBotv26's VPIP: 0.195122
+OldBotv26's PFR: 0.024390
+OldBotv26's estimated fold percentage is 0.097561
+OldBotv26's AF: 61.000000
+OldBotv16's VPIP: 0.024390
+OldBotv16's PFR: 0.024390
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (581)
+OldBotv26 posts big blind, stack size (16)
+
+BAMF6 folds.
+
+
+NEWHAND:43
+
+['NEWHAND', '43', '3', 'As', '8d', '19', '581', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: As 8d
+OldBotv26's VPIP: 0.190476
+OldBotv26's PFR: 0.023810
+OldBotv26's estimated fold percentage is 0.097561
+OldBotv26's AF: 61.000000
+BAMF6's VPIP: 0.023810
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.333333
+BAMF6's AF: 0.228070
+OldBotv16's VPIP: 0.023810
+OldBotv16's PFR: 0.023810
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (18)
+BAMF6 posts big blind, stack size (579)
+
+OldBotv26 folds.
+
+
+NEWHAND:44
+
+['NEWHAND', '44', '3', '3s', 'As', '582', '18', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 3s As
+BAMF6's VPIP: 0.023256
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.333333
+BAMF6's AF: 0.228070
+OldBotv26's VPIP: 0.186047
+OldBotv26's PFR: 0.023256
+OldBotv26's estimated fold percentage is 0.116279
+OldBotv26's AF: 61.000000
+OldBotv16's VPIP: 0.023256
+OldBotv16's PFR: 0.023256
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (581)
+OldBotv26 posts big blind, stack size (16)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 checks.
+BAMF6 bet 2.
+OldBotv26 folds.
+
+
+NEWHAND:45
+
+['NEWHAND', '45', '3', '8c', '7h', '16', '584', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 8c 7h
+OldBotv26's VPIP: 0.181818
+OldBotv26's PFR: 0.022727
+OldBotv26's estimated fold percentage is 0.116279
+OldBotv26's AF: 61.000000
+BAMF6's VPIP: 0.022727
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.333333
+BAMF6's AF: 0.241379
+OldBotv16's VPIP: 0.022727
+OldBotv16's PFR: 0.022727
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (15)
+BAMF6 posts big blind, stack size (582)
+
+OldBotv26 folds.
+
+
+NEWHAND:46
+
+['NEWHAND', '46', '3', '5s', '8c', '585', '15', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 5s 8c
+BAMF6's VPIP: 0.022222
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.333333
+BAMF6's AF: 0.241379
+OldBotv26's VPIP: 0.177778
+OldBotv26's PFR: 0.022222
+OldBotv26's estimated fold percentage is 0.133333
+OldBotv26's AF: 61.000000
+OldBotv16's VPIP: 0.022222
+OldBotv16's PFR: 0.022222
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (584)
+OldBotv26 posts big blind, stack size (13)
+
+BAMF6 folds.
+
+
+NEWHAND:47
+
+['NEWHAND', '47', '3', 'Qs', '9d', '16', '584', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Qs 9d
+OldBotv26's VPIP: 0.173913
+OldBotv26's PFR: 0.021739
+OldBotv26's estimated fold percentage is 0.133333
+OldBotv26's AF: 61.000000
+BAMF6's VPIP: 0.021739
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.326087
+BAMF6's AF: 0.241379
+OldBotv16's VPIP: 0.021739
+OldBotv16's PFR: 0.021739
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (15)
+BAMF6 posts big blind, stack size (582)
+
+OldBotv26 folds.
+
+
+NEWHAND:48
+
+['NEWHAND', '48', '3', '3h', 'Ac', '585', '15', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 3h Ac
+BAMF6's VPIP: 0.021277
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.326087
+BAMF6's AF: 0.241379
+OldBotv26's VPIP: 0.170213
+OldBotv26's PFR: 0.021277
+OldBotv26's estimated fold percentage is 0.148936
+OldBotv26's AF: 61.000000
+OldBotv16's VPIP: 0.021277
+OldBotv16's PFR: 0.021277
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (584)
+OldBotv26 posts big blind, stack size (13)
+
+BAMF6 folds.
+
+
+NEWHAND:49
+
+['NEWHAND', '49', '3', '6h', '5d', '16', '584', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 6h 5d
+OldBotv26's VPIP: 0.166667
+OldBotv26's PFR: 0.020833
+OldBotv26's estimated fold percentage is 0.148936
+OldBotv26's AF: 61.000000
+BAMF6's VPIP: 0.020833
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.333333
+BAMF6's AF: 0.241379
+OldBotv16's VPIP: 0.020833
+OldBotv16's PFR: 0.020833
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (15)
+BAMF6 posts big blind, stack size (582)
+
+OldBotv26 folds.
+
+
+NEWHAND:50
+
+['NEWHAND', '50', '3', '8c', 'Jh', '585', '15', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 8c Jh
+BAMF6's VPIP: 0.020408
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.333333
+BAMF6's AF: 0.241379
+OldBotv26's VPIP: 0.163265
+OldBotv26's PFR: 0.020408
+OldBotv26's estimated fold percentage is 0.163265
+OldBotv26's AF: 61.000000
+OldBotv16's VPIP: 0.020408
+OldBotv16's PFR: 0.020408
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (584)
+OldBotv26 posts big blind, stack size (13)
+
+BAMF6 folds.
+
+
+NEWHAND:51
+
+['NEWHAND', '51', '3', 'Js', 'Ad', '16', '584', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Js Ad
+OldBotv26's VPIP: 0.160000
+OldBotv26's PFR: 0.020000
+OldBotv26's estimated fold percentage is 0.163265
+OldBotv26's AF: 61.000000
+BAMF6's VPIP: 0.020000
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.340000
+BAMF6's AF: 0.241379
+OldBotv16's VPIP: 0.020000
+OldBotv16's PFR: 0.020000
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (15)
+BAMF6 posts big blind, stack size (582)
+
+OldBotv26 folds.
+
+
+NEWHAND:52
+
+['NEWHAND', '52', '3', '9d', 'Kh', '585', '15', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 9d Kh
+BAMF6's VPIP: 0.019608
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.340000
+BAMF6's AF: 0.241379
+OldBotv26's VPIP: 0.156863
+OldBotv26's PFR: 0.019608
+OldBotv26's estimated fold percentage is 0.176471
+OldBotv26's AF: 61.000000
+OldBotv16's VPIP: 0.019608
+OldBotv16's PFR: 0.019608
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (584)
+OldBotv26 posts big blind, stack size (13)
+
+BAMF6 folds.
+
+
+NEWHAND:53
+
+['NEWHAND', '53', '3', '2d', '4c', '16', '584', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 2d 4c
+OldBotv26's VPIP: 0.153846
+OldBotv26's PFR: 0.019231
+OldBotv26's estimated fold percentage is 0.176471
+OldBotv26's AF: 61.000000
+BAMF6's VPIP: 0.019231
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.346154
+BAMF6's AF: 0.241379
+OldBotv16's VPIP: 0.019231
+OldBotv16's PFR: 0.019231
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (15)
+BAMF6 posts big blind, stack size (582)
+
+OldBotv26 folds.
+
+
+NEWHAND:54
+
+['NEWHAND', '54', '3', 'Ac', 'Qs', '585', '15', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Ac Qs
+BAMF6's VPIP: 0.018868
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.346154
+BAMF6's AF: 0.241379
+OldBotv26's VPIP: 0.150943
+OldBotv26's PFR: 0.018868
+OldBotv26's estimated fold percentage is 0.188679
+OldBotv26's AF: 61.000000
+OldBotv16's VPIP: 0.018868
+OldBotv16's PFR: 0.018868
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (584)
+OldBotv26 posts big blind, stack size (13)
+
+BAMF6 folds.
+
+
+NEWHAND:55
+
+['NEWHAND', '55', '3', '7s', 'Qd', '16', '584', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 7s Qd
+OldBotv26's VPIP: 0.148148
+OldBotv26's PFR: 0.018519
+OldBotv26's estimated fold percentage is 0.188679
+OldBotv26's AF: 61.000000
+BAMF6's VPIP: 0.018519
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.351852
+BAMF6's AF: 0.241379
+OldBotv16's VPIP: 0.018519
+OldBotv16's PFR: 0.018519
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (15)
+BAMF6 posts big blind, stack size (582)
+
+OldBotv26 folds.
+
+
+NEWHAND:56
+
+['NEWHAND', '56', '3', 'Ad', '6d', '585', '15', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Ad 6d
+BAMF6's VPIP: 0.018182
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.351852
+BAMF6's AF: 0.241379
+OldBotv26's VPIP: 0.145455
+OldBotv26's PFR: 0.018182
+OldBotv26's estimated fold percentage is 0.200000
+OldBotv26's AF: 61.000000
+OldBotv16's VPIP: 0.018182
+OldBotv16's PFR: 0.018182
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (584)
+OldBotv26 posts big blind, stack size (13)
+
+BAMF6 folds.
+
+
+NEWHAND:57
+
+['NEWHAND', '57', '3', '4h', 'Qh', '16', '584', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 4h Qh
+OldBotv26's VPIP: 0.142857
+OldBotv26's PFR: 0.017857
+OldBotv26's estimated fold percentage is 0.200000
+OldBotv26's AF: 61.000000
+BAMF6's VPIP: 0.017857
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.357143
+BAMF6's AF: 0.241379
+OldBotv16's VPIP: 0.017857
+OldBotv16's PFR: 0.017857
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (15)
+BAMF6 posts big blind, stack size (582)
+
+OldBotv26 folds.
+
+
+NEWHAND:58
+
+['NEWHAND', '58', '3', 'Td', '2h', '585', '15', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Td 2h
+BAMF6's VPIP: 0.017544
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.357143
+BAMF6's AF: 0.241379
+OldBotv26's VPIP: 0.140351
+OldBotv26's PFR: 0.017544
+OldBotv26's estimated fold percentage is 0.210526
+OldBotv26's AF: 61.000000
+OldBotv16's VPIP: 0.017544
+OldBotv16's PFR: 0.017544
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (584)
+OldBotv26 posts big blind, stack size (13)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 WTSD percentage is: 0.189655
+BAMF6 WTSD percentage is: 0.206897
+OldBotv26 W$SD percentage is: 0.137931
+
+
+NEWHAND:59
+
+['NEWHAND', '59', '3', '8c', '7d', '17', '583', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 8c 7d
+OldBotv26's VPIP: 0.137931
+OldBotv26's PFR: 0.017241
+OldBotv26's estimated fold percentage is 0.210526
+OldBotv26's AF: 61.000000
+BAMF6's VPIP: 0.017241
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.357143
+BAMF6's AF: 0.237288
+OldBotv16's VPIP: 0.017241
+OldBotv16's PFR: 0.017241
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (16)
+BAMF6 posts big blind, stack size (581)
+
+OldBotv26 folds.
+
+
+NEWHAND:60
+
+['NEWHAND', '60', '3', '2d', 'Qs', '584', '16', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 2d Qs
+BAMF6's VPIP: 0.016949
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.357143
+BAMF6's AF: 0.237288
+OldBotv26's VPIP: 0.135593
+OldBotv26's PFR: 0.016949
+OldBotv26's estimated fold percentage is 0.220339
+OldBotv26's AF: 61.000000
+OldBotv16's VPIP: 0.016949
+OldBotv16's PFR: 0.016949
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (583)
+OldBotv26 posts big blind, stack size (14)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 checks.
+BAMF6 bet 3.
+OldBotv26 folds.
+
+
+NEWHAND:61
+
+['NEWHAND', '61', '3', '5h', '5s', '14', '586', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 5h 5s
+OldBotv26's VPIP: 0.133333
+OldBotv26's PFR: 0.016667
+OldBotv26's estimated fold percentage is 0.220339
+OldBotv26's AF: 61.000000
+BAMF6's VPIP: 0.016667
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.357143
+BAMF6's AF: 0.250000
+OldBotv16's VPIP: 0.016667
+OldBotv16's PFR: 0.016667
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (13)
+BAMF6 posts big blind, stack size (584)
+
+OldBotv26 folds.
+
+
+NEWHAND:62
+
+['NEWHAND', '62', '3', 'Ac', 'Qd', '587', '13', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Ac Qd
+BAMF6's VPIP: 0.016393
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.357143
+BAMF6's AF: 0.250000
+OldBotv26's VPIP: 0.131148
+OldBotv26's PFR: 0.016393
+OldBotv26's estimated fold percentage is 0.229508
+OldBotv26's AF: 61.000000
+OldBotv16's VPIP: 0.016393
+OldBotv16's PFR: 0.016393
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (586)
+OldBotv26 posts big blind, stack size (11)
+
+BAMF6 folds.
+
+
+NEWHAND:63
+
+['NEWHAND', '63', '3', 'Qc', '5d', '14', '586', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Qc 5d
+OldBotv26's VPIP: 0.129032
+OldBotv26's PFR: 0.016129
+OldBotv26's estimated fold percentage is 0.229508
+OldBotv26's AF: 61.000000
+BAMF6's VPIP: 0.016129
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.338710
+BAMF6's AF: 0.250000
+OldBotv16's VPIP: 0.016129
+OldBotv16's PFR: 0.016129
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (13)
+BAMF6 posts big blind, stack size (584)
+
+OldBotv26 folds.
+
+
+NEWHAND:64
+
+['NEWHAND', '64', '3', '9c', '7d', '587', '13', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 9c 7d
+BAMF6's VPIP: 0.015873
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.338710
+BAMF6's AF: 0.250000
+OldBotv26's VPIP: 0.126984
+OldBotv26's PFR: 0.015873
+OldBotv26's estimated fold percentage is 0.238095
+OldBotv26's AF: 61.000000
+OldBotv16's VPIP: 0.015873
+OldBotv16's PFR: 0.015873
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (586)
+OldBotv26 posts big blind, stack size (11)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 bet 4.
+OldBotv26 raised to 11.
+BAMF6 called 11.
+OldBotv26 WTSD percentage is: 0.187500
+BAMF6 WTSD percentage is: 0.203125
+OldBotv26 W$SD percentage is: 0.140625
+
+
+NEWHAND:65
+
+['NEWHAND', '65', '3', '5s', 'Qh', '26', '574', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 5s Qh
+OldBotv26's VPIP: 0.125000
+OldBotv26's PFR: 0.015625
+OldBotv26's estimated fold percentage is 0.238095
+OldBotv26's AF: 62.000000
+BAMF6's VPIP: 0.015625
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.338710
+BAMF6's AF: 0.258065
+OldBotv16's VPIP: 0.015625
+OldBotv16's PFR: 0.015625
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (25)
+BAMF6 posts big blind, stack size (572)
+
+OldBotv26 raised to 4.
+BAMF6 called 4.
+BAMF6 checks.
+OldBotv26 bet 2.
+BAMF6 called 2.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 WTSD percentage is: 0.215385
+OldBotv26 WTSD percentage is: 0.200000
+OldBotv26 W$SD percentage is: 0.153846
+
+
+NEWHAND:66
+
+['NEWHAND', '66', '3', '4s', 'Kd', '568', '32', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 4s Kd
+BAMF6's VPIP: 0.015385
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.338710
+BAMF6's AF: 0.250000
+OldBotv26's VPIP: 0.123077
+OldBotv26's PFR: 0.015385
+OldBotv26's estimated fold percentage is 0.238095
+OldBotv26's AF: 64.000000
+OldBotv16's VPIP: 0.015385
+OldBotv16's PFR: 0.015385
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (567)
+OldBotv26 posts big blind, stack size (30)
+
+BAMF6 called 2.
+OldBotv26 raised to 4.
+BAMF6 called 4.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 bet 3.
+BAMF6 folds.
+
+
+NEWHAND:67
+
+['NEWHAND', '67', '3', '4c', '9s', '36', '564', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 4c 9s
+OldBotv26's VPIP: 0.121212
+OldBotv26's PFR: 0.015152
+OldBotv26's estimated fold percentage is 0.238095
+OldBotv26's AF: 66.000000
+BAMF6's VPIP: 0.015152
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.338710
+BAMF6's AF: 0.242424
+OldBotv16's VPIP: 0.015152
+OldBotv16's PFR: 0.015152
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (35)
+BAMF6 posts big blind, stack size (562)
+
+OldBotv26 raised to 4.
+BAMF6 folds.
+
+
+NEWHAND:68
+
+['NEWHAND', '68', '3', '5s', 'Jh', '562', '38', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 5s Jh
+BAMF6's VPIP: 0.014925
+BAMF6's PFR: 0.000000
+BAMF6's estimated fold percentage is 0.328358
+BAMF6's AF: 0.242424
+OldBotv26's VPIP: 0.134328
+OldBotv26's PFR: 0.014925
+OldBotv26's estimated fold percentage is 0.238095
+OldBotv26's AF: 67.000000
+OldBotv16's VPIP: 0.014925
+OldBotv16's PFR: 0.014925
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (561)
+OldBotv26 posts big blind, stack size (36)
+
+BAMF6 raised to 6.
+OldBotv26 raised to 11.
+BAMF6 raised to 23.
+OldBotv26 folds.
+
+
+NEWHAND:69
+
+['NEWHAND', '69', '3', '5s', 'As', '27', '573', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 5s As
+OldBotv26's VPIP: 0.147059
+OldBotv26's PFR: 0.014706
+OldBotv26's estimated fold percentage is 0.235294
+OldBotv26's AF: 68.000000
+BAMF6's VPIP: 0.029412
+BAMF6's PFR: 0.014706
+BAMF6's estimated fold percentage is 0.328358
+BAMF6's AF: 0.272727
+OldBotv16's VPIP: 0.014706
+OldBotv16's PFR: 0.014706
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (26)
+BAMF6 posts big blind, stack size (571)
+
+OldBotv26 raised to 4.
+BAMF6 called 4.
+BAMF6 bet 8.
+OldBotv26 called 8.
+BAMF6 bet 15.
+OldBotv26 folds.
+
+
+NEWHAND:70
+
+['NEWHAND', '70', '3', 'Ac', '2h', '585', '15', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Ac 2h
+BAMF6's VPIP: 0.028986
+BAMF6's PFR: 0.014493
+BAMF6's estimated fold percentage is 0.328358
+BAMF6's AF: 0.298507
+OldBotv26's VPIP: 0.144928
+OldBotv26's PFR: 0.014493
+OldBotv26's estimated fold percentage is 0.235294
+OldBotv26's AF: 69.000000
+OldBotv16's VPIP: 0.014493
+OldBotv16's PFR: 0.014493
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (584)
+OldBotv26 posts big blind, stack size (13)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 checks.
+BAMF6 bet 2.
+OldBotv26 folds.
+
+
+NEWHAND:71
+
+['NEWHAND', '71', '3', '6h', 'Ac', '13', '587', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 6h Ac
+OldBotv26's VPIP: 0.142857
+OldBotv26's PFR: 0.014286
+OldBotv26's estimated fold percentage is 0.235294
+OldBotv26's AF: 69.000000
+BAMF6's VPIP: 0.028571
+BAMF6's PFR: 0.014286
+BAMF6's estimated fold percentage is 0.328358
+BAMF6's AF: 0.308824
+OldBotv16's VPIP: 0.014286
+OldBotv16's PFR: 0.014286
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (12)
+BAMF6 posts big blind, stack size (585)
+
+OldBotv26 folds.
+
+
+NEWHAND:72
+
+['NEWHAND', '72', '3', '2h', '6h', '588', '12', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 2h 6h
+BAMF6's VPIP: 0.028169
+BAMF6's PFR: 0.014085
+BAMF6's estimated fold percentage is 0.328358
+BAMF6's AF: 0.308824
+OldBotv26's VPIP: 0.140845
+OldBotv26's PFR: 0.014085
+OldBotv26's estimated fold percentage is 0.239437
+OldBotv26's AF: 69.000000
+OldBotv16's VPIP: 0.014085
+OldBotv16's PFR: 0.014085
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (587)
+OldBotv26 posts big blind, stack size (10)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 checks.
+BAMF6 bet 3.
+OldBotv26 raised to 10.
+BAMF6 called 10.
+BAMF6 WTSD percentage is: 0.208333
+OldBotv26 WTSD percentage is: 0.194444
+OldBotv26 W$SD percentage is: 0.152778
+
+
+NEWHAND:73
+
+['NEWHAND', '73', '3', '5c', 'Ks', '24', '576', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 5c Ks
+OldBotv26's VPIP: 0.138889
+OldBotv26's PFR: 0.013889
+OldBotv26's estimated fold percentage is 0.239437
+OldBotv26's AF: 70.000000
+BAMF6's VPIP: 0.027778
+BAMF6's PFR: 0.013889
+BAMF6's estimated fold percentage is 0.328358
+BAMF6's AF: 0.314286
+OldBotv16's VPIP: 0.013889
+OldBotv16's PFR: 0.013889
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (23)
+BAMF6 posts big blind, stack size (574)
+
+OldBotv26 raised to 4.
+BAMF6 called 4.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 bet 3.
+BAMF6 called 3.
+BAMF6 checks.
+OldBotv26 checks.
+OldBotv26 WTSD percentage is: 0.205479
+BAMF6 WTSD percentage is: 0.219178
+BAMF6 W$SD percentage is: 0.068493
+
+
+NEWHAND:74
+
+['NEWHAND', '74', '3', 'Th', '2s', '583', '17', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Th 2s
+BAMF6's VPIP: 0.027397
+BAMF6's PFR: 0.013699
+BAMF6's estimated fold percentage is 0.328358
+BAMF6's AF: 0.305556
+OldBotv26's VPIP: 0.136986
+OldBotv26's PFR: 0.013699
+OldBotv26's estimated fold percentage is 0.239437
+OldBotv26's AF: 72.000000
+OldBotv16's VPIP: 0.013699
+OldBotv16's PFR: 0.013699
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (582)
+OldBotv26 posts big blind, stack size (15)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+BAMF6 WTSD percentage is: 0.229730
+OldBotv26 WTSD percentage is: 0.216216
+OldBotv26 W$SD percentage is: 0.162162
+
+
+NEWHAND:75
+
+['NEWHAND', '75', '3', 'Ad', 'Tc', '19', '581', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Ad Tc
+OldBotv26's VPIP: 0.135135
+OldBotv26's PFR: 0.013514
+OldBotv26's estimated fold percentage is 0.239437
+OldBotv26's AF: 72.000000
+BAMF6's VPIP: 0.027027
+BAMF6's PFR: 0.013514
+BAMF6's estimated fold percentage is 0.328358
+BAMF6's AF: 0.301370
+OldBotv16's VPIP: 0.013514
+OldBotv16's PFR: 0.013514
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (18)
+BAMF6 posts big blind, stack size (579)
+
+OldBotv26 folds.
+
+
+NEWHAND:76
+
+['NEWHAND', '76', '3', '9d', 'Td', '582', '18', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 9d Td
+BAMF6's VPIP: 0.026667
+BAMF6's PFR: 0.013333
+BAMF6's estimated fold percentage is 0.328358
+BAMF6's AF: 0.301370
+OldBotv26's VPIP: 0.133333
+OldBotv26's PFR: 0.013333
+OldBotv26's estimated fold percentage is 0.240000
+OldBotv26's AF: 72.000000
+OldBotv16's VPIP: 0.013333
+OldBotv16's PFR: 0.013333
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (581)
+OldBotv26 posts big blind, stack size (16)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 WTSD percentage is: 0.223684
+BAMF6 WTSD percentage is: 0.236842
+BAMF6 W$SD percentage is: 0.078947
+
+
+NEWHAND:77
+
+['NEWHAND', '77', '3', '3c', '4s', '16', '584', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 3c 4s
+OldBotv26's VPIP: 0.131579
+OldBotv26's PFR: 0.013158
+OldBotv26's estimated fold percentage is 0.240000
+OldBotv26's AF: 72.000000
+BAMF6's VPIP: 0.026316
+BAMF6's PFR: 0.013158
+BAMF6's estimated fold percentage is 0.328358
+BAMF6's AF: 0.297297
+OldBotv16's VPIP: 0.013158
+OldBotv16's PFR: 0.013158
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (15)
+BAMF6 posts big blind, stack size (582)
+
+OldBotv26 folds.
+
+
+NEWHAND:78
+
+['NEWHAND', '78', '3', '4s', '2s', '585', '15', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 4s 2s
+BAMF6's VPIP: 0.025974
+BAMF6's PFR: 0.012987
+BAMF6's estimated fold percentage is 0.328358
+BAMF6's AF: 0.297297
+OldBotv26's VPIP: 0.129870
+OldBotv26's PFR: 0.012987
+OldBotv26's estimated fold percentage is 0.246753
+OldBotv26's AF: 72.000000
+OldBotv16's VPIP: 0.012987
+OldBotv16's PFR: 0.012987
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (584)
+OldBotv26 posts big blind, stack size (13)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 checks.
+BAMF6 bet 3.
+OldBotv26 folds.
+
+
+NEWHAND:79
+
+['NEWHAND', '79', '3', '5h', '4c', '13', '587', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 5h 4c
+OldBotv26's VPIP: 0.128205
+OldBotv26's PFR: 0.012821
+OldBotv26's estimated fold percentage is 0.246753
+OldBotv26's AF: 72.000000
+BAMF6's VPIP: 0.025641
+BAMF6's PFR: 0.012821
+BAMF6's estimated fold percentage is 0.328358
+BAMF6's AF: 0.306667
+OldBotv16's VPIP: 0.012821
+OldBotv16's PFR: 0.012821
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (12)
+BAMF6 posts big blind, stack size (585)
+
+OldBotv26 folds.
+
+
+NEWHAND:80
+
+['NEWHAND', '80', '3', 'Ts', '8c', '588', '12', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Ts 8c
+BAMF6's VPIP: 0.025316
+BAMF6's PFR: 0.012658
+BAMF6's estimated fold percentage is 0.328358
+BAMF6's AF: 0.306667
+OldBotv26's VPIP: 0.126582
+OldBotv26's PFR: 0.012658
+OldBotv26's estimated fold percentage is 0.253165
+OldBotv26's AF: 72.000000
+OldBotv16's VPIP: 0.012658
+OldBotv16's PFR: 0.012658
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (587)
+OldBotv26 posts big blind, stack size (10)
+
+BAMF6 folds.
+
+
+NEWHAND:81
+
+['NEWHAND', '81', '3', '3s', 'Ks', '13', '587', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 3s Ks
+OldBotv26's VPIP: 0.125000
+OldBotv26's PFR: 0.012500
+OldBotv26's estimated fold percentage is 0.253165
+OldBotv26's AF: 72.000000
+BAMF6's VPIP: 0.025000
+BAMF6's PFR: 0.012500
+BAMF6's estimated fold percentage is 0.287500
+BAMF6's AF: 0.306667
+OldBotv16's VPIP: 0.012500
+OldBotv16's PFR: 0.012500
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (12)
+BAMF6 posts big blind, stack size (585)
+
+OldBotv26 folds.
+
+
+NEWHAND:82
+
+['NEWHAND', '82', '3', 'Td', '3h', '588', '12', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Td 3h
+BAMF6's VPIP: 0.024691
+BAMF6's PFR: 0.012346
+BAMF6's estimated fold percentage is 0.287500
+BAMF6's AF: 0.306667
+OldBotv26's VPIP: 0.123457
+OldBotv26's PFR: 0.012346
+OldBotv26's estimated fold percentage is 0.259259
+OldBotv26's AF: 72.000000
+OldBotv16's VPIP: 0.012346
+OldBotv16's PFR: 0.012346
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (587)
+OldBotv26 posts big blind, stack size (10)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 checks.
+BAMF6 bet 3.
+OldBotv26 folds.
+
+
+NEWHAND:83
+
+['NEWHAND', '83', '3', '5c', '2h', '10', '590', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 5c 2h
+OldBotv26's VPIP: 0.121951
+OldBotv26's PFR: 0.012195
+OldBotv26's estimated fold percentage is 0.259259
+OldBotv26's AF: 72.000000
+BAMF6's VPIP: 0.024390
+BAMF6's PFR: 0.012195
+BAMF6's estimated fold percentage is 0.287500
+BAMF6's AF: 0.315789
+OldBotv16's VPIP: 0.012195
+OldBotv16's PFR: 0.012195
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (9)
+BAMF6 posts big blind, stack size (588)
+
+OldBotv26 folds.
+
+
+NEWHAND:84
+
+['NEWHAND', '84', '3', 'Ah', '9d', '591', '9', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Ah 9d
+BAMF6's VPIP: 0.024096
+BAMF6's PFR: 0.012048
+BAMF6's estimated fold percentage is 0.287500
+BAMF6's AF: 0.315789
+OldBotv26's VPIP: 0.120482
+OldBotv26's PFR: 0.012048
+OldBotv26's estimated fold percentage is 0.265060
+OldBotv26's AF: 72.000000
+OldBotv16's VPIP: 0.012048
+OldBotv16's PFR: 0.012048
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (590)
+OldBotv26 posts big blind, stack size (7)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+BAMF6 WTSD percentage is: 0.226190
+OldBotv26 WTSD percentage is: 0.214286
+OldBotv26 W$SD percentage is: 0.154762
+
+
+NEWHAND:85
+
+['NEWHAND', '85', '3', '4s', '5d', '11', '589', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 4s 5d
+OldBotv26's VPIP: 0.119048
+OldBotv26's PFR: 0.011905
+OldBotv26's estimated fold percentage is 0.265060
+OldBotv26's AF: 72.000000
+BAMF6's VPIP: 0.023810
+BAMF6's PFR: 0.011905
+BAMF6's estimated fold percentage is 0.287500
+BAMF6's AF: 0.311688
+OldBotv16's VPIP: 0.011905
+OldBotv16's PFR: 0.011905
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (10)
+BAMF6 posts big blind, stack size (587)
+
+OldBotv26 folds.
+
+
+NEWHAND:86
+
+['NEWHAND', '86', '3', 'Kh', '9s', '590', '10', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Kh 9s
+BAMF6's VPIP: 0.023529
+BAMF6's PFR: 0.011765
+BAMF6's estimated fold percentage is 0.287500
+BAMF6's AF: 0.311688
+OldBotv26's VPIP: 0.117647
+OldBotv26's PFR: 0.011765
+OldBotv26's estimated fold percentage is 0.270588
+OldBotv26's AF: 72.000000
+OldBotv16's VPIP: 0.011765
+OldBotv16's PFR: 0.011765
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (589)
+OldBotv26 posts big blind, stack size (8)
+
+BAMF6 folds.
+
+
+NEWHAND:87
+
+['NEWHAND', '87', '3', 'Tc', '3h', '11', '589', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Tc 3h
+OldBotv26's VPIP: 0.116279
+OldBotv26's PFR: 0.011628
+OldBotv26's estimated fold percentage is 0.270588
+OldBotv26's AF: 72.000000
+BAMF6's VPIP: 0.023256
+BAMF6's PFR: 0.011628
+BAMF6's estimated fold percentage is 0.279070
+BAMF6's AF: 0.311688
+OldBotv16's VPIP: 0.011628
+OldBotv16's PFR: 0.011628
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (10)
+BAMF6 posts big blind, stack size (587)
+
+OldBotv26 folds.
+
+
+NEWHAND:88
+
+['NEWHAND', '88', '3', '9h', '6s', '590', '10', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 9h 6s
+BAMF6's VPIP: 0.022989
+BAMF6's PFR: 0.011494
+BAMF6's estimated fold percentage is 0.279070
+BAMF6's AF: 0.311688
+OldBotv26's VPIP: 0.114943
+OldBotv26's PFR: 0.011494
+OldBotv26's estimated fold percentage is 0.275862
+OldBotv26's AF: 72.000000
+OldBotv16's VPIP: 0.011494
+OldBotv16's PFR: 0.011494
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (589)
+OldBotv26 posts big blind, stack size (8)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 bet 3.
+OldBotv26 raised to 8.
+BAMF6 called 8.
+OldBotv26 WTSD percentage is: 0.215909
+BAMF6 WTSD percentage is: 0.227273
+OldBotv26 W$SD percentage is: 0.159091
+
+
+NEWHAND:89
+
+['NEWHAND', '89', '3', '7h', '8s', '20', '580', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 7h 8s
+OldBotv26's VPIP: 0.113636
+OldBotv26's PFR: 0.011364
+OldBotv26's estimated fold percentage is 0.275862
+OldBotv26's AF: 73.000000
+BAMF6's VPIP: 0.022727
+BAMF6's PFR: 0.011364
+BAMF6's estimated fold percentage is 0.279070
+BAMF6's AF: 0.316456
+OldBotv16's VPIP: 0.011364
+OldBotv16's PFR: 0.011364
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (19)
+BAMF6 posts big blind, stack size (578)
+
+OldBotv26 folds.
+
+
+NEWHAND:90
+
+['NEWHAND', '90', '3', '9s', '7c', '581', '19', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 9s 7c
+BAMF6's VPIP: 0.022472
+BAMF6's PFR: 0.011236
+BAMF6's estimated fold percentage is 0.279070
+BAMF6's AF: 0.316456
+OldBotv26's VPIP: 0.112360
+OldBotv26's PFR: 0.011236
+OldBotv26's estimated fold percentage is 0.280899
+OldBotv26's AF: 73.000000
+OldBotv16's VPIP: 0.011236
+OldBotv16's PFR: 0.011236
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (580)
+OldBotv26 posts big blind, stack size (17)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 bet 3.
+OldBotv26 folds.
+
+
+NEWHAND:91
+
+['NEWHAND', '91', '3', '2d', '6s', '17', '583', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 2d 6s
+OldBotv26's VPIP: 0.111111
+OldBotv26's PFR: 0.011111
+OldBotv26's estimated fold percentage is 0.280899
+OldBotv26's AF: 73.000000
+BAMF6's VPIP: 0.022222
+BAMF6's PFR: 0.011111
+BAMF6's estimated fold percentage is 0.279070
+BAMF6's AF: 0.325000
+OldBotv16's VPIP: 0.011111
+OldBotv16's PFR: 0.011111
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (16)
+BAMF6 posts big blind, stack size (581)
+
+OldBotv26 folds.
+
+
+NEWHAND:92
+
+['NEWHAND', '92', '3', '2c', 'Jc', '584', '16', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 2c Jc
+BAMF6's VPIP: 0.021978
+BAMF6's PFR: 0.010989
+BAMF6's estimated fold percentage is 0.279070
+BAMF6's AF: 0.325000
+OldBotv26's VPIP: 0.109890
+OldBotv26's PFR: 0.010989
+OldBotv26's estimated fold percentage is 0.285714
+OldBotv26's AF: 73.000000
+OldBotv16's VPIP: 0.010989
+OldBotv16's PFR: 0.010989
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (583)
+OldBotv26 posts big blind, stack size (14)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+BAMF6 WTSD percentage is: 0.228261
+OldBotv26 WTSD percentage is: 0.217391
+BAMF6 W$SD percentage is: 0.076087
+OldBotv26 W$SD percentage is: 0.163043
+
+
+NEWHAND:93
+
+['NEWHAND', '93', '3', '6d', '5s', '16', '584', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 6d 5s
+OldBotv26's VPIP: 0.108696
+OldBotv26's PFR: 0.010870
+OldBotv26's estimated fold percentage is 0.285714
+OldBotv26's AF: 73.000000
+BAMF6's VPIP: 0.021739
+BAMF6's PFR: 0.010870
+BAMF6's estimated fold percentage is 0.279070
+BAMF6's AF: 0.320988
+OldBotv16's VPIP: 0.010870
+OldBotv16's PFR: 0.010870
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (15)
+BAMF6 posts big blind, stack size (582)
+
+OldBotv26 folds.
+
+
+NEWHAND:94
+
+['NEWHAND', '94', '3', '8h', 'Jh', '585', '15', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 8h Jh
+BAMF6's VPIP: 0.021505
+BAMF6's PFR: 0.010753
+BAMF6's estimated fold percentage is 0.279070
+BAMF6's AF: 0.320988
+OldBotv26's VPIP: 0.107527
+OldBotv26's PFR: 0.010753
+OldBotv26's estimated fold percentage is 0.290323
+OldBotv26's AF: 73.000000
+OldBotv16's VPIP: 0.010753
+OldBotv16's PFR: 0.010753
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (584)
+OldBotv26 posts big blind, stack size (13)
+
+BAMF6 folds.
+
+
+NEWHAND:95
+
+['NEWHAND', '95', '3', '7s', '6c', '16', '584', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 7s 6c
+OldBotv26's VPIP: 0.106383
+OldBotv26's PFR: 0.010638
+OldBotv26's estimated fold percentage is 0.290323
+OldBotv26's AF: 73.000000
+BAMF6's VPIP: 0.021277
+BAMF6's PFR: 0.010638
+BAMF6's estimated fold percentage is 0.265957
+BAMF6's AF: 0.320988
+OldBotv16's VPIP: 0.010638
+OldBotv16's PFR: 0.010638
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (15)
+BAMF6 posts big blind, stack size (582)
+
+OldBotv26 folds.
+
+
+NEWHAND:96
+
+['NEWHAND', '96', '3', 'Ts', 'Tc', '585', '15', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Ts Tc
+BAMF6's VPIP: 0.021053
+BAMF6's PFR: 0.010526
+BAMF6's estimated fold percentage is 0.265957
+BAMF6's AF: 0.320988
+OldBotv26's VPIP: 0.105263
+OldBotv26's PFR: 0.010526
+OldBotv26's estimated fold percentage is 0.294737
+OldBotv26's AF: 73.000000
+OldBotv16's VPIP: 0.010526
+OldBotv16's PFR: 0.010526
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (584)
+OldBotv26 posts big blind, stack size (13)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+BAMF6 WTSD percentage is: 0.229167
+OldBotv26 WTSD percentage is: 0.218750
+BAMF6 W$SD percentage is: 0.083333
+
+
+NEWHAND:97
+
+['NEWHAND', '97', '3', 'Ts', '2h', '13', '587', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Ts 2h
+OldBotv26's VPIP: 0.104167
+OldBotv26's PFR: 0.010417
+OldBotv26's estimated fold percentage is 0.294737
+OldBotv26's AF: 73.000000
+BAMF6's VPIP: 0.020833
+BAMF6's PFR: 0.010417
+BAMF6's estimated fold percentage is 0.265957
+BAMF6's AF: 0.317073
+OldBotv16's VPIP: 0.010417
+OldBotv16's PFR: 0.010417
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (12)
+BAMF6 posts big blind, stack size (585)
+
+OldBotv26 folds.
+
+
+NEWHAND:98
+
+['NEWHAND', '98', '3', 'Kh', '9s', '588', '12', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Kh 9s
+BAMF6's VPIP: 0.020619
+BAMF6's PFR: 0.010309
+BAMF6's estimated fold percentage is 0.265957
+BAMF6's AF: 0.317073
+OldBotv26's VPIP: 0.103093
+OldBotv26's PFR: 0.010309
+OldBotv26's estimated fold percentage is 0.298969
+OldBotv26's AF: 73.000000
+OldBotv16's VPIP: 0.010309
+OldBotv16's PFR: 0.010309
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (587)
+OldBotv26 posts big blind, stack size (10)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+BAMF6 WTSD percentage is: 0.234694
+OldBotv26 WTSD percentage is: 0.224490
+OldBotv26 W$SD percentage is: 0.163265
+
+
+NEWHAND:99
+
+['NEWHAND', '99', '3', '5c', '5h', '14', '586', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 5c 5h
+OldBotv26's VPIP: 0.102041
+OldBotv26's PFR: 0.010204
+OldBotv26's estimated fold percentage is 0.298969
+OldBotv26's AF: 73.000000
+BAMF6's VPIP: 0.020408
+BAMF6's PFR: 0.010204
+BAMF6's estimated fold percentage is 0.265957
+BAMF6's AF: 0.313253
+OldBotv16's VPIP: 0.010204
+OldBotv16's PFR: 0.010204
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (13)
+BAMF6 posts big blind, stack size (584)
+
+OldBotv26 folds.
+
+
+NEWHAND:100
+
+['NEWHAND', '100', '3', 'Qs', '3d', '587', '13', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Qs 3d
+BAMF6's VPIP: 0.020202
+BAMF6's PFR: 0.010101
+BAMF6's estimated fold percentage is 0.265957
+BAMF6's AF: 0.313253
+OldBotv26's VPIP: 0.101010
+OldBotv26's PFR: 0.010101
+OldBotv26's estimated fold percentage is 0.303030
+OldBotv26's AF: 73.000000
+OldBotv16's VPIP: 0.010101
+OldBotv16's PFR: 0.010101
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (586)
+OldBotv26 posts big blind, stack size (11)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 bet 3.
+OldBotv26 raised to 11.
+BAMF6 called 11.
+OldBotv26 WTSD percentage is: 0.230000
+BAMF6 WTSD percentage is: 0.240000
+OldBotv26 W$SD percentage is: 0.170000
+
+
+NEWHAND:101
+
+['NEWHAND', '101', '3', 'Tc', 'Jd', '26', '574', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Tc Jd
+OldBotv26's VPIP: 0.100000
+OldBotv26's PFR: 0.010000
+OldBotv26's estimated fold percentage is 0.303030
+OldBotv26's AF: 74.000000
+BAMF6's VPIP: 0.020000
+BAMF6's PFR: 0.010000
+BAMF6's estimated fold percentage is 0.265957
+BAMF6's AF: 0.317647
+OldBotv16's VPIP: 0.010000
+OldBotv16's PFR: 0.010000
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (25)
+BAMF6 posts big blind, stack size (572)
+
+OldBotv26 raised to 4.
+BAMF6 called 4.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 WTSD percentage is: 0.247525
+OldBotv26 WTSD percentage is: 0.237624
+OldBotv26 W$SD percentage is: 0.178218
+
+
+NEWHAND:102
+
+['NEWHAND', '102', '3', 'Ks', 'Tc', '570', '30', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Ks Tc
+BAMF6's VPIP: 0.019802
+BAMF6's PFR: 0.009901
+BAMF6's estimated fold percentage is 0.265957
+BAMF6's AF: 0.313953
+OldBotv26's VPIP: 0.099010
+OldBotv26's PFR: 0.009901
+OldBotv26's estimated fold percentage is 0.303030
+OldBotv26's AF: 75.000000
+OldBotv16's VPIP: 0.009901
+OldBotv16's PFR: 0.009901
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (569)
+OldBotv26 posts big blind, stack size (28)
+
+BAMF6 folds.
+
+
+NEWHAND:103
+
+['NEWHAND', '103', '3', '7d', 'Td', '31', '569', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 7d Td
+OldBotv26's VPIP: 0.098039
+OldBotv26's PFR: 0.009804
+OldBotv26's estimated fold percentage is 0.303030
+OldBotv26's AF: 75.000000
+BAMF6's VPIP: 0.019608
+BAMF6's PFR: 0.009804
+BAMF6's estimated fold percentage is 0.254902
+BAMF6's AF: 0.313953
+OldBotv16's VPIP: 0.009804
+OldBotv16's PFR: 0.009804
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (30)
+BAMF6 posts big blind, stack size (567)
+
+OldBotv26 raised to 4.
+BAMF6 folds.
+
+
+NEWHAND:104
+
+['NEWHAND', '104', '3', 'Jc', '6c', '567', '33', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Jc 6c
+BAMF6's VPIP: 0.019417
+BAMF6's PFR: 0.009709
+BAMF6's estimated fold percentage is 0.262136
+BAMF6's AF: 0.313953
+OldBotv26's VPIP: 0.106796
+OldBotv26's PFR: 0.009709
+OldBotv26's estimated fold percentage is 0.303030
+OldBotv26's AF: 76.000000
+OldBotv16's VPIP: 0.009709
+OldBotv16's PFR: 0.009709
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (566)
+OldBotv26 posts big blind, stack size (31)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 bet 2.
+BAMF6 raised to 8.
+OldBotv26 folds.
+
+
+NEWHAND:105
+
+['NEWHAND', '105', '3', '3d', '7s', '29', '571', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 3d 7s
+OldBotv26's VPIP: 0.105769
+OldBotv26's PFR: 0.009615
+OldBotv26's estimated fold percentage is 0.303030
+OldBotv26's AF: 77.000000
+BAMF6's VPIP: 0.019231
+BAMF6's PFR: 0.009615
+BAMF6's estimated fold percentage is 0.262136
+BAMF6's AF: 0.321839
+OldBotv16's VPIP: 0.009615
+OldBotv16's PFR: 0.009615
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (28)
+BAMF6 posts big blind, stack size (569)
+
+OldBotv26 raised to 4.
+BAMF6 called 4.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 checks.
+OldBotv26 checks.
+BAMF6 bet 8.
+OldBotv26 raised to 21.
+BAMF6 raised to 25.
+OldBotv26 folds.
+
+
+NEWHAND:106
+
+['NEWHAND', '106', '3', '8h', '5s', '596', '4', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 8h 5s
+BAMF6's VPIP: 0.019048
+BAMF6's PFR: 0.009524
+BAMF6's estimated fold percentage is 0.262136
+BAMF6's AF: 0.340909
+OldBotv26's VPIP: 0.104762
+OldBotv26's PFR: 0.009524
+OldBotv26's estimated fold percentage is 0.303030
+OldBotv26's AF: 79.000000
+OldBotv16's VPIP: 0.009524
+OldBotv16's PFR: 0.009524
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (595)
+OldBotv26 posts big blind, stack size (2)
+
+BAMF6 folds.
+
+
+NEWHAND:107
+
+['NEWHAND', '107', '3', '8s', 'Ts', '5', '595', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 8s Ts
+OldBotv26's VPIP: 0.103774
+OldBotv26's PFR: 0.009434
+OldBotv26's estimated fold percentage is 0.303030
+OldBotv26's AF: 79.000000
+BAMF6's VPIP: 0.018868
+BAMF6's PFR: 0.009434
+BAMF6's estimated fold percentage is 0.264151
+BAMF6's AF: 0.340909
+OldBotv16's VPIP: 0.009434
+OldBotv16's PFR: 0.009434
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (4)
+BAMF6 posts big blind, stack size (593)
+
+OldBotv26 raised to 4.
+BAMF6 folds.
+
+
+NEWHAND:108
+
+['NEWHAND', '108', '3', '9s', '7c', '593', '7', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 9s 7c
+BAMF6's VPIP: 0.018692
+BAMF6's PFR: 0.009346
+BAMF6's estimated fold percentage is 0.271028
+BAMF6's AF: 0.340909
+OldBotv26's VPIP: 0.112150
+OldBotv26's PFR: 0.009346
+OldBotv26's estimated fold percentage is 0.303030
+OldBotv26's AF: 80.000000
+OldBotv16's VPIP: 0.009346
+OldBotv16's PFR: 0.009346
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (592)
+OldBotv26 posts big blind, stack size (5)
+
+BAMF6 folds.
+
+
+NEWHAND:109
+
+['NEWHAND', '109', '3', '3c', 'Ah', '8', '592', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 3c Ah
+OldBotv26's VPIP: 0.111111
+OldBotv26's PFR: 0.009259
+OldBotv26's estimated fold percentage is 0.303030
+OldBotv26's AF: 80.000000
+BAMF6's VPIP: 0.018519
+BAMF6's PFR: 0.009259
+BAMF6's estimated fold percentage is 0.277778
+BAMF6's AF: 0.340909
+OldBotv16's VPIP: 0.009259
+OldBotv16's PFR: 0.009259
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (7)
+BAMF6 posts big blind, stack size (590)
+
+OldBotv26 folds.
+
+
+NEWHAND:110
+
+['NEWHAND', '110', '3', '9s', '5d', '593', '7', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 9s 5d
+BAMF6's VPIP: 0.018349
+BAMF6's PFR: 0.009174
+BAMF6's estimated fold percentage is 0.277778
+BAMF6's AF: 0.340909
+OldBotv26's VPIP: 0.110092
+OldBotv26's PFR: 0.009174
+OldBotv26's estimated fold percentage is 0.284404
+OldBotv26's AF: 80.000000
+OldBotv16's VPIP: 0.009174
+OldBotv16's PFR: 0.009174
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (592)
+OldBotv26 posts big blind, stack size (5)
+
+BAMF6 folds.
+
+
+NEWHAND:111
+
+['NEWHAND', '111', '3', 'Jh', '9d', '8', '592', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Jh 9d
+OldBotv26's VPIP: 0.109091
+OldBotv26's PFR: 0.009091
+OldBotv26's estimated fold percentage is 0.284404
+OldBotv26's AF: 80.000000
+BAMF6's VPIP: 0.018182
+BAMF6's PFR: 0.009091
+BAMF6's estimated fold percentage is 0.281818
+BAMF6's AF: 0.340909
+OldBotv16's VPIP: 0.009091
+OldBotv16's PFR: 0.009091
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (7)
+BAMF6 posts big blind, stack size (590)
+
+OldBotv26 folds.
+
+
+NEWHAND:112
+
+['NEWHAND', '112', '3', 'Td', '6h', '593', '7', '0', 'BAMF6', 'OldBotv26', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: Td 6h
+BAMF6's VPIP: 0.018018
+BAMF6's PFR: 0.009009
+BAMF6's estimated fold percentage is 0.281818
+BAMF6's AF: 0.340909
+OldBotv26's VPIP: 0.108108
+OldBotv26's PFR: 0.009009
+OldBotv26's estimated fold percentage is 0.288288
+OldBotv26's AF: 80.000000
+OldBotv16's VPIP: 0.009009
+OldBotv16's PFR: 0.009009
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+BAMF6 posts small blind/and is dealer, stack size (592)
+OldBotv26 posts big blind, stack size (5)
+
+BAMF6 called 2.
+OldBotv26 checks.
+OldBotv26 checks.
+BAMF6 bet 4.
+OldBotv26 folds.
+
+
+NEWHAND:113
+
+['NEWHAND', '113', '3', '5c', '3h', '5', '595', '0', 'OldBotv26', 'BAMF6', 'OldBotv16', '2', 'true', 'true', 'false', '14.974524']
+Active Players:2
+
+Our hand: 5c 3h
+OldBotv26's VPIP: 0.107143
+OldBotv26's PFR: 0.008929
+OldBotv26's estimated fold percentage is 0.288288
+OldBotv26's AF: 80.000000
+BAMF6's VPIP: 0.017857
+BAMF6's PFR: 0.008929
+BAMF6's estimated fold percentage is 0.281818
+BAMF6's AF: 0.348315
+OldBotv16's VPIP: 0.008929
+OldBotv16's PFR: 0.008929
+OldBotv16's estimated fold percentage is 0.000000
+OldBotv16's AF: 3.000000
+OldBotv16 is eliminated
+
+OldBotv26 posts small blind/and is dealer, stack size (4)
+BAMF6 posts big blind, stack size (593)
+
+OldBotv26 raised to 4.
+BAMF6 called 4.
+BAMF6 bet 1.
+OldBotv26 called 1.
+BAMF6 WTSD percentage is: 0.230088
+OldBotv26 WTSD percentage is: 0.221239
+BAMF6 W$SD percentage is: 0.079646
+Gameover, engine disconnected.

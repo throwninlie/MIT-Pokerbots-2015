@@ -2,28 +2,28 @@
 C:\Users\Er\Dropbox\Pokerbot\players>python Player.py 3000 
 Connecting to localhost:3000
 Our name: BAMF4
-Opp1 name: Rando4
-Opp2 name: Randy4
+Opp1 name: OldBotv1raisebug4
+Opp2 name: OldBotv3bug4
 
 
 NEWHAND:1
 
-['NEWHAND', '1', '3', 'Jd', '4s', '200', '200', '200', 'Rando4', 'Randy4', 'BAMF4', '3', 'true', 'true', 'true', '15.000000']
+['NEWHAND', '1', '3', 'As', 'Ad', '200', '200', '200', 'OldBotv1raisebug4', 'OldBotv3bug4', 'BAMF4', '3', 'true', 'true', 'true', '15.000000']
 Active Players:3
 
-Our hand: Jd 4s
-Rando4's VPIP: 0.000000
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 0.000000
-Rando4's AF flop/postflop: 0.000000
-Rando4's Player Type: NIT
-Rando4's Seat:1
-Randy4's VPIP: 0.000000
-Randy4's PFR: 0.000000
-Randy4's estimated fold percentage is 0.000000
-Randy4's AF flop/postflop: 0.000000
-Randy4's Player Type: NIT
-Randy4's Seat:2
+Our hand: As Ad
+OldBotv1raisebug4's VPIP: 0.000000
+OldBotv1raisebug4's PFR: 0.000000
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 0.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:1
+OldBotv3bug4's VPIP: 0.000000
+OldBotv3bug4's PFR: 0.000000
+OldBotv3bug4's estimated fold percentage is 0.000000
+OldBotv3bug4's AF flop/postflop: 0.000000
+OldBotv3bug4's Player Type: NIT
+OldBotv3bug4's Seat:2
 BAMF4's VPIP: 0.000000
 BAMF4's PFR: 0.000000
 BAMF4's estimated fold percentage is 0.000000
@@ -31,1607 +31,946 @@ BAMF4's AF flop/postflop: 0.000000
 BAMF4's Player Type: NIT
 BAMF4's Seat:3
 
-Randy4 posts small blind, stack size (199)
+OldBotv3bug4 posts small blind, stack size (199)
 BAMF4 posts big blind, stack size (198)
 
-Rando4 folds.
-Randy4 folds.
+['FOLD', 'CALL:6', 'RAISE:8:22']
+{}
+
+***PREFLOP***(12) Board:()
+Our hand: As Ad
+
+OldBotv1raisebug4 raised to 4.
+OldBotv3bug4 raised to 6.
+our last bet of 2 was in round 0
+BAMF4's EV: 9.424000
+BAMF4's Equity: 0.839
+BAMF4's Implied Odds: -15
+BAMF4's maxBetFold: 0
+BAMF4's maxBetEV: 62
+
+BETTING LOOSE2
+final max raise:22
+final min raise:8
+Raise range: 8 22
+BAMF4 raises to 14.
+our bot's last action is RAISE for 14
+['FOLD', 'CALL:22', 'RAISE:30:72']
+{}
+
+***PREFLOP***(42) Board:()
+Our hand: As Ad
+
+OldBotv1raisebug4 raised to 22.
+OldBotv3bug4 folds.
+our last bet of 14 was in round 0
+BAMF4's EV: 33.950000
+BAMF4's Equity: 0.839
+BAMF4's Implied Odds: -48
+BAMF4's maxBetFold: 186
+BAMF4's maxBetEV: 218
+
+BETTING LOOSE2
+final max raise:72
+final min raise:30
+Raise range: 30 72
+BAMF4 raises to 44.
+our bot's last action is RAISE for 44
+['FOLD', 'CALL:138', 'RAISE:200:200']
+{}
+
+***PREFLOP***(188) Board:()
+Our hand: As Ad
+
+OldBotv1raisebug4 raised to 138.
+our last bet of 44 was in round 0
+BAMF4's EV: 142.598000
+BAMF4's Equity: 0.839
+BAMF4's Implied Odds: -263
+BAMF4's maxBetFold: 156
+BAMF4's maxBetEV: 979
+
+BETTING LOOSE2
+final max raise:200
+final min raise:200
+Raise range: 200 200
+BAMF4 calls 138.
+our bot's last action is CALL for 138
+['CHECK', 'BET:2:62']
+{}
+
+***FLOP***(282) Board:(4d 3c 7h)
+Our hand: As Ad
+
+our last bet of 138 was in round 0
+BAMF4's EV: 231.945000
+BAMF4's Equity: 0.8225
+BAMF4's Implied Odds: -282
+BAMF4's maxBetFold: 62
+BAMF4's maxBetEV: 1306
+
+line 1
+final max bet:62
+final min bet:2
+Bet range: 2 62
+BAMF4 bets 35.
+our bot's last action is BET for 35
+['FOLD', 'CALL:62']
+{}
+
+***FLOP***(379) Board:(4d 3c 7h)
+Our hand: As Ad
+
+OldBotv1raisebug4 raised to 62.
+our last bet of 35 was in round 3
+BAMF4's EV: 306.935000
+BAMF4's Equity: 0.8225
+BAMF4's Implied Odds: -400
+BAMF4's maxBetFold: 27
+BAMF4's maxBetEV: 1756
+
+line 1
+final call min:62
+BAMF4 calls 62.
+our bot's last action is CALL for 62
+OldBotv1raisebug4 WTSD percentage is: 1.000000
+BAMF4 WTSD percentage is: 1.000000
+BAMF4 W$SD percentage is: 1.000000
 
 
 NEWHAND:2
 
-['NEWHAND', '2', '1', '9c', 'Qh', '201', '200', '199', 'BAMF4', 'Rando4', 'Randy4', '3', 'true', 'true', 'true', '15.000000']
-Active Players:3
+['NEWHAND', '2', '2', '7d', '4s', '194', '406', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.964920']
+Active Players:2
 
-Our hand: 9c Qh
-BAMF4's VPIP: 0.000000
-BAMF4's PFR: 0.000000
+Our hand: 7d 4s
+OldBotv3bug4's VPIP: 1.000000
+OldBotv3bug4's PFR: 1.000000
+OldBotv3bug4's estimated fold percentage is 1.000000
+OldBotv3bug4's AF flop/postflop: 0.000000
+OldBotv3bug4's Player Type: CASHCOW
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 1.000000
+BAMF4's PFR: 1.000000
 BAMF4's estimated fold percentage is 0.000000
-BAMF4's AF flop/postflop: 0.000000
-BAMF4's Player Type: NIT
-BAMF4's Seat:1
-Rando4's VPIP: 0.000000
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 0.000000
-Rando4's Player Type: NIT
-Rando4's Seat:2
-Randy4's VPIP: 0.000000
-Randy4's PFR: 0.000000
-Randy4's estimated fold percentage is 1.000000
-Randy4's AF flop/postflop: 0.000000
-Randy4's Player Type: NIT
-Randy4's Seat:3
+BAMF4's AF flop/postflop: 0.500000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 1.000000
+OldBotv1raisebug4's PFR: 1.000000
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: MANIAC
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
 
-Rando4 posts small blind, stack size (199)
-Randy4 posts big blind, stack size (197)
+OldBotv3bug4 posts small blind/and is dealer, stack size (193)
+BAMF4 posts big blind, stack size (404)
 
-['CALL:2', 'FOLD', 'RAISE:4:7']
+['FOLD', 'CALL:4', 'RAISE:6:12']
 {}
 
-***PREFLOP***(3) Board:()
-Our hand: 9c Qh
+***PREFLOP***(6) Board:()
+Our hand: 7d 4s
 
-our last bet of 0 was in round 0
-BAMF4's EV: 0.802500
-BAMF4's Equity: 0.5605
-BAMF4's Implied Odds: -3
-BAMF4's maxBetFold: 201
+OldBotv3bug4 raised to 4.
+our last bet of 2 was in round 0
+BAMF4's EV: 0.984000
+BAMF4's Equity: 0.373
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 404
 BAMF4's maxBetEV: 3
 
-final max raise:7
-final min raise:7
-Raise range: 4 7
-BAMF4 raises to 7.
-our bot's last action is RAISE for 7
-['FOLD', 'CALL:12', 'RAISE:17:37']
-{}
-
-***PREFLOP***(20) Board:()
-Our hand: 9c Qh
-
-Rando4 folds.
-Randy4 raised to 12.
-our last bet of 7 was in round 0
-BAMF4's EV: 9.012500
-BAMF4's Equity: 0.5605
-BAMF4's Implied Odds: -21
-BAMF4's maxBetFold: 194
-BAMF4's maxBetEV: 25
-
-final max raise:37
-final min raise:17
-Raise range: 17 37
-BAMF4 raises to 37.
-our bot's last action is RAISE for 37
-Randy4 folds.
+NOT BLUFFING FOLD
+BAMF4 folds.
+our bot's last action is FOLD for 0
 
 
 NEWHAND:3
 
-['NEWHAND', '3', '2', '4d', '6d', '187', '214', '199', 'Randy4', 'BAMF4', 'Rando4', '3', 'true', 'true', 'true', '14.981352']
-Active Players:3
+['NEWHAND', '3', '1', 'Ts', 'Th', '404', '196', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.954179']
+Active Players:2
 
-Our hand: 4d 6d
-Randy4's VPIP: 0.500000
-Randy4's PFR: 0.500000
-Randy4's estimated fold percentage is 1.000000
-Randy4's AF flop/postflop: 0.000000
-Randy4's Player Type: CASHCOW
-Randy4's Seat:1
+Our hand: Ts Th
 BAMF4's VPIP: 0.500000
 BAMF4's PFR: 0.500000
-BAMF4's estimated fold percentage is 0.000000
-BAMF4's AF flop/postflop: 0.000000
-BAMF4's Player Type: CASHCOW
-BAMF4's Seat:2
-Rando4's VPIP: 0.000000
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 0.000000
-Rando4's Player Type: NIT
-Rando4's Seat:3
+BAMF4's estimated fold percentage is 0.500000
+BAMF4's AF flop/postflop: 0.500000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 1.000000
+OldBotv3bug4's PFR: 0.500000
+OldBotv3bug4's estimated fold percentage is 1.000000
+OldBotv3bug4's AF flop/postflop: 0.000000
+OldBotv3bug4's Player Type: CASHCOW
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.500000
+OldBotv1raisebug4's PFR: 0.500000
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: MANIAC
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
 
-BAMF4 posts small blind, stack size (213)
-Rando4 posts big blind, stack size (197)
+BAMF4 posts small blind/and is dealer, stack size (403)
+OldBotv3bug4 posts big blind, stack size (194)
 
-['FOLD', 'CALL:5', 'RAISE:8:17']
+['CALL:2', 'FOLD', 'RAISE:4:6']
 {}
 
-***PREFLOP***(8) Board:()
-Our hand: 4d 6d
+***PREFLOP***(3) Board:()
+Our hand: Ts Th
 
-Randy4 raised to 5.
 our last bet of 1 was in round 0
-BAMF4's EV: 0.974000
-BAMF4's Equity: 0.4145
-BAMF4's Implied Odds: -6
-BAMF4's maxBetFold: 213
-BAMF4's maxBetEV: 5
+BAMF4's EV: 1.862000
+BAMF4's Equity: 0.7155
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 403
+BAMF4's maxBetEV: 7
 
-final max raise:17
-final min raise:8
-Raise range: 8 17
-BAMF4 raises to 10.
-our bot's last action is RAISE for 10
-['CHECK', 'BET:2:22']
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
 {}
 
-***FLOP***(22) Board:(9h 4c Ks)
-Our hand: 4d 6d
+***FLOP***(4) Board:(Ks 9h Jc)
+Our hand: Ts Th
 
-Rando4 folds.
-Randy4 called 10.
-our last bet of 10 was in round 0
-BAMF4's EV: 12.881000
-BAMF4's Equity: 0.5855
-BAMF4's Implied Odds: -22
-BAMF4's maxBetFold: 204
-BAMF4's maxBetEV: 31
+OldBotv3bug4 checks.
+OldBotv3bug4 checks.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.926000
+BAMF4's Equity: 0.7315
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 402
+BAMF4's maxBetEV: 10
 
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:22']
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+BAMF4 bets 2.
+our bot's last action is BET for 2
+['FOLD', 'CALL:9', 'RAISE:16:31']
 {}
 
-***TURN***(22) Board:(9h 4c Ks 8h)
-Our hand: 4d 6d
+***FLOP***(15) Board:(Ks 9h Jc)
+Our hand: Ts Th
 
-Randy4 checks.
-our last bet of 0 was in round 3
-BAMF4's EV: 11.803000
-BAMF4's Equity: 0.5365
-BAMF4's Implied Odds: -22
-BAMF4's maxBetFold: 204
-BAMF4's maxBetEV: 25
+OldBotv3bug4 raised to 9.
+our last bet of 2 was in round 3
+BAMF4's EV: 9.093000
+BAMF4's Equity: 0.7315
+BAMF4's Implied Odds: -19
+BAMF4's maxBetFold: 400
+BAMF4's maxBetEV: 40
 
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:22']
+line 1
+final max raise:31
+final min raise:16
+Raise range: 16 31
+BAMF4 raises to 16.
+our bot's last action is RAISE for 16
+['FOLD', 'CALL:37', 'RAISE:58:115']
 {}
 
-***RIVER***(22) Board:(9h 4c Ks 8h Ts)
-Our hand: 4d 6d
+***FLOP***(57) Board:(Ks 9h Jc)
+Our hand: Ts Th
 
-Randy4 checks.
-our last bet of 0 was in round 4
-BAMF4's EV: 9.044444
-BAMF4's Equity: 0.411111111111
-BAMF4's Implied Odds: -22
-BAMF4's maxBetFold: 204
-BAMF4's maxBetEV: 15
+OldBotv3bug4 raised to 37.
+our last bet of 16 was in round 3
+BAMF4's EV: 36.057000
+BAMF4's Equity: 0.7315
+BAMF4's Implied Odds: -70
+BAMF4's maxBetFold: 386
+BAMF4's maxBetEV: 155
 
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:4', 'RAISE:8:34']
+line 1
+final max raise:115
+final min raise:58
+Raise range: 58 115
+BAMF4 raises to 75.
+our bot's last action is RAISE for 75
+['FOLD', 'CALL:127', 'RAISE:179:194']
 {}
 
-***RIVER***(26) Board:(9h 4c Ks 8h Ts)
-Our hand: 4d 6d
+***FLOP***(206) Board:(Ks 9h Jc)
+Our hand: Ts Th
 
-Randy4 bet 4.
-our last bet of 0 was in round 5
-BAMF4's EV: 8.333333
-BAMF4's Equity: 0.411111111111
-BAMF4's Implied Odds: -24
-BAMF4's maxBetFold: 204
-BAMF4's maxBetEV: 18
+OldBotv3bug4 raised to 127.
+our last bet of 75 was in round 3
+BAMF4's EV: 136.727000
+BAMF4's Equity: 0.7315
+BAMF4's Implied Odds: -238
+BAMF4's maxBetFold: 327
+BAMF4's maxBetEV: 561
 
-line 6
-BAMF4 calls 4.
-our bot's last action is CALL for 4
-Randy4 WTSD percentage is: 0.333333
-BAMF4 WTSD percentage is: 0.333333
-Randy4 W$SD percentage is: 1.000000
+line 1
+final max raise:194
+final min raise:179
+Raise range: 179 194
+BAMF4 raises to 186.
+our bot's last action is RAISE for 186
+OldBotv3bug4 folds.
 
 
 NEWHAND:4
 
-['NEWHAND', '4', '3', 'Kc', '2c', '197', '203', '200', 'Rando4', 'Randy4', 'BAMF4', '3', 'true', 'true', 'true', '14.950251']
-Active Players:3
+['NEWHAND', '4', '2', '6s', '5h', '67', '533', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.924452']
+Active Players:2
 
-Our hand: Kc 2c
-Rando4's VPIP: 0.000000
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 0.000000
-Rando4's Player Type: NIT
-Rando4's Seat:1
-Randy4's VPIP: 0.666667
-Randy4's PFR: 0.333333
-Randy4's estimated fold percentage is 1.000000
-Randy4's AF flop/postflop: 1.000000
-Randy4's Player Type: MANIAC
-Randy4's Seat:2
+Our hand: 6s 5h
+OldBotv3bug4's VPIP: 0.666667
+OldBotv3bug4's PFR: 0.333333
+OldBotv3bug4's estimated fold percentage is 1.000000
+OldBotv3bug4's AF flop/postflop: 3.000000
+OldBotv3bug4's Player Type: MANIAC
+OldBotv3bug4's Seat:1
 BAMF4's VPIP: 0.333333
 BAMF4's PFR: 0.333333
-BAMF4's estimated fold percentage is 0.000000
-BAMF4's AF flop/postflop: 1.000000
+BAMF4's estimated fold percentage is 0.500000
+BAMF4's AF flop/postflop: 1.666667
 BAMF4's Player Type: LOOSE
-BAMF4's Seat:3
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.333333
+OldBotv1raisebug4's PFR: 0.333333
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: LOOSE
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
 
-Randy4 posts small blind, stack size (202)
-BAMF4 posts big blind, stack size (198)
+OldBotv3bug4 posts small blind/and is dealer, stack size (66)
+BAMF4 posts big blind, stack size (531)
 
-['CHECK', 'RAISE:4:8']
+['FOLD', 'CALL:4', 'RAISE:6:12']
 {}
 
 ***PREFLOP***(6) Board:()
-Our hand: Kc 2c
+Our hand: 6s 5h
 
-Rando4 called 2.
-Randy4 called 2.
+OldBotv3bug4 raised to 4.
 our last bet of 2 was in round 0
-BAMF4's EV: 3.189000
-BAMF4's Equity: 0.5315
-BAMF4's Implied Odds: -6
-BAMF4's maxBetFold: 198
-BAMF4's maxBetEV: 6
+BAMF4's EV: 1.292000
+BAMF4's Equity: 0.4115
+BAMF4's Implied Odds: -5
+BAMF4's maxBetFold: 531
+BAMF4's maxBetEV: 4
 
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:6']
-{}
-
-***FLOP***(6) Board:(6c Kd 5s)
-Our hand: Kc 2c
-
-Randy4 checks.
-our last bet of 0 was in round 0
-BAMF4's EV: 4.908000
-BAMF4's Equity: 0.818
-BAMF4's Implied Odds: -6
-BAMF4's maxBetFold: 198
-BAMF4's maxBetEV: 26
-
-line 1
-final max bet:6
-final min bet:2
-Bet range: 2 6
-BAMF4 bets 5.
-our bot's last action is BET for 5
-['FOLD', 'CALL:12', 'RAISE:19:42']
-{}
-
-***FLOP***(23) Board:(6c Kd 5s)
-Our hand: Kc 2c
-
-Rando4 raised to 12.
-Randy4 folds.
-our last bet of 5 was in round 3
-BAMF4's EV: 17.540000
-BAMF4's Equity: 0.818
-BAMF4's Implied Odds: -28
-BAMF4's maxBetFold: 193
-BAMF4's maxBetEV: 103
-
-line 1
-final max raise:42
-final min raise:19
-Raise range: 19 42
-BAMF4 raises to 39.
-our bot's last action is RAISE for 39
-['FOLD', 'CALL:109', 'RAISE:179:195']
-{}
-
-***FLOP***(154) Board:(6c Kd 5s)
-Our hand: Kc 2c
-
-Rando4 raised to 109.
-our last bet of 39 was in round 3
-BAMF4's EV: 113.232000
-BAMF4's Equity: 0.818
-BAMF4's Implied Odds: -208
-BAMF4's maxBetFold: 159
-BAMF4's maxBetEV: 692
-
-line 1
-final max raise:179
-final min raise:179
-Raise range: 179 195
-BAMF4 calls 109.
-our bot's last action is CALL for 109
-['CHECK', 'BET:2:86']
-{}
-
-***TURN***(224) Board:(6c Kd 5s Jc)
-Our hand: Kc 2c
-
-our last bet of 109 was in round 3
-BAMF4's EV: 194.992000
-BAMF4's Equity: 0.8705
-BAMF4's Implied Odds: -224
-BAMF4's maxBetFold: 89
-BAMF4's maxBetEV: 1505
-
-line 1
-final max bet:86
-final min bet:2
-Bet range: 2 86
-BAMF4 bets 57.
-our bot's last action is BET for 57
-['FOLD', 'CALL:86']
-{}
-
-***TURN***(367) Board:(6c Kd 5s Jc)
-Our hand: Kc 2c
-
-Rando4 raised to 86.
-our last bet of 57 was in round 4
-BAMF4's EV: 315.718000
-BAMF4's Equity: 0.8705
-BAMF4's Implied Odds: -391
-BAMF4's maxBetFold: 32
-BAMF4's maxBetEV: 2466
-
-line 1
-final call min:86
-BAMF4 calls 86.
-our bot's last action is CALL for 86
-Rando4 WTSD percentage is: 0.250000
-BAMF4 WTSD percentage is: 0.500000
-BAMF4 W$SD percentage is: 0.500000
+final max raise:12
+final min raise:8
+Raise range: 6 12
+BAMF4 raises to 12.
+our bot's last action is RAISE for 12
+OldBotv3bug4 folds.
 
 
 NEWHAND:5
 
-['NEWHAND', '5', '2', 'Qc', 'Th', '201', '399', '0', 'Randy4', 'BAMF4', 'Rando4', '2', 'true', 'true', 'false', '14.897070']
+['NEWHAND', '5', '1', '4d', '4c', '537', '63', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.917818']
 Active Players:2
 
-Our hand: Qc Th
-Randy4's VPIP: 0.750000
-Randy4's PFR: 0.250000
-Randy4's estimated fold percentage is 1.000000
-Randy4's AF flop/postflop: 1.000000
-Randy4's Player Type: CASHCOW
-Randy4's Seat:1
-BAMF4's VPIP: 0.250000
+Our hand: 4d 4c
+BAMF4's VPIP: 0.500000
 BAMF4's PFR: 0.250000
-BAMF4's estimated fold percentage is 0.000000
-BAMF4's AF flop/postflop: 1.333333
-BAMF4's Player Type: LOOSE
-BAMF4's Seat:2
-Rando4's VPIP: 0.250000
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 3.000000
-Rando4's Player Type: UNKNOWN
-Rando4's Seat:3
-Rando4 is eliminated
+BAMF4's estimated fold percentage is 0.500000
+BAMF4's AF flop/postflop: 1.666667
+BAMF4's Player Type: MANIAC
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.750000
+OldBotv3bug4's PFR: 0.250000
+OldBotv3bug4's estimated fold percentage is 0.500000
+OldBotv3bug4's AF flop/postflop: 3.000000
+OldBotv3bug4's Player Type: MANIAC
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.250000
+OldBotv1raisebug4's PFR: 0.250000
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: LOOSE
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
 
-Randy4 posts small blind/and is dealer, stack size (200)
-BAMF4 posts big blind, stack size (397)
+BAMF4 posts small blind/and is dealer, stack size (536)
+OldBotv3bug4 posts big blind, stack size (61)
 
-Randy4 folds.
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 4d 4c
+
+our last bet of 1 was in round 0
+BAMF4's EV: 1.136000
+BAMF4's Equity: 0.534
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 3
+BAMF4's maxBetEV: 3
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:4', 'RAISE:6:12']
+{}
+
+***PREFLOP***(6) Board:()
+Our hand: 4d 4c
+
+OldBotv3bug4 raised to 4.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.272000
+BAMF4's Equity: 0.534
+BAMF4's Implied Odds: -6
+BAMF4's maxBetFold: 6
+BAMF4's maxBetEV: 6
+
+BAMF4 calls 4.
+our bot's last action is CALL for 4
+['CHECK', 'BET:2:8']
+{}
+
+***FLOP***(8) Board:(4h Js 8d)
+Our hand: 4d 4c
+
+OldBotv3bug4 checks.
+our last bet of 4 was in round 0
+BAMF4's EV: 7.536000
+BAMF4's Equity: 0.942
+BAMF4's Implied Odds: -8
+BAMF4's maxBetFold: 8
+BAMF4's maxBetEV: 129
+
+line 1
+final max bet:8
+final min bet:2
+Bet range: 2 8
+BAMF4 bets 7.
+our bot's last action is BET for 7
+['FOLD', 'CALL:25', 'RAISE:43:59']
+{}
+
+***FLOP***(40) Board:(4h Js 8d)
+Our hand: 4d 4c
+
+OldBotv3bug4 raised to 25.
+our last bet of 7 was in round 3
+BAMF4's EV: 36.636000
+BAMF4's Equity: 0.942
+BAMF4's Implied Odds: -56
+BAMF4's maxBetFold: 40
+BAMF4's maxBetEV: 649
+
+line 1
+final max raise:59
+final min raise:43
+Raise range: 43 59
+BAMF4 raises to 58.
+our bot's last action is RAISE for 58
+OldBotv3bug4 folds.
 
 
 NEWHAND:6
 
-['NEWHAND', '6', '1', '5d', '8s', '400', '200', '0', 'BAMF4', 'Randy4', 'Rando4', '2', 'true', 'true', 'false', '14.897070']
+['NEWHAND', '6', '2', '5h', 'Jd', '34', '566', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.892072']
 Active Players:2
 
-Our hand: 5d 8s
-BAMF4's VPIP: 0.200000
+Our hand: 5h Jd
+OldBotv3bug4's VPIP: 0.800000
+OldBotv3bug4's PFR: 0.200000
+OldBotv3bug4's estimated fold percentage is 0.500000
+OldBotv3bug4's AF flop/postflop: 4.000000
+OldBotv3bug4's Player Type: LOOSE
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.600000
 BAMF4's PFR: 0.200000
-BAMF4's estimated fold percentage is 0.000000
-BAMF4's AF flop/postflop: 1.333333
+BAMF4's estimated fold percentage is 0.500000
+BAMF4's AF flop/postflop: 1.750000
 BAMF4's Player Type: LOOSE
-BAMF4's Seat:1
-Randy4's VPIP: 0.600000
-Randy4's PFR: 0.200000
-Randy4's estimated fold percentage is 0.600000
-Randy4's AF flop/postflop: 1.000000
-Randy4's Player Type: UNKNOWN
-Randy4's Seat:2
-Rando4's VPIP: 0.200000
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 3.000000
-Rando4's Player Type: UNKNOWN
-Rando4's Seat:3
-Rando4 is eliminated
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.200000
+OldBotv1raisebug4's PFR: 0.200000
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: LOOSE
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
 
-BAMF4 posts small blind/and is dealer, stack size (399)
-Randy4 posts big blind, stack size (198)
+OldBotv3bug4 posts small blind/and is dealer, stack size (33)
+BAMF4 posts big blind, stack size (564)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 5d 8s
-
-our last bet of 1 was in round 0
-BAMF4's EV: 0.600000
-BAMF4's Equity: 0.4
-BAMF4's Implied Odds: -2
-BAMF4's maxBetFold: 4
-BAMF4's maxBetEV: 2
-
-NOT BLUFFING FOLD
-BAMF4 folds.
-our bot's last action is FOLD for 0
+OldBotv3bug4 folds.
 
 
 NEWHAND:7
 
-['NEWHAND', '7', '2', 'Kh', '2c', '201', '399', '0', 'Randy4', 'BAMF4', 'Rando4', '2', 'true', 'true', 'false', '14.888726']
+['NEWHAND', '7', '1', 'Th', 'Kc', '567', '33', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.892072']
 Active Players:2
 
-Our hand: Kh 2c
-Randy4's VPIP: 0.500000
-Randy4's PFR: 0.166667
-Randy4's estimated fold percentage is 0.600000
-Randy4's AF flop/postflop: 1.000000
-Randy4's Player Type: UNKNOWN
-Randy4's Seat:1
-BAMF4's VPIP: 0.166667
+Our hand: Th Kc
+BAMF4's VPIP: 0.500000
 BAMF4's PFR: 0.166667
-BAMF4's estimated fold percentage is 0.166667
-BAMF4's AF flop/postflop: 1.333333
+BAMF4's estimated fold percentage is 0.500000
+BAMF4's AF flop/postflop: 1.750000
 BAMF4's Player Type: LOOSE
-BAMF4's Seat:2
-Rando4's VPIP: 0.166667
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 3.000000
-Rando4's Player Type: UNKNOWN
-Rando4's Seat:3
-Rando4 is eliminated
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.666667
+OldBotv3bug4's PFR: 0.166667
+OldBotv3bug4's estimated fold percentage is 0.500000
+OldBotv3bug4's AF flop/postflop: 4.000000
+OldBotv3bug4's Player Type: LOOSE
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.166667
+OldBotv1raisebug4's PFR: 0.166667
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: LOOSE
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
 
-Randy4 posts small blind/and is dealer, stack size (200)
-BAMF4 posts big blind, stack size (397)
+BAMF4 posts small blind/and is dealer, stack size (566)
+OldBotv3bug4 posts big blind, stack size (31)
 
-['CHECK', 'RAISE:4:6']
+['CALL:2', 'FOLD', 'RAISE:4:6']
 {}
 
-***PREFLOP***(4) Board:()
-Our hand: Kh 2c
+***PREFLOP***(3) Board:()
+Our hand: Th Kc
 
-Randy4 called 2.
+our last bet of 1 was in round 0
+BAMF4's EV: 1.324000
+BAMF4's Equity: 0.581
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 3
+BAMF4's maxBetEV: 4
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:4', 'RAISE:6:12']
+{}
+
+***PREFLOP***(6) Board:()
+Our hand: Th Kc
+
+OldBotv3bug4 raised to 4.
 our last bet of 2 was in round 0
-BAMF4's EV: 1.936000
-BAMF4's Equity: 0.484
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 5
-BAMF4's maxBetEV: 3
+BAMF4's EV: 2.648000
+BAMF4's Equity: 0.581
+BAMF4's Implied Odds: -6
+BAMF4's maxBetFold: 6
+BAMF4's maxBetEV: 8
 
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
+BAMF4 calls 4.
+our bot's last action is CALL for 4
+['FOLD', 'CALL:2', 'RAISE:4:14']
 {}
 
-***FLOP***(4) Board:(Kd 5s 4h)
-Our hand: Kh 2c
+***FLOP***(10) Board:(Qs 5c 9c)
+Our hand: Th Kc
 
-our last bet of 0 was in round 0
-BAMF4's EV: 3.204000
-BAMF4's Equity: 0.801
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 5
-BAMF4's maxBetEV: 16
+OldBotv3bug4 bet 2.
+our last bet of 4 was in round 0
+BAMF4's EV: 4.906000
+BAMF4's Equity: 0.5755
+BAMF4's Implied Odds: -10
+BAMF4's maxBetFold: 10
+BAMF4's maxBetEV: 13
 
-line 1
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF4 bets 2.
-our bot's last action is BET for 2
-Randy4 folds.
+line 6
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:2', 'RAISE:4:18']
+{}
+
+***TURN***(14) Board:(Qs 5c 9c 9d)
+Our hand: Th Kc
+
+OldBotv3bug4 bet 2.
+our last bet of 2 was in round 3
+BAMF4's EV: 5.856000
+BAMF4's Equity: 0.491
+BAMF4's Implied Odds: -13
+BAMF4's maxBetFold: 14
+BAMF4's maxBetEV: 13
+
+line 6
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:2', 'RAISE:4:22']
+{}
+
+***RIVER***(18) Board:(Qs 5c 9c 9d 6d)
+Our hand: Th Kc
+
+OldBotv3bug4 bet 2.
+our last bet of 2 was in round 4
+BAMF4's EV: 5.282828
+BAMF4's Equity: 0.364141414141
+BAMF4's Implied Odds: -16
+BAMF4's maxBetFold: 18
+BAMF4's maxBetEV: 10
+
+line 4
+final max raise:18
+final min raise:8
+Raise range: 4 22
+BAMF4 raises to 17.
+our bot's last action is RAISE for 17
+OldBotv3bug4 folds.
 
 
 NEWHAND:8
 
-['NEWHAND', '8', '1', 'Th', 'As', '401', '199', '0', 'BAMF4', 'Randy4', 'Rando4', '2', 'true', 'true', 'false', '14.865465']
+['NEWHAND', '8', '2', '2h', 'Qc', '23', '577', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.863907']
 Active Players:2
 
-Our hand: Th As
-BAMF4's VPIP: 0.142857
+Our hand: 2h Qc
+OldBotv3bug4's VPIP: 0.714286
+OldBotv3bug4's PFR: 0.142857
+OldBotv3bug4's estimated fold percentage is 0.500000
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: LOOSE
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.571429
 BAMF4's PFR: 0.142857
-BAMF4's estimated fold percentage is 0.166667
-BAMF4's AF flop/postflop: 1.666667
+BAMF4's estimated fold percentage is 0.500000
+BAMF4's AF flop/postflop: 1.142857
 BAMF4's Player Type: LOOSE
-BAMF4's Seat:1
-Randy4's VPIP: 0.571429
-Randy4's PFR: 0.142857
-Randy4's estimated fold percentage is 0.600000
-Randy4's AF flop/postflop: 1.000000
-Randy4's Player Type: UNKNOWN
-Randy4's Seat:2
-Rando4's VPIP: 0.142857
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 3.000000
-Rando4's Player Type: UNKNOWN
-Rando4's Seat:3
-Rando4 is eliminated
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.142857
+OldBotv1raisebug4's PFR: 0.142857
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: LOOSE
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
 
-BAMF4 posts small blind/and is dealer, stack size (400)
-Randy4 posts big blind, stack size (197)
+OldBotv3bug4 posts small blind/and is dealer, stack size (22)
+BAMF4 posts big blind, stack size (575)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
+['FOLD', 'CALL:4', 'RAISE:6:12']
 {}
 
-***PREFLOP***(3) Board:()
-Our hand: Th As
+***PREFLOP***(6) Board:()
+Our hand: 2h Qc
 
-our last bet of 1 was in round 0
-BAMF4's EV: 1.516000
-BAMF4's Equity: 0.629
-BAMF4's Implied Odds: -3
-BAMF4's maxBetFold: 4
+OldBotv3bug4 raised to 4.
+our last bet of 2 was in round 0
+BAMF4's EV: 1.928000
+BAMF4's Equity: 0.491
+BAMF4's Implied Odds: -5
+BAMF4's maxBetFold: 6
 BAMF4's maxBetEV: 5
 
-BAMF4 calls 2.
-our bot's last action is CALL for 2
-['CHECK', 'BET:2:4']
+BAMF4 calls 4.
+our bot's last action is CALL for 4
+['CHECK', 'BET:2:8']
 {}
 
-***FLOP***(4) Board:(4h 5d 8s)
-Our hand: Th As
+***FLOP***(8) Board:(Kd 6h 8d)
+Our hand: 2h Qc
 
-Randy4 checks.
-Randy4 checks.
-our last bet of 2 was in round 0
-BAMF4's EV: 1.844000
-BAMF4's Equity: 0.461
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 5
+our last bet of 4 was in round 0
+BAMF4's EV: 2.504000
+BAMF4's Equity: 0.313
+BAMF4's Implied Odds: -8
+BAMF4's maxBetFold: 8
 BAMF4's maxBetEV: 3
 
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***TURN***(4) Board:(4h 5d 8s 8d)
-Our hand: Th As
-
-Randy4 checks.
-our last bet of 0 was in round 3
-BAMF4's EV: 2.020000
-BAMF4's Equity: 0.505
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 5
-BAMF4's maxBetEV: 4
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***RIVER***(4) Board:(4h 5d 8s 8d 6d)
-Our hand: Th As
-
-Randy4 checks.
-our last bet of 0 was in round 4
-BAMF4's EV: 1.264646
-BAMF4's Equity: 0.316161616162
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 5
-BAMF4's maxBetEV: 1
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-BAMF4 WTSD percentage is: 0.375000
-Randy4 WTSD percentage is: 0.250000
-BAMF4 W$SD percentage is: 0.666667
+line 4
+final max bet:8
+final min bet:8
+Bet range: 2 8
+BAMF4 bets 8.
+our bot's last action is BET for 8
+OldBotv3bug4 folds.
 
 
 NEWHAND:9
 
-['NEWHAND', '9', '2', 'Ad', '7c', '197', '403', '0', 'Randy4', 'BAMF4', 'Rando4', '2', 'true', 'true', 'false', '14.821406']
+['NEWHAND', '9', '1', '8h', '3c', '581', '19', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.851379']
 Active Players:2
 
-Our hand: Ad 7c
-Randy4's VPIP: 0.500000
-Randy4's PFR: 0.125000
-Randy4's estimated fold percentage is 0.600000
-Randy4's AF flop/postflop: 1.000000
-Randy4's Player Type: UNKNOWN
-Randy4's Seat:1
-BAMF4's VPIP: 0.125000
+Our hand: 8h 3c
+BAMF4's VPIP: 0.500000
 BAMF4's PFR: 0.125000
-BAMF4's estimated fold percentage is 0.166667
-BAMF4's AF flop/postflop: 1.250000
-BAMF4's Player Type: NIT
-BAMF4's Seat:2
-Rando4's VPIP: 0.125000
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 3.000000
-Rando4's Player Type: NIT
-Rando4's Seat:3
-Rando4 is eliminated
+BAMF4's estimated fold percentage is 0.500000
+BAMF4's AF flop/postflop: 1.125000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.750000
+OldBotv3bug4's PFR: 0.125000
+OldBotv3bug4's estimated fold percentage is 0.500000
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.125000
+OldBotv1raisebug4's PFR: 0.125000
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
 
-Randy4 posts small blind/and is dealer, stack size (196)
-BAMF4 posts big blind, stack size (401)
+BAMF4 posts small blind/and is dealer, stack size (580)
+OldBotv3bug4 posts big blind, stack size (17)
 
-['FOLD', 'CALL:4', 'RAISE:6:12']
+['CALL:2', 'FOLD', 'RAISE:4:6']
 {}
 
-***PREFLOP***(6) Board:()
-Our hand: Ad 7c
+***PREFLOP***(3) Board:()
+Our hand: 8h 3c
 
-Randy4 raised to 4.
-our last bet of 2 was in round 0
-BAMF4's EV: 2.548000
-BAMF4's Equity: 0.5685
-BAMF4's Implied Odds: -6
-BAMF4's maxBetFold: 8
-BAMF4's maxBetEV: 7
+our last bet of 1 was in round 0
+BAMF4's EV: 0.520000
+BAMF4's Equity: 0.38
+BAMF4's Implied Odds: -2
+BAMF4's maxBetFold: 3
+BAMF4's maxBetEV: 1
 
-BAMF4 calls 4.
-our bot's last action is CALL for 4
-['CHECK', 'BET:2:8']
-{}
-
-***FLOP***(8) Board:(Qh 9h Qc)
-Our hand: Ad 7c
-
-our last bet of 4 was in round 0
-BAMF4's EV: 4.604000
-BAMF4's Equity: 0.5755
-BAMF4's Implied Odds: -8
-BAMF4's maxBetFold: 11
-BAMF4's maxBetEV: 10
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:8']
-{}
-
-***TURN***(8) Board:(Qh 9h Qc 4c)
-Our hand: Ad 7c
-
-Randy4 checks.
-our last bet of 0 was in round 3
-BAMF4's EV: 3.984000
-BAMF4's Equity: 0.498
-BAMF4's Implied Odds: -8
-BAMF4's maxBetFold: 11
-BAMF4's maxBetEV: 7
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:6', 'RAISE:12:26']
-{}
-
-***TURN***(14) Board:(Qh 9h Qc 4c)
-Our hand: Ad 7c
-
-Randy4 bet 6.
-our last bet of 0 was in round 4
-BAMF4's EV: 3.960000
-BAMF4's Equity: 0.498
-BAMF4's Implied Odds: -13
-BAMF4's maxBetFold: 21
-BAMF4's maxBetEV: 13
-
-line 4
-final max raise:21
-final min raise:12
-Raise range: 12 26
-BAMF4 raises to 13.
-our bot's last action is RAISE for 13
-['CHECK', 'BET:2:34']
-{}
-
-***RIVER***(34) Board:(Qh 9h Qc 4c 9c)
-Our hand: Ad 7c
-
-Randy4 called 13.
-our last bet of 13 was in round 4
-BAMF4's EV: 24.280808
-BAMF4's Equity: 0.714141414141
-BAMF4's Implied Odds: -34
-BAMF4's maxBetFold: 50
-BAMF4's maxBetEV: 84
-
-line 1
-final max bet:34
-final min bet:2
-Bet range: 2 34
-BAMF4 bets 23.
-our bot's last action is BET for 23
-['FOLD', 'CALL:77', 'RAISE:131:180']
-{}
-
-***RIVER***(134) Board:(Qh 9h Qc 4c 9c)
-Our hand: Ad 7c
-
-Randy4 raised to 77.
-our last bet of 23 was in round 5
-BAMF4's EV: 80.258586
-BAMF4's Equity: 0.714141414141
-BAMF4's Implied Odds: -166
-BAMF4's maxBetFold: 200
-BAMF4's maxBetEV: 334
-
-line 1
-final max raise:180
-final min raise:131
-Raise range: 131 180
-BAMF4 raises to 140.
-our bot's last action is RAISE for 140
-['FOLD', 'CALL:180']
-{}
-
-***RIVER***(354) Board:(Qh 9h Qc 4c 9c)
-Our hand: Ad 7c
-
-Randy4 raised to 180.
-our last bet of 140 was in round 5
-BAMF4's EV: 241.371717
-BAMF4's Equity: 0.714141414141
-BAMF4's Implied Odds: -377
-BAMF4's maxBetFold: 531
-BAMF4's maxBetEV: 884
-
-line 1
-final call min:180
-BAMF4 calls 180.
-our bot's last action is CALL for 180
-Randy4 WTSD percentage is: 0.333333
-BAMF4 WTSD percentage is: 0.444444
-Randy4 W$SD percentage is: 0.666667
+NOT BLUFFING FOLD
+BAMF4 folds.
+our bot's last action is FOLD for 0
 
 
 NEWHAND:10
 
-['NEWHAND', '10', '1', 'Js', 'Jd', '206', '394', '0', 'BAMF4', 'Randy4', 'Rando4', '2', 'true', 'true', 'false', '14.758510']
+['NEWHAND', '10', '2', '8d', '4s', '20', '580', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.837238']
 Active Players:2
 
-Our hand: Js Jd
-BAMF4's VPIP: 0.111111
+Our hand: 8d 4s
+OldBotv3bug4's VPIP: 0.666667
+OldBotv3bug4's PFR: 0.111111
+OldBotv3bug4's estimated fold percentage is 0.500000
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.444444
 BAMF4's PFR: 0.111111
-BAMF4's estimated fold percentage is 0.166667
-BAMF4's AF flop/postflop: 1.333333
-BAMF4's Player Type: NIT
-BAMF4's Seat:1
-Randy4's VPIP: 0.555556
-Randy4's PFR: 0.111111
-Randy4's estimated fold percentage is 0.600000
-Randy4's AF flop/postflop: 2.000000
-Randy4's Player Type: UNKNOWN
-Randy4's Seat:2
-Rando4's VPIP: 0.111111
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 3.000000
-Rando4's Player Type: NIT
-Rando4's Seat:3
-Rando4 is eliminated
-
-BAMF4 posts small blind/and is dealer, stack size (205)
-Randy4 posts big blind, stack size (392)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: Js Jd
-
-our last bet of 1 was in round 0
-BAMF4's EV: 2.154000
-BAMF4's Equity: 0.7885
-BAMF4's Implied Odds: -3
-BAMF4's maxBetFold: 4
-BAMF4's maxBetEV: 11
-
-BETTING LOOSE2
-final max raise:6
-final min raise:4
-Raise range: 4 6
-BAMF4 raises to 4.
-our bot's last action is RAISE for 4
-Randy4 folds.
-
-
-NEWHAND:11
-
-['NEWHAND', '11', '2', '4s', '7c', '392', '208', '0', 'Randy4', 'BAMF4', 'Rando4', '2', 'true', 'true', 'false', '14.736516']
-Active Players:2
-
-Our hand: 4s 7c
-Randy4's VPIP: 0.500000
-Randy4's PFR: 0.100000
-Randy4's estimated fold percentage is 0.400000
-Randy4's AF flop/postflop: 2.000000
-Randy4's Player Type: UNKNOWN
-Randy4's Seat:1
-BAMF4's VPIP: 0.200000
-BAMF4's PFR: 0.100000
-BAMF4's estimated fold percentage is 0.166667
-BAMF4's AF flop/postflop: 1.333333
-BAMF4's Player Type: CALLING STATION
-BAMF4's Seat:2
-Rando4's VPIP: 0.100000
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 3.000000
-Rando4's Player Type: NIT
-Rando4's Seat:3
-Rando4 is eliminated
-
-Randy4 posts small blind/and is dealer, stack size (391)
-BAMF4 posts big blind, stack size (206)
-
-Randy4 folds.
-
-
-NEWHAND:12
-
-['NEWHAND', '12', '1', 'As', '7d', '209', '391', '0', 'BAMF4', 'Randy4', 'Rando4', '2', 'true', 'true', 'false', '14.736516']
-Active Players:2
-
-Our hand: As 7d
-BAMF4's VPIP: 0.181818
-BAMF4's PFR: 0.090909
-BAMF4's estimated fold percentage is 0.166667
-BAMF4's AF flop/postflop: 1.333333
+BAMF4's estimated fold percentage is 0.222222
+BAMF4's AF flop/postflop: 1.125000
 BAMF4's Player Type: UNKNOWN
-BAMF4's Seat:1
-Randy4's VPIP: 0.454545
-Randy4's PFR: 0.090909
-Randy4's estimated fold percentage is 0.454545
-Randy4's AF flop/postflop: 2.000000
-Randy4's Player Type: UNKNOWN
-Randy4's Seat:2
-Rando4's VPIP: 0.090909
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 3.000000
-Rando4's Player Type: NIT
-Rando4's Seat:3
-Rando4 is eliminated
-
-BAMF4 posts small blind/and is dealer, stack size (208)
-Randy4 posts big blind, stack size (389)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: As 7d
-
-our last bet of 1 was in round 0
-BAMF4's EV: 1.316000
-BAMF4's Equity: 0.579
-BAMF4's Implied Odds: -3
-BAMF4's maxBetFold: 2
-BAMF4's maxBetEV: 4
-
-BAMF4 calls 2.
-our bot's last action is CALL for 2
-['FOLD', 'CALL:5', 'RAISE:8:15']
-{}
-
-***PREFLOP***(7) Board:()
-Our hand: As 7d
-
-Randy4 raised to 5.
-our last bet of 2 was in round 0
-BAMF4's EV: 2.790000
-BAMF4's Equity: 0.579
-BAMF4's Implied Odds: -7
-BAMF4's maxBetFold: 5
-BAMF4's maxBetEV: 9
-
-BAMF4 calls 5.
-our bot's last action is CALL for 5
-['FOLD', 'CALL:3', 'RAISE:6:19']
-{}
-
-***FLOP***(13) Board:(3h 4h 5d)
-Our hand: As 7d
-
-Randy4 bet 3.
-our last bet of 5 was in round 0
-BAMF4's EV: 5.592000
-BAMF4's Equity: 0.537
-BAMF4's Implied Odds: -13
-BAMF4's maxBetFold: 10
-BAMF4's maxBetEV: 15
-
-line 4
-final max raise:10
-final min raise:8
-Raise range: 6 19
-BAMF4 raises to 10.
-our bot's last action is RAISE for 10
-['FOLD', 'CALL:27', 'RAISE:44:91']
-{}
-
-***FLOP***(47) Board:(3h 4h 5d)
-Our hand: As 7d
-
-Randy4 raised to 27.
-our last bet of 10 was in round 3
-BAMF4's EV: 17.368000
-BAMF4's Equity: 0.537
-BAMF4's Implied Odds: -49
-BAMF4's maxBetFold: 39
-BAMF4's maxBetEV: 54
-
-line 4
-final max raise:44
-final min raise:44
-Raise range: 44 91
-BAMF4 folds.
-our bot's last action is FOLD for 0
-
-
-NEWHAND:13
-
-['NEWHAND', '13', '2', 'Jd', 'Ad', '406', '194', '0', 'Randy4', 'BAMF4', 'Rando4', '2', 'true', 'true', 'false', '14.701733']
-Active Players:2
-
-Our hand: Jd Ad
-Randy4's VPIP: 0.500000
-Randy4's PFR: 0.083333
-Randy4's estimated fold percentage is 0.454545
-Randy4's AF flop/postflop: 3.000000
-Randy4's Player Type: UNKNOWN
-Randy4's Seat:1
-BAMF4's VPIP: 0.250000
-BAMF4's PFR: 0.083333
-BAMF4's estimated fold percentage is 0.166667
-BAMF4's AF flop/postflop: 1.285714
-BAMF4's Player Type: CALLING STATION
 BAMF4's Seat:2
-Rando4's VPIP: 0.083333
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 3.000000
-Rando4's Player Type: NIT
-Rando4's Seat:3
-Rando4 is eliminated
+OldBotv1raisebug4's VPIP: 0.111111
+OldBotv1raisebug4's PFR: 0.111111
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
 
-Randy4 posts small blind/and is dealer, stack size (405)
-BAMF4 posts big blind, stack size (192)
+OldBotv3bug4 posts small blind/and is dealer, stack size (19)
+BAMF4 posts big blind, stack size (578)
 
-['CHECK', 'RAISE:4:6']
-{}
-
-***PREFLOP***(4) Board:()
-Our hand: Jd Ad
-
-Randy4 called 2.
-our last bet of 2 was in round 0
-BAMF4's EV: 2.678000
-BAMF4's Equity: 0.6695
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 3
-BAMF4's maxBetEV: 8
-
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(Ac Th Ks)
-Our hand: Jd Ad
-
-our last bet of 0 was in round 0
-BAMF4's EV: 3.464000
-BAMF4's Equity: 0.866
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 3
-BAMF4's maxBetEV: 25
-
-line 1
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF4 bets 4.
-our bot's last action is BET for 4
-['CHECK', 'BET:2:12']
-{}
-
-***TURN***(12) Board:(Ac Th Ks Kc)
-Our hand: Jd Ad
-
-Randy4 called 4.
-our last bet of 4 was in round 3
-BAMF4's EV: 10.386000
-BAMF4's Equity: 0.8655
-BAMF4's Implied Odds: -12
-BAMF4's maxBetFold: 10
-BAMF4's maxBetEV: 77
-
-line 1
-final max bet:12
-final min bet:2
-Bet range: 2 12
-BAMF4 bets 10.
-our bot's last action is BET for 10
-['CHECK', 'BET:2:32']
-{}
-
-***RIVER***(32) Board:(Ac Th Ks Kc 2s)
-Our hand: Jd Ad
-
-Randy4 called 10.
-our last bet of 10 was in round 4
-BAMF4's EV: 28.218182
-BAMF4's Equity: 0.881818181818
-BAMF4's Implied Odds: -32
-BAMF4's maxBetFold: 26
-BAMF4's maxBetEV: 238
-
-line 1
-final max bet:32
-final min bet:2
-Bet range: 2 32
-BAMF4 bets 15.
-our bot's last action is BET for 15
-Randy4 folds.
-
-
-NEWHAND:14
-
-['NEWHAND', '14', '1', '9s', '5c', '210', '390', '0', 'BAMF4', 'Randy4', 'Rando4', '2', 'true', 'true', 'false', '14.675339']
-Active Players:2
-
-Our hand: 9s 5c
-BAMF4's VPIP: 0.230769
-BAMF4's PFR: 0.076923
-BAMF4's estimated fold percentage is 0.166667
-BAMF4's AF flop/postflop: 1.714286
-BAMF4's Player Type: CALLING STATION
-BAMF4's Seat:1
-Randy4's VPIP: 0.538462
-Randy4's PFR: 0.076923
-Randy4's estimated fold percentage is 0.454545
-Randy4's AF flop/postflop: 1.500000
-Randy4's Player Type: UNKNOWN
-Randy4's Seat:2
-Rando4's VPIP: 0.076923
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 3.000000
-Rando4's Player Type: NIT
-Rando4's Seat:3
-Rando4 is eliminated
-
-BAMF4 posts small blind/and is dealer, stack size (209)
-Randy4 posts big blind, stack size (388)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 9s 5c
-
-our last bet of 1 was in round 0
-BAMF4's EV: 0.668000
-BAMF4's Equity: 0.417
-BAMF4's Implied Odds: -2
-BAMF4's maxBetFold: 2
-BAMF4's maxBetEV: 2
-
-final max raise:4
-final min raise:4
-Raise range: 4 6
-BAMF4 calls 2.
-our bot's last action is CALL for 2
 ['FOLD', 'CALL:4', 'RAISE:6:12']
 {}
 
 ***PREFLOP***(6) Board:()
-Our hand: 9s 5c
+Our hand: 8d 4s
 
-Randy4 raised to 4.
+OldBotv3bug4 raised to 4.
 our last bet of 2 was in round 0
-BAMF4's EV: 1.336000
-BAMF4's Equity: 0.417
-BAMF4's Implied Odds: -5
-BAMF4's maxBetFold: 5
-BAMF4's maxBetEV: 4
+BAMF4's EV: 1.032000
+BAMF4's Equity: 0.379
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 6
+BAMF4's maxBetEV: 3
 
 NOT BLUFFING FOLD
 BAMF4 folds.
 our bot's last action is FOLD for 0
 
 
-NEWHAND:15
+NEWHAND:11
 
-['NEWHAND', '15', '2', 'Td', '9d', '392', '208', '0', 'Randy4', 'BAMF4', 'Rando4', '2', 'true', 'true', 'false', '14.657983']
+['NEWHAND', '11', '1', 'Ts', '5d', '578', '22', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.829677']
 Active Players:2
 
-Our hand: Td 9d
-Randy4's VPIP: 0.571429
-Randy4's PFR: 0.071429
-Randy4's estimated fold percentage is 0.454545
-Randy4's AF flop/postflop: 1.500000
-Randy4's Player Type: UNKNOWN
-Randy4's Seat:1
-BAMF4's VPIP: 0.285714
-BAMF4's PFR: 0.071429
-BAMF4's estimated fold percentage is 0.142857
-BAMF4's AF flop/postflop: 1.714286
-BAMF4's Player Type: CALLING STATION
-BAMF4's Seat:2
-Rando4's VPIP: 0.071429
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 3.000000
-Rando4's Player Type: NIT
-Rando4's Seat:3
-Rando4 is eliminated
-
-Randy4 posts small blind/and is dealer, stack size (391)
-BAMF4 posts big blind, stack size (206)
-
-Randy4 folds.
-
-
-NEWHAND:16
-
-['NEWHAND', '16', '1', 'Ah', '9d', '209', '391', '0', 'BAMF4', 'Randy4', 'Rando4', '2', 'true', 'true', 'false', '14.657983']
-Active Players:2
-
-Our hand: Ah 9d
-BAMF4's VPIP: 0.266667
-BAMF4's PFR: 0.066667
-BAMF4's estimated fold percentage is 0.142857
-BAMF4's AF flop/postflop: 1.714286
+Our hand: Ts 5d
+BAMF4's VPIP: 0.400000
+BAMF4's PFR: 0.100000
+BAMF4's estimated fold percentage is 0.300000
+BAMF4's AF flop/postflop: 1.125000
 BAMF4's Player Type: CALLING STATION
 BAMF4's Seat:1
-Randy4's VPIP: 0.533333
-Randy4's PFR: 0.066667
-Randy4's estimated fold percentage is 0.400000
-Randy4's AF flop/postflop: 1.500000
-Randy4's Player Type: UNKNOWN
-Randy4's Seat:2
-Rando4's VPIP: 0.066667
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 3.000000
-Rando4's Player Type: NIT
-Rando4's Seat:3
-Rando4 is eliminated
+OldBotv3bug4's VPIP: 0.700000
+OldBotv3bug4's PFR: 0.100000
+OldBotv3bug4's estimated fold percentage is 0.500000
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.100000
+OldBotv1raisebug4's PFR: 0.100000
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
 
-BAMF4 posts small blind/and is dealer, stack size (208)
-Randy4 posts big blind, stack size (389)
+BAMF4 posts small blind/and is dealer, stack size (577)
+OldBotv3bug4 posts big blind, stack size (20)
 
 ['CALL:2', 'FOLD', 'RAISE:4:6']
 {}
 
 ***PREFLOP***(3) Board:()
-Our hand: Ah 9d
+Our hand: Ts 5d
 
 our last bet of 1 was in round 0
-BAMF4's EV: 1.568000
-BAMF4's Equity: 0.642
-BAMF4's Implied Odds: -3
-BAMF4's maxBetFold: 2
-BAMF4's maxBetEV: 5
+BAMF4's EV: 0.714000
+BAMF4's Equity: 0.4285
+BAMF4's Implied Odds: -2
+BAMF4's maxBetFold: 3
+BAMF4's maxBetEV: 2
 
-BAMF4 calls 2.
-our bot's last action is CALL for 2
-['FOLD', 'CALL:5', 'RAISE:8:15']
-{}
-
-***PREFLOP***(7) Board:()
-Our hand: Ah 9d
-
-Randy4 raised to 5.
-our last bet of 2 was in round 0
-BAMF4's EV: 3.420000
-BAMF4's Equity: 0.642
-BAMF4's Implied Odds: -8
-BAMF4's maxBetFold: 4
-BAMF4's maxBetEV: 12
-
-BAMF4 calls 5.
-our bot's last action is CALL for 5
-['CHECK', 'BET:2:10']
-{}
-
-***FLOP***(10) Board:(6h 7d 6s)
-Our hand: Ah 9d
-
-Randy4 checks.
-our last bet of 5 was in round 0
-BAMF4's EV: 5.780000
-BAMF4's Equity: 0.578
-BAMF4's Implied Odds: -10
-BAMF4's maxBetFold: 6
-BAMF4's maxBetEV: 13
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:7', 'RAISE:14:31']
-{}
-
-***TURN***(17) Board:(6h 7d 6s 9h)
-Our hand: Ah 9d
-
-Randy4 bet 7.
-our last bet of 0 was in round 3
-BAMF4's EV: 11.096000
-BAMF4's Equity: 0.754
-BAMF4's Implied Odds: -21
-BAMF4's maxBetFold: 11
-BAMF4's maxBetEV: 52
-
-line 1
-final max raise:31
-final min raise:14
-Raise range: 14 31
-BAMF4 raises to 31.
-our bot's last action is RAISE for 31
-['FOLD', 'CALL:75', 'RAISE:119:204']
-{}
-
-***TURN***(116) Board:(6h 7d 6s 9h)
-Our hand: Ah 9d
-
-Randy4 raised to 75.
-our last bet of 31 was in round 4
-BAMF4's EV: 76.640000
-BAMF4's Equity: 0.754
-BAMF4's Implied Odds: -145
-BAMF4's maxBetFold: 77
-BAMF4's maxBetEV: 355
-
-line 1
-final max raise:173
-final min raise:119
-Raise range: 119 204
-BAMF4 calls 75.
-our bot's last action is CALL for 75
-['FOLD', 'CALL:32', 'RAISE:64:129']
-{}
-
-***RIVER***(192) Board:(6h 7d 6s 9h 8d)
-Our hand: Ah 9d
-
-Randy4 bet 32.
-our last bet of 75 was in round 4
-BAMF4's EV: 92.896970
-BAMF4's Equity: 0.557575757576
-BAMF4's Implied Odds: -198
-BAMF4's maxBetFold: 128
-BAMF4's maxBetEV: 241
-
-line 6
-BAMF4 calls 32.
-our bot's last action is CALL for 32
-Randy4 WTSD percentage is: 0.250000
-BAMF4 WTSD percentage is: 0.312500
-BAMF4 W$SD percentage is: 0.600000
+NOT BLUFFING FOLD
+BAMF4 folds.
+our bot's last action is FOLD for 0
 
 
-NEWHAND:17
+NEWHAND:12
 
-['NEWHAND', '17', '2', '3c', 'Tc', '279', '321', '0', 'Randy4', 'BAMF4', 'Rando4', '2', 'true', 'true', 'false', '14.616937']
+['NEWHAND', '12', '2', 'Qc', '2d', '23', '577', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.819344']
 Active Players:2
 
-Our hand: 3c Tc
-Randy4's VPIP: 0.562500
-Randy4's PFR: 0.062500
-Randy4's estimated fold percentage is 0.400000
-Randy4's AF flop/postflop: 2.250000
-Randy4's Player Type: UNKNOWN
-Randy4's Seat:1
-BAMF4's VPIP: 0.312500
-BAMF4's PFR: 0.062500
-BAMF4's estimated fold percentage is 0.142857
-BAMF4's AF flop/postflop: 1.300000
-BAMF4's Player Type: UNKNOWN
+Our hand: Qc 2d
+OldBotv3bug4's VPIP: 0.636364
+OldBotv3bug4's PFR: 0.090909
+OldBotv3bug4's estimated fold percentage is 0.500000
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.363636
+BAMF4's PFR: 0.090909
+BAMF4's estimated fold percentage is 0.363636
+BAMF4's AF flop/postflop: 1.125000
+BAMF4's Player Type: CALLING STATION
 BAMF4's Seat:2
-Rando4's VPIP: 0.062500
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 3.000000
-Rando4's Player Type: NIT
-Rando4's Seat:3
-Rando4 is eliminated
+OldBotv1raisebug4's VPIP: 0.090909
+OldBotv1raisebug4's PFR: 0.090909
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
 
-Randy4 posts small blind/and is dealer, stack size (278)
-BAMF4 posts big blind, stack size (319)
+OldBotv3bug4 posts small blind/and is dealer, stack size (22)
+BAMF4 posts big blind, stack size (575)
 
-Randy4 folds.
-
-
-NEWHAND:18
-
-['NEWHAND', '18', '1', 'Kc', 'Ac', '322', '278', '0', 'BAMF4', 'Randy4', 'Rando4', '2', 'true', 'true', 'false', '14.616937']
-Active Players:2
-
-Our hand: Kc Ac
-BAMF4's VPIP: 0.294118
-BAMF4's PFR: 0.058824
-BAMF4's estimated fold percentage is 0.142857
-BAMF4's AF flop/postflop: 1.300000
-BAMF4's Player Type: UNKNOWN
-BAMF4's Seat:1
-Randy4's VPIP: 0.529412
-Randy4's PFR: 0.058824
-Randy4's estimated fold percentage is 0.411765
-Randy4's AF flop/postflop: 2.250000
-Randy4's Player Type: UNKNOWN
-Randy4's Seat:2
-Rando4's VPIP: 0.058824
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 3.000000
-Rando4's Player Type: NIT
-Rando4's Seat:3
-Rando4 is eliminated
-
-BAMF4 posts small blind/and is dealer, stack size (321)
-Randy4 posts big blind, stack size (276)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: Kc Ac
-
-our last bet of 1 was in round 0
-BAMF4's EV: 1.622000
-BAMF4's Equity: 0.6555
-BAMF4's Implied Odds: -3
-BAMF4's maxBetFold: 2
-BAMF4's maxBetEV: 5
-
-BAMF4 calls 2.
-our bot's last action is CALL for 2
 ['FOLD', 'CALL:4', 'RAISE:6:12']
 {}
 
 ***PREFLOP***(6) Board:()
-Our hand: Kc Ac
+Our hand: Qc 2d
 
-Randy4 raised to 4.
+OldBotv3bug4 raised to 4.
 our last bet of 2 was in round 0
-BAMF4's EV: 3.244000
-BAMF4's Equity: 0.6555
-BAMF4's Implied Odds: -6
-BAMF4's maxBetFold: 4
-BAMF4's maxBetEV: 11
+BAMF4's EV: 1.824000
+BAMF4's Equity: 0.478
+BAMF4's Implied Odds: -5
+BAMF4's maxBetFold: 6
+BAMF4's maxBetEV: 5
 
 BAMF4 calls 4.
 our bot's last action is CALL for 4
 ['CHECK', 'BET:2:8']
 {}
 
-***FLOP***(8) Board:(6s 2d Qc)
-Our hand: Kc Ac
+***FLOP***(8) Board:(Td Jc Qh)
+Our hand: Qc 2d
 
-Randy4 checks.
 our last bet of 4 was in round 0
-BAMF4's EV: 4.504000
-BAMF4's Equity: 0.563
+BAMF4's EV: 5.224000
+BAMF4's Equity: 0.653
 BAMF4's Implied Odds: -8
-BAMF4's maxBetFold: 5
-BAMF4's maxBetEV: 10
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:7', 'RAISE:14:29']
-{}
-
-***TURN***(15) Board:(6s 2d Qc 5s)
-Our hand: Kc Ac
-
-Randy4 bet 7.
-our last bet of 0 was in round 3
-BAMF4's EV: 2.493000
-BAMF4's Equity: 0.4315
-BAMF4's Implied Odds: -12
-BAMF4's maxBetFold: 10
-BAMF4's maxBetEV: 11
-
-line 6
-BAMF4 calls 7.
-our bot's last action is CALL for 7
-['FOLD', 'CALL:7', 'RAISE:14:43']
-{}
-
-***RIVER***(29) Board:(6s 2d Qc 5s Jc)
-Our hand: Kc Ac
-
-Randy4 bet 7.
-our last bet of 7 was in round 4
-BAMF4's EV: 6.545455
-BAMF4's Equity: 0.376262626263
-BAMF4's Implied Odds: -24
-BAMF4's maxBetFold: 20
-BAMF4's maxBetEV: 17
-
-line 6
-BAMF4 calls 7.
-our bot's last action is CALL for 7
-Randy4 WTSD percentage is: 0.277778
-BAMF4 WTSD percentage is: 0.333333
-Randy4 W$SD percentage is: 0.600000
-
-
-NEWHAND:19
-
-['NEWHAND', '19', '2', '2h', 'Ks', '296', '304', '0', 'Randy4', 'BAMF4', 'Rando4', '2', 'true', 'true', 'false', '14.581782']
-Active Players:2
-
-Our hand: 2h Ks
-Randy4's VPIP: 0.555556
-Randy4's PFR: 0.055556
-Randy4's estimated fold percentage is 0.411765
-Randy4's AF flop/postflop: 2.750000
-Randy4's Player Type: UNKNOWN
-Randy4's Seat:1
-BAMF4's VPIP: 0.333333
-BAMF4's PFR: 0.055556
-BAMF4's estimated fold percentage is 0.142857
-BAMF4's AF flop/postflop: 1.000000
-BAMF4's Player Type: UNKNOWN
-BAMF4's Seat:2
-Rando4's VPIP: 0.055556
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 3.000000
-Rando4's Player Type: NIT
-Rando4's Seat:3
-Rando4 is eliminated
-
-Randy4 posts small blind/and is dealer, stack size (295)
-BAMF4 posts big blind, stack size (302)
-
-['CHECK', 'RAISE:4:6']
-{}
-
-***PREFLOP***(4) Board:()
-Our hand: 2h Ks
-
-Randy4 called 2.
-our last bet of 2 was in round 0
-BAMF4's EV: 1.974000
-BAMF4's Equity: 0.4935
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 2
-BAMF4's maxBetEV: 3
-
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(Js Kh 4s)
-Our hand: 2h Ks
-
-our last bet of 0 was in round 0
-BAMF4's EV: 3.316000
-BAMF4's Equity: 0.829
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 2
-BAMF4's maxBetEV: 19
+BAMF4's maxBetFold: 8
+BAMF4's maxBetEV: 15
 
 line 1
-final max bet:4
+final max bet:8
 final min bet:2
-Bet range: 2 4
-BAMF4 bets 2.
-our bot's last action is BET for 2
-Randy4 folds.
+Bet range: 2 8
+BAMF4 bets 3.
+our bot's last action is BET for 3
+['CHECK', 'BET:2:14']
+{}
+
+***TURN***(14) Board:(Td Jc Qh 6h)
+Our hand: Qc 2d
+
+OldBotv3bug4 called 3.
+our last bet of 3 was in round 3
+BAMF4's EV: 10.094000
+BAMF4's Equity: 0.721
+BAMF4's Implied Odds: -14
+BAMF4's maxBetFold: 14
+BAMF4's maxBetEV: 36
+
+line 1
+final max bet:14
+final min bet:2
+Bet range: 2 14
+BAMF4 bets 4.
+our bot's last action is BET for 4
+OldBotv3bug4 folds.
 
 
-NEWHAND:20
+NEWHAND:13
 
-['NEWHAND', '20', '1', '5d', '6d', '306', '294', '0', 'BAMF4', 'Randy4', 'Rando4', '2', 'true', 'true', 'false', '14.565377']
+['NEWHAND', '13', '1', 'Ac', '6s', '584', '16', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.794970']
 Active Players:2
 
-Our hand: 5d 6d
-BAMF4's VPIP: 0.315789
-BAMF4's PFR: 0.052632
-BAMF4's estimated fold percentage is 0.142857
-BAMF4's AF flop/postflop: 1.076923
-BAMF4's Player Type: UNKNOWN
+Our hand: Ac 6s
+BAMF4's VPIP: 0.333333
+BAMF4's PFR: 0.083333
+BAMF4's estimated fold percentage is 0.363636
+BAMF4's AF flop/postflop: 1.222222
+BAMF4's Player Type: CALLING STATION
 BAMF4's Seat:1
-Randy4's VPIP: 0.578947
-Randy4's PFR: 0.052632
-Randy4's estimated fold percentage is 0.411765
-Randy4's AF flop/postflop: 2.750000
-Randy4's Player Type: UNKNOWN
-Randy4's Seat:2
-Rando4's VPIP: 0.052632
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 3.000000
-Rando4's Player Type: NIT
-Rando4's Seat:3
-Rando4 is eliminated
+OldBotv3bug4's VPIP: 0.666667
+OldBotv3bug4's PFR: 0.083333
+OldBotv3bug4's estimated fold percentage is 0.500000
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.083333
+OldBotv1raisebug4's PFR: 0.083333
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
 
-BAMF4 posts small blind/and is dealer, stack size (305)
-Randy4 posts big blind, stack size (292)
+BAMF4 posts small blind/and is dealer, stack size (583)
+OldBotv3bug4 posts big blind, stack size (14)
 
 ['CALL:2', 'FOLD', 'RAISE:4:6']
 {}
 
 ***PREFLOP***(3) Board:()
-Our hand: 5d 6d
+Our hand: Ac 6s
 
 our last bet of 1 was in round 0
-BAMF4's EV: 0.770000
-BAMF4's Equity: 0.4425
-BAMF4's Implied Odds: -2
-BAMF4's maxBetFold: 2
-BAMF4's maxBetEV: 2
+BAMF4's EV: 1.320000
+BAMF4's Equity: 0.58
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 3
+BAMF4's maxBetEV: 4
 
-NOT BLUFFING FOLD
-BAMF4 folds.
-our bot's last action is FOLD for 0
-
-
-NEWHAND:21
-
-['NEWHAND', '21', '2', 'Kd', 'Jh', '295', '305', '0', 'Randy4', 'BAMF4', 'Rando4', '2', 'true', 'true', 'false', '14.556313']
-Active Players:2
-
-Our hand: Kd Jh
-Randy4's VPIP: 0.550000
-Randy4's PFR: 0.050000
-Randy4's estimated fold percentage is 0.411765
-Randy4's AF flop/postflop: 2.750000
-Randy4's Player Type: UNKNOWN
-Randy4's Seat:1
-BAMF4's VPIP: 0.300000
-BAMF4's PFR: 0.050000
-BAMF4's estimated fold percentage is 0.150000
-BAMF4's AF flop/postflop: 1.076923
-BAMF4's Player Type: UNKNOWN
-BAMF4's Seat:2
-Rando4's VPIP: 0.050000
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 3.000000
-Rando4's Player Type: NIT
-Rando4's Seat:3
-Rando4 is eliminated
-
-Randy4 posts small blind/and is dealer, stack size (294)
-BAMF4 posts big blind, stack size (303)
-
-['CHECK', 'RAISE:4:6']
-{}
-
-***PREFLOP***(4) Board:()
-Our hand: Kd Jh
-
-Randy4 called 2.
-our last bet of 2 was in round 0
-BAMF4's EV: 2.496000
-BAMF4's Equity: 0.624
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 2
-BAMF4's maxBetEV: 6
-
-BAMF4 checks.
-our bot's last action is CHECK for 0
+BAMF4 calls 2.
+our bot's last action is CALL for 2
 ['CHECK', 'BET:2:4']
 {}
 
-***FLOP***(4) Board:(Th 8s Qd)
-Our hand: Kd Jh
+***FLOP***(4) Board:(2c 7d 6h)
+Our hand: Ac 6s
 
-our last bet of 0 was in round 0
-BAMF4's EV: 2.556000
-BAMF4's Equity: 0.639
+OldBotv3bug4 checks.
+OldBotv3bug4 checks.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.678000
+BAMF4's Equity: 0.6695
 BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 2
-BAMF4's maxBetEV: 7
+BAMF4's maxBetFold: 4
+BAMF4's maxBetEV: 8
 
 line 1
 final max bet:4
@@ -1639,90 +978,2591 @@ final min bet:2
 Bet range: 2 4
 BAMF4 bets 3.
 our bot's last action is BET for 3
-['CHECK', 'BET:2:10']
-{}
-
-***TURN***(10) Board:(Th 8s Qd 4s)
-Our hand: Kd Jh
-
-Randy4 called 3.
-our last bet of 3 was in round 3
-BAMF4's EV: 4.710000
-BAMF4's Equity: 0.471
-BAMF4's Implied Odds: -10
-BAMF4's maxBetFold: 6
-BAMF4's maxBetEV: 8
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:10']
-{}
-
-***RIVER***(10) Board:(Th 8s Qd 4s As)
-Our hand: Kd Jh
-
-Randy4 checks.
-our last bet of 0 was in round 4
-BAMF4's EV: 9.505051
-BAMF4's Equity: 0.950505050505
-BAMF4's Implied Odds: -10
-BAMF4's maxBetFold: 6
-BAMF4's maxBetEV: 192
-
-line 1
-final max bet:10
-final min bet:2
-Bet range: 2 10
-BAMF4 bets 8.
-our bot's last action is BET for 8
-Randy4 called 8.
-Randy4 WTSD percentage is: 0.285714
-BAMF4 WTSD percentage is: 0.333333
-BAMF4 W$SD percentage is: 0.571429
+OldBotv3bug4 folds.
 
 
-NEWHAND:22
+NEWHAND:14
 
-['NEWHAND', '22', '1', 'Ac', '6h', '318', '282', '0', 'BAMF4', 'Randy4', 'Rando4', '2', 'true', 'true', 'false', '14.529283']
+['NEWHAND', '14', '2', '2h', 'Jh', '14', '586', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.775362']
 Active Players:2
 
-Our hand: Ac 6h
-BAMF4's VPIP: 0.285714
-BAMF4's PFR: 0.047619
-BAMF4's estimated fold percentage is 0.150000
-BAMF4's AF flop/postflop: 1.230769
-BAMF4's Player Type: UNKNOWN
-BAMF4's Seat:1
-Randy4's VPIP: 0.571429
-Randy4's PFR: 0.047619
-Randy4's estimated fold percentage is 0.411765
-Randy4's AF flop/postflop: 1.833333
-Randy4's Player Type: UNKNOWN
-Randy4's Seat:2
-Rando4's VPIP: 0.047619
-Rando4's PFR: 0.000000
-Rando4's estimated fold percentage is 1.000000
-Rando4's AF flop/postflop: 3.000000
-Rando4's Player Type: NIT
-Rando4's Seat:3
-Rando4 is eliminated
+Our hand: 2h Jh
+OldBotv3bug4's VPIP: 0.615385
+OldBotv3bug4's PFR: 0.076923
+OldBotv3bug4's estimated fold percentage is 0.500000
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.307692
+BAMF4's PFR: 0.076923
+BAMF4's estimated fold percentage is 0.363636
+BAMF4's AF flop/postflop: 1.200000
+BAMF4's Player Type: CALLING STATION
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.076923
+OldBotv1raisebug4's PFR: 0.076923
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
 
-BAMF4 posts small blind/and is dealer, stack size (317)
-Randy4 posts big blind, stack size (280)
+OldBotv3bug4 posts small blind/and is dealer, stack size (13)
+BAMF4 posts big blind, stack size (584)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:15
+
+['NEWHAND', '15', '1', '7c', '2c', '587', '13', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.775362']
+Active Players:2
+
+Our hand: 7c 2c
+BAMF4's VPIP: 0.285714
+BAMF4's PFR: 0.071429
+BAMF4's estimated fold percentage is 0.363636
+BAMF4's AF flop/postflop: 1.200000
+BAMF4's Player Type: CALLING STATION
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.571429
+OldBotv3bug4's PFR: 0.071429
+OldBotv3bug4's estimated fold percentage is 0.285714
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.071429
+OldBotv1raisebug4's PFR: 0.071429
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (586)
+OldBotv3bug4 posts big blind, stack size (11)
 
 ['CALL:2', 'FOLD', 'RAISE:4:6']
 {}
 
 ***PREFLOP***(3) Board:()
-Our hand: Ac 6h
+Our hand: 7c 2c
 
 our last bet of 1 was in round 0
-BAMF4's EV: 1.352000
-BAMF4's Equity: 0.588
+BAMF4's EV: 0.538000
+BAMF4's Equity: 0.3845
+BAMF4's Implied Odds: -2
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 1
+
+NOT BLUFFING FOLD
+BAMF4 folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:16
+
+['NEWHAND', '16', '2', '4d', 'Qc', '14', '586', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.767297']
+Active Players:2
+
+Our hand: 4d Qc
+OldBotv3bug4's VPIP: 0.533333
+OldBotv3bug4's PFR: 0.066667
+OldBotv3bug4's estimated fold percentage is 0.285714
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.266667
+BAMF4's PFR: 0.066667
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 1.200000
+BAMF4's Player Type: CALLING STATION
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.066667
+OldBotv1raisebug4's PFR: 0.066667
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (13)
+BAMF4 posts big blind, stack size (584)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:17
+
+['NEWHAND', '17', '1', 'Qc', '7s', '587', '13', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.767297']
+Active Players:2
+
+Our hand: Qc 7s
+BAMF4's VPIP: 0.250000
+BAMF4's PFR: 0.062500
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 1.200000
+BAMF4's Player Type: CALLING STATION
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.500000
+OldBotv3bug4's PFR: 0.062500
+OldBotv3bug4's estimated fold percentage is 0.312500
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.062500
+OldBotv1raisebug4's PFR: 0.062500
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (586)
+OldBotv3bug4 posts big blind, stack size (11)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Qc 7s
+
+our last bet of 1 was in round 0
+BAMF4's EV: 1.040000
+BAMF4's Equity: 0.51
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 3
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(8c 9s Th)
+Our hand: Qc 7s
+
+OldBotv3bug4 checks.
+OldBotv3bug4 checks.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.020000
+BAMF4's Equity: 0.505
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 4
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(8c 9s Th 6c)
+Our hand: Qc 7s
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 3.526000
+BAMF4's Equity: 0.8815
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 29
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+BAMF4 bets 2.
+our bot's last action is BET for 2
+OldBotv3bug4 folds.
+
+
+NEWHAND:18
+
+['NEWHAND', '18', '2', '8d', '3c', '11', '589', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.744822']
+Active Players:2
+
+Our hand: 8d 3c
+OldBotv3bug4's VPIP: 0.470588
+OldBotv3bug4's PFR: 0.058824
+OldBotv3bug4's estimated fold percentage is 0.312500
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.235294
+BAMF4's PFR: 0.058824
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 1.181818
+BAMF4's Player Type: CALLING STATION
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.058824
+OldBotv1raisebug4's PFR: 0.058824
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (10)
+BAMF4 posts big blind, stack size (587)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:19
+
+['NEWHAND', '19', '1', 'Qc', '9d', '590', '10', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.744822']
+Active Players:2
+
+Our hand: Qc 9d
+BAMF4's VPIP: 0.222222
+BAMF4's PFR: 0.055556
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 1.181818
+BAMF4's Player Type: CALLING STATION
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.444444
+OldBotv3bug4's PFR: 0.055556
+OldBotv3bug4's estimated fold percentage is 0.333333
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.055556
+OldBotv1raisebug4's PFR: 0.055556
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (589)
+OldBotv3bug4 posts big blind, stack size (8)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Qc 9d
+
+our last bet of 1 was in round 0
+BAMF4's EV: 1.224000
+BAMF4's Equity: 0.556
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 3
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Ad Td 8s)
+Our hand: Qc 9d
+
+OldBotv3bug4 checks.
+OldBotv3bug4 checks.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.132000
+BAMF4's Equity: 0.533
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 4
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Ad Td 8s 6h)
+Our hand: Qc 9d
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 1.874000
+BAMF4's Equity: 0.4685
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 3
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(Ad Td 8s 6h 3h)
+Our hand: Qc 9d
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 4
+BAMF4's EV: 1.052525
+BAMF4's Equity: 0.263131313131
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 1
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+OldBotv3bug4 WTSD percentage is: 0.052632
+BAMF4 WTSD percentage is: 0.105263
+OldBotv3bug4 W$SD percentage is: 1.000000
+BAMF4 W$SD percentage is: 1.000000
+
+
+NEWHAND:20
+
+['NEWHAND', '20', '2', 'Kd', 'Qc', '10', '590', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.703131']
+Active Players:2
+
+Our hand: Kd Qc
+OldBotv3bug4's VPIP: 0.421053
+OldBotv3bug4's PFR: 0.052632
+OldBotv3bug4's estimated fold percentage is 0.333333
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.210526
+BAMF4's PFR: 0.052632
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 1.083333
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.052632
+OldBotv1raisebug4's PFR: 0.052632
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (9)
+BAMF4 posts big blind, stack size (588)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:21
+
+['NEWHAND', '21', '1', '7s', 'Js', '591', '9', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.703131']
+Active Players:2
+
+Our hand: 7s Js
+BAMF4's VPIP: 0.200000
+BAMF4's PFR: 0.050000
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 1.083333
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.400000
+OldBotv3bug4's PFR: 0.050000
+OldBotv3bug4's estimated fold percentage is 0.350000
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.050000
+OldBotv1raisebug4's PFR: 0.050000
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (590)
+OldBotv3bug4 posts big blind, stack size (7)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 7s Js
+
+our last bet of 1 was in round 0
+BAMF4's EV: 1.134000
+BAMF4's Equity: 0.5335
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 3
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Kc 6h 3h)
+Our hand: 7s Js
+
+OldBotv3bug4 checks.
+OldBotv3bug4 checks.
+our last bet of 2 was in round 0
+BAMF4's EV: 1.492000
+BAMF4's Equity: 0.373
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 2
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Kc 6h 3h Td)
+Our hand: 7s Js
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 1.000000
+BAMF4's Equity: 0.25
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 1
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(Kc 6h 3h Td 2h)
+Our hand: 7s Js
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 4
+BAMF4's EV: 0.585859
+BAMF4's Equity: 0.146464646465
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 0
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+OldBotv3bug4 WTSD percentage is: 0.095238
+BAMF4 WTSD percentage is: 0.142857
+OldBotv3bug4 W$SD percentage is: 1.000000
+
+
+NEWHAND:22
+
+['NEWHAND', '22', '2', '4s', 'Qs', '11', '589', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.668874']
+Active Players:2
+
+Our hand: 4s Qs
+OldBotv3bug4's VPIP: 0.380952
+OldBotv3bug4's PFR: 0.047619
+OldBotv3bug4's estimated fold percentage is 0.350000
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.190476
+BAMF4's PFR: 0.047619
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.047619
+OldBotv1raisebug4's PFR: 0.047619
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (10)
+BAMF4 posts big blind, stack size (587)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:23
+
+['NEWHAND', '23', '1', '9c', 'Tc', '590', '10', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.668874']
+Active Players:2
+
+Our hand: 9c Tc
+BAMF4's VPIP: 0.181818
+BAMF4's PFR: 0.045455
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.363636
+OldBotv3bug4's PFR: 0.045455
+OldBotv3bug4's estimated fold percentage is 0.363636
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.045455
+OldBotv1raisebug4's PFR: 0.045455
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (589)
+OldBotv3bug4 posts big blind, stack size (8)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 9c Tc
+
+our last bet of 1 was in round 0
+BAMF4's EV: 1.160000
+BAMF4's Equity: 0.54
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 3
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Ah 4s 3h)
+Our hand: 9c Tc
+
+OldBotv3bug4 checks.
+OldBotv3bug4 checks.
+our last bet of 2 was in round 0
+BAMF4's EV: 1.134000
+BAMF4's Equity: 0.2835
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 1
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Ah 4s 3h Js)
+Our hand: 9c Tc
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 0.976000
+BAMF4's Equity: 0.244
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 1
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(Ah 4s 3h Js Ac)
+Our hand: 9c Tc
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 4
+BAMF4's EV: 1.084848
+BAMF4's Equity: 0.271212121212
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 1
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+BAMF4 WTSD percentage is: 0.173913
+OldBotv3bug4 WTSD percentage is: 0.130435
+BAMF4 W$SD percentage is: 0.750000
+
+
+NEWHAND:24
+
+['NEWHAND', '24', '2', '3d', 'Qs', '8', '592', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.642240']
+Active Players:2
+
+Our hand: 3d Qs
+OldBotv3bug4's VPIP: 0.347826
+OldBotv3bug4's PFR: 0.043478
+OldBotv3bug4's estimated fold percentage is 0.363636
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.173913
+BAMF4's PFR: 0.043478
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 0.928571
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.043478
+OldBotv1raisebug4's PFR: 0.043478
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (7)
+BAMF4 posts big blind, stack size (590)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:25
+
+['NEWHAND', '25', '1', '8c', 'Js', '593', '7', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.642240']
+Active Players:2
+
+Our hand: 8c Js
+BAMF4's VPIP: 0.166667
+BAMF4's PFR: 0.041667
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 0.928571
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.333333
+OldBotv3bug4's PFR: 0.041667
+OldBotv3bug4's estimated fold percentage is 0.375000
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.041667
+OldBotv1raisebug4's PFR: 0.041667
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (592)
+OldBotv3bug4 posts big blind, stack size (5)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 8c Js
+
+our last bet of 1 was in round 0
+BAMF4's EV: 1.088000
+BAMF4's Equity: 0.522
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 3
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:5', 'RAISE:7:7']
+{}
+
+***PREFLOP***(7) Board:()
+Our hand: 8c Js
+
+OldBotv3bug4 raised to 5.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.220000
+BAMF4's Equity: 0.522
+BAMF4's Implied Odds: -7
+BAMF4's maxBetFold: 4
+BAMF4's maxBetEV: 7
+
+BAMF4 calls 5.
+our bot's last action is CALL for 5
+['CHECK', 'BET:2:2']
+{}
+
+***FLOP***(10) Board:(9d 6c Qd)
+Our hand: 8c Js
+
+OldBotv3bug4 checks.
+our last bet of 5 was in round 0
+BAMF4's EV: 4.400000
+BAMF4's Equity: 0.44
+BAMF4's Implied Odds: -10
+BAMF4's maxBetFold: 6
+BAMF4's maxBetEV: 7
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:2']
+{}
+
+***TURN***(10) Board:(9d 6c Qd 7h)
+Our hand: 8c Js
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 3.875000
+BAMF4's Equity: 0.3875
+BAMF4's Implied Odds: -10
+BAMF4's maxBetFold: 6
+BAMF4's maxBetEV: 6
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:2']
+{}
+
+***RIVER***(10) Board:(9d 6c Qd 7h Jd)
+Our hand: 8c Js
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 4
+BAMF4's EV: 6.929293
+BAMF4's Equity: 0.692929292929
+BAMF4's Implied Odds: -10
+BAMF4's maxBetFold: 6
+BAMF4's maxBetEV: 22
+
+line 1
+final max bet:2
+final min bet:2
+Bet range: 2 2
+BAMF4 bets 2.
+our bot's last action is BET for 2
+OldBotv3bug4 folds.
+
+
+NEWHAND:26
+
+['NEWHAND', '26', '2', 'Kh', '7d', '2', '598', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.606738']
+Active Players:2
+
+Our hand: Kh 7d
+OldBotv3bug4's VPIP: 0.360000
+OldBotv3bug4's PFR: 0.040000
+OldBotv3bug4's estimated fold percentage is 0.375000
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.200000
+BAMF4's PFR: 0.040000
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 0.933333
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.040000
+OldBotv1raisebug4's PFR: 0.040000
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (1)
+BAMF4 posts big blind, stack size (596)
+
+['FOLD', 'CALL:2']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: Kh 7d
+
+OldBotv3bug4 raised to 2.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.256000
+BAMF4's Equity: 0.564
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 5
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+BAMF4 WTSD percentage is: 0.192308
+OldBotv3bug4 WTSD percentage is: 0.153846
+OldBotv3bug4 W$SD percentage is: 0.750000
+
+
+NEWHAND:27
+
+['NEWHAND', '27', '1', '6s', '9d', '596', '4', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.548194']
+Active Players:2
+
+Our hand: 6s 9d
+BAMF4's VPIP: 0.192308
+BAMF4's PFR: 0.038462
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 0.875000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.384615
+OldBotv3bug4's PFR: 0.038462
+OldBotv3bug4's estimated fold percentage is 0.375000
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.038462
+OldBotv1raisebug4's PFR: 0.038462
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (595)
+OldBotv3bug4 posts big blind, stack size (2)
+
+['CALL:2', 'FOLD', 'RAISE:4:4']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 6s 9d
+
+our last bet of 1 was in round 0
+BAMF4's EV: 0.812000
+BAMF4's Equity: 0.453
+BAMF4's Implied Odds: -2
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 2
+
+NOT BLUFFING FOLD
+BAMF4 folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:28
+
+['NEWHAND', '28', '2', '3s', '4h', '5', '595', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.534051']
+Active Players:2
+
+Our hand: 3s 4h
+OldBotv3bug4's VPIP: 0.370370
+OldBotv3bug4's PFR: 0.037037
+OldBotv3bug4's estimated fold percentage is 0.375000
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.185185
+BAMF4's PFR: 0.037037
+BAMF4's estimated fold percentage is 0.222222
+BAMF4's AF flop/postflop: 0.875000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.037037
+OldBotv1raisebug4's PFR: 0.037037
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (4)
+BAMF4 posts big blind, stack size (593)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:29
+
+['NEWHAND', '29', '1', 'Kd', '8d', '596', '4', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.534051']
+Active Players:2
+
+Our hand: Kd 8d
+BAMF4's VPIP: 0.178571
+BAMF4's PFR: 0.035714
+BAMF4's estimated fold percentage is 0.222222
+BAMF4's AF flop/postflop: 0.875000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.357143
+OldBotv3bug4's PFR: 0.035714
+OldBotv3bug4's estimated fold percentage is 0.357143
+OldBotv3bug4's AF flop/postflop: 7.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.035714
+OldBotv1raisebug4's PFR: 0.035714
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (595)
+OldBotv3bug4 posts big blind, stack size (2)
+
+['CALL:2', 'FOLD', 'RAISE:4:4']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Kd 8d
+
+our last bet of 1 was in round 0
+BAMF4's EV: 1.368000
+BAMF4's Equity: 0.592
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 4
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:2']
+{}
+
+***FLOP***(6) Board:(8c 9s 4h)
+Our hand: Kd 8d
+
+OldBotv3bug4 checks.
+OldBotv3bug4 bet 2.
+our last bet of 2 was in round 0
+BAMF4's EV: 3.888000
+BAMF4's Equity: 0.736
+BAMF4's Implied Odds: -7
+BAMF4's maxBetFold: 3
+BAMF4's maxBetEV: 16
+
+line 1
+final call min:2
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+BAMF4 WTSD percentage is: 0.206897
+OldBotv3bug4 WTSD percentage is: 0.172414
+OldBotv3bug4 W$SD percentage is: 0.800000
+
+
+NEWHAND:30
+
+['NEWHAND', '30', '2', '5s', '2h', '8', '592', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.512653']
+Active Players:2
+
+Our hand: 5s 2h
+OldBotv3bug4's VPIP: 0.344828
+OldBotv3bug4's PFR: 0.034483
+OldBotv3bug4's estimated fold percentage is 0.357143
+OldBotv3bug4's AF flop/postflop: 8.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.172414
+BAMF4's PFR: 0.034483
+BAMF4's estimated fold percentage is 0.222222
+BAMF4's AF flop/postflop: 0.777778
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.034483
+OldBotv1raisebug4's PFR: 0.034483
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (7)
+BAMF4 posts big blind, stack size (590)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:31
+
+['NEWHAND', '31', '1', '6h', '9c', '593', '7', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.512653']
+Active Players:2
+
+Our hand: 6h 9c
+BAMF4's VPIP: 0.166667
+BAMF4's PFR: 0.033333
+BAMF4's estimated fold percentage is 0.222222
+BAMF4's AF flop/postflop: 0.777778
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.333333
+OldBotv3bug4's PFR: 0.033333
+OldBotv3bug4's estimated fold percentage is 0.366667
+OldBotv3bug4's AF flop/postflop: 8.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.033333
+OldBotv1raisebug4's PFR: 0.033333
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (592)
+OldBotv3bug4 posts big blind, stack size (5)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 6h 9c
+
+our last bet of 1 was in round 0
+BAMF4's EV: 0.752000
+BAMF4's Equity: 0.438
+BAMF4's Implied Odds: -2
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 2
+
+NOT BLUFFING FOLD
+BAMF4 folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:32
+
+['NEWHAND', '32', '2', '5d', '7d', '8', '592', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.502111']
+Active Players:2
+
+Our hand: 5d 7d
+OldBotv3bug4's VPIP: 0.322581
+OldBotv3bug4's PFR: 0.032258
+OldBotv3bug4's estimated fold percentage is 0.366667
+OldBotv3bug4's AF flop/postflop: 8.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.161290
+BAMF4's PFR: 0.032258
+BAMF4's estimated fold percentage is 0.225806
+BAMF4's AF flop/postflop: 0.777778
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.032258
+OldBotv1raisebug4's PFR: 0.032258
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (7)
+BAMF4 posts big blind, stack size (590)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:33
+
+['NEWHAND', '33', '1', '4c', '2d', '593', '7', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.502111']
+Active Players:2
+
+Our hand: 4c 2d
+BAMF4's VPIP: 0.156250
+BAMF4's PFR: 0.031250
+BAMF4's estimated fold percentage is 0.225806
+BAMF4's AF flop/postflop: 0.777778
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.312500
+OldBotv3bug4's PFR: 0.031250
+OldBotv3bug4's estimated fold percentage is 0.375000
+OldBotv3bug4's AF flop/postflop: 8.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.031250
+OldBotv1raisebug4's PFR: 0.031250
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (592)
+OldBotv3bug4 posts big blind, stack size (5)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 4c 2d
+
+our last bet of 1 was in round 0
+BAMF4's EV: 0.250000
+BAMF4's Equity: 0.3125
+BAMF4's Implied Odds: -1
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 1
+
+NOT BLUFFING FOLD
+BAMF4 folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:34
+
+['NEWHAND', '34', '2', 'Ks', '9d', '8', '592', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.491379']
+Active Players:2
+
+Our hand: Ks 9d
+OldBotv3bug4's VPIP: 0.303030
+OldBotv3bug4's PFR: 0.030303
+OldBotv3bug4's estimated fold percentage is 0.375000
+OldBotv3bug4's AF flop/postflop: 8.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.151515
+BAMF4's PFR: 0.030303
+BAMF4's estimated fold percentage is 0.242424
+BAMF4's AF flop/postflop: 0.777778
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.030303
+OldBotv1raisebug4's PFR: 0.030303
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (7)
+BAMF4 posts big blind, stack size (590)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:35
+
+['NEWHAND', '35', '1', 'Jd', 'Kd', '593', '7', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.491379']
+Active Players:2
+
+Our hand: Jd Kd
+BAMF4's VPIP: 0.147059
+BAMF4's PFR: 0.029412
+BAMF4's estimated fold percentage is 0.242424
+BAMF4's AF flop/postflop: 0.777778
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.294118
+OldBotv3bug4's PFR: 0.029412
+OldBotv3bug4's estimated fold percentage is 0.382353
+OldBotv3bug4's AF flop/postflop: 8.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.029412
+OldBotv1raisebug4's PFR: 0.029412
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (592)
+OldBotv3bug4 posts big blind, stack size (5)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Jd Kd
+
+our last bet of 1 was in round 0
+BAMF4's EV: 1.566000
+BAMF4's Equity: 0.6415
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 5
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:5', 'RAISE:7:7']
+{}
+
+***PREFLOP***(7) Board:()
+Our hand: Jd Kd
+
+OldBotv3bug4 raised to 5.
+our last bet of 2 was in round 0
+BAMF4's EV: 3.290000
+BAMF4's Equity: 0.629
+BAMF4's Implied Odds: -8
+BAMF4's maxBetFold: 4
+BAMF4's maxBetEV: 11
+
+BAMF4 calls 5.
+our bot's last action is CALL for 5
+['FOLD', 'CALL:2']
+{}
+
+***FLOP***(12) Board:(8c Ah Qc)
+Our hand: Jd Kd
+
+OldBotv3bug4 bet 2.
+our last bet of 5 was in round 0
+BAMF4's EV: 5.973000
+BAMF4's Equity: 0.5695
+BAMF4's Implied Odds: -12
+BAMF4's maxBetFold: 7
+BAMF4's maxBetEV: 15
+
+line 6
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+BAMF4 WTSD percentage is: 0.200000
+OldBotv3bug4 WTSD percentage is: 0.171429
+OldBotv3bug4 W$SD percentage is: 0.833333
+
+
+NEWHAND:36
+
+['NEWHAND', '36', '2', '8h', 'Ad', '14', '586', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.465150']
+Active Players:2
+
+Our hand: 8h Ad
+OldBotv3bug4's VPIP: 0.314286
+OldBotv3bug4's PFR: 0.028571
+OldBotv3bug4's estimated fold percentage is 0.382353
+OldBotv3bug4's AF flop/postflop: 9.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.171429
+BAMF4's PFR: 0.028571
+BAMF4's estimated fold percentage is 0.242424
+BAMF4's AF flop/postflop: 0.700000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.028571
+OldBotv1raisebug4's PFR: 0.028571
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (13)
+BAMF4 posts big blind, stack size (584)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:37
+
+['NEWHAND', '37', '1', 'Qd', 'Jc', '587', '13', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.465150']
+Active Players:2
+
+Our hand: Qd Jc
+BAMF4's VPIP: 0.166667
+BAMF4's PFR: 0.027778
+BAMF4's estimated fold percentage is 0.242424
+BAMF4's AF flop/postflop: 0.700000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.305556
+OldBotv3bug4's PFR: 0.027778
+OldBotv3bug4's estimated fold percentage is 0.388889
+OldBotv3bug4's AF flop/postflop: 9.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.027778
+OldBotv1raisebug4's PFR: 0.027778
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (586)
+OldBotv3bug4 posts big blind, stack size (11)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Qd Jc
+
+our last bet of 1 was in round 0
+BAMF4's EV: 1.346000
+BAMF4's Equity: 0.5865
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 4
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Tc 8s 3h)
+Our hand: Qd Jc
+
+OldBotv3bug4 checks.
+OldBotv3bug4 checks.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.022000
+BAMF4's Equity: 0.5055
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 4
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Tc 8s 3h Ac)
+Our hand: Qd Jc
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 2.034000
+BAMF4's Equity: 0.5085
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 4
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(Tc 8s 3h Ac 2d)
+Our hand: Qd Jc
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 4
+BAMF4's EV: 1.084848
+BAMF4's Equity: 0.271212121212
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 1
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+OldBotv3bug4 WTSD percentage is: 0.189189
+BAMF4 WTSD percentage is: 0.216216
+BAMF4 W$SD percentage is: 0.500000
+
+
+NEWHAND:38
+
+['NEWHAND', '38', '2', '9h', 'Td', '11', '589', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.438427']
+Active Players:2
+
+Our hand: 9h Td
+OldBotv3bug4's VPIP: 0.297297
+OldBotv3bug4's PFR: 0.027027
+OldBotv3bug4's estimated fold percentage is 0.388889
+OldBotv3bug4's AF flop/postflop: 9.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.162162
+BAMF4's PFR: 0.027027
+BAMF4's estimated fold percentage is 0.242424
+BAMF4's AF flop/postflop: 0.666667
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.027027
+OldBotv1raisebug4's PFR: 0.027027
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (10)
+BAMF4 posts big blind, stack size (587)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:39
+
+['NEWHAND', '39', '1', '6h', 'Kc', '590', '10', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.438427']
+Active Players:2
+
+Our hand: 6h Kc
+BAMF4's VPIP: 0.157895
+BAMF4's PFR: 0.026316
+BAMF4's estimated fold percentage is 0.242424
+BAMF4's AF flop/postflop: 0.666667
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.289474
+OldBotv3bug4's PFR: 0.026316
+OldBotv3bug4's estimated fold percentage is 0.394737
+OldBotv3bug4's AF flop/postflop: 9.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.026316
+OldBotv1raisebug4's PFR: 0.026316
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (589)
+OldBotv3bug4 posts big blind, stack size (8)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 6h Kc
+
+our last bet of 1 was in round 0
+BAMF4's EV: 1.134000
+BAMF4's Equity: 0.5335
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 3
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Qs 2d 7d)
+Our hand: 6h Kc
+
+OldBotv3bug4 checks.
+OldBotv3bug4 checks.
+our last bet of 2 was in round 0
+BAMF4's EV: 1.528000
+BAMF4's Equity: 0.382
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 2
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Qs 2d 7d 4s)
+Our hand: 6h Kc
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 1.304000
+BAMF4's Equity: 0.326
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 1
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(Qs 2d 7d 4s 8h)
+Our hand: 6h Kc
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 4
+BAMF4's EV: 0.955556
+BAMF4's Equity: 0.238888888889
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 1
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+OldBotv3bug4 WTSD percentage is: 0.205128
+BAMF4 WTSD percentage is: 0.230769
+OldBotv3bug4 W$SD percentage is: 0.750000
+
+
+NEWHAND:40
+
+['NEWHAND', '40', '2', '2s', '6d', '12', '588', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.409666']
+Active Players:2
+
+Our hand: 2s 6d
+OldBotv3bug4's VPIP: 0.282051
+OldBotv3bug4's PFR: 0.025641
+OldBotv3bug4's estimated fold percentage is 0.394737
+OldBotv3bug4's AF flop/postflop: 9.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.153846
+BAMF4's PFR: 0.025641
+BAMF4's estimated fold percentage is 0.242424
+BAMF4's AF flop/postflop: 0.636364
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.025641
+OldBotv1raisebug4's PFR: 0.025641
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (11)
+BAMF4 posts big blind, stack size (586)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:41
+
+['NEWHAND', '41', '1', 'Ts', 'Kc', '589', '11', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.409666']
+Active Players:2
+
+Our hand: Ts Kc
+BAMF4's VPIP: 0.150000
+BAMF4's PFR: 0.025000
+BAMF4's estimated fold percentage is 0.242424
+BAMF4's AF flop/postflop: 0.636364
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.275000
+OldBotv3bug4's PFR: 0.025000
+OldBotv3bug4's estimated fold percentage is 0.400000
+OldBotv3bug4's AF flop/postflop: 9.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.025000
+OldBotv1raisebug4's PFR: 0.025000
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (588)
+OldBotv3bug4 posts big blind, stack size (9)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Ts Kc
+
+our last bet of 1 was in round 0
+BAMF4's EV: 1.436000
+BAMF4's Equity: 0.609
 BAMF4's Implied Odds: -3
 BAMF4's maxBetFold: 2
 BAMF4's maxBetEV: 4
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(8c 2d 4c)
+Our hand: Ts Kc
+
+OldBotv3bug4 checks.
+OldBotv3bug4 checks.
+our last bet of 2 was in round 0
+BAMF4's EV: 1.948000
+BAMF4's Equity: 0.487
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 3
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(8c 2d 4c 5s)
+Our hand: Ts Kc
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 1.334000
+BAMF4's Equity: 0.3335
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 2
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(8c 2d 4c 5s Ah)
+Our hand: Ts Kc
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 4
+BAMF4's EV: 0.987879
+BAMF4's Equity: 0.24696969697
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 1
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+BAMF4 WTSD percentage is: 0.243902
+OldBotv3bug4 WTSD percentage is: 0.219512
+OldBotv3bug4 W$SD percentage is: 0.777778
+
+
+NEWHAND:42
+
+['NEWHAND', '42', '2', 'As', '5c', '13', '587', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.378513']
+Active Players:2
+
+Our hand: As 5c
+OldBotv3bug4's VPIP: 0.268293
+OldBotv3bug4's PFR: 0.024390
+OldBotv3bug4's estimated fold percentage is 0.400000
+OldBotv3bug4's AF flop/postflop: 9.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.146341
+BAMF4's PFR: 0.024390
+BAMF4's estimated fold percentage is 0.242424
+BAMF4's AF flop/postflop: 0.608696
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.024390
+OldBotv1raisebug4's PFR: 0.024390
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (12)
+BAMF4 posts big blind, stack size (585)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:43
+
+['NEWHAND', '43', '1', 'Ad', '4c', '588', '12', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.378513']
+Active Players:2
+
+Our hand: Ad 4c
+BAMF4's VPIP: 0.142857
+BAMF4's PFR: 0.023810
+BAMF4's estimated fold percentage is 0.242424
+BAMF4's AF flop/postflop: 0.608696
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.261905
+OldBotv3bug4's PFR: 0.023810
+OldBotv3bug4's estimated fold percentage is 0.404762
+OldBotv3bug4's AF flop/postflop: 9.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.023810
+OldBotv1raisebug4's PFR: 0.023810
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (587)
+OldBotv3bug4 posts big blind, stack size (10)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Ad 4c
+
+our last bet of 1 was in round 0
+BAMF4's EV: 1.260000
+BAMF4's Equity: 0.565
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 3
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(6d Kd Td)
+Our hand: Ad 4c
+
+OldBotv3bug4 checks.
+OldBotv3bug4 checks.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.628000
+BAMF4's Equity: 0.657
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 7
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+BAMF4 bets 2.
+our bot's last action is BET for 2
+['FOLD', 'CALL:10']
+{}
+
+***FLOP***(16) Board:(6d Kd Td)
+Our hand: Ad 4c
+
+OldBotv3bug4 raised to 10.
+our last bet of 2 was in round 3
+BAMF4's EV: 7.768000
+BAMF4's Equity: 0.657
+BAMF4's Implied Odds: -19
+BAMF4's maxBetFold: 10
+BAMF4's maxBetEV: 30
+
+line 1
+final call min:10
+BAMF4 calls 10.
+our bot's last action is CALL for 10
+OldBotv3bug4 WTSD percentage is: 0.232558
+BAMF4 WTSD percentage is: 0.255814
+OldBotv3bug4 W$SD percentage is: 0.800000
+
+
+NEWHAND:44
+
+['NEWHAND', '44', '2', '7d', '4h', '24', '576', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.352463']
+Active Players:2
+
+Our hand: 7d 4h
+OldBotv3bug4's VPIP: 0.255814
+OldBotv3bug4's PFR: 0.023256
+OldBotv3bug4's estimated fold percentage is 0.404762
+OldBotv3bug4's AF flop/postflop: 10.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.139535
+BAMF4's PFR: 0.023256
+BAMF4's estimated fold percentage is 0.242424
+BAMF4's AF flop/postflop: 0.600000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.023256
+OldBotv1raisebug4's PFR: 0.023256
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (23)
+BAMF4 posts big blind, stack size (574)
+
+['FOLD', 'CALL:4', 'RAISE:6:12']
+{}
+
+***PREFLOP***(6) Board:()
+Our hand: 7d 4h
+
+OldBotv3bug4 raised to 4.
+our last bet of 2 was in round 0
+BAMF4's EV: 1.180000
+BAMF4's Equity: 0.3975
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 4
+BAMF4's maxBetEV: 3
+
+NOT BLUFFING FOLD
+BAMF4 folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:45
+
+['NEWHAND', '45', '1', 'Js', 'Jc', '574', '26', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.342325']
+Active Players:2
+
+Our hand: Js Jc
+BAMF4's VPIP: 0.136364
+BAMF4's PFR: 0.022727
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.600000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.272727
+OldBotv3bug4's PFR: 0.022727
+OldBotv3bug4's estimated fold percentage is 0.404762
+OldBotv3bug4's AF flop/postflop: 10.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.022727
+OldBotv1raisebug4's PFR: 0.022727
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (573)
+OldBotv3bug4 posts big blind, stack size (24)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Js Jc
+
+our last bet of 1 was in round 0
+BAMF4's EV: 2.106000
+BAMF4's Equity: 0.7765
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 10
+
+BETTING LOOSE2
+final max raise:6
+final min raise:4
+Raise range: 4 6
+BAMF4 raises to 5.
+our bot's last action is RAISE for 5
+OldBotv3bug4 folds.
+
+
+NEWHAND:46
+
+['NEWHAND', '46', '2', '6d', 'Ah', '24', '576', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.327227']
+Active Players:2
+
+Our hand: 6d Ah
+OldBotv3bug4's VPIP: 0.266667
+OldBotv3bug4's PFR: 0.022222
+OldBotv3bug4's estimated fold percentage is 0.400000
+OldBotv3bug4's AF flop/postflop: 10.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.155556
+BAMF4's PFR: 0.022222
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.600000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.022222
+OldBotv1raisebug4's PFR: 0.022222
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (23)
+BAMF4 posts big blind, stack size (574)
+
+['FOLD', 'CALL:4', 'RAISE:6:12']
+{}
+
+***PREFLOP***(6) Board:()
+Our hand: 6d Ah
+
+OldBotv3bug4 raised to 4.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.756000
+BAMF4's Equity: 0.5945
+BAMF4's Implied Odds: -6
+BAMF4's maxBetFold: 4
+BAMF4's maxBetEV: 8
+
+BAMF4 calls 4.
+our bot's last action is CALL for 4
+['CHECK', 'BET:2:8']
+{}
+
+***FLOP***(8) Board:(4c Kc 4d)
+Our hand: 6d Ah
+
+our last bet of 4 was in round 0
+BAMF4's EV: 4.188000
+BAMF4's Equity: 0.5235
+BAMF4's Implied Odds: -8
+BAMF4's maxBetFold: 5
+BAMF4's maxBetEV: 8
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:8']
+{}
+
+***TURN***(8) Board:(4c Kc 4d As)
+Our hand: 6d Ah
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 6.752000
+BAMF4's Equity: 0.844
+BAMF4's Implied Odds: -8
+BAMF4's maxBetFold: 5
+BAMF4's maxBetEV: 43
+
+line 1
+final max bet:8
+final min bet:2
+Bet range: 2 8
+BAMF4 bets 8.
+our bot's last action is BET for 8
+['FOLD', 'CALL:20']
+{}
+
+***TURN***(36) Board:(4c Kc 4d As)
+Our hand: 6d Ah
+
+OldBotv3bug4 raised to 20.
+our last bet of 8 was in round 4
+BAMF4's EV: 28.512000
+BAMF4's Equity: 0.844
+BAMF4's Implied Odds: -45
+BAMF4's maxBetFold: 24
+BAMF4's maxBetEV: 194
+
+line 1
+final call min:20
+BAMF4 calls 20.
+our bot's last action is CALL for 20
+OldBotv3bug4 WTSD percentage is: 0.239130
+BAMF4 WTSD percentage is: 0.260870
+OldBotv3bug4 W$SD percentage is: 0.818182
+
+
+NEWHAND:47
+
+['NEWHAND', '47', '1', '5d', 'Qs', '552', '48', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.292139']
+Active Players:2
+
+Our hand: 5d Qs
+BAMF4's VPIP: 0.152174
+BAMF4's PFR: 0.021739
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.592593
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.282609
+OldBotv3bug4's PFR: 0.021739
+OldBotv3bug4's estimated fold percentage is 0.400000
+OldBotv3bug4's AF flop/postflop: 11.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.021739
+OldBotv1raisebug4's PFR: 0.021739
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (551)
+OldBotv3bug4 posts big blind, stack size (46)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 5d Qs
+
+our last bet of 1 was in round 0
+BAMF4's EV: 0.954000
+BAMF4's Equity: 0.4885
+BAMF4's Implied Odds: -2
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 2
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:4', 'RAISE:6:12']
+{}
+
+***PREFLOP***(6) Board:()
+Our hand: 5d Qs
+
+OldBotv3bug4 raised to 4.
+our last bet of 2 was in round 0
+BAMF4's EV: 1.908000
+BAMF4's Equity: 0.4885
+BAMF4's Implied Odds: -5
+BAMF4's maxBetFold: 4
+BAMF4's maxBetEV: 5
+
+BAMF4 calls 4.
+our bot's last action is CALL for 4
+['FOLD', 'CALL:2', 'RAISE:4:14']
+{}
+
+***FLOP***(10) Board:(6h 3d 4c)
+Our hand: 5d Qs
+
+OldBotv3bug4 bet 2.
+our last bet of 4 was in round 0
+BAMF4's EV: 4.138000
+BAMF4's Equity: 0.5115
+BAMF4's Implied Odds: -10
+BAMF4's maxBetFold: 6
+BAMF4's maxBetEV: 10
+
+line 6
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:12']
+{}
+
+***TURN***(12) Board:(6h 3d 4c 5s)
+Our hand: 5d Qs
+
+OldBotv3bug4 checks.
+our last bet of 2 was in round 3
+BAMF4's EV: 4.962000
+BAMF4's Equity: 0.4135
+BAMF4's Implied Odds: -12
+BAMF4's maxBetFold: 8
+BAMF4's maxBetEV: 8
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:12']
+{}
+
+***RIVER***(12) Board:(6h 3d 4c 5s Ac)
+Our hand: 5d Qs
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 4
+BAMF4's EV: 4.763636
+BAMF4's Equity: 0.39696969697
+BAMF4's Implied Odds: -12
+BAMF4's maxBetFold: 8
+BAMF4's maxBetEV: 7
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+BAMF4 WTSD percentage is: 0.276596
+OldBotv3bug4 WTSD percentage is: 0.255319
+OldBotv3bug4 W$SD percentage is: 0.833333
+
+
+NEWHAND:48
+
+['NEWHAND', '48', '2', '9s', '8d', '54', '546', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.233249']
+Active Players:2
+
+Our hand: 9s 8d
+OldBotv3bug4's VPIP: 0.297872
+OldBotv3bug4's PFR: 0.021277
+OldBotv3bug4's estimated fold percentage is 0.400000
+OldBotv3bug4's AF flop/postflop: 12.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.170213
+BAMF4's PFR: 0.021277
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.551724
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.021277
+OldBotv1raisebug4's PFR: 0.021277
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (53)
+BAMF4 posts big blind, stack size (544)
+
+['FOLD', 'CALL:4', 'RAISE:6:12']
+{}
+
+***PREFLOP***(6) Board:()
+Our hand: 9s 8d
+
+OldBotv3bug4 raised to 4.
+our last bet of 2 was in round 0
+BAMF4's EV: 1.828000
+BAMF4's Equity: 0.4785
+BAMF4's Implied Odds: -5
+BAMF4's maxBetFold: 4
+BAMF4's maxBetEV: 5
+
+BAMF4 calls 4.
+our bot's last action is CALL for 4
+['CHECK', 'BET:2:8']
+{}
+
+***FLOP***(8) Board:(2d 5s Ad)
+Our hand: 9s 8d
+
+our last bet of 4 was in round 0
+BAMF4's EV: 2.264000
+BAMF4's Equity: 0.283
+BAMF4's Implied Odds: -8
+BAMF4's maxBetFold: 5
+BAMF4's maxBetEV: 3
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:2', 'RAISE:4:14']
+{}
+
+***FLOP***(10) Board:(2d 5s Ad)
+Our hand: 9s 8d
+
+OldBotv3bug4 bet 2.
+our last bet of 0 was in round 3
+BAMF4's EV: 1.396000
+BAMF4's Equity: 0.283
+BAMF4's Implied Odds: -6
+BAMF4's maxBetFold: 6
+BAMF4's maxBetEV: 3
+
+line 6
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:12']
+{}
+
+***TURN***(12) Board:(2d 5s Ad Td)
+Our hand: 9s 8d
+
+our last bet of 2 was in round 3
+BAMF4's EV: 3.804000
+BAMF4's Equity: 0.317
+BAMF4's Implied Odds: -12
+BAMF4's maxBetFold: 8
+BAMF4's maxBetEV: 5
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:2', 'RAISE:4:18']
+{}
+
+***TURN***(14) Board:(2d 5s Ad Td)
+Our hand: 9s 8d
+
+OldBotv3bug4 bet 2.
+our last bet of 0 was in round 4
+BAMF4's EV: 3.072000
+BAMF4's Equity: 0.317
+BAMF4's Implied Odds: -11
+BAMF4's maxBetFold: 9
+BAMF4's maxBetEV: 6
+
+line 4
+final max raise:9
+final min raise:8
+Raise range: 4 18
+BAMF4 raises to 9.
+our bot's last action is RAISE for 9
+OldBotv3bug4 folds.
+
+
+NEWHAND:49
+
+['NEWHAND', '49', '1', 'Ks', 'Ah', '554', '46', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.114717']
+Active Players:2
+
+Our hand: Ks Ah
+BAMF4's VPIP: 0.166667
+BAMF4's PFR: 0.020833
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.548387
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.312500
+OldBotv3bug4's PFR: 0.020833
+OldBotv3bug4's estimated fold percentage is 0.400000
+OldBotv3bug4's AF flop/postflop: 14.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.020833
+OldBotv1raisebug4's PFR: 0.020833
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (553)
+OldBotv3bug4 posts big blind, stack size (44)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Ks Ah
+
+our last bet of 1 was in round 0
+BAMF4's EV: 1.616000
+BAMF4's Equity: 0.654
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 5
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:4', 'RAISE:6:12']
+{}
+
+***PREFLOP***(6) Board:()
+Our hand: Ks Ah
+
+OldBotv3bug4 raised to 4.
+our last bet of 2 was in round 0
+BAMF4's EV: 3.232000
+BAMF4's Equity: 0.654
+BAMF4's Implied Odds: -6
+BAMF4's maxBetFold: 4
+BAMF4's maxBetEV: 11
+
+BAMF4 calls 4.
+our bot's last action is CALL for 4
+['CHECK', 'BET:2:8']
+{}
+
+***FLOP***(8) Board:(4h Ts 2h)
+Our hand: Ks Ah
+
+OldBotv3bug4 checks.
+our last bet of 4 was in round 0
+BAMF4's EV: 4.680000
+BAMF4's Equity: 0.585
+BAMF4's Implied Odds: -8
+BAMF4's maxBetFold: 5
+BAMF4's maxBetEV: 11
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:8']
+{}
+
+***TURN***(8) Board:(4h Ts 2h 9c)
+Our hand: Ks Ah
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 4.008000
+BAMF4's Equity: 0.501
+BAMF4's Implied Odds: -8
+BAMF4's maxBetFold: 5
+BAMF4's maxBetEV: 8
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:8']
+{}
+
+***RIVER***(8) Board:(4h Ts 2h 9c Tc)
+Our hand: Ks Ah
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 4
+BAMF4's EV: 4.109091
+BAMF4's Equity: 0.513636363636
+BAMF4's Implied Odds: -8
+BAMF4's maxBetFold: 5
+BAMF4's maxBetEV: 8
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+OldBotv3bug4 WTSD percentage is: 0.265306
+BAMF4 WTSD percentage is: 0.285714
+OldBotv3bug4 W$SD percentage is: 0.846154
+
+
+NEWHAND:50
+
+['NEWHAND', '50', '2', 'Qc', 'Qh', '50', '550', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.079867']
+Active Players:2
+
+Our hand: Qc Qh
+OldBotv3bug4's VPIP: 0.326531
+OldBotv3bug4's PFR: 0.020408
+OldBotv3bug4's estimated fold percentage is 0.400000
+OldBotv3bug4's AF flop/postflop: 14.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.183673
+BAMF4's PFR: 0.020408
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.531250
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.020408
+OldBotv1raisebug4's PFR: 0.020408
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (49)
+BAMF4 posts big blind, stack size (548)
+
+['FOLD', 'CALL:4', 'RAISE:6:12']
+{}
+
+***PREFLOP***(6) Board:()
+Our hand: Qc Qh
+
+OldBotv3bug4 raised to 4.
+our last bet of 2 was in round 0
+BAMF4's EV: 4.444000
+BAMF4's Equity: 0.8055
+BAMF4's Implied Odds: -7
+BAMF4's maxBetFold: 4
+BAMF4's maxBetEV: 24
+
+BETTING LOOSE2
+final max raise:12
+final min raise:6
+Raise range: 6 12
+BAMF4 raises to 6.
+our bot's last action is RAISE for 6
+['FOLD', 'CALL:8', 'RAISE:10:24']
+{}
+
+***PREFLOP***(14) Board:()
+Our hand: Qc Qh
+
+OldBotv3bug4 raised to 8.
+our last bet of 6 was in round 0
+BAMF4's EV: 10.888000
+BAMF4's Equity: 0.8055
+BAMF4's Implied Odds: -15
+BAMF4's maxBetFold: 9
+BAMF4's maxBetEV: 57
+
+BETTING LOOSE2
+final max raise:24
+final min raise:10
+Raise range: 10 24
+BAMF4 raises to 13.
+our bot's last action is RAISE for 13
+OldBotv3bug4 folds.
+
+
+NEWHAND:51
+
+['NEWHAND', '51', '1', 'Jc', 'Qc', '558', '42', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.059863']
+Active Players:2
+
+Our hand: Jc Qc
+BAMF4's VPIP: 0.200000
+BAMF4's PFR: 0.020000
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.531250
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.340000
+OldBotv3bug4's PFR: 0.020000
+OldBotv3bug4's estimated fold percentage is 0.380000
+OldBotv3bug4's AF flop/postflop: 14.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.020000
+OldBotv1raisebug4's PFR: 0.020000
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (557)
+OldBotv3bug4 posts big blind, stack size (40)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Jc Qc
+
+our last bet of 1 was in round 0
+BAMF4's EV: 1.470000
+BAMF4's Equity: 0.6175
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 4
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:4', 'RAISE:6:12']
+{}
+
+***PREFLOP***(6) Board:()
+Our hand: Jc Qc
+
+OldBotv3bug4 raised to 4.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.940000
+BAMF4's Equity: 0.6175
+BAMF4's Implied Odds: -6
+BAMF4's maxBetFold: 3
+BAMF4's maxBetEV: 9
+
+BAMF4 calls 4.
+our bot's last action is CALL for 4
+['FOLD', 'CALL:2', 'RAISE:4:14']
+{}
+
+***FLOP***(10) Board:(2s Qh 4c)
+Our hand: Jc Qc
+
+OldBotv3bug4 bet 2.
+our last bet of 4 was in round 0
+BAMF4's EV: 8.290000
+BAMF4's Equity: 0.8575
+BAMF4's Implied Odds: -11
+BAMF4's maxBetFold: 6
+BAMF4's maxBetEV: 60
+
+line 1
+final max raise:14
+final min raise:4
+Raise range: 4 14
+BAMF4 raises to 11.
+our bot's last action is RAISE for 11
+OldBotv3bug4 folds.
+
+
+NEWHAND:52
+
+['NEWHAND', '52', '2', 'Jh', 'Kc', '36', '564', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '14.023968']
+Active Players:2
+
+Our hand: Jh Kc
+OldBotv3bug4's VPIP: 0.352941
+OldBotv3bug4's PFR: 0.019608
+OldBotv3bug4's estimated fold percentage is 0.380000
+OldBotv3bug4's AF flop/postflop: 15.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.215686
+BAMF4's PFR: 0.019608
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.545455
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.019608
+OldBotv1raisebug4's PFR: 0.019608
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (35)
+BAMF4 posts big blind, stack size (562)
+
+['FOLD', 'CALL:4', 'RAISE:6:12']
+{}
+
+***PREFLOP***(6) Board:()
+Our hand: Jh Kc
+
+OldBotv3bug4 raised to 4.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.840000
+BAMF4's Equity: 0.605
+BAMF4's Implied Odds: -6
+BAMF4's maxBetFold: 3
+BAMF4's maxBetEV: 9
+
+BAMF4 calls 4.
+our bot's last action is CALL for 4
+['CHECK', 'BET:2:8']
+{}
+
+***FLOP***(8) Board:(8c Qc 4s)
+Our hand: Jh Kc
+
+our last bet of 4 was in round 0
+BAMF4's EV: 4.000000
+BAMF4's Equity: 0.5
+BAMF4's Implied Odds: -8
+BAMF4's maxBetFold: 4
+BAMF4's maxBetEV: 8
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:8']
+{}
+
+***TURN***(8) Board:(8c Qc 4s 9d)
+Our hand: Jh Kc
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 3.344000
+BAMF4's Equity: 0.418
+BAMF4's Implied Odds: -8
+BAMF4's maxBetFold: 4
+BAMF4's maxBetEV: 5
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:8']
+{}
+
+***RIVER***(8) Board:(8c Qc 4s 9d 7d)
+Our hand: Jh Kc
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 4
+BAMF4's EV: 1.943434
+BAMF4's Equity: 0.242929292929
+BAMF4's Implied Odds: -8
+BAMF4's maxBetFold: 4
+BAMF4's maxBetEV: 2
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+OldBotv3bug4 checks.
+OldBotv3bug4 WTSD percentage is: 0.269231
+BAMF4 WTSD percentage is: 0.288462
+OldBotv3bug4 W$SD percentage is: 0.857143
+
+
+NEWHAND:53
+
+['NEWHAND', '53', '1', 'Td', 'Js', '560', '40', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '13.996145']
+Active Players:2
+
+Our hand: Td Js
+BAMF4's VPIP: 0.211538
+BAMF4's PFR: 0.019231
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.529412
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.365385
+OldBotv3bug4's PFR: 0.019231
+OldBotv3bug4's estimated fold percentage is 0.380000
+OldBotv3bug4's AF flop/postflop: 15.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.019231
+OldBotv1raisebug4's PFR: 0.019231
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (559)
+OldBotv3bug4 posts big blind, stack size (38)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Td Js
+
+our last bet of 1 was in round 0
+BAMF4's EV: 1.202000
+BAMF4's Equity: 0.5505
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 3
 
 BAMF4 calls 2.
 our bot's last action is CALL for 2
@@ -1730,97 +3570,1114 @@ our bot's last action is CALL for 2
 {}
 
 ***PREFLOP***(7) Board:()
-Our hand: Ac 6h
+Our hand: Td Js
 
-Randy4 raised to 5.
+OldBotv3bug4 raised to 5.
 our last bet of 2 was in round 0
-BAMF4's EV: 2.880000
-BAMF4's Equity: 0.588
+BAMF4's EV: 2.505000
+BAMF4's Equity: 0.5505
 BAMF4's Implied Odds: -7
 BAMF4's maxBetFold: 4
-BAMF4's maxBetEV: 9
+BAMF4's maxBetEV: 8
 
 BAMF4 calls 5.
 our bot's last action is CALL for 5
-['FOLD', 'CALL:3', 'RAISE:6:19']
+['CHECK', 'BET:2:10']
 {}
 
-***FLOP***(13) Board:(4h As 7d)
-Our hand: Ac 6h
+***FLOP***(10) Board:(As 2h Th)
+Our hand: Td Js
 
-Randy4 bet 3.
+OldBotv3bug4 checks.
 our last bet of 5 was in round 0
-BAMF4's EV: 10.432000
-BAMF4's Equity: 0.8395
-BAMF4's Implied Odds: -15
-BAMF4's maxBetFold: 9
-BAMF4's maxBetEV: 67
+BAMF4's EV: 7.315000
+BAMF4's Equity: 0.7315
+BAMF4's Implied Odds: -10
+BAMF4's maxBetFold: 6
+BAMF4's maxBetEV: 27
 
 line 1
-final max raise:19
-final min raise:6
-Raise range: 6 19
-BAMF4 raises to 15.
-our bot's last action is RAISE for 15
-['FOLD', 'CALL:28', 'RAISE:41:94']
+final max bet:10
+final min bet:2
+Bet range: 2 10
+BAMF4 bets 4.
+our bot's last action is BET for 4
+['FOLD', 'CALL:20', 'RAISE:35:35']
 {}
 
-***FLOP***(53) Board:(4h As 7d)
-Our hand: Ac 6h
+***FLOP***(34) Board:(As 2h Th)
+Our hand: Td Js
 
-Randy4 raised to 28.
-our last bet of 15 was in round 3
-BAMF4's EV: 42.407000
-BAMF4's Equity: 0.8395
-BAMF4's Implied Odds: -63
-BAMF4's maxBetFold: 37
-BAMF4's maxBetEV: 277
+OldBotv3bug4 raised to 20.
+our last bet of 4 was in round 3
+BAMF4's EV: 20.575000
+BAMF4's Equity: 0.7315
+BAMF4's Implied Odds: -44
+BAMF4's maxBetFold: 20
+BAMF4's maxBetEV: 92
 
 line 1
-final max raise:94
-final min raise:41
-Raise range: 41 94
-BAMF4 raises to 50.
-our bot's last action is RAISE for 50
-['FOLD', 'CALL:80', 'RAISE:110:250']
+final max raise:35
+final min raise:35
+Raise range: 35 35
+BAMF4 raises to 35.
+our bot's last action is RAISE for 35
+OldBotv3bug4 folds.
+
+
+NEWHAND:54
+
+['NEWHAND', '54', '2', 'Qh', '7c', '15', '585', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '13.962321']
+Active Players:2
+
+Our hand: Qh 7c
+OldBotv3bug4's VPIP: 0.377358
+OldBotv3bug4's PFR: 0.018868
+OldBotv3bug4's estimated fold percentage is 0.380000
+OldBotv3bug4's AF flop/postflop: 16.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.226415
+BAMF4's PFR: 0.018868
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.571429
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.018868
+OldBotv1raisebug4's PFR: 0.018868
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (14)
+BAMF4 posts big blind, stack size (583)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:55
+
+['NEWHAND', '55', '1', '5h', 'Qs', '586', '14', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '13.962321']
+Active Players:2
+
+Our hand: 5h Qs
+BAMF4's VPIP: 0.222222
+BAMF4's PFR: 0.018519
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.571429
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.370370
+OldBotv3bug4's PFR: 0.018519
+OldBotv3bug4's estimated fold percentage is 0.370370
+OldBotv3bug4's AF flop/postflop: 16.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.018519
+OldBotv1raisebug4's PFR: 0.018519
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (585)
+OldBotv3bug4 posts big blind, stack size (12)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
 {}
 
-***FLOP***(140) Board:(4h As 7d)
-Our hand: Ac 6h
+***PREFLOP***(3) Board:()
+Our hand: 5h Qs
 
-Randy4 raised to 80.
-our last bet of 50 was in round 3
-BAMF4's EV: 112.715000
-BAMF4's Equity: 0.8395
-BAMF4's Implied Odds: -164
-BAMF4's maxBetFold: 97
-BAMF4's maxBetEV: 732
+our last bet of 1 was in round 0
+BAMF4's EV: 1.014000
+BAMF4's Equity: 0.5035
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 3
 
-line 1
-final max raise:250
-final min raise:110
-Raise range: 110 250
-BAMF4 raises to 196.
-our bot's last action is RAISE for 196
-['FOLD', 'CALL:277']
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
 {}
 
-***FLOP***(483) Board:(4h As 7d)
-Our hand: Ac 6h
+***FLOP***(4) Board:(4h 5d 6h)
+Our hand: 5h Qs
 
-Randy4 raised to 277.
-our last bet of 196 was in round 3
-BAMF4's EV: 392.478000
-BAMF4's Equity: 0.8395
-BAMF4's Implied Odds: -548
-BAMF4's maxBetFold: 338
-BAMF4's maxBetEV: 2526
+OldBotv3bug4 checks.
+OldBotv3bug4 checks.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.178000
+BAMF4's Equity: 0.5445
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 4
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(4h 5d 6h Ts)
+Our hand: 5h Qs
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 2.258000
+BAMF4's Equity: 0.5645
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 5
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(4h 5d 6h Ts Td)
+Our hand: 5h Qs
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 4
+BAMF4's EV: 2.707071
+BAMF4's Equity: 0.676767676768
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 8
 
 line 1
-final call min:277
-BAMF4 calls 277.
-our bot's last action is CALL for 277
-Randy4 WTSD percentage is: 0.318182
-BAMF4 WTSD percentage is: 0.363636
-BAMF4 W$SD percentage is: 0.625000
+final max bet:4
+final min bet:2
+Bet range: 2 4
+BAMF4 bets 4.
+our bot's last action is BET for 4
+OldBotv3bug4 folds.
+
+
+NEWHAND:56
+
+['NEWHAND', '56', '2', '8d', '9c', '12', '588', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '13.940790']
+Active Players:2
+
+Our hand: 8d 9c
+OldBotv3bug4's VPIP: 0.363636
+OldBotv3bug4's PFR: 0.018182
+OldBotv3bug4's estimated fold percentage is 0.370370
+OldBotv3bug4's AF flop/postflop: 16.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.218182
+BAMF4's PFR: 0.018182
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.583333
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.018182
+OldBotv1raisebug4's PFR: 0.018182
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (11)
+BAMF4 posts big blind, stack size (586)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:57
+
+['NEWHAND', '57', '1', '3h', 'Qc', '589', '11', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '13.940790']
+Active Players:2
+
+Our hand: 3h Qc
+BAMF4's VPIP: 0.214286
+BAMF4's PFR: 0.017857
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.583333
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.357143
+OldBotv3bug4's PFR: 0.017857
+OldBotv3bug4's estimated fold percentage is 0.375000
+OldBotv3bug4's AF flop/postflop: 16.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.017857
+OldBotv1raisebug4's PFR: 0.017857
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (588)
+OldBotv3bug4 posts big blind, stack size (9)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 3h Qc
+
+our last bet of 1 was in round 0
+BAMF4's EV: 0.922000
+BAMF4's Equity: 0.4805
+BAMF4's Implied Odds: -2
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 2
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Ah 4s 8h)
+Our hand: 3h Qc
+
+OldBotv3bug4 checks.
+OldBotv3bug4 checks.
+our last bet of 2 was in round 0
+BAMF4's EV: 1.510000
+BAMF4's Equity: 0.3775
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 2
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Ah 4s 8h As)
+Our hand: 3h Qc
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 1.640000
+BAMF4's Equity: 0.41
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 2
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(Ah 4s 8h As 7c)
+Our hand: 3h Qc
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 4
+BAMF4's EV: 1.286869
+BAMF4's Equity: 0.321717171717
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 1
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+OldBotv3bug4 WTSD percentage is: 0.263158
+BAMF4 WTSD percentage is: 0.280702
+OldBotv3bug4 W$SD percentage is: 0.866667
+
+
+NEWHAND:58
+
+['NEWHAND', '58', '2', '9h', '7d', '13', '587', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '13.920446']
+Active Players:2
+
+Our hand: 9h 7d
+OldBotv3bug4's VPIP: 0.350877
+OldBotv3bug4's PFR: 0.017544
+OldBotv3bug4's estimated fold percentage is 0.375000
+OldBotv3bug4's AF flop/postflop: 16.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.210526
+BAMF4's PFR: 0.017544
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.567568
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.017544
+OldBotv1raisebug4's PFR: 0.017544
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (12)
+BAMF4 posts big blind, stack size (585)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:59
+
+['NEWHAND', '59', '1', 'Ac', '5d', '588', '12', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '13.920446']
+Active Players:2
+
+Our hand: Ac 5d
+BAMF4's VPIP: 0.206897
+BAMF4's PFR: 0.017241
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.567568
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.344828
+OldBotv3bug4's PFR: 0.017241
+OldBotv3bug4's estimated fold percentage is 0.379310
+OldBotv3bug4's AF flop/postflop: 16.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.017241
+OldBotv1raisebug4's PFR: 0.017241
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (587)
+OldBotv3bug4 posts big blind, stack size (10)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Ac 5d
+
+our last bet of 1 was in round 0
+BAMF4's EV: 1.360000
+BAMF4's Equity: 0.59
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 4
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(2h 2d Qh)
+Our hand: Ac 5d
+
+OldBotv3bug4 checks.
+OldBotv3bug4 checks.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.166000
+BAMF4's Equity: 0.5415
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 4
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(2h 2d Qh 3c)
+Our hand: Ac 5d
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 2.094000
+BAMF4's Equity: 0.5235
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 4
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(2h 2d Qh 3c 6s)
+Our hand: Ac 5d
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 4
+BAMF4's EV: 1.690909
+BAMF4's Equity: 0.422727272727
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 2
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+BAMF4 WTSD percentage is: 0.288136
+OldBotv3bug4 WTSD percentage is: 0.271186
+BAMF4 W$SD percentage is: 0.294118
+OldBotv3bug4 W$SD percentage is: 0.875000
+
+
+NEWHAND:60
+
+['NEWHAND', '60', '2', 'Ad', '5s', '12', '588', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '13.898672']
+Active Players:2
+
+Our hand: Ad 5s
+OldBotv3bug4's VPIP: 0.338983
+OldBotv3bug4's PFR: 0.016949
+OldBotv3bug4's estimated fold percentage is 0.379310
+OldBotv3bug4's AF flop/postflop: 16.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.203390
+BAMF4's PFR: 0.016949
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.552632
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.016949
+OldBotv1raisebug4's PFR: 0.016949
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (11)
+BAMF4 posts big blind, stack size (586)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:61
+
+['NEWHAND', '61', '1', '6h', 'Js', '589', '11', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '13.898672']
+Active Players:2
+
+Our hand: 6h Js
+BAMF4's VPIP: 0.200000
+BAMF4's PFR: 0.016667
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.552632
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.333333
+OldBotv3bug4's PFR: 0.016667
+OldBotv3bug4's estimated fold percentage is 0.383333
+OldBotv3bug4's AF flop/postflop: 16.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.016667
+OldBotv1raisebug4's PFR: 0.016667
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (588)
+OldBotv3bug4 posts big blind, stack size (9)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 6h Js
+
+our last bet of 1 was in round 0
+BAMF4's EV: 0.918000
+BAMF4's Equity: 0.4795
+BAMF4's Implied Odds: -2
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 2
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(3s Ts 4s)
+Our hand: 6h Js
+
+OldBotv3bug4 checks.
+OldBotv3bug4 checks.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.068000
+BAMF4's Equity: 0.517
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 4
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(3s Ts 4s 9s)
+Our hand: 6h Js
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 3.372000
+BAMF4's Equity: 0.843
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 21
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+BAMF4 bets 4.
+our bot's last action is BET for 4
+OldBotv3bug4 folds.
+
+
+NEWHAND:62
+
+['NEWHAND', '62', '2', '5h', 'Kh', '9', '591', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '13.875118']
+Active Players:2
+
+Our hand: 5h Kh
+OldBotv3bug4's VPIP: 0.327869
+OldBotv3bug4's PFR: 0.016393
+OldBotv3bug4's estimated fold percentage is 0.383333
+OldBotv3bug4's AF flop/postflop: 16.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.196721
+BAMF4's PFR: 0.016393
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.564103
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.016393
+OldBotv1raisebug4's PFR: 0.016393
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (8)
+BAMF4 posts big blind, stack size (589)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:63
+
+['NEWHAND', '63', '1', 'Jc', 'As', '592', '8', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '13.875118']
+Active Players:2
+
+Our hand: Jc As
+BAMF4's VPIP: 0.193548
+BAMF4's PFR: 0.016129
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.564103
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.322581
+OldBotv3bug4's PFR: 0.016129
+OldBotv3bug4's estimated fold percentage is 0.387097
+OldBotv3bug4's AF flop/postflop: 16.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.016129
+OldBotv1raisebug4's PFR: 0.016129
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (591)
+OldBotv3bug4 posts big blind, stack size (6)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Jc As
+
+our last bet of 1 was in round 0
+BAMF4's EV: 1.570000
+BAMF4's Equity: 0.6425
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 5
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(2h 6h 5h)
+Our hand: Jc As
+
+OldBotv3bug4 checks.
+OldBotv3bug4 checks.
+our last bet of 2 was in round 0
+BAMF4's EV: 1.468000
+BAMF4's Equity: 0.367
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 2
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(2h 6h 5h Kc)
+Our hand: Jc As
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 1.440000
+BAMF4's Equity: 0.36
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 2
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(2h 6h 5h Kc 4s)
+Our hand: Jc As
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 4
+BAMF4's EV: 0.961616
+BAMF4's Equity: 0.240404040404
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 1
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+OldBotv3bug4 WTSD percentage is: 0.269841
+BAMF4 WTSD percentage is: 0.285714
+OldBotv3bug4 W$SD percentage is: 0.882353
+
+
+NEWHAND:64
+
+['NEWHAND', '64', '2', '4s', '8c', '10', '590', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '13.845717']
+Active Players:2
+
+Our hand: 4s 8c
+OldBotv3bug4's VPIP: 0.317460
+OldBotv3bug4's PFR: 0.015873
+OldBotv3bug4's estimated fold percentage is 0.387097
+OldBotv3bug4's AF flop/postflop: 16.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.190476
+BAMF4's PFR: 0.015873
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.550000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.015873
+OldBotv1raisebug4's PFR: 0.015873
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (9)
+BAMF4 posts big blind, stack size (588)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:65
+
+['NEWHAND', '65', '1', '6h', '5s', '591', '9', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '13.845717']
+Active Players:2
+
+Our hand: 6h 5s
+BAMF4's VPIP: 0.187500
+BAMF4's PFR: 0.015625
+BAMF4's estimated fold percentage is 0.204545
+BAMF4's AF flop/postflop: 0.550000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.312500
+OldBotv3bug4's PFR: 0.015625
+OldBotv3bug4's estimated fold percentage is 0.390625
+OldBotv3bug4's AF flop/postflop: 16.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.015625
+OldBotv1raisebug4's PFR: 0.015625
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (590)
+OldBotv3bug4 posts big blind, stack size (7)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 6h 5s
+
+our last bet of 1 was in round 0
+BAMF4's EV: 0.536000
+BAMF4's Equity: 0.384
+BAMF4's Implied Odds: -2
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 1
+
+NOT BLUFFING FOLD
+BAMF4 folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:66
+
+['NEWHAND', '66', '2', '2d', '9c', '10', '590', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '13.838365']
+Active Players:2
+
+Our hand: 2d 9c
+OldBotv3bug4's VPIP: 0.307692
+OldBotv3bug4's PFR: 0.015385
+OldBotv3bug4's estimated fold percentage is 0.390625
+OldBotv3bug4's AF flop/postflop: 16.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.184615
+BAMF4's PFR: 0.015385
+BAMF4's estimated fold percentage is 0.153846
+BAMF4's AF flop/postflop: 0.550000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.015385
+OldBotv1raisebug4's PFR: 0.015385
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (9)
+BAMF4 posts big blind, stack size (588)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:67
+
+['NEWHAND', '67', '1', '7d', 'Ah', '591', '9', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '13.838365']
+Active Players:2
+
+Our hand: 7d Ah
+BAMF4's VPIP: 0.181818
+BAMF4's PFR: 0.015152
+BAMF4's estimated fold percentage is 0.153846
+BAMF4's AF flop/postflop: 0.550000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.303030
+OldBotv3bug4's PFR: 0.015152
+OldBotv3bug4's estimated fold percentage is 0.393939
+OldBotv3bug4's AF flop/postflop: 16.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.015152
+OldBotv1raisebug4's PFR: 0.015152
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (590)
+OldBotv3bug4 posts big blind, stack size (7)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 7d Ah
+
+our last bet of 1 was in round 0
+BAMF4's EV: 1.300000
+BAMF4's Equity: 0.575
+BAMF4's Implied Odds: -3
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 4
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(2d 3c 2c)
+Our hand: 7d Ah
+
+OldBotv3bug4 checks.
+OldBotv3bug4 checks.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.086000
+BAMF4's Equity: 0.5215
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 4
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(2d 3c 2c Kd)
+Our hand: 7d Ah
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 2.036000
+BAMF4's Equity: 0.509
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 4
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(2d 3c 2c Kd Kh)
+Our hand: 7d Ah
+
+OldBotv3bug4 checks.
+our last bet of 0 was in round 4
+BAMF4's EV: 2.410101
+BAMF4's Equity: 0.602525252525
+BAMF4's Implied Odds: -4
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 6
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+BAMF4 bets 3.
+our bot's last action is BET for 3
+OldBotv3bug4 folds.
+
+
+NEWHAND:68
+
+['NEWHAND', '68', '2', '3d', '7h', '7', '593', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '13.813681']
+Active Players:2
+
+Our hand: 3d 7h
+OldBotv3bug4's VPIP: 0.298507
+OldBotv3bug4's PFR: 0.014925
+OldBotv3bug4's estimated fold percentage is 0.393939
+OldBotv3bug4's AF flop/postflop: 16.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.179104
+BAMF4's PFR: 0.014925
+BAMF4's estimated fold percentage is 0.153846
+BAMF4's AF flop/postflop: 0.560976
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.014925
+OldBotv1raisebug4's PFR: 0.014925
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (6)
+BAMF4 posts big blind, stack size (591)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:69
+
+['NEWHAND', '69', '1', 'Js', '3d', '594', '6', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '13.813681']
+Active Players:2
+
+Our hand: Js 3d
+BAMF4's VPIP: 0.176471
+BAMF4's PFR: 0.014706
+BAMF4's estimated fold percentage is 0.153846
+BAMF4's AF flop/postflop: 0.560976
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.294118
+OldBotv3bug4's PFR: 0.014706
+OldBotv3bug4's estimated fold percentage is 0.397059
+OldBotv3bug4's AF flop/postflop: 16.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.014706
+OldBotv1raisebug4's PFR: 0.014706
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (593)
+OldBotv3bug4 posts big blind, stack size (4)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Js 3d
+
+our last bet of 1 was in round 0
+BAMF4's EV: 0.808000
+BAMF4's Equity: 0.452
+BAMF4's Implied Odds: -2
+BAMF4's maxBetFold: 1
+BAMF4's maxBetEV: 2
+
+NOT BLUFFING FOLD
+BAMF4 folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:70
+
+['NEWHAND', '70', '2', 'Jd', '7h', '7', '593', '0', 'OldBotv3bug4', 'BAMF4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '13.801842']
+Active Players:2
+
+Our hand: Jd 7h
+OldBotv3bug4's VPIP: 0.289855
+OldBotv3bug4's PFR: 0.014493
+OldBotv3bug4's estimated fold percentage is 0.397059
+OldBotv3bug4's AF flop/postflop: 16.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:1
+BAMF4's VPIP: 0.173913
+BAMF4's PFR: 0.014493
+BAMF4's estimated fold percentage is 0.159420
+BAMF4's AF flop/postflop: 0.560976
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv1raisebug4's VPIP: 0.014493
+OldBotv1raisebug4's PFR: 0.014493
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+OldBotv3bug4 posts small blind/and is dealer, stack size (6)
+BAMF4 posts big blind, stack size (591)
+
+OldBotv3bug4 folds.
+
+
+NEWHAND:71
+
+['NEWHAND', '71', '1', 'Qd', '4h', '594', '6', '0', 'BAMF4', 'OldBotv3bug4', 'OldBotv1raisebug4', '2', 'true', 'true', 'false', '13.801842']
+Active Players:2
+
+Our hand: Qd 4h
+BAMF4's VPIP: 0.171429
+BAMF4's PFR: 0.014286
+BAMF4's estimated fold percentage is 0.159420
+BAMF4's AF flop/postflop: 0.560976
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv3bug4's VPIP: 0.285714
+OldBotv3bug4's PFR: 0.014286
+OldBotv3bug4's estimated fold percentage is 0.400000
+OldBotv3bug4's AF flop/postflop: 16.000000
+OldBotv3bug4's Player Type: UNKNOWN
+OldBotv3bug4's Seat:2
+OldBotv1raisebug4's VPIP: 0.014286
+OldBotv1raisebug4's PFR: 0.014286
+OldBotv1raisebug4's estimated fold percentage is 0.000000
+OldBotv1raisebug4's AF flop/postflop: 1.000000
+OldBotv1raisebug4's Player Type: NIT
+OldBotv1raisebug4's Seat:3
+OldBotv1raisebug4 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (593)
+OldBotv3bug4 posts big blind, stack size (4)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Qd 4h
+
+our last bet of 1 was in round 0
+BAMF4's EV: 0.958000
+BAMF4's Equity: 0.4895
+BAMF4's Implied Odds: -2
+BAMF4's maxBetFold: 2
+BAMF4's maxBetEV: 2
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:4', 'RAISE:6:6']
+{}
+
+***PREFLOP***(6) Board:()
+Our hand: Qd 4h
+
+OldBotv3bug4 raised to 4.
+our last bet of 2 was in round 0
+BAMF4's EV: 1.916000
+BAMF4's Equity: 0.4895
+BAMF4's Implied Odds: -5
+BAMF4's maxBetFold: 4
+BAMF4's maxBetEV: 5
+
+BAMF4 calls 4.
+our bot's last action is CALL for 4
+['FOLD', 'CALL:2']
+{}
+
+***FLOP***(10) Board:(Kh Ac Td)
+Our hand: Qd 4h
+
+OldBotv3bug4 bet 2.
+our last bet of 4 was in round 0
+BAMF4's EV: 4.138000
+BAMF4's Equity: 0.5115
+BAMF4's Implied Odds: -10
+BAMF4's maxBetFold: 6
+BAMF4's maxBetEV: 10
+
+line 6
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+BAMF4 WTSD percentage is: 0.267606
+OldBotv3bug4 WTSD percentage is: 0.253521
+BAMF4 W$SD percentage is: 0.315789
 Gameover, engine disconnected.

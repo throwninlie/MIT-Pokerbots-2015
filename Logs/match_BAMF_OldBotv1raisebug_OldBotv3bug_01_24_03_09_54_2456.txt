@@ -1,0 +1,73 @@
+6.176 MIT Pokerbots - OldBotv3bug6 vs OldBotv1raisebug6 vs BAMF6 (stack=200, bb=2)
+Hand #1, OldBotv3bug6 (200), OldBotv1raisebug6 (200), BAMF6 (200)
+OldBotv1raisebug6 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv3bug6 [Qd Ts]
+Dealt to OldBotv1raisebug6 [Qs 9s]
+Dealt to BAMF6 [As Ad]
+OldBotv3bug6 raises to 4
+OldBotv1raisebug6 raises to 6
+BAMF6 raises to 14
+OldBotv3bug6 raises to 22
+OldBotv1raisebug6 raises to 80
+BAMF6 calls 80
+OldBotv3bug6 raises to 171
+OldBotv1raisebug6 raises to 200
+BAMF6 calls 200
+OldBotv3bug6 folds
+*** FLOP *** (571) [4d 3c 7h]
+*** TURN *** (571) [4d 3c 7h] [8c]
+*** RIVER *** (571) [4d 3c 7h 8c] [Kc]
+OldBotv1raisebug6 shows [Qs 9s]
+BAMF6 shows [As Ad]
+BAMF6 wins the pot (571)
+
+Hand #2, BAMF6 (571), OldBotv3bug6 (29), OldBotv1raisebug6 (0)
+BAMF6 posts the blind of 1
+OldBotv3bug6 posts the blind of 2
+Dealt to BAMF6 [7d 4s]
+Dealt to OldBotv3bug6 [Kh 5d]
+Dealt to OldBotv1raisebug6 [2s 5h]
+BAMF6 folds
+OldBotv3bug6 wins the pot (3)
+
+Hand #3, OldBotv3bug6 (30), BAMF6 (570), OldBotv1raisebug6 (0)
+OldBotv3bug6 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv1raisebug6 [3d 9d]
+Dealt to BAMF6 [Ts Th]
+Dealt to OldBotv3bug6 [5d 7c]
+OldBotv3bug6 raises to 4
+BAMF6 raises to 10
+OldBotv3bug6 folds
+BAMF6 wins the pot (14)
+
+Hand #4, BAMF6 (574), OldBotv3bug6 (26), OldBotv1raisebug6 (0)
+BAMF6 posts the blind of 1
+OldBotv3bug6 posts the blind of 2
+Dealt to OldBotv3bug6 [9c 3c]
+Dealt to OldBotv1raisebug6 [4d 2c]
+Dealt to BAMF6 [6s 5h]
+BAMF6 folds
+OldBotv3bug6 wins the pot (3)
+
+Hand #5, OldBotv3bug6 (27), BAMF6 (573), OldBotv1raisebug6 (0)
+OldBotv3bug6 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [4d 4c]
+Dealt to OldBotv3bug6 [5c 9s]
+Dealt to OldBotv1raisebug6 [8h 7h]
+OldBotv3bug6 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [4h Js 8d]
+BAMF6 bets 3
+OldBotv3bug6 calls 3
+*** TURN *** (14) [4h Js 8d] [Td]
+BAMF6 bets 10
+OldBotv3bug6 raises to 20
+BAMF6 calls 20
+*** RIVER *** (54) [4h Js 8d Td] [6h]
+BAMF6 shows [4d 4c]
+OldBotv3bug6 shows [5c 9s]
+BAMF6 wins the pot (54)
+

@@ -1,17 +1,17 @@
 
-C:\Users\Er\Dropbox\Pokerbot\players>python Player.py 3000 
-Connecting to localhost:3000
-Our name: BAMF2
-Opp1 name: OldBotv3bug2
-Opp2 name: OldBotv1raisebug2
+C:\Users\Er\Dropbox\Pokerbot\Versions\v3bug>python Player.py 3002 
+Connecting to localhost:3002
+Our name: OldBotv3bug2
+Opp1 name: OldBotv1raisebug2
+Opp2 name: BAMF2
 
 
 NEWHAND:1
 
-['NEWHAND', '1', '1', 'Qd', 'Ts', '200', '200', '200', 'BAMF2', 'OldBotv3bug2', 'OldBotv1raisebug2', '3', 'true', 'true', 'true', '15.000000']
+['NEWHAND', '1', '2', 'Qs', '9s', '200', '200', '200', 'BAMF2', 'OldBotv3bug2', 'OldBotv1raisebug2', '3', 'true', 'true', 'true', '15.000000']
 Active Players:3
 
-Our hand: Qd Ts
+Our hand: Qs 9s
 BAMF2's VPIP: 0.000000
 BAMF2's PFR: 0.000000
 BAMF2's estimated fold percentage is 0.000000
@@ -34,72 +34,68 @@ OldBotv1raisebug2's Seat:3
 OldBotv3bug2 posts small blind, stack size (199)
 OldBotv1raisebug2 posts big blind, stack size (198)
 
-['CALL:2', 'FOLD', 'RAISE:4:7']
-{}
 
-***PREFLOP***(3) Board:()
-Our hand: Qd Ts
+***PREFLOP***(5) Board:()
+Our hand: Qs 9s
 
-our last bet of 0 was in round 0
-BAMF2's EV: 0.930000
-BAMF2's Equity: 0.586
-BAMF2's Implied Odds: -3
-BAMF2's maxBetFold: 0
-BAMF2's maxBetEV: 4
+BAMF2 called 2.
+OldBotv3bug2's EV: 2.018000
+OldBotv3bug2's Equity: 0.574
+OldBotv3bug2's Implied Odds: -5
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 6
 
-BAMF2 calls 2.
-our bot's last action is CALL for 2
-['FOLD', 'CALL:6', 'RAISE:8:22']
-{}
+final max raise:4
+final min raise:4
+Raise range: 4 8
+OldBotv3bug2 raise 4.
 
-***PREFLOP***(12) Board:()
-Our hand: Qd Ts
+***PREFLOP***(16) Board:()
+Our hand: Qs 9s
 
-OldBotv3bug2 raised to 4.
 OldBotv1raisebug2 raised to 6.
-our last bet of 2 was in round 0
-BAMF2's EV: 5.376000
-BAMF2's Equity: 0.586
-BAMF2's Implied Odds: -13
-BAMF2's maxBetFold: 0
-BAMF2's maxBetEV: 16
+BAMF2 called 6.
+OldBotv3bug2's EV: 6.628000
+OldBotv3bug2's Equity: 0.574
+OldBotv3bug2's Implied Odds: -17
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 21
 
-BAMF2 calls 6.
-our bot's last action is CALL for 6
-['FOLD', 'CALL:54', 'RAISE:92:178']
-{}
+BETTING LESS LOOSE2
+final max raise:21
+final min raise:8
+Raise range: 8 24
+OldBotv3bug2 raise 16.
 
-***PREFLOP***(76) Board:()
-Our hand: Qd Ts
+***PREFLOP***(124) Board:()
+Our hand: Qs 9s
 
-OldBotv3bug2 raised to 16.
 OldBotv1raisebug2 raised to 54.
-our last bet of 6 was in round 0
-BAMF2's EV: 24.664000
-BAMF2's Equity: 0.586
-BAMF2's Implied Odds: -90
-BAMF2's maxBetFold: 0
-BAMF2's maxBetEV: 107
+BAMF2 called 54.
+OldBotv3bug2's EV: 48.172000
+OldBotv3bug2's Equity: 0.574
+OldBotv3bug2's Implied Odds: -137
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 167
 
-BAMF2 calls 54.
-our bot's last action is CALL for 54
-['FOLD', 'CALL:200']
-{}
+BETTING LESS LOOSE2
+final max raise:167
+final min raise:92
+Raise range: 92 200
+OldBotv3bug2 raise 118.
 
-***PREFLOP***(372) Board:()
-Our hand: Qd Ts
+***PREFLOP***(518) Board:()
+Our hand: Qs 9s
 
-OldBotv3bug2 raised to 118.
 OldBotv1raisebug2 raised to 200.
-our last bet of 54 was in round 0
-BAMF2's EV: 157.548000
-BAMF2's Equity: 0.586
-BAMF2's Implied Odds: -414
-BAMF2's maxBetFold: 0
-BAMF2's maxBetEV: 526
+BAMF2 called 200.
+OldBotv3bug2's EV: 212.132000
+OldBotv3bug2's Equity: 0.574
+OldBotv3bug2's Implied Odds: -569
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 697
 
-BAMF2 calls 200.
-our bot's last action is CALL for 200
+final call min:200
 OldBotv3bug2 folds.
 BAMF2 WTSD percentage is: 1.000000
 OldBotv1raisebug2 WTSD percentage is: 1.000000
@@ -108,10 +104,10 @@ OldBotv1raisebug2 W$SD percentage is: 1.000000
 
 NEWHAND:2
 
-['NEWHAND', '2', '3', 'Kh', '5d', '82', '518', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '2', '1', '2s', '5h', '82', '518', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.955612']
 Active Players:2
 
-Our hand: Kh 5d
+Our hand: 2s 5h
 OldBotv3bug2's VPIP: 1.000000
 OldBotv3bug2's PFR: 1.000000
 OldBotv3bug2's estimated fold percentage is 0.000000
@@ -135,16 +131,31 @@ BAMF2 is eliminated
 OldBotv3bug2 posts small blind/and is dealer, stack size (81)
 OldBotv1raisebug2 posts big blind, stack size (516)
 
-OldBotv3bug2 raised to 4.
+
+***PREFLOP***(3) Board:()
+Our hand: 2s 5h
+
+OldBotv3bug2's EV: -0.230000
+OldBotv3bug2's Equity: 0.354
+OldBotv3bug2's Implied Odds: -1
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 1
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv3bug2 raise 4.
+EV FOLD
+OldBotv3bug2 folds.
 OldBotv1raisebug2 folds.
 
 
 NEWHAND:3
 
-['NEWHAND', '3', '3', '5d', '7c', '516', '84', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '3', '2', '3d', '9d', '516', '84', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.941748']
 Active Players:2
 
-Our hand: 5d 7c
+Our hand: 3d 9d
 OldBotv1raisebug2's VPIP: 0.500000
 OldBotv1raisebug2's PFR: 0.500000
 OldBotv1raisebug2's estimated fold percentage is 0.500000
@@ -168,20 +179,70 @@ BAMF2 is eliminated
 OldBotv1raisebug2 posts small blind/and is dealer, stack size (515)
 OldBotv3bug2 posts big blind, stack size (82)
 
+
+***PREFLOP***(6) Board:()
+Our hand: 3d 9d
+
 OldBotv1raisebug2 raised to 4.
-OldBotv3bug2 raised to 6.
+OldBotv3bug2's EV: 0.510000
+OldBotv3bug2's Equity: 0.451
+OldBotv3bug2's Implied Odds: -5
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 4
+
+final max raise:6
+final min raise:6
+Raise range: 6 12
+OldBotv3bug2 raise 6.
+final max raise:6
+final min raise:6
+Raise range: 6 12
+OldBotv3bug2 raise 6.
+
+***PREFLOP***(14) Board:()
+Our hand: 3d 9d
+
 OldBotv1raisebug2 raised to 8.
-OldBotv3bug2 raised to 10.
+OldBotv3bug2's EV: 1.922000
+OldBotv3bug2's Equity: 0.451
+OldBotv3bug2's Implied Odds: -12
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 11
+
+final max raise:10
+final min raise:10
+Raise range: 10 24
+OldBotv3bug2 raise 10.
+final max raise:10
+final min raise:10
+Raise range: 10 24
+OldBotv3bug2 raise 10.
+
+***PREFLOP***(40) Board:()
+Our hand: 3d 9d
+
 OldBotv1raisebug2 raised to 30.
+OldBotv3bug2's EV: 1.570000
+OldBotv3bug2's Equity: 0.451
+OldBotv3bug2's Implied Odds: -33
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 32
+
 OldBotv3bug2 folds.
+BETTING LESS LOOSE2
+final max raise:50
+final min raise:50
+Raise range: 50 84
+OldBotv3bug2 folds.
+OldBotv3bug2 raise 50.
 
 
 NEWHAND:4
 
-['NEWHAND', '4', '3', '9c', '3c', '74', '526', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '4', '1', '4d', '2c', '74', '526', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.900373']
 Active Players:2
 
-Our hand: 9c 3c
+Our hand: 4d 2c
 OldBotv3bug2's VPIP: 1.000000
 OldBotv3bug2's PFR: 0.333333
 OldBotv3bug2's estimated fold percentage is 0.333333
@@ -205,16 +266,31 @@ BAMF2 is eliminated
 OldBotv3bug2 posts small blind/and is dealer, stack size (73)
 OldBotv1raisebug2 posts big blind, stack size (524)
 
-OldBotv3bug2 raised to 4.
+
+***PREFLOP***(3) Board:()
+Our hand: 4d 2c
+
+OldBotv3bug2's EV: -0.182500
+OldBotv3bug2's Equity: 0.3635
+OldBotv3bug2's Implied Odds: -1
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 1
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv3bug2 raise 4.
+EV FOLD
+OldBotv3bug2 folds.
 OldBotv1raisebug2 folds.
 
 
 NEWHAND:5
 
-['NEWHAND', '5', '3', '5c', '9s', '524', '76', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '5', '2', '8h', '7h', '524', '76', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.890151']
 Active Players:2
 
-Our hand: 5c 9s
+Our hand: 8h 7h
 OldBotv1raisebug2's VPIP: 0.500000
 OldBotv1raisebug2's PFR: 0.250000
 OldBotv1raisebug2's estimated fold percentage is 0.500000
@@ -238,20 +314,60 @@ BAMF2 is eliminated
 OldBotv1raisebug2 posts small blind/and is dealer, stack size (523)
 OldBotv3bug2 posts big blind, stack size (74)
 
+
+***PREFLOP***(6) Board:()
+Our hand: 8h 7h
+
 OldBotv1raisebug2 raised to 4.
-OldBotv3bug2 raised to 6.
+OldBotv3bug2's EV: 0.740000
+OldBotv3bug2's Equity: 0.474
+OldBotv3bug2's Implied Odds: -5
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 5
+
+final max raise:6
+final min raise:6
+Raise range: 6 12
+OldBotv3bug2 raise 6.
+
+***PREFLOP***(14) Board:()
+Our hand: 8h 7h
+
 OldBotv1raisebug2 raised to 8.
-OldBotv3bug2 raised to 10.
+OldBotv3bug2's EV: 2.428000
+OldBotv3bug2's Equity: 0.474
+OldBotv3bug2's Implied Odds: -13
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 12
+
+final max raise:10
+final min raise:10
+Raise range: 10 24
+OldBotv3bug2 raise 10.
+
+***PREFLOP***(22) Board:()
+Our hand: 8h 7h
+
 OldBotv1raisebug2 raised to 12.
+OldBotv3bug2's EV: 4.116000
+OldBotv3bug2's Equity: 0.474
+OldBotv3bug2's Implied Odds: -20
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 19
+
+final max raise:14
+final min raise:14
+Raise range: 14 36
 OldBotv3bug2 folds.
+OldBotv3bug2 raise 14.
 
 
 NEWHAND:6
 
-['NEWHAND', '6', '3', '6d', '3c', '66', '534', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '6', '1', '2s', '4d', '66', '534', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.861512']
 Active Players:2
 
-Our hand: 6d 3c
+Our hand: 2s 4d
 OldBotv3bug2's VPIP: 1.000000
 OldBotv3bug2's PFR: 0.200000
 OldBotv3bug2's estimated fold percentage is 0.400000
@@ -275,17 +391,44 @@ BAMF2 is eliminated
 OldBotv3bug2 posts small blind/and is dealer, stack size (65)
 OldBotv1raisebug2 posts big blind, stack size (532)
 
-OldBotv3bug2 raised to 4.
+
+***PREFLOP***(3) Board:()
+Our hand: 2s 4d
+
+OldBotv3bug2's EV: -0.352500
+OldBotv3bug2's Equity: 0.3295
+OldBotv3bug2's Implied Odds: 0
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 1
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv3bug2 raise 4.
+EV FOLD
+OldBotv3bug2 folds.
+
+***PREFLOP***(10) Board:()
+Our hand: 2s 4d
+
 OldBotv1raisebug2 raised to 6.
+OldBotv3bug2's EV: -0.728000
+OldBotv3bug2's Equity: 0.3295
+OldBotv3bug2's Implied Odds: -3
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 4
+
+OldBotv3bug2 folds.
+EV FOLD
 OldBotv3bug2 folds.
 
 
 NEWHAND:7
 
-['NEWHAND', '7', '3', '8s', '4s', '538', '62', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '7', '2', 'Td', '2c', '538', '62', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.844384']
 Active Players:2
 
-Our hand: 8s 4s
+Our hand: Td 2c
 OldBotv1raisebug2's VPIP: 0.666667
 OldBotv1raisebug2's PFR: 0.166667
 OldBotv1raisebug2's estimated fold percentage is 0.500000
@@ -309,20 +452,66 @@ BAMF2 is eliminated
 OldBotv1raisebug2 posts small blind/and is dealer, stack size (537)
 OldBotv3bug2 posts big blind, stack size (60)
 
+
+***PREFLOP***(6) Board:()
+Our hand: Td 2c
+
 OldBotv1raisebug2 raised to 4.
-OldBotv3bug2 raised to 6.
+OldBotv3bug2's EV: 0.235000
+OldBotv3bug2's Equity: 0.4235
+OldBotv3bug2's Implied Odds: -4
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 4
+
+final max raise:6
+final min raise:6
+Raise range: 6 12
+OldBotv3bug2 raise 6.
+OldBotv3bug2 calls 4.
+
+***PREFLOP***(14) Board:()
+Our hand: Td 2c
+
 OldBotv1raisebug2 raised to 8.
-OldBotv3bug2 raised to 10.
+OldBotv3bug2's EV: 1.317000
+OldBotv3bug2's Equity: 0.4235
+OldBotv3bug2's Implied Odds: -11
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 10
+
+final max raise:10
+final min raise:10
+Raise range: 10 24
+OldBotv3bug2 raise 10.
+final max raise:10
+final min raise:10
+Raise range: 10 24
+OldBotv3bug2 raise 10.
+
+***PREFLOP***(22) Board:()
+Our hand: Td 2c
+
 OldBotv1raisebug2 raised to 12.
+OldBotv3bug2's EV: 2.399000
+OldBotv3bug2's Equity: 0.4235
+OldBotv3bug2's Implied Odds: -17
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 16
+
+final max raise:14
+final min raise:14
+Raise range: 14 36
 OldBotv3bug2 folds.
+OldBotv3bug2 raise 14.
+OldBotv3bug2 calls 12.
 
 
 NEWHAND:8
 
-['NEWHAND', '8', '3', '8h', 'Qh', '52', '548', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '8', '1', 'Th', '9c', '52', '548', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.814808']
 Active Players:2
 
-Our hand: 8h Qh
+Our hand: Th 9c
 OldBotv3bug2's VPIP: 1.000000
 OldBotv3bug2's PFR: 0.142857
 OldBotv3bug2's estimated fold percentage is 0.571429
@@ -346,19 +535,59 @@ BAMF2 is eliminated
 OldBotv3bug2 posts small blind/and is dealer, stack size (51)
 OldBotv1raisebug2 posts big blind, stack size (546)
 
-OldBotv3bug2 raised to 4.
+
+***PREFLOP***(3) Board:()
+Our hand: Th 9c
+
+OldBotv3bug2's EV: 0.680000
+OldBotv3bug2's Equity: 0.536
+OldBotv3bug2's Implied Odds: -3
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 3
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv3bug2 raise 4.
+
+***PREFLOP***(10) Board:()
+Our hand: Th 9c
+
 OldBotv1raisebug2 raised to 6.
-OldBotv3bug2 raised to 8.
+OldBotv3bug2's EV: 2.576000
+OldBotv3bug2's Equity: 0.536
+OldBotv3bug2's Implied Odds: -10
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 11
+
+final max raise:8
+final min raise:8
+Raise range: 8 18
+OldBotv3bug2 raise 8.
+
+***PREFLOP***(18) Board:()
+Our hand: Th 9c
+
 OldBotv1raisebug2 raised to 10.
+OldBotv3bug2's EV: 5.008000
+OldBotv3bug2's Equity: 0.536
+OldBotv3bug2's Implied Odds: -19
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 20
+
+final max raise:12
+final min raise:12
+Raise range: 12 30
 OldBotv3bug2 folds.
+OldBotv3bug2 raise 12.
 
 
 NEWHAND:9
 
-['NEWHAND', '9', '3', '2c', 'Qc', '556', '44', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '9', '2', '5h', 'Ts', '556', '44', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.764064']
 Active Players:2
 
-Our hand: 2c Qc
+Our hand: 5h Ts
 OldBotv1raisebug2's VPIP: 0.750000
 OldBotv1raisebug2's PFR: 0.125000
 OldBotv1raisebug2's estimated fold percentage is 0.500000
@@ -387,10 +616,10 @@ OldBotv1raisebug2 folds.
 
 NEWHAND:10
 
-['NEWHAND', '10', '3', 'Jh', 'Jd', '45', '555', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '10', '1', '8s', '9d', '45', '555', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.764064']
 Active Players:2
 
-Our hand: Jh Jd
+Our hand: 8s 9d
 OldBotv3bug2's VPIP: 0.888889
 OldBotv3bug2's PFR: 0.111111
 OldBotv3bug2's estimated fold percentage is 0.625000
@@ -414,16 +643,30 @@ BAMF2 is eliminated
 OldBotv3bug2 posts small blind/and is dealer, stack size (44)
 OldBotv1raisebug2 posts big blind, stack size (553)
 
-OldBotv3bug2 raised to 4.
+
+***PREFLOP***(3) Board:()
+Our hand: 8s 9d
+
+OldBotv3bug2's EV: 0.305000
+OldBotv3bug2's Equity: 0.461
+OldBotv3bug2's Implied Odds: -2
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 2
+
+BETTING LESS LOOSE2
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv3bug2 raise 4.
 OldBotv1raisebug2 folds.
 
 
 NEWHAND:11
 
-['NEWHAND', '11', '3', '3d', '5s', '553', '47', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '11', '2', 'Kd', 'Td', '553', '47', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.752444']
 Active Players:2
 
-Our hand: 3d 5s
+Our hand: Kd Td
 OldBotv1raisebug2's VPIP: 0.600000
 OldBotv1raisebug2's PFR: 0.100000
 OldBotv1raisebug2's estimated fold percentage is 0.400000
@@ -447,20 +690,60 @@ BAMF2 is eliminated
 OldBotv1raisebug2 posts small blind/and is dealer, stack size (552)
 OldBotv3bug2 posts big blind, stack size (45)
 
+
+***PREFLOP***(6) Board:()
+Our hand: Kd Td
+
 OldBotv1raisebug2 raised to 4.
-OldBotv3bug2 raised to 6.
+OldBotv3bug2's EV: 1.930000
+OldBotv3bug2's Equity: 0.593
+OldBotv3bug2's Implied Odds: -7
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 8
+
+final max raise:6
+final min raise:6
+Raise range: 6 12
+OldBotv3bug2 raise 6.
+
+***PREFLOP***(14) Board:()
+Our hand: Kd Td
+
 OldBotv1raisebug2 raised to 8.
-OldBotv3bug2 raised to 10.
+OldBotv3bug2's EV: 5.046000
+OldBotv3bug2's Equity: 0.593
+OldBotv3bug2's Implied Odds: -16
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 20
+
+final max raise:10
+final min raise:10
+Raise range: 10 24
+OldBotv3bug2 raise 10.
+
+***PREFLOP***(22) Board:()
+Our hand: Kd Td
+
 OldBotv1raisebug2 raised to 12.
+OldBotv3bug2's EV: 8.162000
+OldBotv3bug2's Equity: 0.593
+OldBotv3bug2's Implied Odds: -25
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 32
+
+final max raise:14
+final min raise:14
+Raise range: 14 36
 OldBotv3bug2 folds.
+OldBotv3bug2 raise 14.
 
 
 NEWHAND:12
 
-['NEWHAND', '12', '3', 'Jd', '4h', '37', '563', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '12', '1', '3c', '3d', '37', '563', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.682392']
 Active Players:2
 
-Our hand: Jd 4h
+Our hand: 3c 3d
 OldBotv3bug2's VPIP: 0.909091
 OldBotv3bug2's PFR: 0.090909
 OldBotv3bug2's estimated fold percentage is 0.545455
@@ -484,19 +767,60 @@ BAMF2 is eliminated
 OldBotv3bug2 posts small blind/and is dealer, stack size (36)
 OldBotv1raisebug2 posts big blind, stack size (561)
 
-OldBotv3bug2 raised to 4.
+
+***PREFLOP***(3) Board:()
+Our hand: 3c 3d
+
+OldBotv3bug2's EV: 0.710000
+OldBotv3bug2's Equity: 0.542
+OldBotv3bug2's Implied Odds: -3
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 3
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv3bug2 raise 4.
+
+***PREFLOP***(10) Board:()
+Our hand: 3c 3d
+
 OldBotv1raisebug2 raised to 6.
-OldBotv3bug2 raised to 10.
+OldBotv3bug2's EV: 2.672000
+OldBotv3bug2's Equity: 0.542
+OldBotv3bug2's Implied Odds: -10
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 11
+
+BETTING LESS LOOSE2
+final max raise:11
+final min raise:8
+Raise range: 8 18
+OldBotv3bug2 raise 10.
+
+***PREFLOP***(24) Board:()
+Our hand: 3c 3d
+
 OldBotv1raisebug2 raised to 14.
+OldBotv3bug2's EV: 6.596000
+OldBotv3bug2's Equity: 0.542
+OldBotv3bug2's Implied Odds: -26
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 28
+
+final max raise:18
+final min raise:18
+Raise range: 18 37
 OldBotv3bug2 folds.
+OldBotv3bug2 raise 18.
 
 
 NEWHAND:13
 
-['NEWHAND', '13', '3', '2h', '7h', '573', '27', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '13', '2', '6d', '7s', '573', '27', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.640874']
 Active Players:2
 
-Our hand: 2h 7h
+Our hand: 6d 7s
 OldBotv1raisebug2's VPIP: 0.666667
 OldBotv1raisebug2's PFR: 0.083333
 OldBotv1raisebug2's estimated fold percentage is 0.400000
@@ -520,18 +844,49 @@ BAMF2 is eliminated
 OldBotv1raisebug2 posts small blind/and is dealer, stack size (572)
 OldBotv3bug2 posts big blind, stack size (25)
 
+
+***PREFLOP***(6) Board:()
+Our hand: 6d 7s
+
 OldBotv1raisebug2 raised to 4.
-OldBotv3bug2 raised to 6.
+OldBotv3bug2's EV: 0.205000
+OldBotv3bug2's Equity: 0.4205
+OldBotv3bug2's Implied Odds: -4
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 4
+
+final max raise:6
+final min raise:6
+Raise range: 6 12
+OldBotv3bug2 raise 6.
+final max raise:6
+final min raise:6
+Raise range: 6 12
+OldBotv3bug2 raise 6.
+
+***PREFLOP***(14) Board:()
+Our hand: 6d 7s
+
 OldBotv1raisebug2 raised to 8.
+OldBotv3bug2's EV: 1.251000
+OldBotv3bug2's Equity: 0.4205
+OldBotv3bug2's Implied Odds: -10
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 10
+
 OldBotv3bug2 folds.
+final max raise:10
+final min raise:10
+Raise range: 10 24
+OldBotv3bug2 raise 10.
 
 
 NEWHAND:14
 
-['NEWHAND', '14', '3', 'Ac', '4d', '21', '579', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '14', '1', 'Js', '5d', '21', '579', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.549713']
 Active Players:2
 
-Our hand: Ac 4d
+Our hand: Js 5d
 OldBotv3bug2's VPIP: 0.923077
 OldBotv3bug2's PFR: 0.076923
 OldBotv3bug2's estimated fold percentage is 0.615385
@@ -555,17 +910,44 @@ BAMF2 is eliminated
 OldBotv3bug2 posts small blind/and is dealer, stack size (20)
 OldBotv1raisebug2 posts big blind, stack size (577)
 
-OldBotv3bug2 raised to 4.
+
+***PREFLOP***(3) Board:()
+Our hand: Js 5d
+
+OldBotv3bug2's EV: 0.312500
+OldBotv3bug2's Equity: 0.4625
+OldBotv3bug2's Implied Odds: -2
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 2
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv3bug2 raise 4.
+
+***PREFLOP***(10) Board:()
+Our hand: Js 5d
+
 OldBotv1raisebug2 raised to 6.
+OldBotv3bug2's EV: 1.400000
+OldBotv3bug2's Equity: 0.4625
+OldBotv3bug2's Implied Odds: -9
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 8
+
 OldBotv3bug2 folds.
+final max raise:8
+final min raise:8
+Raise range: 8 18
+OldBotv3bug2 raise 8.
 
 
 NEWHAND:15
 
-['NEWHAND', '15', '3', '3c', 'As', '583', '17', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '15', '2', '3d', 'Ts', '583', '17', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.531253']
 Active Players:2
 
-Our hand: 3c As
+Our hand: 3d Ts
 OldBotv1raisebug2's VPIP: 0.714286
 OldBotv1raisebug2's PFR: 0.071429
 OldBotv1raisebug2's estimated fold percentage is 0.400000
@@ -594,10 +976,10 @@ OldBotv1raisebug2 folds.
 
 NEWHAND:16
 
-['NEWHAND', '16', '3', '3h', '3d', '18', '582', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '16', '1', 'Ks', '3c', '18', '582', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.531253']
 Active Players:2
 
-Our hand: 3h 3d
+Our hand: Ks 3c
 OldBotv3bug2's VPIP: 0.866667
 OldBotv3bug2's PFR: 0.066667
 OldBotv3bug2's estimated fold percentage is 0.642857
@@ -621,15 +1003,32 @@ BAMF2 is eliminated
 OldBotv3bug2 posts small blind/and is dealer, stack size (17)
 OldBotv1raisebug2 posts big blind, stack size (580)
 
-OldBotv3bug2 folds.
+
+***PREFLOP***(3) Board:()
+Our hand: Ks 3c
+
+OldBotv3bug2's EV: 0.535000
+OldBotv3bug2's Equity: 0.507
+OldBotv3bug2's Implied Odds: -3
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 3
+
+final max raise:17
+final min raise:17
+Raise range: 4 6
+OldBotv3bug2 raise 17.
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv3bug2 raise 4.
 
 
 NEWHAND:17
 
-['NEWHAND', '17', '3', 'Qd', '8s', '583', '17', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '17', '2', '4s', 'Td', '583', '17', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.522101']
 Active Players:2
 
-Our hand: Qd 8s
+Our hand: 4s Td
 OldBotv1raisebug2's VPIP: 0.625000
 OldBotv1raisebug2's PFR: 0.062500
 OldBotv1raisebug2's estimated fold percentage is 0.333333
@@ -653,16 +1052,28 @@ BAMF2 is eliminated
 OldBotv1raisebug2 posts small blind/and is dealer, stack size (582)
 OldBotv3bug2 posts big blind, stack size (15)
 
+
+***PREFLOP***(6) Board:()
+Our hand: 4s Td
+
 OldBotv1raisebug2 raised to 4.
+OldBotv3bug2's EV: 0.045000
+OldBotv3bug2's Equity: 0.4045
+OldBotv3bug2's Implied Odds: -4
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 4
+
 OldBotv3bug2 folds.
+OldBotv3bug2 folds.
+OldBotv3bug2 calls 4.
 
 
 NEWHAND:18
 
-['NEWHAND', '18', '3', '2c', 'Jh', '15', '585', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '18', '1', '9c', 'Kd', '15', '585', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.510390']
 Active Players:2
 
-Our hand: 2c Jh
+Our hand: 9c Kd
 OldBotv3bug2's VPIP: 0.764706
 OldBotv3bug2's PFR: 0.058824
 OldBotv3bug2's estimated fold percentage is 0.647059
@@ -686,15 +1097,32 @@ BAMF2 is eliminated
 OldBotv3bug2 posts small blind/and is dealer, stack size (14)
 OldBotv1raisebug2 posts big blind, stack size (583)
 
-OldBotv3bug2 folds.
+
+***PREFLOP***(3) Board:()
+Our hand: 9c Kd
+
+OldBotv3bug2's EV: 0.917500
+OldBotv3bug2's Equity: 0.5835
+OldBotv3bug2's Implied Odds: -3
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 4
+
+final max raise:14
+final min raise:14
+Raise range: 4 6
+OldBotv3bug2 raise 14.
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv3bug2 raise 4.
 
 
 NEWHAND:19
 
-['NEWHAND', '19', '3', '2d', '4c', '586', '14', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '19', '2', 'Qs', '9s', '586', '14', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.501877']
 Active Players:2
 
-Our hand: 2d 4c
+Our hand: Qs 9s
 OldBotv1raisebug2's VPIP: 0.611111
 OldBotv1raisebug2's PFR: 0.055556
 OldBotv1raisebug2's estimated fold percentage is 0.333333
@@ -718,18 +1146,49 @@ BAMF2 is eliminated
 OldBotv1raisebug2 posts small blind/and is dealer, stack size (585)
 OldBotv3bug2 posts big blind, stack size (12)
 
+
+***PREFLOP***(6) Board:()
+Our hand: Qs 9s
+
 OldBotv1raisebug2 raised to 4.
-OldBotv3bug2 raised to 12.
+OldBotv3bug2's EV: 1.760000
+OldBotv3bug2's Equity: 0.576
+OldBotv3bug2's Implied Odds: -7
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 8
+
+final max raise:12
+final min raise:12
+Raise range: 6 12
+OldBotv3bug2 raise 12.
+BETTING LESS LOOSE2
+final max raise:8
+final min raise:6
+Raise range: 6 12
+OldBotv3bug2 raise 6.
+
+***PREFLOP***(26) Board:()
+Our hand: Qs 9s
+
 OldBotv1raisebug2 raised to 14.
+OldBotv3bug2's EV: 9.040000
+OldBotv3bug2's Equity: 0.576
+OldBotv3bug2's Implied Odds: -29
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 35
+
+final call min:14
+OldBotv3bug2 folds.
+final call min:14
 OldBotv3bug2 folds.
 
 
 NEWHAND:20
 
-['NEWHAND', '20', '3', 'Kh', '8h', '2', '598', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '20', '1', '6c', '9h', '2', '598', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.481308']
 Active Players:2
 
-Our hand: Kh 8h
+Our hand: 6c 9h
 OldBotv3bug2's VPIP: 0.736842
 OldBotv3bug2's PFR: 0.052632
 OldBotv3bug2's estimated fold percentage is 0.684211
@@ -753,15 +1212,30 @@ BAMF2 is eliminated
 OldBotv3bug2 posts small blind/and is dealer, stack size (1)
 OldBotv1raisebug2 posts big blind, stack size (596)
 
+
+***PREFLOP***(3) Board:()
+Our hand: 6c 9h
+
+OldBotv3bug2's EV: 0.270000
+OldBotv3bug2's Equity: 0.454
+OldBotv3bug2's Implied Odds: -2
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 2
+
 OldBotv3bug2 folds.
+OldBotv3bug2 folds.
+final max raise:2
+final min raise:2
+Raise range: 2 2
+OldBotv3bug2 raise 2.
 
 
 NEWHAND:21
 
-['NEWHAND', '21', '3', '9c', '4s', '599', '1', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '21', '2', '4d', '2d', '599', '1', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.470992']
 Active Players:2
 
-Our hand: 9c 4s
+Our hand: 4d 2d
 OldBotv1raisebug2's VPIP: 0.600000
 OldBotv1raisebug2's PFR: 0.050000
 OldBotv1raisebug2's estimated fold percentage is 0.333333
@@ -792,10 +1266,10 @@ OldBotv3bug2 W$SD percentage is: 1.000000
 
 NEWHAND:22
 
-['NEWHAND', '22', '3', '5h', 'Ad', '2', '598', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '22', '1', 'Ah', '6d', '2', '598', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.470992']
 Active Players:2
 
-Our hand: 5h Ad
+Our hand: Ah 6d
 OldBotv3bug2's VPIP: 0.666667
 OldBotv3bug2's PFR: 0.047619
 OldBotv3bug2's estimated fold percentage is 0.700000
@@ -819,7 +1293,24 @@ BAMF2 is eliminated
 OldBotv3bug2 posts small blind/and is dealer, stack size (1)
 OldBotv1raisebug2 posts big blind, stack size (596)
 
-OldBotv3bug2 raised to 2.
+
+***PREFLOP***(3) Board:()
+Our hand: Ah 6d
+
+OldBotv3bug2's EV: 0.897500
+OldBotv3bug2's Equity: 0.5795
+OldBotv3bug2's Implied Odds: -3
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 4
+
+final max raise:2
+final min raise:2
+Raise range: 2 2
+OldBotv3bug2 raise 2.
+final max raise:2
+final min raise:2
+Raise range: 2 2
+OldBotv3bug2 raise 2.
 OldBotv1raisebug2 called 2.
 OldBotv3bug2 WTSD percentage is: 0.090909
 OldBotv1raisebug2 WTSD percentage is: 0.136364
@@ -828,10 +1319,10 @@ OldBotv3bug2 W$SD percentage is: 1.000000
 
 NEWHAND:23
 
-['NEWHAND', '23', '3', 'Qd', '7c', '596', '4', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '23', '2', '8s', '6d', '596', '4', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.459191']
 Active Players:2
 
-Our hand: Qd 7c
+Our hand: 8s 6d
 OldBotv1raisebug2's VPIP: 0.545455
 OldBotv1raisebug2's PFR: 0.045455
 OldBotv1raisebug2's estimated fold percentage is 0.333333
@@ -855,16 +1346,29 @@ BAMF2 is eliminated
 OldBotv1raisebug2 posts small blind/and is dealer, stack size (595)
 OldBotv3bug2 posts big blind, stack size (2)
 
+
+***PREFLOP***(6) Board:()
+Our hand: 8s 6d
+
 OldBotv1raisebug2 raised to 4.
+OldBotv3bug2's EV: 0.495000
+OldBotv3bug2's Equity: 0.4495
+OldBotv3bug2's Implied Odds: -5
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 4
+
 OldBotv3bug2 folds.
+OldBotv3bug2 folds.
+final call min:4
+OldBotv3bug2 calls 4.
 
 
 NEWHAND:24
 
-['NEWHAND', '24', '3', '7s', '2h', '2', '598', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '24', '1', 'Jd', '6d', '2', '598', '0', 'OldBotv3bug2', 'OldBotv1raisebug2', 'BAMF2', '2', 'true', 'true', 'false', '14.447194']
 Active Players:2
 
-Our hand: 7s 2h
+Our hand: Jd 6d
 OldBotv3bug2's VPIP: 0.608696
 OldBotv3bug2's PFR: 0.043478
 OldBotv3bug2's estimated fold percentage is 0.652174
@@ -888,15 +1392,29 @@ BAMF2 is eliminated
 OldBotv3bug2 posts small blind/and is dealer, stack size (1)
 OldBotv1raisebug2 posts big blind, stack size (596)
 
+
+***PREFLOP***(3) Board:()
+Our hand: Jd 6d
+
+OldBotv3bug2's EV: 0.445000
+OldBotv3bug2's Equity: 0.489
+OldBotv3bug2's Implied Odds: -2
+OldBotv3bug2's maxBetFold: 0
+OldBotv3bug2's maxBetEV: 2
+
 OldBotv3bug2 folds.
+final max raise:2
+final min raise:2
+Raise range: 2 2
+OldBotv3bug2 raise 2.
 
 
 NEWHAND:25
 
-['NEWHAND', '25', '3', '9s', '5h', '599', '1', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.963009']
+['NEWHAND', '25', '2', 'As', '3d', '599', '1', '0', 'OldBotv1raisebug2', 'OldBotv3bug2', 'BAMF2', '2', 'true', 'true', 'false', '14.438170']
 Active Players:2
 
-Our hand: 9s 5h
+Our hand: As 3d
 OldBotv1raisebug2's VPIP: 0.541667
 OldBotv1raisebug2's PFR: 0.041667
 OldBotv1raisebug2's estimated fold percentage is 0.333333

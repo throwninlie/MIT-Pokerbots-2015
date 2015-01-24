@@ -809,7 +809,7 @@ def betLogic(input_socket,board,equities,pot_size,our_seat,bot1,bot2 = None):
         maxBet = our_stack
         minBet = our_stack
         bettingActions(s,action,minBet,maxBet)
-    elif our_m > 4 and our_m <=7:
+    elif our_m < 4 and our_m <=7:
         #all in or fold (fold)
         action ="FOLD"
         bettingActions(s,action)

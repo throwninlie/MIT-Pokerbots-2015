@@ -1,0 +1,2055 @@
+
+C:\Users\Er\Dropbox\Pokerbot\Versions\v3bug>python Player.py 3002 
+Connecting to localhost:3002
+Our name: OldBotv24
+Opp1 name: BAMF4
+Opp2 name: OldBotv14
+
+
+NEWHAND:1
+
+['NEWHAND', '1', '2', 'Jd', 'Qs', '200', '200', '200', 'OldBotv14', 'OldBotv24', 'BAMF4', '3', 'true', 'true', 'true', '15.000000']
+Active Players:3
+
+Our hand: Jd Qs
+OldBotv14's VPIP: 0.000000
+OldBotv14's PFR: 0.000000
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 0.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:1
+OldBotv24's VPIP: 0.000000
+OldBotv24's PFR: 0.000000
+OldBotv24's estimated fold percentage is 0.000000
+OldBotv24's AF flop/postflop: 0.000000
+OldBotv24's Player Type: NIT
+OldBotv24's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 0.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+
+OldBotv24 posts small blind, stack size (199)
+BAMF4 posts big blind, stack size (198)
+
+
+***PREFLOP***(7) Board:()
+Our hand: Jd Qs
+
+OldBotv14 raised to 4.
+OldBotv24's EV: 2.424000
+OldBotv24's Equity: 0.584
+OldBotv24's Implied Odds: -8
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 9
+
+BETTING LESS LOOSE2
+final max raise:9
+final min raise:6
+Raise range: 6 14
+OldBotv24 raise 8.
+
+***PREFLOP***(28) Board:()
+Our hand: Jd Qs
+
+BAMF4 called 8.
+OldBotv14 raised to 12.
+OldBotv24's EV: 11.360000
+OldBotv24's Equity: 0.584
+OldBotv24's Implied Odds: -31
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 39
+
+final max raise:16
+final min raise:16
+Raise range: 16 44
+OldBotv24 folds.
+OldBotv24 raise 16.
+BAMF4 called 12.
+BAMF4 checks.
+OldBotv14 checks.
+BAMF4 bet 27.
+OldBotv14 raised to 113.
+BAMF4 called 113.
+BAMF4 bet 15.
+OldBotv14 raised to 75.
+BAMF4 called 75.
+OldBotv14 WTSD percentage is: 1.000000
+BAMF4 WTSD percentage is: 1.000000
+BAMF4 W$SD percentage is: 1.000000
+
+
+NEWHAND:2
+
+['NEWHAND', '2', '1', 'Qd', '6s', '192', '408', '0', 'OldBotv24', 'BAMF4', 'OldBotv14', '2', 'true', 'true', 'false', '14.977774']
+Active Players:2
+
+Our hand: Qd 6s
+OldBotv24's VPIP: 1.000000
+OldBotv24's PFR: 1.000000
+OldBotv24's estimated fold percentage is 0.000000
+OldBotv24's AF flop/postflop: 0.000000
+OldBotv24's Player Type: CASHCOW
+OldBotv24's Seat:1
+BAMF4's VPIP: 1.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 0.666667
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv14's VPIP: 1.000000
+OldBotv14's PFR: 1.000000
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: MANIAC
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+OldBotv24 posts small blind/and is dealer, stack size (191)
+BAMF4 posts big blind, stack size (406)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Qd 6s
+
+OldBotv24's EV: 0.490000
+OldBotv24's Equity: 0.498
+OldBotv24's Implied Odds: -2
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 2
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+
+***FLOP***(8) Board:(5d 3d 7d)
+Our hand: Qd 6s
+
+BAMF4 called 4.
+BAMF4 checks.
+OldBotv24's EV: 4.732000
+OldBotv24's Equity: 0.5915
+OldBotv24's Implied Odds: -8
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 11
+
+final max bet:2
+final min bet:2
+Bet range: 2 8
+OldBotv24 bets 2.
+
+***TURN***(23) Board:(5d 3d 7d Ac)
+Our hand: Qd 6s
+
+BAMF4 called 2.
+BAMF4 bet 11.
+OldBotv24's EV: 5.048000
+OldBotv24's Equity: 0.472
+OldBotv24's Implied Odds: -21
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 20
+
+final max raise:22
+final min raise:22
+Raise range: 22 45
+OldBotv24 folds.
+OldBotv24 raise 22.
+
+
+NEWHAND:3
+
+['NEWHAND', '3', '2', 'Js', '4h', '414', '186', '0', 'BAMF4', 'OldBotv24', 'OldBotv14', '2', 'true', 'true', 'false', '14.946307']
+Active Players:2
+
+Our hand: Js 4h
+BAMF4's VPIP: 0.500000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 0.600000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv24's VPIP: 0.500000
+OldBotv24's PFR: 0.500000
+OldBotv24's estimated fold percentage is 0.000000
+OldBotv24's AF flop/postflop: 2.000000
+OldBotv24's Player Type: MANIAC
+OldBotv24's Seat:2
+OldBotv14's VPIP: 0.500000
+OldBotv14's PFR: 0.500000
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: MANIAC
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (413)
+OldBotv24 posts big blind, stack size (184)
+
+
+***PREFLOP***(4) Board:()
+Our hand: Js 4h
+
+BAMF4 called 2.
+OldBotv24's EV: 1.830000
+OldBotv24's Equity: 0.4575
+OldBotv24's Implied Odds: -4
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 3
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+
+***FLOP***(8) Board:(5h 4s Qd)
+Our hand: Js 4h
+
+BAMF4 called 4.
+OldBotv24's EV: 4.588000
+OldBotv24's Equity: 0.5735
+OldBotv24's Implied Odds: -8
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 10
+
+final max bet:10
+final min bet:10
+Bet range: 2 8
+OldBotv24 bets 10.
+
+***TURN***(8) Board:(5h 4s Qd 4d)
+Our hand: Js 4h
+
+BAMF4 checks.
+OldBotv24's EV: 7.444000
+OldBotv24's Equity: 0.9305
+OldBotv24's Implied Odds: -8
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 107
+
+final max bet:20
+final min bet:20
+Bet range: 2 8
+OldBotv24 bets 20.
+
+***TURN***(16) Board:(5h 4s Qd 4d)
+Our hand: Js 4h
+
+BAMF4 bet 8.
+OldBotv24's EV: 14.332000
+OldBotv24's Equity: 0.9305
+OldBotv24's Implied Odds: -23
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 214
+
+final max raise:32
+final min raise:20
+Raise range: 16 32
+OldBotv24 raise 29.
+BAMF4 folds.
+
+
+NEWHAND:4
+
+['NEWHAND', '4', '1', '4d', 'Ac', '198', '402', '0', 'OldBotv24', 'BAMF4', 'OldBotv14', '2', 'true', 'true', 'false', '14.920416']
+Active Players:2
+
+Our hand: 4d Ac
+OldBotv24's VPIP: 0.333333
+OldBotv24's PFR: 0.333333
+OldBotv24's estimated fold percentage is 0.000000
+OldBotv24's AF flop/postflop: 4.000000
+OldBotv24's Player Type: LOOSE
+OldBotv24's Seat:1
+BAMF4's VPIP: 0.666667
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 0.666667
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv14's VPIP: 0.333333
+OldBotv14's PFR: 0.333333
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: LOOSE
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+OldBotv24 posts small blind/and is dealer, stack size (197)
+BAMF4 posts big blind, stack size (400)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 4d Ac
+
+OldBotv24's EV: 0.787500
+OldBotv24's Equity: 0.5575
+OldBotv24's Implied Odds: -3
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 3
+
+BETTING LESS LOOSE2
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+
+***FLOP***(8) Board:(4c 9s Qd)
+Our hand: 4d Ac
+
+BAMF4 called 4.
+BAMF4 checks.
+OldBotv24's EV: 4.572000
+OldBotv24's Equity: 0.5715
+OldBotv24's Implied Odds: -8
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 10
+
+final max bet:2
+final min bet:2
+Bet range: 2 8
+OldBotv24 bets 2.
+
+***TURN***(12) Board:(4c 9s Qd 3c)
+Our hand: 4d Ac
+
+BAMF4 called 2.
+BAMF4 checks.
+OldBotv24's EV: 7.740000
+OldBotv24's Equity: 0.645
+OldBotv24's Implied Odds: -12
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 21
+
+final max bet:20
+final min bet:20
+Bet range: 2 12
+OldBotv24 bets 20.
+
+***RIVER***(12) Board:(4c 9s Qd 3c Tc)
+Our hand: 4d Ac
+
+BAMF4 checks.
+OldBotv24's EV: 6.387879
+OldBotv24's Equity: 0.532323232323
+OldBotv24's Implied Odds: -12
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 13
+
+final max bet:12
+final min bet:10
+Bet range: 2 12
+OldBotv24 bets 12.
+BAMF4 folds.
+
+
+NEWHAND:5
+
+['NEWHAND', '5', '2', '5d', 'Qh', '396', '204', '0', 'BAMF4', 'OldBotv24', 'OldBotv14', '2', 'true', 'true', 'false', '14.897855']
+Active Players:2
+
+Our hand: 5d Qh
+BAMF4's VPIP: 0.500000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 0.500000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv24's VPIP: 0.250000
+OldBotv24's PFR: 0.250000
+OldBotv24's estimated fold percentage is 0.000000
+OldBotv24's AF flop/postflop: 7.000000
+OldBotv24's Player Type: BOMB
+OldBotv24's Seat:2
+OldBotv14's VPIP: 0.250000
+OldBotv14's PFR: 0.250000
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: LOOSE
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (395)
+OldBotv24 posts big blind, stack size (202)
+
+BAMF4 folds.
+
+
+NEWHAND:6
+
+['NEWHAND', '6', '1', '5d', '2h', '205', '395', '0', 'OldBotv24', 'BAMF4', 'OldBotv14', '2', 'true', 'true', 'false', '14.897855']
+Active Players:2
+
+Our hand: 5d 2h
+OldBotv24's VPIP: 0.200000
+OldBotv24's PFR: 0.200000
+OldBotv24's estimated fold percentage is 0.000000
+OldBotv24's AF flop/postflop: 7.000000
+OldBotv24's Player Type: BOMB
+OldBotv24's Seat:1
+BAMF4's VPIP: 0.400000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.200000
+BAMF4's AF flop/postflop: 0.500000
+BAMF4's Player Type: CALLING STATION
+BAMF4's Seat:2
+OldBotv14's VPIP: 0.200000
+OldBotv14's PFR: 0.200000
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: LOOSE
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+OldBotv24 posts small blind/and is dealer, stack size (204)
+BAMF4 posts big blind, stack size (393)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 5d 2h
+
+OldBotv24's EV: -0.187500
+OldBotv24's Equity: 0.3625
+OldBotv24's Implied Odds: -1
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 1
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+EV FOLD
+OldBotv24 folds.
+
+***FLOP***(10) Board:(Qc 8h 8c)
+Our hand: 5d 2h
+
+BAMF4 called 4.
+BAMF4 bet 2.
+OldBotv24's EV: 0.472000
+OldBotv24's Equity: 0.206
+OldBotv24's Implied Odds: -4
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 2
+
+final max raise:4
+final min raise:4
+Raise range: 4 14
+OldBotv24 raise 4.
+
+***FLOP***(28) Board:(Qc 8h 8c)
+Our hand: 5d 2h
+
+BAMF4 raised to 16.
+OldBotv24's EV: -6.936000
+OldBotv24's Equity: 0.206
+OldBotv24's Implied Odds: 17
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 7
+
+OldBotv24 folds.
+
+
+NEWHAND:7
+
+['NEWHAND', '7', '2', '6s', 'Jh', '403', '197', '0', 'BAMF4', 'OldBotv24', 'OldBotv14', '2', 'true', 'true', 'false', '14.876455']
+Active Players:2
+
+Our hand: 6s Jh
+BAMF4's VPIP: 0.333333
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.200000
+BAMF4's AF flop/postflop: 0.666667
+BAMF4's Player Type: CALLING STATION
+BAMF4's Seat:1
+OldBotv24's VPIP: 0.166667
+OldBotv24's PFR: 0.166667
+OldBotv24's estimated fold percentage is 0.000000
+OldBotv24's AF flop/postflop: 9.000000
+OldBotv24's Player Type: BOMB
+OldBotv24's Seat:2
+OldBotv14's VPIP: 0.166667
+OldBotv14's PFR: 0.166667
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: LOOSE
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (402)
+OldBotv24 posts big blind, stack size (195)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 6s Jh
+
+BAMF4 called 2.
+OldBotv24's EV: 1.950000
+OldBotv24's Equity: 0.4875
+OldBotv24's Implied Odds: -4
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 3
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+
+***PREFLOP***(14) Board:()
+Our hand: 6s Jh
+
+BAMF4 raised to 10.
+OldBotv24's EV: 1.700000
+OldBotv24's Equity: 0.4875
+OldBotv24's Implied Odds: -13
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 13
+
+final max raise:16
+final min raise:16
+Raise range: 16 30
+OldBotv24 folds.
+OldBotv24 raise 16.
+
+
+NEWHAND:8
+
+['NEWHAND', '8', '1', '8h', 'Kd', '193', '407', '0', 'OldBotv24', 'BAMF4', 'OldBotv14', '2', 'true', 'true', 'false', '14.863478']
+Active Players:2
+
+Our hand: 8h Kd
+OldBotv24's VPIP: 0.285714
+OldBotv24's PFR: 0.142857
+OldBotv24's estimated fold percentage is 0.142857
+OldBotv24's AF flop/postflop: 9.000000
+OldBotv24's Player Type: BOMB
+OldBotv24's Seat:1
+BAMF4's VPIP: 0.428571
+BAMF4's PFR: 0.142857
+BAMF4's estimated fold percentage is 0.200000
+BAMF4's AF flop/postflop: 0.666667
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv14's VPIP: 0.142857
+OldBotv14's PFR: 0.142857
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: LOOSE
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+OldBotv24 posts small blind/and is dealer, stack size (192)
+BAMF4 posts big blind, stack size (405)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 8h Kd
+
+OldBotv24's EV: 0.747500
+OldBotv24's Equity: 0.5495
+OldBotv24's Implied Odds: -3
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 3
+
+BETTING LESS LOOSE2
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+
+***FLOP***(8) Board:(2h 6d Th)
+Our hand: 8h Kd
+
+BAMF4 called 4.
+BAMF4 checks.
+OldBotv24's EV: 3.528000
+OldBotv24's Equity: 0.441
+OldBotv24's Implied Odds: -8
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 6
+
+OldBotv24 checks.
+
+***TURN***(8) Board:(2h 6d Th Ac)
+Our hand: 8h Kd
+
+BAMF4 checks.
+OldBotv24's EV: 3.468000
+OldBotv24's Equity: 0.4335
+OldBotv24's Implied Odds: -8
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 6
+
+OldBotv24 checks.
+
+***RIVER***(10) Board:(2h 6d Th Ac Jc)
+Our hand: 8h Kd
+
+BAMF4 bet 2.
+OldBotv24's EV: 2.418182
+OldBotv24's Equity: 0.368181818182
+OldBotv24's Implied Odds: -8
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 5
+
+OldBotv24 calls 2.
+BAMF4 WTSD percentage is: 0.250000
+OldBotv24 WTSD percentage is: 0.125000
+BAMF4 W$SD percentage is: 1.000000
+
+
+NEWHAND:9
+
+['NEWHAND', '9', '2', 'Td', '7d', '413', '187', '0', 'BAMF4', 'OldBotv24', 'OldBotv14', '2', 'true', 'true', 'false', '14.841261']
+Active Players:2
+
+Our hand: Td 7d
+BAMF4's VPIP: 0.375000
+BAMF4's PFR: 0.125000
+BAMF4's estimated fold percentage is 0.200000
+BAMF4's AF flop/postflop: 0.700000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv24's VPIP: 0.250000
+OldBotv24's PFR: 0.125000
+OldBotv24's estimated fold percentage is 0.142857
+OldBotv24's AF flop/postflop: 10.000000
+OldBotv24's Player Type: UNKNOWN
+OldBotv24's Seat:2
+OldBotv14's VPIP: 0.125000
+OldBotv14's PFR: 0.125000
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (412)
+OldBotv24 posts big blind, stack size (185)
+
+
+***PREFLOP***(4) Board:()
+Our hand: Td 7d
+
+BAMF4 called 2.
+OldBotv24's EV: 1.994000
+OldBotv24's Equity: 0.4985
+OldBotv24's Implied Odds: -4
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 3
+
+BETTING LESS LOOSE2
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+
+***FLOP***(8) Board:(4s 5d 7h)
+Our hand: Td 7d
+
+BAMF4 called 4.
+OldBotv24's EV: 5.440000
+OldBotv24's Equity: 0.68
+OldBotv24's Implied Odds: -8
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 17
+
+final max bet:17
+final min bet:17
+Bet range: 2 8
+OldBotv24 bets 17.
+
+***FLOP***(15) Board:(4s 5d 7h)
+Our hand: Td 7d
+
+BAMF4 bet 7.
+OldBotv24's EV: 7.960000
+OldBotv24's Equity: 0.68
+OldBotv24's Implied Odds: -18
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 31
+
+final max raise:29
+final min raise:20
+Raise range: 14 29
+OldBotv24 raise 23.
+
+***FLOP***(85) Board:(4s 5d 7h)
+Our hand: Td 7d
+
+BAMF4 raised to 54.
+OldBotv24's EV: 40.520000
+OldBotv24's Equity: 0.68
+OldBotv24's Implied Odds: -113
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 180
+
+final max raise:160
+final min raise:85
+Raise range: 85 170
+OldBotv24 raise 126.
+
+***FLOP***(317) Board:(4s 5d 7h)
+Our hand: Td 7d
+
+BAMF4 raised to 183.
+OldBotv24's EV: 157.000000
+OldBotv24's Equity: 0.68
+OldBotv24's Implied Odds: -413
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 673
+
+final call min:183
+OldBotv24 folds.
+
+
+NEWHAND:10
+
+['NEWHAND', '10', '1', '8h', '9d', '57', '543', '0', 'OldBotv24', 'BAMF4', 'OldBotv14', '2', 'true', 'true', 'false', '14.810823']
+Active Players:2
+
+Our hand: 8h 9d
+OldBotv24's VPIP: 0.222222
+OldBotv24's PFR: 0.111111
+OldBotv24's estimated fold percentage is 0.142857
+OldBotv24's AF flop/postflop: 13.000000
+OldBotv24's Player Type: UNKNOWN
+OldBotv24's Seat:1
+BAMF4's VPIP: 0.444444
+BAMF4's PFR: 0.111111
+BAMF4's estimated fold percentage is 0.200000
+BAMF4's AF flop/postflop: 0.909091
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv14's VPIP: 0.111111
+OldBotv14's PFR: 0.111111
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+OldBotv24 posts small blind/and is dealer, stack size (56)
+BAMF4 posts big blind, stack size (541)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 8h 9d
+
+OldBotv24's EV: 0.360000
+OldBotv24's Equity: 0.472
+OldBotv24's Implied Odds: -2
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 2
+
+BETTING LESS LOOSE2
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+
+***FLOP***(10) Board:(Ks Js 3d)
+Our hand: 8h 9d
+
+BAMF4 called 4.
+BAMF4 bet 2.
+OldBotv24's EV: 1.720000
+OldBotv24's Equity: 0.31
+OldBotv24's Implied Odds: -7
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 4
+
+OldBotv24 calls 2.
+
+***TURN***(20) Board:(Ks Js 3d Qd)
+Our hand: 8h 9d
+
+BAMF4 bet 8.
+OldBotv24's EV: 0.456000
+OldBotv24's Equity: 0.302
+OldBotv24's Implied Odds: -9
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 8
+
+OldBotv24 calls 8.
+
+***RIVER***(40) Board:(Ks Js 3d Qd 5d)
+Our hand: 8h 9d
+
+BAMF4 bet 12.
+OldBotv24's EV: -2.204040
+OldBotv24's Equity: 0.188383838384
+OldBotv24's Implied Odds: 0
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 9
+
+OldBotv24 folds.
+
+
+NEWHAND:11
+
+['NEWHAND', '11', '2', '3c', 'Jd', '557', '43', '0', 'BAMF4', 'OldBotv24', 'OldBotv14', '2', 'true', 'true', 'false', '14.785773']
+Active Players:2
+
+Our hand: 3c Jd
+BAMF4's VPIP: 0.400000
+BAMF4's PFR: 0.100000
+BAMF4's estimated fold percentage is 0.200000
+BAMF4's AF flop/postflop: 1.083333
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv24's VPIP: 0.200000
+OldBotv24's PFR: 0.100000
+OldBotv24's estimated fold percentage is 0.142857
+OldBotv24's AF flop/postflop: 4.666667
+OldBotv24's Player Type: UNKNOWN
+OldBotv24's Seat:2
+OldBotv14's VPIP: 0.100000
+OldBotv14's PFR: 0.100000
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (556)
+OldBotv24 posts big blind, stack size (41)
+
+BAMF4 folds.
+
+
+NEWHAND:12
+
+['NEWHAND', '12', '1', 'Jc', 'Ad', '44', '556', '0', 'OldBotv24', 'BAMF4', 'OldBotv14', '2', 'true', 'true', 'false', '14.785773']
+Active Players:2
+
+Our hand: Jc Ad
+OldBotv24's VPIP: 0.181818
+OldBotv24's PFR: 0.090909
+OldBotv24's estimated fold percentage is 0.142857
+OldBotv24's AF flop/postflop: 4.666667
+OldBotv24's Player Type: UNKNOWN
+OldBotv24's Seat:1
+BAMF4's VPIP: 0.363636
+BAMF4's PFR: 0.090909
+BAMF4's estimated fold percentage is 0.181818
+BAMF4's AF flop/postflop: 1.083333
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv14's VPIP: 0.090909
+OldBotv14's PFR: 0.090909
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+OldBotv24 posts small blind/and is dealer, stack size (43)
+BAMF4 posts big blind, stack size (554)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Jc Ad
+
+OldBotv24's EV: 1.175000
+OldBotv24's Equity: 0.635
+OldBotv24's Implied Odds: -3
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 5
+
+BETTING LOOSE2
+final max raise:5
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 5.
+
+***FLOP***(10) Board:(4c 8c 3h)
+Our hand: Jc Ad
+
+BAMF4 called 5.
+BAMF4 checks.
+OldBotv24's EV: 5.430000
+OldBotv24's Equity: 0.543
+OldBotv24's Implied Odds: -10
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 11
+
+final max bet:10
+final min bet:10
+Bet range: 2 10
+OldBotv24 bets 10.
+
+***TURN***(30) Board:(4c 8c 3h 6c)
+Our hand: Jc Ad
+
+BAMF4 called 10.
+BAMF4 checks.
+OldBotv24's EV: 14.115000
+OldBotv24's Equity: 0.4705
+OldBotv24's Implied Odds: -30
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 26
+
+final max bet:2
+final min bet:2
+Bet range: 2 29
+OldBotv24 bets 2.
+
+***RIVER***(34) Board:(4c 8c 3h 6c 9d)
+Our hand: Jc Ad
+
+BAMF4 called 2.
+BAMF4 checks.
+OldBotv24's EV: 10.320202
+OldBotv24's Equity: 0.303535353535
+OldBotv24's Implied Odds: -34
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 14
+
+final max bet:2
+final min bet:2
+Bet range: 2 27
+OldBotv24 bets 2.
+BAMF4 called 2.
+OldBotv24 WTSD percentage is: 0.166667
+BAMF4 WTSD percentage is: 0.250000
+OldBotv24 W$SD percentage is: 0.500000
+
+
+NEWHAND:13
+
+['NEWHAND', '13', '2', '6h', '9c', '537', '63', '0', 'BAMF4', 'OldBotv24', 'OldBotv14', '2', 'true', 'true', 'false', '14.754722']
+Active Players:2
+
+Our hand: 6h 9c
+BAMF4's VPIP: 0.333333
+BAMF4's PFR: 0.083333
+BAMF4's estimated fold percentage is 0.181818
+BAMF4's AF flop/postflop: 0.812500
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv24's VPIP: 0.166667
+OldBotv24's PFR: 0.083333
+OldBotv24's estimated fold percentage is 0.142857
+OldBotv24's AF flop/postflop: 6.000000
+OldBotv24's Player Type: SHARK
+OldBotv24's Seat:2
+OldBotv14's VPIP: 0.083333
+OldBotv14's PFR: 0.083333
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (536)
+OldBotv24 posts big blind, stack size (61)
+
+BAMF4 folds.
+
+
+NEWHAND:14
+
+['NEWHAND', '14', '1', 'Ac', '4c', '64', '536', '0', 'OldBotv24', 'BAMF4', 'OldBotv14', '2', 'true', 'true', 'false', '14.754722']
+Active Players:2
+
+Our hand: Ac 4c
+OldBotv24's VPIP: 0.153846
+OldBotv24's PFR: 0.076923
+OldBotv24's estimated fold percentage is 0.142857
+OldBotv24's AF flop/postflop: 6.000000
+OldBotv24's Player Type: SHARK
+OldBotv24's Seat:1
+BAMF4's VPIP: 0.307692
+BAMF4's PFR: 0.076923
+BAMF4's estimated fold percentage is 0.230769
+BAMF4's AF flop/postflop: 0.812500
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv14's VPIP: 0.076923
+OldBotv14's PFR: 0.076923
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+OldBotv24 posts small blind/and is dealer, stack size (63)
+BAMF4 posts big blind, stack size (534)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ac 4c
+
+OldBotv24's EV: 0.972500
+OldBotv24's Equity: 0.5945
+OldBotv24's Implied Odds: -3
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 4
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+BAMF4 folds.
+
+
+NEWHAND:15
+
+['NEWHAND', '15', '2', '9d', '2s', '534', '66', '0', 'BAMF4', 'OldBotv24', 'OldBotv14', '2', 'true', 'true', 'false', '14.746114']
+Active Players:2
+
+Our hand: 9d 2s
+BAMF4's VPIP: 0.285714
+BAMF4's PFR: 0.071429
+BAMF4's estimated fold percentage is 0.285714
+BAMF4's AF flop/postflop: 0.812500
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv24's VPIP: 0.214286
+OldBotv24's PFR: 0.071429
+OldBotv24's estimated fold percentage is 0.142857
+OldBotv24's AF flop/postflop: 6.000000
+OldBotv24's Player Type: SHARK
+OldBotv24's Seat:2
+OldBotv14's VPIP: 0.071429
+OldBotv14's PFR: 0.071429
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (533)
+OldBotv24 posts big blind, stack size (64)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 9d 2s
+
+BAMF4 called 2.
+OldBotv24's EV: 1.624000
+OldBotv24's Equity: 0.406
+OldBotv24's Implied Odds: -4
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 2
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+
+***FLOP***(8) Board:(2c 6c 3h)
+Our hand: 9d 2s
+
+BAMF4 called 4.
+OldBotv24's EV: 3.924000
+OldBotv24's Equity: 0.4905
+OldBotv24's Implied Odds: -8
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 7
+
+final max bet:7
+final min bet:7
+Bet range: 2 8
+OldBotv24 bets 7.
+
+***FLOP***(44) Board:(2c 6c 3h)
+Our hand: 9d 2s
+
+BAMF4 raised to 29.
+OldBotv24's EV: 6.806500
+OldBotv24's Equity: 0.4905
+OldBotv24's Implied Odds: -42
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 42
+
+final max raise:51
+final min raise:51
+Raise range: 51 62
+OldBotv24 folds.
+OldBotv24 raise 51.
+
+
+NEWHAND:16
+
+['NEWHAND', '16', '1', 'Th', 'Jd', '55', '545', '0', 'OldBotv24', 'BAMF4', 'OldBotv14', '2', 'true', 'true', 'false', '14.722296']
+Active Players:2
+
+Our hand: Th Jd
+OldBotv24's VPIP: 0.200000
+OldBotv24's PFR: 0.066667
+OldBotv24's estimated fold percentage is 0.142857
+OldBotv24's AF flop/postflop: 6.666667
+OldBotv24's Player Type: SHARK
+OldBotv24's Seat:1
+BAMF4's VPIP: 0.333333
+BAMF4's PFR: 0.066667
+BAMF4's estimated fold percentage is 0.285714
+BAMF4's AF flop/postflop: 0.823529
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv14's VPIP: 0.066667
+OldBotv14's PFR: 0.066667
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+OldBotv24 posts small blind/and is dealer, stack size (54)
+BAMF4 posts big blind, stack size (543)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Th Jd
+
+OldBotv24's EV: 0.882500
+OldBotv24's Equity: 0.5765
+OldBotv24's Implied Odds: -3
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 4
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+BAMF4 folds.
+
+
+NEWHAND:17
+
+['NEWHAND', '17', '2', 'Ac', '4c', '543', '57', '0', 'BAMF4', 'OldBotv24', 'OldBotv14', '2', 'true', 'true', 'false', '14.713853']
+Active Players:2
+
+Our hand: Ac 4c
+BAMF4's VPIP: 0.312500
+BAMF4's PFR: 0.062500
+BAMF4's estimated fold percentage is 0.312500
+BAMF4's AF flop/postflop: 0.823529
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv24's VPIP: 0.250000
+OldBotv24's PFR: 0.062500
+OldBotv24's estimated fold percentage is 0.142857
+OldBotv24's AF flop/postflop: 6.666667
+OldBotv24's Player Type: SHARK
+OldBotv24's Seat:2
+OldBotv14's VPIP: 0.062500
+OldBotv14's PFR: 0.062500
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (542)
+OldBotv24 posts big blind, stack size (55)
+
+
+***PREFLOP***(4) Board:()
+Our hand: Ac 4c
+
+BAMF4 called 2.
+OldBotv24's EV: 2.374000
+OldBotv24's Equity: 0.5935
+OldBotv24's Implied Odds: -4
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 5
+
+BETTING LESS LOOSE2
+final max raise:5
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 5.
+
+***FLOP***(10) Board:(Qd 8s Jc)
+Our hand: Ac 4c
+
+BAMF4 called 5.
+OldBotv24's EV: 4.455000
+OldBotv24's Equity: 0.4455
+OldBotv24's Implied Odds: -10
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 8
+
+OldBotv24 checks.
+
+***TURN***(10) Board:(Qd 8s Jc Td)
+Our hand: Ac 4c
+
+BAMF4 checks.
+OldBotv24's EV: 3.795000
+OldBotv24's Equity: 0.3795
+OldBotv24's Implied Odds: -10
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 6
+
+OldBotv24 checks.
+
+***RIVER***(10) Board:(Qd 8s Jc Td 2s)
+Our hand: Ac 4c
+
+BAMF4 checks.
+OldBotv24's EV: 2.510101
+OldBotv24's Equity: 0.25101010101
+OldBotv24's Implied Odds: -10
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 3
+
+OldBotv24 checks.
+BAMF4 checks.
+BAMF4 WTSD percentage is: 0.235294
+OldBotv24 WTSD percentage is: 0.176471
+BAMF4 W$SD percentage is: 0.750000
+OldBotv24 W$SD percentage is: 0.666667
+
+
+NEWHAND:18
+
+['NEWHAND', '18', '1', '8c', '7d', '57', '543', '0', 'OldBotv24', 'BAMF4', 'OldBotv14', '2', 'true', 'true', 'false', '14.682289']
+Active Players:2
+
+Our hand: 8c 7d
+OldBotv24's VPIP: 0.235294
+OldBotv24's PFR: 0.058824
+OldBotv24's estimated fold percentage is 0.142857
+OldBotv24's AF flop/postflop: 7.000000
+OldBotv24's Player Type: SHARK
+OldBotv24's Seat:1
+BAMF4's VPIP: 0.352941
+BAMF4's PFR: 0.058824
+BAMF4's estimated fold percentage is 0.312500
+BAMF4's AF flop/postflop: 0.777778
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv14's VPIP: 0.058824
+OldBotv14's PFR: 0.058824
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+OldBotv24 posts small blind/and is dealer, stack size (56)
+BAMF4 posts big blind, stack size (541)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 8c 7d
+
+OldBotv24's EV: 0.210000
+OldBotv24's Equity: 0.442
+OldBotv24's Implied Odds: -2
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 2
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+
+***FLOP***(13) Board:(Td 8s 3d)
+Our hand: 8c 7d
+
+BAMF4 called 4.
+BAMF4 bet 5.
+OldBotv24's EV: 7.492000
+OldBotv24's Equity: 0.694
+OldBotv24's Implied Odds: -15
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 29
+
+final max raise:23
+final min raise:20
+Raise range: 10 23
+OldBotv24 raise 22.
+
+***FLOP***(74) Board:(Td 8s 3d)
+Our hand: 8c 7d
+
+BAMF4 raised to 44.
+OldBotv24's EV: 37.892000
+OldBotv24's Equity: 0.694
+OldBotv24's Implied Odds: -98
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 167
+
+final max raise:53
+final min raise:53
+Raise range: 53 53
+OldBotv24 folds.
+OldBotv24 raise 53.
+
+
+NEWHAND:19
+
+['NEWHAND', '19', '2', 'Jc', 'As', '569', '31', '0', 'BAMF4', 'OldBotv24', 'OldBotv14', '2', 'true', 'true', 'false', '14.659116']
+Active Players:2
+
+Our hand: Jc As
+BAMF4's VPIP: 0.333333
+BAMF4's PFR: 0.055556
+BAMF4's estimated fold percentage is 0.312500
+BAMF4's AF flop/postflop: 0.842105
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv24's VPIP: 0.222222
+OldBotv24's PFR: 0.055556
+OldBotv24's estimated fold percentage is 0.142857
+OldBotv24's AF flop/postflop: 7.666667
+OldBotv24's Player Type: SHARK
+OldBotv24's Seat:2
+OldBotv14's VPIP: 0.055556
+OldBotv14's PFR: 0.055556
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (568)
+OldBotv24 posts big blind, stack size (29)
+
+BAMF4 folds.
+
+
+NEWHAND:20
+
+['NEWHAND', '20', '1', '9s', '5h', '32', '568', '0', 'OldBotv24', 'BAMF4', 'OldBotv14', '2', 'true', 'true', 'false', '14.659116']
+Active Players:2
+
+Our hand: 9s 5h
+OldBotv24's VPIP: 0.210526
+OldBotv24's PFR: 0.052632
+OldBotv24's estimated fold percentage is 0.142857
+OldBotv24's AF flop/postflop: 7.666667
+OldBotv24's Player Type: SHARK
+OldBotv24's Seat:1
+BAMF4's VPIP: 0.315789
+BAMF4's PFR: 0.052632
+BAMF4's estimated fold percentage is 0.315789
+BAMF4's AF flop/postflop: 0.842105
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv14's VPIP: 0.052632
+OldBotv14's PFR: 0.052632
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+OldBotv24 posts small blind/and is dealer, stack size (31)
+BAMF4 posts big blind, stack size (566)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 9s 5h
+
+OldBotv24's EV: 0.250000
+OldBotv24's Equity: 0.45
+OldBotv24's Implied Odds: -2
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 2
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+OldBotv24 calls 2.
+
+***FLOP***(11) Board:(2c 3h Kd)
+Our hand: 9s 5h
+
+BAMF4 called 4.
+BAMF4 bet 3.
+OldBotv24's EV: 0.598000
+OldBotv24's Equity: 0.257
+OldBotv24's Implied Odds: -5
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 3
+
+OldBotv24 calls 3.
+
+***TURN***(17) Board:(2c 3h Kd Js)
+Our hand: 9s 5h
+
+BAMF4 bet 3.
+OldBotv24's EV: 0.790000
+OldBotv24's Equity: 0.1895
+OldBotv24's Implied Odds: -7
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 3
+
+final max raise:6
+final min raise:6
+Raise range: 6 23
+OldBotv24 raise 6.
+
+***TURN***(36) Board:(2c 3h Kd Js)
+Our hand: 9s 5h
+
+BAMF4 raised to 16.
+OldBotv24's EV: -6.146000
+OldBotv24's Equity: 0.1895
+OldBotv24's Implied Odds: 16
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 8
+
+OldBotv24 folds.
+
+
+NEWHAND:21
+
+['NEWHAND', '21', '2', '6d', '2s', '581', '19', '0', 'BAMF4', 'OldBotv24', 'OldBotv14', '2', 'true', 'true', 'false', '14.627277']
+Active Players:2
+
+Our hand: 6d 2s
+BAMF4's VPIP: 0.300000
+BAMF4's PFR: 0.050000
+BAMF4's estimated fold percentage is 0.315789
+BAMF4's AF flop/postflop: 0.950000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv24's VPIP: 0.200000
+OldBotv24's PFR: 0.050000
+OldBotv24's estimated fold percentage is 0.142857
+OldBotv24's AF flop/postflop: 6.250000
+OldBotv24's Player Type: SHARK
+OldBotv24's Seat:2
+OldBotv14's VPIP: 0.050000
+OldBotv14's PFR: 0.050000
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (580)
+OldBotv24 posts big blind, stack size (17)
+
+BAMF4 folds.
+
+
+NEWHAND:22
+
+['NEWHAND', '22', '1', 'Ah', '9s', '20', '580', '0', 'OldBotv24', 'BAMF4', 'OldBotv14', '2', 'true', 'true', 'false', '14.627277']
+Active Players:2
+
+Our hand: Ah 9s
+OldBotv24's VPIP: 0.190476
+OldBotv24's PFR: 0.047619
+OldBotv24's estimated fold percentage is 0.142857
+OldBotv24's AF flop/postflop: 6.250000
+OldBotv24's Player Type: UNKNOWN
+OldBotv24's Seat:1
+BAMF4's VPIP: 0.285714
+BAMF4's PFR: 0.047619
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 0.950000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv14's VPIP: 0.047619
+OldBotv14's PFR: 0.047619
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+OldBotv24 posts small blind/and is dealer, stack size (19)
+BAMF4 posts big blind, stack size (578)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ah 9s
+
+OldBotv24's EV: 1.030000
+OldBotv24's Equity: 0.606
+OldBotv24's Implied Odds: -3
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 4
+
+final max raise:19
+final min raise:19
+Raise range: 4 6
+OldBotv24 raise 19.
+BETTING LOOSE2
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+
+
+NEWHAND:23
+
+['NEWHAND', '23', '2', '5c', 'Ks', '581', '19', '0', 'BAMF4', 'OldBotv24', 'OldBotv14', '2', 'true', 'true', 'false', '14.616543']
+Active Players:2
+
+Our hand: 5c Ks
+BAMF4's VPIP: 0.272727
+BAMF4's PFR: 0.045455
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 0.950000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv24's VPIP: 0.181818
+OldBotv24's PFR: 0.045455
+OldBotv24's estimated fold percentage is 0.090909
+OldBotv24's AF flop/postflop: 6.250000
+OldBotv24's Player Type: UNKNOWN
+OldBotv24's Seat:2
+OldBotv14's VPIP: 0.045455
+OldBotv14's PFR: 0.045455
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (580)
+OldBotv24 posts big blind, stack size (17)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 5c Ks
+
+BAMF4 called 2.
+OldBotv24's EV: 2.128000
+OldBotv24's Equity: 0.532
+OldBotv24's Implied Odds: -4
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 4
+
+final max raise:17
+final min raise:17
+Raise range: 4 6
+OldBotv24 raise 17.
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+
+***FLOP***(4) Board:(As Ad Ac)
+Our hand: 5c Ks
+
+OldBotv24's EV: 2.602000
+OldBotv24's Equity: 0.6505
+OldBotv24's Implied Odds: -4
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 7
+
+final max bet:17
+final min bet:17
+Bet range: 2 4
+OldBotv24 bets 17.
+final max bet:7
+final min bet:7
+Bet range: 2 4
+OldBotv24 bets 7.
+
+***FLOP***(7) Board:(As Ad Ac)
+Our hand: 5c Ks
+
+BAMF4 bet 3.
+OldBotv24's EV: 3.505000
+OldBotv24's Equity: 0.6505
+OldBotv24's Implied Odds: -8
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 13
+
+final max raise:17
+final min raise:17
+Raise range: 6 13
+OldBotv24 raise 17.
+final max raise:13
+final min raise:13
+Raise range: 6 13
+OldBotv24 raise 13.
+
+
+NEWHAND:24
+
+['NEWHAND', '24', '1', 'Td', '7d', '17', '583', '0', 'OldBotv24', 'BAMF4', 'OldBotv14', '2', 'true', 'true', 'false', '14.582300']
+Active Players:2
+
+Our hand: Td 7d
+OldBotv24's VPIP: 0.173913
+OldBotv24's PFR: 0.043478
+OldBotv24's estimated fold percentage is 0.090909
+OldBotv24's AF flop/postflop: 6.250000
+OldBotv24's Player Type: UNKNOWN
+OldBotv24's Seat:1
+BAMF4's VPIP: 0.304348
+BAMF4's PFR: 0.043478
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv14's VPIP: 0.043478
+OldBotv14's PFR: 0.043478
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+OldBotv24 posts small blind/and is dealer, stack size (16)
+BAMF4 posts big blind, stack size (581)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Td 7d
+
+OldBotv24's EV: 0.657500
+OldBotv24's Equity: 0.5315
+OldBotv24's Implied Odds: -3
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 3
+
+final max raise:16
+final min raise:16
+Raise range: 4 6
+OldBotv24 raise 16.
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+
+
+NEWHAND:25
+
+['NEWHAND', '25', '2', '6d', '2s', '584', '16', '0', 'BAMF4', 'OldBotv24', 'OldBotv14', '2', 'true', 'true', 'false', '14.573311']
+Active Players:2
+
+Our hand: 6d 2s
+BAMF4's VPIP: 0.291667
+BAMF4's PFR: 0.041667
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv24's VPIP: 0.166667
+OldBotv24's PFR: 0.041667
+OldBotv24's estimated fold percentage is 0.125000
+OldBotv24's AF flop/postflop: 6.250000
+OldBotv24's Player Type: UNKNOWN
+OldBotv24's Seat:2
+OldBotv14's VPIP: 0.041667
+OldBotv14's PFR: 0.041667
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (583)
+OldBotv24 posts big blind, stack size (14)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 6d 2s
+
+BAMF4 called 2.
+OldBotv24's EV: 1.258000
+OldBotv24's Equity: 0.3145
+OldBotv24's Implied Odds: -4
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 1
+
+OldBotv24 checks.
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+
+***FLOP***(4) Board:(9h 4d 7d)
+Our hand: 6d 2s
+
+OldBotv24's EV: 0.900000
+OldBotv24's Equity: 0.225
+OldBotv24's Implied Odds: -4
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 1
+
+OldBotv24 checks.
+final max bet:2
+final min bet:2
+Bet range: 2 4
+OldBotv24 bets 2.
+
+***TURN***(4) Board:(9h 4d 7d 4c)
+Our hand: 6d 2s
+
+BAMF4 checks.
+OldBotv24's EV: 0.432000
+OldBotv24's Equity: 0.108
+OldBotv24's Implied Odds: -4
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 0
+
+OldBotv24 checks.
+final max bet:2
+final min bet:2
+Bet range: 2 4
+OldBotv24 bets 2.
+
+***RIVER***(4) Board:(9h 4d 7d 4c 9c)
+Our hand: 6d 2s
+
+BAMF4 checks.
+OldBotv24's EV: 0.165657
+OldBotv24's Equity: 0.0414141414141
+OldBotv24's Implied Odds: -4
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 0
+
+OldBotv24 checks.
+OldBotv24 checks.
+BAMF4 called 2.
+OldBotv24 WTSD percentage is: 0.160000
+BAMF4 WTSD percentage is: 0.200000
+BAMF4 W$SD percentage is: 0.800000
+
+
+NEWHAND:26
+
+['NEWHAND', '26', '1', 'Ts', '3h', '12', '588', '0', 'OldBotv24', 'BAMF4', 'OldBotv14', '2', 'true', 'true', 'false', '14.561803']
+Active Players:2
+
+Our hand: Ts 3h
+OldBotv24's VPIP: 0.160000
+OldBotv24's PFR: 0.040000
+OldBotv24's estimated fold percentage is 0.125000
+OldBotv24's AF flop/postflop: 6.500000
+OldBotv24's Player Type: UNKNOWN
+OldBotv24's Seat:1
+BAMF4's VPIP: 0.320000
+BAMF4's PFR: 0.040000
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 0.952381
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv14's VPIP: 0.040000
+OldBotv14's PFR: 0.040000
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+OldBotv24 posts small blind/and is dealer, stack size (11)
+BAMF4 posts big blind, stack size (586)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ts 3h
+
+OldBotv24's EV: 0.052500
+OldBotv24's Equity: 0.4105
+OldBotv24's Implied Odds: -2
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 2
+
+OldBotv24 folds.
+OldBotv24 folds.
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+
+
+NEWHAND:27
+
+['NEWHAND', '27', '2', '6h', '3s', '589', '11', '0', 'BAMF4', 'OldBotv24', 'OldBotv14', '2', 'true', 'true', 'false', '14.542551']
+Active Players:2
+
+Our hand: 6h 3s
+BAMF4's VPIP: 0.307692
+BAMF4's PFR: 0.038462
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 0.952381
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv24's VPIP: 0.153846
+OldBotv24's PFR: 0.038462
+OldBotv24's estimated fold percentage is 0.153846
+OldBotv24's AF flop/postflop: 6.500000
+OldBotv24's Player Type: UNKNOWN
+OldBotv24's Seat:2
+OldBotv14's VPIP: 0.038462
+OldBotv14's PFR: 0.038462
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (588)
+OldBotv24 posts big blind, stack size (9)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 6h 3s
+
+BAMF4 called 2.
+OldBotv24's EV: 1.556000
+OldBotv24's Equity: 0.389
+OldBotv24's Implied Odds: -4
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 2
+
+OldBotv24 checks.
+OldBotv24 checks.
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+
+***FLOP***(4) Board:(Qh 4c 7h)
+Our hand: 6h 3s
+
+OldBotv24's EV: 1.272000
+OldBotv24's Equity: 0.318
+OldBotv24's Implied Odds: -4
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 1
+
+OldBotv24 checks.
+OldBotv24 checks.
+
+***FLOP***(7) Board:(Qh 4c 7h)
+Our hand: 6h 3s
+
+BAMF4 bet 3.
+OldBotv24's EV: 0.180000
+OldBotv24's Equity: 0.318
+OldBotv24's Implied Odds: -3
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 3
+
+OldBotv24 folds.
+OldBotv24 calls 3.
+
+
+NEWHAND:28
+
+['NEWHAND', '28', '1', '3h', 'Ac', '9', '591', '0', 'OldBotv24', 'BAMF4', 'OldBotv14', '2', 'true', 'true', 'false', '14.515922']
+Active Players:2
+
+Our hand: 3h Ac
+OldBotv24's VPIP: 0.148148
+OldBotv24's PFR: 0.037037
+OldBotv24's estimated fold percentage is 0.153846
+OldBotv24's AF flop/postflop: 6.500000
+OldBotv24's Player Type: UNKNOWN
+OldBotv24's Seat:1
+BAMF4's VPIP: 0.333333
+BAMF4's PFR: 0.037037
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv14's VPIP: 0.037037
+OldBotv14's PFR: 0.037037
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+OldBotv24 posts small blind/and is dealer, stack size (8)
+BAMF4 posts big blind, stack size (589)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 3h Ac
+
+OldBotv24's EV: 0.785000
+OldBotv24's Equity: 0.557
+OldBotv24's Implied Odds: -3
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 3
+
+final max raise:8
+final min raise:8
+Raise range: 4 6
+OldBotv24 raise 8.
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+
+
+NEWHAND:29
+
+['NEWHAND', '29', '2', '5d', 'As', '592', '8', '0', 'BAMF4', 'OldBotv24', 'OldBotv14', '2', 'true', 'true', 'false', '14.502855']
+Active Players:2
+
+Our hand: 5d As
+BAMF4's VPIP: 0.321429
+BAMF4's PFR: 0.035714
+BAMF4's estimated fold percentage is 0.333333
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv24's VPIP: 0.142857
+OldBotv24's PFR: 0.035714
+OldBotv24's estimated fold percentage is 0.178571
+OldBotv24's AF flop/postflop: 6.500000
+OldBotv24's Player Type: UNKNOWN
+OldBotv24's Seat:2
+OldBotv14's VPIP: 0.035714
+OldBotv14's PFR: 0.035714
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (591)
+OldBotv24 posts big blind, stack size (6)
+
+BAMF4 folds.
+
+
+NEWHAND:30
+
+['NEWHAND', '30', '1', 'Jh', '9c', '9', '591', '0', 'OldBotv24', 'BAMF4', 'OldBotv14', '2', 'true', 'true', 'false', '14.502855']
+Active Players:2
+
+Our hand: Jh 9c
+OldBotv24's VPIP: 0.137931
+OldBotv24's PFR: 0.034483
+OldBotv24's estimated fold percentage is 0.178571
+OldBotv24's AF flop/postflop: 6.500000
+OldBotv24's Player Type: UNKNOWN
+OldBotv24's Seat:1
+BAMF4's VPIP: 0.310345
+BAMF4's PFR: 0.034483
+BAMF4's estimated fold percentage is 0.275862
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:2
+OldBotv14's VPIP: 0.034483
+OldBotv14's PFR: 0.034483
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+OldBotv24 posts small blind/and is dealer, stack size (8)
+BAMF4 posts big blind, stack size (589)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Jh 9c
+
+OldBotv24's EV: 0.715000
+OldBotv24's Equity: 0.543
+OldBotv24's Implied Odds: -3
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 3
+
+final max raise:8
+final min raise:8
+Raise range: 4 6
+OldBotv24 raise 8.
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+
+
+NEWHAND:31
+
+['NEWHAND', '31', '2', '7c', 'Qs', '592', '8', '0', 'BAMF4', 'OldBotv24', 'OldBotv14', '2', 'true', 'true', 'false', '14.481325']
+Active Players:2
+
+Our hand: 7c Qs
+BAMF4's VPIP: 0.300000
+BAMF4's PFR: 0.033333
+BAMF4's estimated fold percentage is 0.275862
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:1
+OldBotv24's VPIP: 0.133333
+OldBotv24's PFR: 0.033333
+OldBotv24's estimated fold percentage is 0.200000
+OldBotv24's AF flop/postflop: 6.500000
+OldBotv24's Player Type: UNKNOWN
+OldBotv24's Seat:2
+OldBotv14's VPIP: 0.033333
+OldBotv14's PFR: 0.033333
+OldBotv14's estimated fold percentage is 0.000000
+OldBotv14's AF flop/postflop: 2.000000
+OldBotv14's Player Type: NIT
+OldBotv14's Seat:3
+OldBotv14 is eliminated
+
+BAMF4 posts small blind/and is dealer, stack size (591)
+OldBotv24 posts big blind, stack size (6)
+
+
+***PREFLOP***(4) Board:()
+Our hand: 7c Qs
+
+BAMF4 called 2.
+OldBotv24's EV: 2.002000
+OldBotv24's Equity: 0.5005
+OldBotv24's Implied Odds: -4
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 4
+
+final max raise:6
+final min raise:6
+Raise range: 4 6
+OldBotv24 raise 6.
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv24 raise 4.
+
+***FLOP***(12) Board:(7d 4h 9c)
+Our hand: 7c Qs
+
+BAMF4 called 6.
+OldBotv24's EV: 8.280000
+OldBotv24's Equity: 0.69
+OldBotv24's Implied Odds: -12
+OldBotv24's maxBetFold: 0
+OldBotv24's maxBetEV: 26
+
+final max bet:2
+final min bet:2
+Bet range: 2 2
+OldBotv24 bets 2.
+final max bet:2
+final min bet:2
+Bet range: 2 2
+OldBotv24 bets 2.
+BAMF4 called 2.
+OldBotv24 WTSD percentage is: 0.161290
+BAMF4 WTSD percentage is: 0.193548
+BAMF4 W$SD percentage is: 0.833333
+Gameover, engine disconnected.

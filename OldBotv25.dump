@@ -1,0 +1,607 @@
+
+C:\Users\Er\Dropbox\Pokerbot\Versions\v3bug>python Player.py 3002 
+Connecting to localhost:3002
+Our name: OldBotv25
+Opp1 name: BAMF5
+Opp2 name: OldBotv15
+
+
+NEWHAND:1
+
+['NEWHAND', '1', '1', 'Kc', 'Qh', '200', '200', '200', 'OldBotv25', 'BAMF5', 'OldBotv15', '3', 'true', 'true', 'true', '15.000000']
+Active Players:3
+
+Our hand: Kc Qh
+OldBotv25's VPIP: 0.000000
+OldBotv25's PFR: 0.000000
+OldBotv25's estimated fold percentage is 0.000000
+OldBotv25's AF flop/postflop: 0.000000
+OldBotv25's Player Type: NIT
+OldBotv25's Seat:1
+BAMF5's VPIP: 0.000000
+BAMF5's PFR: 0.000000
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.000000
+BAMF5's Player Type: NIT
+BAMF5's Seat:2
+OldBotv15's VPIP: 0.000000
+OldBotv15's PFR: 0.000000
+OldBotv15's estimated fold percentage is 0.000000
+OldBotv15's AF flop/postflop: 0.000000
+OldBotv15's Player Type: NIT
+OldBotv15's Seat:3
+
+BAMF5 posts small blind, stack size (199)
+OldBotv15 posts big blind, stack size (198)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Kc Qh
+
+OldBotv25's EV: 1.090000
+OldBotv25's Equity: 0.618
+OldBotv25's Implied Odds: -3
+OldBotv25's maxBetFold: 0
+OldBotv25's maxBetEV: 4
+
+BETTING LOOSE2
+final max raise:4
+final min raise:4
+Raise range: 4 7
+OldBotv25 raise 4.
+
+***PREFLOP***(14) Board:()
+Our hand: Kc Qh
+
+BAMF5 called 4.
+OldBotv15 raised to 6.
+OldBotv25's EV: 6.360000
+OldBotv25's Equity: 0.618
+OldBotv25's Implied Odds: -16
+OldBotv25's maxBetFold: 0
+OldBotv25's maxBetEV: 22
+
+BETTING LOOSE2
+final max raise:22
+final min raise:8
+Raise range: 8 22
+OldBotv25 raise 10.
+
+***PREFLOP***(34) Board:()
+Our hand: Kc Qh
+
+BAMF5 called 10.
+OldBotv15 raised to 14.
+OldBotv25's EV: 15.664000
+OldBotv25's Equity: 0.618
+OldBotv25's Implied Odds: -39
+OldBotv25's maxBetFold: 0
+OldBotv25's maxBetEV: 55
+
+BETTING LOOSE2
+final max raise:52
+final min raise:18
+Raise range: 18 52
+OldBotv25 raise 23.
+
+***PREFLOP***(138) Board:()
+Our hand: Kc Qh
+
+BAMF5 called 23.
+OldBotv15 raised to 92.
+OldBotv25's EV: 50.140000
+OldBotv25's Equity: 0.618
+OldBotv25's Implied Odds: -173
+OldBotv25's maxBetFold: 0
+OldBotv25's maxBetEV: 223
+
+BETTING LOOSE2
+final max raise:177
+final min raise:161
+Raise range: 161 200
+OldBotv25 raise 169.
+
+***PREFLOP***(538) Board:()
+Our hand: Kc Qh
+
+BAMF5 called 169.
+OldBotv15 raised to 200.
+OldBotv25's EV: 256.084000
+OldBotv25's Equity: 0.618
+OldBotv25's Implied Odds: -614
+OldBotv25's maxBetFold: 0
+OldBotv25's maxBetEV: 870
+
+BETTING LOOSE2
+final call min:200
+OldBotv25 folds.
+BAMF5 called 200.
+BAMF5 WTSD percentage is: 1.000000
+OldBotv15 WTSD percentage is: 1.000000
+OldBotv15 W$SD percentage is: 1.000000
+
+
+NEWHAND:2
+
+['NEWHAND', '2', '2', '6h', 'As', '569', '31', '0', 'OldBotv15', 'OldBotv25', 'BAMF5', '2', 'true', 'true', 'false', '14.954310']
+Active Players:2
+
+Our hand: 6h As
+OldBotv15's VPIP: 1.000000
+OldBotv15's PFR: 1.000000
+OldBotv15's estimated fold percentage is 0.000000
+OldBotv15's AF flop/postflop: 0.000000
+OldBotv15's Player Type: UNKNOWN
+OldBotv15's Seat:1
+OldBotv25's VPIP: 1.000000
+OldBotv25's PFR: 1.000000
+OldBotv25's estimated fold percentage is 0.000000
+OldBotv25's AF flop/postflop: 0.000000
+OldBotv25's Player Type: CASHCOW
+OldBotv25's Seat:2
+BAMF5's VPIP: 1.000000
+BAMF5's PFR: 0.000000
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.000000
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:3
+BAMF5 is eliminated
+
+OldBotv15 posts small blind/and is dealer, stack size (568)
+OldBotv25 posts big blind, stack size (29)
+
+
+***PREFLOP***(6) Board:()
+Our hand: 6h As
+
+OldBotv15 raised to 4.
+OldBotv25's EV: 1.785000
+OldBotv25's Equity: 0.5785
+OldBotv25's Implied Odds: -7
+OldBotv25's maxBetFold: 0
+OldBotv25's maxBetEV: 8
+
+BETTING LESS LOOSE2
+final max raise:8
+final min raise:6
+Raise range: 6 12
+OldBotv25 raise 8.
+
+***PREFLOP***(20) Board:()
+Our hand: 6h As
+
+OldBotv15 raised to 12.
+OldBotv25's EV: 6.512000
+OldBotv25's Equity: 0.5785
+OldBotv25's Implied Odds: -23
+OldBotv25's maxBetFold: 0
+OldBotv25's maxBetEV: 27
+
+final max raise:16
+final min raise:16
+Raise range: 16 31
+OldBotv25 folds.
+OldBotv25 raise 16.
+
+
+NEWHAND:3
+
+['NEWHAND', '3', '1', 'Th', 'Kd', '23', '577', '0', 'OldBotv25', 'OldBotv15', 'BAMF5', '2', 'true', 'true', 'false', '14.921953']
+Active Players:2
+
+Our hand: Th Kd
+OldBotv25's VPIP: 1.000000
+OldBotv25's PFR: 0.500000
+OldBotv25's estimated fold percentage is 0.500000
+OldBotv25's AF flop/postflop: 0.000000
+OldBotv25's Player Type: CASHCOW
+OldBotv25's Seat:1
+OldBotv15's VPIP: 1.000000
+OldBotv15's PFR: 0.500000
+OldBotv15's estimated fold percentage is 0.000000
+OldBotv15's AF flop/postflop: 0.000000
+OldBotv15's Player Type: UNKNOWN
+OldBotv15's Seat:2
+BAMF5's VPIP: 0.500000
+BAMF5's PFR: 0.000000
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.000000
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:3
+BAMF5 is eliminated
+
+OldBotv25 posts small blind/and is dealer, stack size (22)
+OldBotv15 posts big blind, stack size (575)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Th Kd
+
+OldBotv25's EV: 0.992500
+OldBotv25's Equity: 0.5985
+OldBotv25's Implied Odds: -3
+OldBotv25's maxBetFold: 0
+OldBotv25's maxBetEV: 4
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv25 raise 4.
+
+***PREFLOP***(10) Board:()
+Our hand: Th Kd
+
+OldBotv15 raised to 6.
+OldBotv25's EV: 3.576000
+OldBotv25's Equity: 0.5985
+OldBotv25's Implied Odds: -11
+OldBotv25's maxBetFold: 0
+OldBotv25's maxBetEV: 14
+
+final max raise:19
+final min raise:19
+Raise range: 8 18
+OldBotv25 raise 19.
+BETTING LESS LOOSE2
+final max raise:14
+final min raise:8
+Raise range: 8 18
+OldBotv25 raise 9.
+
+
+NEWHAND:4
+
+['NEWHAND', '4', '2', 'Jc', '8d', '581', '19', '0', 'OldBotv15', 'OldBotv25', 'BAMF5', '2', 'true', 'true', 'false', '14.902890']
+Active Players:2
+
+Our hand: Jc 8d
+OldBotv15's VPIP: 1.000000
+OldBotv15's PFR: 0.333333
+OldBotv15's estimated fold percentage is 0.000000
+OldBotv15's AF flop/postflop: 0.000000
+OldBotv15's Player Type: UNKNOWN
+OldBotv15's Seat:1
+OldBotv25's VPIP: 1.000000
+OldBotv25's PFR: 0.333333
+OldBotv25's estimated fold percentage is 0.666667
+OldBotv25's AF flop/postflop: 0.000000
+OldBotv25's Player Type: CASHCOW
+OldBotv25's Seat:2
+BAMF5's VPIP: 0.333333
+BAMF5's PFR: 0.000000
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.000000
+BAMF5's Player Type: CALLING STATION
+BAMF5's Seat:3
+BAMF5 is eliminated
+
+OldBotv15 posts small blind/and is dealer, stack size (580)
+OldBotv25 posts big blind, stack size (17)
+
+
+***PREFLOP***(6) Board:()
+Our hand: Jc 8d
+
+OldBotv15 raised to 4.
+OldBotv25's EV: 1.405000
+OldBotv25's Equity: 0.5405
+OldBotv25's Implied Odds: -6
+OldBotv25's maxBetFold: 0
+OldBotv25's maxBetEV: 7
+
+final max raise:17
+final min raise:17
+Raise range: 6 12
+OldBotv25 raise 17.
+BETTING LESS LOOSE2
+final max raise:7
+final min raise:6
+Raise range: 6 12
+OldBotv25 raise 7.
+
+
+NEWHAND:5
+
+['NEWHAND', '5', '1', '3d', '8c', '17', '583', '0', 'OldBotv25', 'OldBotv15', 'BAMF5', '2', 'true', 'true', 'false', '14.894139']
+Active Players:2
+
+Our hand: 3d 8c
+OldBotv25's VPIP: 0.750000
+OldBotv25's PFR: 0.250000
+OldBotv25's estimated fold percentage is 0.750000
+OldBotv25's AF flop/postflop: 0.000000
+OldBotv25's Player Type: CASHCOW
+OldBotv25's Seat:1
+OldBotv15's VPIP: 1.000000
+OldBotv15's PFR: 0.250000
+OldBotv15's estimated fold percentage is 0.000000
+OldBotv15's AF flop/postflop: 0.000000
+OldBotv15's Player Type: UNKNOWN
+OldBotv15's Seat:2
+BAMF5's VPIP: 0.250000
+BAMF5's PFR: 0.000000
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.000000
+BAMF5's Player Type: CALLING STATION
+BAMF5's Seat:3
+BAMF5 is eliminated
+
+OldBotv25 posts small blind/and is dealer, stack size (16)
+OldBotv15 posts big blind, stack size (581)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 3d 8c
+
+OldBotv25's EV: -0.262500
+OldBotv25's Equity: 0.3475
+OldBotv25's Implied Odds: -1
+OldBotv25's maxBetFold: 0
+OldBotv25's maxBetEV: 1
+
+OldBotv25 folds.
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv25 raise 4.
+EV FOLD
+OldBotv25 folds.
+
+
+NEWHAND:6
+
+['NEWHAND', '6', '2', '6s', '3d', '584', '16', '0', 'OldBotv15', 'OldBotv25', 'BAMF5', '2', 'true', 'true', 'false', '14.884633']
+Active Players:2
+
+Our hand: 6s 3d
+OldBotv15's VPIP: 0.800000
+OldBotv15's PFR: 0.200000
+OldBotv15's estimated fold percentage is 0.000000
+OldBotv15's AF flop/postflop: 0.000000
+OldBotv15's Player Type: UNKNOWN
+OldBotv15's Seat:1
+OldBotv25's VPIP: 0.600000
+OldBotv25's PFR: 0.200000
+OldBotv25's estimated fold percentage is 0.800000
+OldBotv25's AF flop/postflop: 0.000000
+OldBotv25's Player Type: UNKNOWN
+OldBotv25's Seat:2
+BAMF5's VPIP: 0.200000
+BAMF5's PFR: 0.000000
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.000000
+BAMF5's Player Type: CALLING STATION
+BAMF5's Seat:3
+BAMF5 is eliminated
+
+OldBotv15 posts small blind/and is dealer, stack size (583)
+OldBotv25 posts big blind, stack size (14)
+
+
+***PREFLOP***(6) Board:()
+Our hand: 6s 3d
+
+OldBotv15 raised to 4.
+OldBotv25's EV: -0.415000
+OldBotv25's Equity: 0.3585
+OldBotv25's Implied Odds: -2
+OldBotv25's maxBetFold: 0
+OldBotv25's maxBetEV: 3
+
+OldBotv25 folds.
+EV FOLD
+OldBotv25 folds.
+
+
+NEWHAND:7
+
+['NEWHAND', '7', '1', '5h', 'Qs', '14', '586', '0', 'OldBotv25', 'OldBotv15', 'BAMF5', '2', 'true', 'true', 'false', '14.875947']
+Active Players:2
+
+Our hand: 5h Qs
+OldBotv25's VPIP: 0.500000
+OldBotv25's PFR: 0.166667
+OldBotv25's estimated fold percentage is 0.833333
+OldBotv25's AF flop/postflop: 0.000000
+OldBotv25's Player Type: UNKNOWN
+OldBotv25's Seat:1
+OldBotv15's VPIP: 0.833333
+OldBotv15's PFR: 0.166667
+OldBotv15's estimated fold percentage is 0.000000
+OldBotv15's AF flop/postflop: 0.000000
+OldBotv15's Player Type: UNKNOWN
+OldBotv15's Seat:2
+BAMF5's VPIP: 0.166667
+BAMF5's PFR: 0.000000
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.000000
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:3
+BAMF5 is eliminated
+
+OldBotv25 posts small blind/and is dealer, stack size (13)
+OldBotv15 posts big blind, stack size (584)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 5h Qs
+
+OldBotv25's EV: 0.622500
+OldBotv25's Equity: 0.5245
+OldBotv25's Implied Odds: -3
+OldBotv25's maxBetFold: 0
+OldBotv25's maxBetEV: 3
+
+final max raise:13
+final min raise:13
+Raise range: 4 6
+OldBotv25 raise 13.
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv25 raise 4.
+
+
+NEWHAND:8
+
+['NEWHAND', '8', '2', '5d', '4c', '587', '13', '0', 'OldBotv15', 'OldBotv25', 'BAMF5', '2', 'true', 'true', 'false', '14.875175']
+Active Players:2
+
+Our hand: 5d 4c
+OldBotv15's VPIP: 0.714286
+OldBotv15's PFR: 0.142857
+OldBotv15's estimated fold percentage is 0.000000
+OldBotv15's AF flop/postflop: 0.000000
+OldBotv15's Player Type: UNKNOWN
+OldBotv15's Seat:1
+OldBotv25's VPIP: 0.428571
+OldBotv25's PFR: 0.142857
+OldBotv25's estimated fold percentage is 0.857143
+OldBotv25's AF flop/postflop: 0.000000
+OldBotv25's Player Type: UNKNOWN
+OldBotv25's Seat:2
+BAMF5's VPIP: 0.142857
+BAMF5's PFR: 0.000000
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.000000
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:3
+BAMF5 is eliminated
+
+OldBotv15 posts small blind/and is dealer, stack size (586)
+OldBotv25 posts big blind, stack size (11)
+
+
+***PREFLOP***(6) Board:()
+Our hand: 5d 4c
+
+OldBotv15 raised to 4.
+OldBotv25's EV: -0.325000
+OldBotv25's Equity: 0.3675
+OldBotv25's Implied Odds: -3
+OldBotv25's maxBetFold: 0
+OldBotv25's maxBetEV: 3
+
+OldBotv25 folds.
+EV FOLD
+OldBotv25 folds.
+
+
+NEWHAND:9
+
+['NEWHAND', '9', '1', '6c', 'Jc', '11', '589', '0', 'OldBotv25', 'OldBotv15', 'BAMF5', '2', 'true', 'true', 'false', '14.866839']
+Active Players:2
+
+Our hand: 6c Jc
+OldBotv25's VPIP: 0.375000
+OldBotv25's PFR: 0.125000
+OldBotv25's estimated fold percentage is 0.875000
+OldBotv25's AF flop/postflop: 0.000000
+OldBotv25's Player Type: UNKNOWN
+OldBotv25's Seat:1
+OldBotv15's VPIP: 0.750000
+OldBotv15's PFR: 0.125000
+OldBotv15's estimated fold percentage is 0.000000
+OldBotv15's AF flop/postflop: 0.000000
+OldBotv15's Player Type: UNKNOWN
+OldBotv15's Seat:2
+BAMF5's VPIP: 0.125000
+BAMF5's PFR: 0.000000
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.000000
+BAMF5's Player Type: NIT
+BAMF5's Seat:3
+BAMF5 is eliminated
+
+OldBotv25 posts small blind/and is dealer, stack size (10)
+OldBotv15 posts big blind, stack size (587)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 6c Jc
+
+OldBotv25's EV: 0.517500
+OldBotv25's Equity: 0.5035
+OldBotv25's Implied Odds: -3
+OldBotv25's maxBetFold: 0
+OldBotv25's maxBetEV: 3
+
+final max raise:10
+final min raise:10
+Raise range: 4 6
+OldBotv25 raise 10.
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv25 raise 4.
+
+
+NEWHAND:10
+
+['NEWHAND', '10', '2', 'Ad', '9c', '590', '10', '0', 'OldBotv15', 'OldBotv25', 'BAMF5', '2', 'true', 'true', 'false', '14.857437']
+Active Players:2
+
+Our hand: Ad 9c
+OldBotv15's VPIP: 0.666667
+OldBotv15's PFR: 0.111111
+OldBotv15's estimated fold percentage is 0.000000
+OldBotv15's AF flop/postflop: 0.000000
+OldBotv15's Player Type: UNKNOWN
+OldBotv15's Seat:1
+OldBotv25's VPIP: 0.333333
+OldBotv25's PFR: 0.111111
+OldBotv25's estimated fold percentage is 0.888889
+OldBotv25's AF flop/postflop: 0.000000
+OldBotv25's Player Type: UNKNOWN
+OldBotv25's Seat:2
+BAMF5's VPIP: 0.111111
+BAMF5's PFR: 0.000000
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.000000
+BAMF5's Player Type: NIT
+BAMF5's Seat:3
+BAMF5 is eliminated
+
+OldBotv15 posts small blind/and is dealer, stack size (589)
+OldBotv25 posts big blind, stack size (8)
+
+
+***PREFLOP***(6) Board:()
+Our hand: Ad 9c
+
+OldBotv15 raised to 4.
+OldBotv25's EV: 2.235000
+OldBotv25's Equity: 0.6235
+OldBotv25's Implied Odds: -7
+OldBotv25's maxBetFold: 0
+OldBotv25's maxBetEV: 9
+
+final max raise:8
+final min raise:8
+Raise range: 6 10
+OldBotv25 raise 8.
+BETTING LOOSE2
+final max raise:8
+final min raise:6
+Raise range: 6 10
+OldBotv25 raise 8.
+
+***PREFLOP***(18) Board:()
+Our hand: Ad 9c
+
+OldBotv15 raised to 10.
+OldBotv25's EV: 7.458000
+OldBotv25's Equity: 0.6235
+OldBotv25's Implied Odds: -21
+OldBotv25's maxBetFold: 0
+OldBotv25's maxBetEV: 29
+
+final call min:10
+OldBotv25 calls 10.
+BETTING LOOSE2
+final call min:10
+OldBotv25 calls 10.
+OldBotv25 WTSD percentage is: 0.100000
+OldBotv15 WTSD percentage is: 0.200000
+OldBotv15 W$SD percentage is: 1.000000
+Gameover, engine disconnected.
