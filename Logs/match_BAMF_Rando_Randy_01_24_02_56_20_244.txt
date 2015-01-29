@@ -1,0 +1,621 @@
+6.176 MIT Pokerbots - BAMF vs Rando vs Randy (stack=200, bb=2)
+Hand #1, BAMF (200), Rando (200), Randy (200)
+Rando posts the blind of 1
+Randy posts the blind of 2
+Dealt to BAMF [7d Kd]
+Dealt to Rando [Jh 6s]
+Dealt to Randy [Jd 4s]
+BAMF calls 2
+Rando folds
+Randy raises to 6
+BAMF calls 6
+*** FLOP *** (13) [4h Qs 9d]
+Randy bets 6
+BAMF calls 6
+*** TURN *** (25) [4h Qs 9d] [Js]
+Randy bets 21
+BAMF calls 21
+*** RIVER *** (67) [4h Qs 9d Js] [2c]
+Randy bets 34
+BAMF folds
+Randy wins the pot (101)
+
+Hand #2, Randy (234), BAMF (167), Rando (199)
+BAMF posts the blind of 1
+Rando posts the blind of 2
+Dealt to Randy [9c Qh]
+Dealt to BAMF [Tc 8s]
+Dealt to Rando [5d Ad]
+Randy raises to 4
+BAMF calls 4
+Rando calls 4
+*** FLOP *** (12) [8h 7c 4s]
+BAMF bets 4
+Rando raises to 18
+Randy calls 18
+BAMF raises to 78
+Rando folds
+Randy raises to 146
+BAMF calls 146
+*** TURN *** (322) [8h 7c 4s] [2s]
+BAMF bets 17
+Randy calls 17
+*** RIVER *** (356) [8h 7c 4s 2s] [Js]
+Randy shows [9c Qh]
+BAMF shows [Tc 8s]
+BAMF wins the pot (356)
+
+Hand #3, Rando (177), Randy (67), BAMF (356)
+Randy posts the blind of 1
+BAMF posts the blind of 2
+Dealt to Rando [5h 8s]
+Dealt to Randy [4d 6d]
+Dealt to BAMF [Kd 8d]
+Rando folds
+Randy calls 2
+BAMF checks
+*** FLOP *** (4) [9h 4c Ks]
+Randy bets 2
+BAMF raises to 7
+Randy folds
+BAMF wins the pot (13)
+
+Hand #4, BAMF (360), Rando (177), Randy (63)
+Rando posts the blind of 1
+Randy posts the blind of 2
+Dealt to BAMF [2d 5h]
+Dealt to Rando [2s Jh]
+Dealt to Randy [Kc 2c]
+BAMF folds
+Rando folds
+Randy wins the pot (3)
+
+Hand #5, Randy (64), BAMF (360), Rando (176)
+BAMF posts the blind of 1
+Rando posts the blind of 2
+Dealt to Randy [Qc Th]
+Dealt to BAMF [Ad Js]
+Dealt to Rando [4d 9s]
+Randy folds
+BAMF calls 2
+Rando raises to 4
+BAMF calls 4
+*** FLOP *** (8) [8h 9d 5c]
+BAMF checks
+Rando bets 2
+BAMF calls 2
+*** TURN *** (12) [8h 9d 5c] [2s]
+BAMF checks
+Rando bets 9
+BAMF calls 9
+*** RIVER *** (30) [8h 9d 5c 2s] [3d]
+BAMF checks
+Rando bets 16
+BAMF calls 16
+BAMF shows [Ad Js]
+Rando shows [4d 9s]
+Rando wins the pot (62)
+
+Hand #6, Rando (207), Randy (64), BAMF (329)
+Randy posts the blind of 1
+BAMF posts the blind of 2
+Dealt to Rando [Qs 8c]
+Dealt to Randy [5d 8s]
+Dealt to BAMF [5s 9s]
+Rando calls 2
+Randy calls 2
+BAMF checks
+*** FLOP *** (6) [Jh 8h 3s]
+Randy bets 5
+BAMF folds
+Rando raises to 12
+Randy folds
+Rando wins the pot (23)
+
+Hand #7, BAMF (327), Rando (216), Randy (57)
+Rando posts the blind of 1
+Randy posts the blind of 2
+Dealt to BAMF [3s 4d]
+Dealt to Rando [Th 2d]
+Dealt to Randy [Kh 2c]
+BAMF folds
+Rando raises to 4
+Randy raises to 6
+Rando calls 6
+*** FLOP *** (12) [Kd 5s 4h]
+Rando bets 5
+Randy folds
+Rando wins the pot (17)
+
+Hand #8, Randy (51), BAMF (327), Rando (222)
+BAMF posts the blind of 1
+Rando posts the blind of 2
+Dealt to Randy [Th As]
+Dealt to BAMF [6c 9h]
+Dealt to Rando [2h Ks]
+Randy raises to 4
+BAMF folds
+Rando raises to 7
+Randy raises to 14
+Rando raises to 32
+Randy calls 32
+*** FLOP *** (65) [4h 5d 8s]
+Rando checks
+Randy checks
+*** TURN *** (65) [4h 5d 8s] [8d]
+Rando checks
+Randy bets 14
+Rando calls 14
+*** RIVER *** (93) [4h 5d 8s 8d] [6d]
+Rando bets 2
+Randy folds
+Rando wins the pot (95)
+
+Hand #9, Rando (269), Randy (5), BAMF (326)
+Randy posts the blind of 1
+BAMF posts the blind of 2
+Dealt to Rando [Jd Qd]
+Dealt to Randy [Ad 7c]
+Dealt to BAMF [4d Tc]
+Rando raises to 5
+Randy folds
+BAMF folds
+Rando wins the pot (8)
+
+Hand #10, BAMF (324), Rando (272), Randy (4)
+Rando posts the blind of 1
+Randy posts the blind of 2
+Dealt to BAMF [As 2d]
+Dealt to Rando [Qc 4c]
+Dealt to Randy [Js Jd]
+BAMF calls 2
+Rando calls 2
+Randy checks
+*** FLOP *** (6) [Kh 6d 8h]
+Rando checks
+Randy bets 2
+BAMF calls 2
+Rando calls 2
+*** TURN *** (0) [Kh 6d 8h] [2s]
+Rando bets 5
+BAMF calls 5
+*** RIVER *** (10) [Kh 6d 8h 2s] [4d]
+Rando bets 2
+BAMF calls 2
+BAMF shows [As 2d]
+Rando shows [Qc 4c]
+Randy shows [Js Jd]
+Randy wins the pot (12)
+Rando wins the pot (14)
+
+Hand #11, Randy (12), BAMF (313), Rando (275)
+BAMF posts the blind of 1
+Rando posts the blind of 2
+Dealt to Randy [4s 7c]
+Dealt to BAMF [Ks 8c]
+Dealt to Rando [9s 5s]
+Randy folds
+BAMF calls 2
+Rando raises to 5
+BAMF calls 5
+*** FLOP *** (10) [Th 2d 7h]
+BAMF checks
+Rando bets 5
+BAMF calls 5
+*** TURN *** (20) [Th 2d 7h] [Qs]
+BAMF checks
+Rando checks
+*** RIVER *** (20) [Th 2d 7h Qs] [4d]
+BAMF bets 7
+Rando folds
+BAMF wins the pot (27)
+
+Hand #12, Rando (265), Randy (12), BAMF (323)
+Randy posts the blind of 1
+BAMF posts the blind of 2
+Dealt to Rando [Kc 2h]
+Dealt to Randy [As 7d]
+Dealt to BAMF [3s 3c]
+Rando folds
+Randy folds
+BAMF wins the pot (3)
+
+Hand #13, BAMF (324), Rando (265), Randy (11)
+Rando posts the blind of 1
+Randy posts the blind of 2
+Dealt to BAMF [3d As]
+Dealt to Rando [Qc 6c]
+Dealt to Randy [Jd Ad]
+BAMF calls 2
+Rando raises to 6
+Randy folds
+BAMF calls 6
+*** FLOP *** (14) [Ac Th Ks]
+Rando bets 10
+BAMF raises to 37
+Rando folds
+BAMF wins the pot (61)
+
+Hand #14, Randy (9), BAMF (342), Rando (249)
+BAMF posts the blind of 1
+Rando posts the blind of 2
+Dealt to Randy [9s 5c]
+Dealt to BAMF [3h As]
+Dealt to Rando [7s Ks]
+Randy calls 2
+BAMF calls 2
+Rando raises to 4
+Randy calls 4
+BAMF calls 4
+*** FLOP *** (12) [Js Jh 9c]
+BAMF checks
+Rando bets 9
+Randy calls 5
+BAMF calls 9
+*** TURN *** (8) [Js Jh 9c] [2c]
+BAMF checks
+Rando checks
+*** RIVER *** (8) [Js Jh 9c 2c] [Jd]
+BAMF checks
+Rando checks
+Randy shows [9s 5c]
+BAMF shows [3h As]
+Rando shows [7s Ks]
+Randy wins the pot (27)
+BAMF wins the pot (8)
+
+Hand #15, Rando (236), Randy (27), BAMF (337)
+Randy posts the blind of 1
+BAMF posts the blind of 2
+Dealt to Rando [8s Ks]
+Dealt to Randy [Td 9d]
+Dealt to BAMF [Ts 7h]
+Rando calls 2
+Randy raises to 7
+BAMF calls 7
+Rando raises to 16
+Randy folds
+BAMF folds
+Rando wins the pot (30)
+
+Hand #16, BAMF (330), Rando (250), Randy (20)
+Rando posts the blind of 1
+Randy posts the blind of 2
+Dealt to BAMF [Ts 3h]
+Dealt to Rando [7s Jc]
+Dealt to Randy [Ah 9d]
+BAMF folds
+Rando raises to 5
+Randy calls 5
+*** FLOP *** (10) [6h 7d 6s]
+Rando bets 6
+Randy calls 6
+*** TURN *** (22) [6h 7d 6s] [9h]
+Rando checks
+Randy bets 6
+Rando folds
+Randy wins the pot (28)
+
+Hand #17, Randy (31), BAMF (330), Rando (239)
+BAMF posts the blind of 1
+Rando posts the blind of 2
+Dealt to Randy [3c Tc]
+Dealt to BAMF [Jh 4s]
+Dealt to Rando [8d 8s]
+Randy raises to 4
+BAMF calls 4
+Rando calls 4
+*** FLOP *** (12) [Qd Jc Qc]
+BAMF bets 8
+Rando folds
+Randy calls 8
+*** TURN *** (28) [Qd Jc Qc] [As]
+BAMF bets 9
+Randy folds
+BAMF wins the pot (37)
+
+Hand #18, Rando (235), Randy (19), BAMF (346)
+Randy posts the blind of 1
+BAMF posts the blind of 2
+Dealt to Rando [9s 2h]
+Dealt to Randy [Kc Ac]
+Dealt to BAMF [7d Qs]
+Rando raises to 4
+Randy raises to 12
+BAMF calls 12
+Rando folds
+*** FLOP *** (28) [6s 2d Qc]
+Randy bets 4
+BAMF raises to 7
+Randy folds
+BAMF wins the pot (39)
+
+Hand #19, BAMF (366), Rando (231), Randy (3)
+Rando posts the blind of 1
+Randy posts the blind of 2
+Dealt to BAMF [2s 6s]
+Dealt to Rando [4h Tc]
+Dealt to Randy [2h Ks]
+BAMF folds
+Rando folds
+Randy wins the pot (3)
+
+Hand #20, Randy (4), BAMF (366), Rando (230)
+BAMF posts the blind of 1
+Rando posts the blind of 2
+Dealt to Randy [5d 6d]
+Dealt to BAMF [Ad 4c]
+Dealt to Rando [7c 3s]
+Randy raises to 4
+BAMF calls 4
+Rando raises to 15
+BAMF calls 15
+*** FLOP *** (22) [8c 9s Qh]
+BAMF checks
+Rando bets 32
+BAMF calls 32
+*** TURN *** (86) [8c 9s Qh] [Kd]
+BAMF bets 14
+Rando calls 14
+*** RIVER *** (114) [8c 9s Qh Kd] [Jh]
+BAMF checks
+Rando bets 60
+BAMF calls 60
+Randy shows [5d 6d]
+BAMF shows [Ad 4c]
+Rando shows [7c 3s]
+BAMF wins the pot (12)
+BAMF wins the pot (234)
+
+Hand #21, BAMF (491), Rando (109), Randy (0)
+BAMF posts the blind of 1
+Rando posts the blind of 2
+Dealt to Rando [Td 6d]
+Dealt to Randy [Kd Jh]
+Dealt to BAMF [Tc 7h]
+BAMF calls 2
+Rando checks
+*** FLOP *** (4) [Th 8s Qd]
+Rando bets 2
+BAMF raises to 7
+Rando raises to 21
+BAMF raises to 63
+Rando folds
+BAMF wins the pot (88)
+
+Hand #22, Rando (86), BAMF (514), Randy (0)
+Rando posts the blind of 1
+BAMF posts the blind of 2
+Dealt to BAMF [6c 4d]
+Dealt to Rando [Jh 4s]
+Dealt to Randy [Ac 6h]
+Rando calls 2
+BAMF checks
+*** FLOP *** (4) [4h As 7d]
+BAMF checks
+Rando bets 2
+BAMF calls 2
+*** TURN *** (8) [4h As 7d] [5s]
+BAMF checks
+Rando bets 4
+BAMF calls 4
+*** RIVER *** (16) [4h As 7d 5s] [5d]
+BAMF bets 8
+Rando calls 8
+BAMF shows [6c 4d]
+Rando shows [Jh 4s]
+BAMF ties for the pot (16)
+Rando ties for the pot (16)
+
+Hand #23, BAMF (514), Rando (86), Randy (0)
+BAMF posts the blind of 1
+Rando posts the blind of 2
+Dealt to Randy [Ah Td]
+Dealt to BAMF [8s 4d]
+Dealt to Rando [3c Kc]
+BAMF calls 2
+Rando raises to 4
+BAMF folds
+Rando wins the pot (6)
+
+Hand #24, Rando (88), BAMF (512), Randy (0)
+Rando posts the blind of 1
+BAMF posts the blind of 2
+Dealt to Rando [Qs Td]
+Dealt to Randy [Ac 8c]
+Dealt to BAMF [5s 7c]
+Rando folds
+BAMF wins the pot (3)
+
+Hand #25, BAMF (513), Rando (87), Randy (0)
+BAMF posts the blind of 1
+Rando posts the blind of 2
+Dealt to BAMF [5d 6s]
+Dealt to Rando [6d 9s]
+Dealt to Randy [3s Jh]
+BAMF calls 2
+Rando checks
+*** FLOP *** (4) [Kc 8s Qc]
+Rando checks
+BAMF checks
+*** TURN *** (4) [Kc 8s Qc] [2c]
+Rando checks
+BAMF checks
+*** RIVER *** (4) [Kc 8s Qc 2c] [8c]
+Rando checks
+BAMF checks
+BAMF shows [5d 6s]
+Rando shows [6d 9s]
+Rando wins the pot (4)
+
+Hand #26, Rando (89), BAMF (511), Randy (0)
+Rando posts the blind of 1
+BAMF posts the blind of 2
+Dealt to Randy [8h As]
+Dealt to BAMF [3c 3d]
+Dealt to Rando [9d Js]
+Rando folds
+BAMF wins the pot (3)
+
+Hand #27, BAMF (512), Rando (88), Randy (0)
+BAMF posts the blind of 1
+Rando posts the blind of 2
+Dealt to Rando [5s 6d]
+Dealt to Randy [3c Kc]
+Dealt to BAMF [Ad Ac]
+BAMF raises to 4
+Rando folds
+BAMF wins the pot (6)
+
+Hand #28, Rando (86), BAMF (514), Randy (0)
+Rando posts the blind of 1
+BAMF posts the blind of 2
+Dealt to BAMF [6h Jc]
+Dealt to Rando [6s 3h]
+Dealt to Randy [2s 2h]
+Rando raises to 5
+BAMF calls 5
+*** FLOP *** (10) [8c 4d Ks]
+BAMF bets 6
+Rando calls 6
+*** TURN *** (22) [8c 4d Ks] [Qd]
+BAMF checks
+Rando checks
+*** RIVER *** (22) [8c 4d Ks Qd] [Ac]
+BAMF checks
+Rando checks
+BAMF shows [6h Jc]
+Rando shows [6s 3h]
+BAMF wins the pot (22)
+
+Hand #29, BAMF (525), Rando (75), Randy (0)
+BAMF posts the blind of 1
+Rando posts the blind of 2
+Dealt to Randy [Ad 6h]
+Dealt to BAMF [7h Kh]
+Dealt to Rando [3c 4s]
+BAMF calls 2
+Rando checks
+*** FLOP *** (4) [2s Jc 6d]
+Rando checks
+BAMF checks
+*** TURN *** (4) [2s Jc 6d] [6s]
+Rando bets 3
+BAMF calls 3
+*** RIVER *** (10) [2s Jc 6d 6s] [3s]
+Rando checks
+BAMF bets 6
+Rando calls 6
+BAMF shows [7h Kh]
+Rando shows [3c 4s]
+Rando wins the pot (22)
+
+Hand #30, Rando (86), BAMF (514), Randy (0)
+Rando posts the blind of 1
+BAMF posts the blind of 2
+Dealt to Rando [Ac 8h]
+Dealt to Randy [2s Th]
+Dealt to BAMF [9d Tc]
+Rando calls 2
+BAMF checks
+*** FLOP *** (4) [3c Kd 5s]
+BAMF checks
+Rando checks
+*** TURN *** (4) [3c Kd 5s] [2c]
+BAMF checks
+Rando bets 2
+BAMF folds
+Rando wins the pot (6)
+
+Hand #31, BAMF (512), Rando (88), Randy (0)
+BAMF posts the blind of 1
+Rando posts the blind of 2
+Dealt to BAMF [2d Jc]
+Dealt to Rando [As 8d]
+Dealt to Randy [3h 5c]
+BAMF calls 2
+Rando raises to 5
+BAMF calls 5
+*** FLOP *** (10) [3s 7s Qh]
+Rando bets 6
+BAMF calls 6
+*** TURN *** (22) [3s 7s Qh] [Qd]
+Rando checks
+BAMF bets 14
+Rando calls 14
+*** RIVER *** (50) [3s 7s Qh Qd] [Ks]
+Rando checks
+BAMF bets 8
+Rando calls 8
+BAMF shows [2d Jc]
+Rando shows [As 8d]
+Rando wins the pot (66)
+
+Hand #32, Rando (121), BAMF (479), Randy (0)
+Rando posts the blind of 1
+BAMF posts the blind of 2
+Dealt to Randy [Qh 2s]
+Dealt to BAMF [3c 3d]
+Dealt to Rando [2h 3h]
+Rando raises to 4
+BAMF calls 4
+*** FLOP *** (8) [6d Kc 3s]
+BAMF bets 4
+Rando raises to 10
+BAMF raises to 25
+Rando raises to 45
+BAMF raises to 91
+Rando calls 91
+*** TURN *** (190) [6d Kc 3s] [Ah]
+BAMF bets 20
+Rando folds
+BAMF wins the pot (210)
+
+Hand #33, BAMF (574), Rando (26), Randy (0)
+BAMF posts the blind of 1
+Rando posts the blind of 2
+Dealt to Rando [9c Kh]
+Dealt to Randy [Js Jh]
+Dealt to BAMF [5s 8d]
+BAMF calls 2
+Rando checks
+*** FLOP *** (4) [As 9s 7c]
+Rando bets 3
+BAMF calls 3
+*** TURN *** (10) [As 9s 7c] [8c]
+Rando bets 7
+BAMF raises to 21
+Rando folds
+BAMF wins the pot (38)
+
+Hand #34, Rando (14), BAMF (586), Randy (0)
+Rando posts the blind of 1
+BAMF posts the blind of 2
+Dealt to BAMF [Jc 5s]
+Dealt to Rando [5h Jh]
+Dealt to Randy [9d Jd]
+Rando folds
+BAMF wins the pot (3)
+
+Hand #35, BAMF (587), Rando (13), Randy (0)
+BAMF posts the blind of 1
+Rando posts the blind of 2
+Dealt to Randy [Qs 6d]
+Dealt to BAMF [Qc 2h]
+Dealt to Rando [As Td]
+BAMF calls 2
+Rando checks
+*** FLOP *** (4) [4c 5c 4h]
+Rando bets 3
+BAMF calls 3
+*** TURN *** (10) [4c 5c 4h] [Ac]
+Rando bets 4
+BAMF calls 4
+*** RIVER *** (18) [4c 5c 4h Ac] [8c]
+Rando checks
+BAMF bets 4
+Rando calls 4
+BAMF shows [Qc 2h]
+Rando shows [As Td]
+BAMF wins the pot (26)
+

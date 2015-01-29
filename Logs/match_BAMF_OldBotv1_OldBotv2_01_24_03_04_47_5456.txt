@@ -1,0 +1,1591 @@
+6.176 MIT Pokerbots - OldBotv26 vs OldBotv16 vs BAMF6 (stack=200, bb=2)
+Hand #1, OldBotv26 (200), OldBotv16 (200), BAMF6 (200)
+OldBotv16 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv26 [Kc Qh]
+Dealt to OldBotv16 [Jd Qs]
+Dealt to BAMF6 [9s Td]
+OldBotv26 raises to 4
+OldBotv16 raises to 6
+BAMF6 calls 6
+OldBotv26 raises to 18
+OldBotv16 raises to 60
+BAMF6 calls 60
+OldBotv26 raises to 146
+OldBotv16 raises to 200
+BAMF6 calls 200
+OldBotv26 folds
+*** FLOP *** (546) [Ah 4d 3c]
+*** TURN *** (546) [Ah 4d 3c] [Tc]
+*** RIVER *** (546) [Ah 4d 3c Tc] [4s]
+OldBotv16 shows [Jd Qs]
+BAMF6 shows [9s Td]
+BAMF6 wins the pot (546)
+
+Hand #2, BAMF6 (546), OldBotv26 (54), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to BAMF6 [Qs Td]
+Dealt to OldBotv26 [6h As]
+Dealt to OldBotv16 [Qd 6s]
+BAMF6 calls 2
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [5d 3d 7d]
+OldBotv26 checks
+BAMF6 checks
+*** TURN *** (8) [5d 3d 7d] [Ac]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=20]
+OldBotv26 checks
+BAMF6 checks
+*** RIVER *** (8) [5d 3d 7d Ac] [3c]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=20]
+OldBotv26 checks
+BAMF6 checks
+BAMF6 shows [Qs Td]
+OldBotv26 shows [6h As]
+OldBotv26 wins the pot (8)
+
+Hand #3, OldBotv26 (58), BAMF6 (542), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv16 [Js 4h]
+Dealt to BAMF6 [8s Jh]
+Dealt to OldBotv26 [Th Kd]
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [5h 4s Qd]
+BAMF6 checks
+OldBotv26 bets 2
+BAMF6 calls 2
+*** TURN *** (12) [5h 4s Qd] [4d]
+BAMF6 checks
+OldBotv26 checks
+*** RIVER *** (12) [5h 4s Qd 4d] [3c]
+BAMF6 checks
+OldBotv26 bets 2
+BAMF6 calls 2
+BAMF6 shows [8s Jh]
+OldBotv26 shows [Th Kd]
+OldBotv26 wins the pot (16)
+
+Hand #4, BAMF6 (534), OldBotv26 (66), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv26 [Jc 8d]
+Dealt to OldBotv16 [4d Ac]
+Dealt to BAMF6 [2s Ks]
+BAMF6 calls 2
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [4c 9s Qd]
+OldBotv26 bets 2
+BAMF6 calls 2
+*** TURN *** (12) [4c 9s Qd] [3c]
+OldBotv26 checks
+BAMF6 checks
+*** RIVER *** (12) [4c 9s Qd 3c] [Tc]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=20]
+OldBotv26 checks
+BAMF6 checks
+OldBotv26 shows [Jc 8d]
+BAMF6 shows [2s Ks]
+OldBotv26 wins the pot (12)
+
+Hand #5, OldBotv26 (72), BAMF6 (528), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [4c 8s]
+Dealt to OldBotv26 [3d 8c]
+Dealt to OldBotv16 [5d Qh]
+OldBotv26 raises to 4
+BAMF6 folds
+OldBotv26 wins the pot (6)
+
+Hand #6, BAMF6 (526), OldBotv26 (74), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv16 [5d 2h]
+Dealt to BAMF6 [Ks Qh]
+Dealt to OldBotv26 [6s 3d]
+BAMF6 calls 2
+OldBotv26 checks
+*** FLOP *** (4) [Qc 8h 8c]
+OldBotv26 bets 2
+BAMF6 raises to 7
+OldBotv26 folds
+BAMF6 wins the pot (13)
+
+Hand #7, OldBotv26 (70), BAMF6 (530), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv26 [5h Qs]
+Dealt to OldBotv16 [6s Jh]
+Dealt to BAMF6 [Jc 4c]
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [Td 8d 6h]
+BAMF6 checks
+OldBotv26 bets 2
+BAMF6 calls 2
+*** TURN *** (12) [Td 8d 6h] [3s]
+BAMF6 checks
+OldBotv26 bets 3
+BAMF6 calls 3
+*** RIVER *** (18) [Td 8d 6h 3s] [7h]
+BAMF6 checks
+OldBotv26 bets 3
+BAMF6 folds
+OldBotv26 wins the pot (21)
+
+Hand #8, BAMF6 (521), OldBotv26 (79), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to BAMF6 [Ks Qc]
+Dealt to OldBotv26 [5d 4c]
+Dealt to OldBotv16 [8h Kd]
+BAMF6 calls 2
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [2h 6d Th]
+OldBotv26 bets 2
+BAMF6 calls 2
+*** TURN *** (12) [2h 6d Th] [Ac]
+OldBotv26 checks
+BAMF6 checks
+*** RIVER *** (12) [2h 6d Th Ac] [Jc]
+OldBotv26 bets 3
+BAMF6 raises to 7
+OldBotv26 folds
+BAMF6 wins the pot (22)
+
+Hand #9, OldBotv26 (70), BAMF6 (530), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv16 [Td 7d]
+Dealt to BAMF6 [7c Qc]
+Dealt to OldBotv26 [6c Jc]
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [4s 5d 7h]
+BAMF6 bets 7
+OldBotv26 folds
+BAMF6 wins the pot (15)
+
+Hand #10, BAMF6 (534), OldBotv26 (66), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv26 [Ad 9c]
+Dealt to OldBotv16 [8h 9d]
+Dealt to BAMF6 [Jc Tc]
+BAMF6 calls 2
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [Ks Js 3d]
+OldBotv26 bets 2
+BAMF6 raises to 11
+OldBotv26 folds
+BAMF6 wins the pot (21)
+
+Hand #11, OldBotv26 (60), BAMF6 (540), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [5d 8c]
+Dealt to OldBotv26 [2h Qh]
+Dealt to OldBotv16 [3c Jd]
+OldBotv26 raises to 4
+BAMF6 folds
+OldBotv26 wins the pot (6)
+
+Hand #12, BAMF6 (538), OldBotv26 (62), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv16 [Jc Ad]
+Dealt to BAMF6 [5d Qh]
+Dealt to OldBotv26 [Jh 3d]
+BAMF6 calls 2
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [4c 8c 3h]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=9]
+OldBotv26 checks
+BAMF6 checks
+*** TURN *** (8) [4c 8c 3h] [6c]
+OldBotv26 bets 2
+BAMF6 calls 2
+*** RIVER *** (12) [4c 8c 3h 6c] [9d]
+OldBotv26 bets 2
+BAMF6 folds
+OldBotv26 wins the pot (14)
+
+Hand #13, OldBotv26 (68), BAMF6 (532), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv26 [As Th]
+Dealt to OldBotv16 [6h 9c]
+Dealt to BAMF6 [7d 6c]
+OldBotv26 raises to 5
+BAMF6 folds
+OldBotv26 wins the pot (7)
+
+Hand #14, BAMF6 (530), OldBotv26 (70), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to BAMF6 [5h 7d]
+Dealt to OldBotv26 [7h 2h]
+Dealt to OldBotv16 [Ac 4c]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #15, OldBotv26 (71), BAMF6 (529), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv16 [9d 2s]
+Dealt to BAMF6 [7s 7d]
+Dealt to OldBotv26 [Tc Jc]
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [2c 6c 3h]
+BAMF6 bets 7
+OldBotv26 raises to 19
+BAMF6 raises to 35
+OldBotv26 folds
+BAMF6 wins the pot (62)
+
+Hand #16, BAMF6 (552), OldBotv26 (48), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv26 [Td Qh]
+Dealt to OldBotv16 [Th Jd]
+Dealt to BAMF6 [2s 4c]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #17, OldBotv26 (49), BAMF6 (551), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [As 3s]
+Dealt to OldBotv26 [5s Ts]
+Dealt to OldBotv16 [Ac 4c]
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [Qd 8s Jc]
+BAMF6 checks
+OldBotv26 bets 3
+BAMF6 calls 3
+*** TURN *** (14) [Qd 8s Jc] [Td]
+BAMF6 checks
+OldBotv26 bets 11
+BAMF6 calls 11
+*** RIVER *** (36) [Qd 8s Jc Td] [2s]
+BAMF6 checks
+OldBotv26 bets 17
+BAMF6 calls 17
+BAMF6 shows [As 3s]
+OldBotv26 shows [5s Ts]
+OldBotv26 wins the pot (70)
+
+Hand #18, BAMF6 (516), OldBotv26 (84), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv16 [8c 7d]
+Dealt to BAMF6 [4d Ad]
+Dealt to OldBotv26 [5h 2s]
+BAMF6 calls 2
+OldBotv26 checks
+*** FLOP *** (4) [Td 8s 3d]
+OldBotv26 bets 2
+BAMF6 raises to 8
+OldBotv26 folds
+BAMF6 wins the pot (14)
+
+Hand #19, OldBotv26 (80), BAMF6 (520), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv26 [8h Qc]
+Dealt to OldBotv16 [Jc As]
+Dealt to BAMF6 [5c 4d]
+OldBotv26 raises to 4
+BAMF6 folds
+OldBotv26 wins the pot (6)
+
+Hand #20, BAMF6 (518), OldBotv26 (82), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to BAMF6 [Ad Kc]
+Dealt to OldBotv26 [6d Th]
+Dealt to OldBotv16 [9s 5h]
+BAMF6 calls 2
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [2c 3h Kd]
+OldBotv26 checks
+BAMF6 bets 7
+OldBotv26 folds
+BAMF6 wins the pot (15)
+
+Hand #21, OldBotv26 (78), BAMF6 (522), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv16 [6d 2s]
+Dealt to BAMF6 [4s 2d]
+Dealt to OldBotv26 [2c Ks]
+OldBotv26 raises to 4
+BAMF6 folds
+OldBotv26 wins the pot (6)
+
+Hand #22, BAMF6 (520), OldBotv26 (80), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv26 [2c 3c]
+Dealt to OldBotv16 [Ah 9s]
+Dealt to BAMF6 [Qd 7h]
+BAMF6 calls 2
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [Th Ts Jc]
+OldBotv26 checks
+BAMF6 checks
+*** TURN *** (8) [Th Ts Jc] [6d]
+OldBotv26 bets 3
+BAMF6 calls 3
+*** RIVER *** (14) [Th Ts Jc 6d] [3h]
+OldBotv26 bets 5
+BAMF6 calls 5
+OldBotv26 shows [2c 3c]
+BAMF6 shows [Qd 7h]
+OldBotv26 wins the pot (24)
+
+Hand #23, OldBotv26 (92), BAMF6 (508), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [8s Qd]
+Dealt to OldBotv26 [Tc 2c]
+Dealt to OldBotv16 [5c Ks]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #24, BAMF6 (509), OldBotv26 (91), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv16 [Td 7d]
+Dealt to BAMF6 [7s Ad]
+Dealt to OldBotv26 [6h 7h]
+BAMF6 calls 2
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [6s 6c Ks]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=20]
+OldBotv26 checks
+BAMF6 checks
+*** TURN *** (8) [6s 6c Ks] [Jd]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=20]
+OldBotv26 checks
+BAMF6 checks
+*** RIVER *** (8) [6s 6c Ks Jd] [3s]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=20]
+OldBotv26 checks
+BAMF6 checks
+BAMF6 shows [7s Ad]
+OldBotv26 shows [6h 7h]
+OldBotv26 wins the pot (8)
+
+Hand #25, OldBotv26 (95), BAMF6 (505), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv26 [Jh 8d]
+Dealt to OldBotv16 [6d 2s]
+Dealt to BAMF6 [5s Qc]
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [9h 4d 7d]
+BAMF6 checks
+OldBotv26 bets 3
+BAMF6 calls 3
+*** TURN *** (14) [9h 4d 7d] [4c]
+BAMF6 checks
+OldBotv26 checks
+*** RIVER *** (14) [9h 4d 7d 4c] [9c]
+BAMF6 checks
+OldBotv26 bets 6
+BAMF6 calls 6
+OldBotv26 shows [Jh 8d]
+BAMF6 shows [5s Qc]
+BAMF6 wins the pot (26)
+
+Hand #26, BAMF6 (518), OldBotv26 (82), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to BAMF6 [Jh 7s]
+Dealt to OldBotv26 [Kc Js]
+Dealt to OldBotv16 [Ts 3h]
+BAMF6 calls 2
+OldBotv26 raises to 6
+BAMF6 calls 6
+*** FLOP *** (12) [3s 8d 8h]
+OldBotv26 bets 5
+BAMF6 calls 5
+*** TURN *** (22) [3s 8d 8h] [As]
+OldBotv26 bets 10
+BAMF6 calls 10
+*** RIVER *** (42) [3s 8d 8h As] [9c]
+OldBotv26 bets 19
+BAMF6 calls 19
+BAMF6 shows [Jh 7s]
+OldBotv26 shows [Kc Js]
+OldBotv26 wins the pot (80)
+
+Hand #27, OldBotv26 (122), BAMF6 (478), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv16 [6h 3s]
+Dealt to BAMF6 [Jh 7d]
+Dealt to OldBotv26 [7s Qc]
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [Qh 4c 7h]
+BAMF6 bets 7
+OldBotv26 raises to 29
+BAMF6 raises to 82
+OldBotv26 folds
+BAMF6 wins the pot (119)
+
+Hand #28, BAMF6 (511), OldBotv26 (89), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv26 [Ah 5c]
+Dealt to OldBotv16 [3h Ac]
+Dealt to BAMF6 [7d 8c]
+BAMF6 calls 2
+OldBotv26 raises to 5
+BAMF6 calls 5
+*** FLOP *** (10) [2h 3s Jh]
+OldBotv26 bets 10
+BAMF6 folds
+OldBotv26 wins the pot (20)
+
+Hand #29, OldBotv26 (94), BAMF6 (506), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [6s 2s]
+Dealt to OldBotv26 [6c Qc]
+Dealt to OldBotv16 [5d As]
+OldBotv26 raises to 4
+BAMF6 folds
+OldBotv26 wins the pot (6)
+
+Hand #30, BAMF6 (504), OldBotv26 (96), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv16 [Jh 9c]
+Dealt to BAMF6 [8s 6h]
+Dealt to OldBotv26 [2s 7d]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #31, OldBotv26 (97), BAMF6 (503), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv26 [Js 5s]
+Dealt to OldBotv16 [7c Qs]
+Dealt to BAMF6 [5d Kh]
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [7d 4h 9c]
+BAMF6 checks
+OldBotv26 bets 3
+BAMF6 calls 3
+*** TURN *** (14) [7d 4h 9c] [6c]
+BAMF6 checks
+OldBotv26 bets 6
+BAMF6 calls 6
+*** RIVER *** (26) [7d 4h 9c 6c] [3s]
+BAMF6 bets 22
+OldBotv26 raises to 49
+BAMF6 raises to 76
+OldBotv26 folds
+BAMF6 wins the pot (151)
+
+Hand #32, BAMF6 (565), OldBotv26 (35), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to BAMF6 [5h Jd]
+Dealt to OldBotv26 [3c 7s]
+Dealt to OldBotv16 [3s 3h]
+BAMF6 calls 2
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [8h 4c 2d]
+OldBotv26 checks
+BAMF6 checks
+*** TURN *** (8) [8h 4c 2d] [2h]
+OldBotv26 checks
+BAMF6 checks
+*** RIVER *** (8) [8h 4c 2d 2h] [6s]
+OldBotv26 checks
+BAMF6 checks
+BAMF6 shows [5h Jd]
+OldBotv26 shows [3c 7s]
+BAMF6 wins the pot (8)
+
+Hand #33, OldBotv26 (31), BAMF6 (569), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv16 [2h Kh]
+Dealt to BAMF6 [5c 6d]
+Dealt to OldBotv26 [9s 3d]
+OldBotv26 raises to 4
+BAMF6 folds
+OldBotv26 wins the pot (6)
+
+Hand #34, BAMF6 (567), OldBotv26 (33), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv26 [6d 3c]
+Dealt to OldBotv16 [4s 8h]
+Dealt to BAMF6 [Qd Jh]
+BAMF6 calls 2
+OldBotv26 checks
+*** FLOP *** (4) [Qc 3d Th]
+OldBotv26 bets 4
+BAMF6 raises to 14
+OldBotv26 folds
+BAMF6 wins the pot (22)
+
+Hand #35, OldBotv26 (27), BAMF6 (573), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [7d Th]
+Dealt to OldBotv26 [3c 9s]
+Dealt to OldBotv16 [4c Qd]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #36, BAMF6 (574), OldBotv26 (26), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv16 [4s Qd]
+Dealt to BAMF6 [2s 5d]
+Dealt to OldBotv26 [3d 8h]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #37, OldBotv26 (27), BAMF6 (573), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv26 [Ac Qs]
+Dealt to OldBotv16 [As Js]
+Dealt to BAMF6 [6c Jd]
+OldBotv26 raises to 5
+BAMF6 calls 5
+*** FLOP *** (10) [Th 4c 3h]
+BAMF6 checks
+OldBotv26 bets 4
+BAMF6 calls 4
+*** TURN *** (18) [Th 4c 3h] [8h]
+BAMF6 checks
+OldBotv26 checks
+*** RIVER *** (18) [Th 4c 3h 8h] [6s]
+BAMF6 checks
+OldBotv26 checks
+OldBotv26 shows [Ac Qs]
+BAMF6 shows [6c Jd]
+BAMF6 wins the pot (18)
+
+Hand #38, BAMF6 (582), OldBotv26 (18), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to BAMF6 [Tc 5h]
+Dealt to OldBotv26 [8h 5s]
+Dealt to OldBotv16 [4d Jh]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #39, OldBotv26 (19), BAMF6 (581), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv16 [Ts 9h]
+Dealt to BAMF6 [Qh 2d]
+Dealt to OldBotv26 [Ks 6c]
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=18]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #40, BAMF6 (582), OldBotv26 (18), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv26 [Td 4h]
+Dealt to OldBotv16 [2d 3d]
+Dealt to BAMF6 [2c 5c]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #41, OldBotv26 (19), BAMF6 (581), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [Th 9c]
+Dealt to OldBotv26 [4s 7c]
+Dealt to OldBotv16 [Tc Kh]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #42, BAMF6 (582), OldBotv26 (18), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv16 [7s Td]
+Dealt to BAMF6 [9s 4h]
+Dealt to OldBotv26 [8c 8s]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #43, OldBotv26 (19), BAMF6 (581), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv26 [6h Ac]
+Dealt to OldBotv16 [As 8d]
+Dealt to BAMF6 [3s 8s]
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=18]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #44, BAMF6 (582), OldBotv26 (18), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to BAMF6 [7c 5c]
+Dealt to OldBotv26 [4d 3c]
+Dealt to OldBotv16 [3s As]
+BAMF6 calls 2
+OldBotv26 checks
+*** FLOP *** (4) [7d Ks 4s]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=16]
+OldBotv26 checks
+BAMF6 bets 2
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=16]
+OldBotv26 folds
+BAMF6 wins the pot (6)
+
+Hand #45, OldBotv26 (16), BAMF6 (584), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv16 [8c 7h]
+Dealt to BAMF6 [5h 8s]
+Dealt to OldBotv26 [7c Qd]
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=15]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #46, BAMF6 (585), OldBotv26 (15), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv26 [Kd 4h]
+Dealt to OldBotv16 [5s 8c]
+Dealt to BAMF6 [4c 3d]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #47, OldBotv26 (16), BAMF6 (584), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [7c 9h]
+Dealt to OldBotv26 [2s Jc]
+Dealt to OldBotv16 [Qs 9d]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #48, BAMF6 (585), OldBotv26 (15), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv16 [3h Ac]
+Dealt to BAMF6 [4s 3d]
+Dealt to OldBotv26 [8c 8d]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #49, OldBotv26 (16), BAMF6 (584), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv26 [Jc 2h]
+Dealt to OldBotv16 [6h 5d]
+Dealt to BAMF6 [8c 9s]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #50, BAMF6 (585), OldBotv26 (15), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to BAMF6 [Tc 2d]
+Dealt to OldBotv26 [Ks 7h]
+Dealt to OldBotv16 [8c Jh]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #51, OldBotv26 (16), BAMF6 (584), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv16 [Js Ad]
+Dealt to BAMF6 [Ts 9h]
+Dealt to OldBotv26 [6s 8h]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #52, BAMF6 (585), OldBotv26 (15), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv26 [As Tc]
+Dealt to OldBotv16 [9d Kh]
+Dealt to BAMF6 [5s 8h]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #53, OldBotv26 (16), BAMF6 (584), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [Qh Ah]
+Dealt to OldBotv26 [Qc 4d]
+Dealt to OldBotv16 [2d 4c]
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=15]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #54, BAMF6 (585), OldBotv26 (15), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv16 [Ac Qs]
+Dealt to BAMF6 [3s 5c]
+Dealt to OldBotv26 [4d 3h]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #55, OldBotv26 (16), BAMF6 (584), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv26 [3c Ks]
+Dealt to OldBotv16 [7s Qd]
+Dealt to BAMF6 [9c Jc]
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=15]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #56, BAMF6 (585), OldBotv26 (15), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to BAMF6 [2h 7c]
+Dealt to OldBotv26 [8d Kd]
+Dealt to OldBotv16 [Ad 6d]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #57, OldBotv26 (16), BAMF6 (584), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv16 [4h Qh]
+Dealt to BAMF6 [5s 2c]
+Dealt to OldBotv26 [Js 9d]
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=15]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #58, BAMF6 (585), OldBotv26 (15), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv26 [9h 5c]
+Dealt to OldBotv16 [Td 2h]
+Dealt to BAMF6 [Kd 2c]
+BAMF6 calls 2
+OldBotv26 checks
+*** FLOP *** (4) [3h 5d 3d]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=13]
+OldBotv26 checks
+BAMF6 checks
+*** TURN *** (4) [3h 5d 3d] [8s]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=13]
+OldBotv26 checks
+BAMF6 checks
+*** RIVER *** (4) [3h 5d 3d 8s] [Ts]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=13]
+OldBotv26 checks
+BAMF6 checks
+OldBotv26 shows [9h 5c]
+BAMF6 shows [Kd 2c]
+OldBotv26 wins the pot (4)
+
+Hand #59, OldBotv26 (17), BAMF6 (583), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [Ad 3s]
+Dealt to OldBotv26 [Ac Js]
+Dealt to OldBotv16 [8c 7d]
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=16]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #60, BAMF6 (584), OldBotv26 (16), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv16 [2d Qs]
+Dealt to BAMF6 [5c Tc]
+Dealt to OldBotv26 [8c 9c]
+BAMF6 calls 2
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=14]
+OldBotv26 checks
+*** FLOP *** (4) [5s 3c Kh]
+OldBotv26 checks
+BAMF6 bets 3
+OldBotv26 folds
+BAMF6 wins the pot (7)
+
+Hand #61, OldBotv26 (14), BAMF6 (586), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv26 [8d 4h]
+Dealt to OldBotv16 [5h 5s]
+Dealt to BAMF6 [7s Td]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #62, BAMF6 (587), OldBotv26 (13), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to BAMF6 [6h 4d]
+Dealt to OldBotv26 [7d 7h]
+Dealt to OldBotv16 [Ac Qd]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #63, OldBotv26 (14), BAMF6 (586), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv16 [Qc 5d]
+Dealt to BAMF6 [5h Qs]
+Dealt to OldBotv26 [Td 4h]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #64, BAMF6 (587), OldBotv26 (13), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv26 [Jc 9h]
+Dealt to OldBotv16 [9c 7d]
+Dealt to BAMF6 [Kc Tc]
+BAMF6 calls 2
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=11]
+OldBotv26 checks
+*** FLOP *** (4) [4h Jh Js]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=11]
+OldBotv26 checks
+BAMF6 checks
+*** TURN *** (4) [4h Jh Js] [Kh]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=11]
+OldBotv26 checks
+BAMF6 bets 4
+OldBotv26 raises to 11
+BAMF6 calls 11
+*** RIVER *** (26) [4h Jh Js Kh] [Ad]
+OldBotv26 shows [Jc 9h]
+BAMF6 shows [Kc Tc]
+OldBotv26 wins the pot (26)
+
+Hand #65, OldBotv26 (26), BAMF6 (574), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [Qc Tc]
+Dealt to OldBotv26 [7s Kh]
+Dealt to OldBotv16 [5s Qh]
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [9d 8s 6d]
+BAMF6 checks
+OldBotv26 bets 2
+BAMF6 calls 2
+*** TURN *** (12) [9d 8s 6d] [Kc]
+BAMF6 checks
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=20]
+OldBotv26 checks
+*** RIVER *** (12) [9d 8s 6d Kc] [5d]
+BAMF6 checks
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=20]
+OldBotv26 checks
+BAMF6 shows [Qc Tc]
+OldBotv26 shows [7s Kh]
+OldBotv26 wins the pot (12)
+
+Hand #66, BAMF6 (568), OldBotv26 (32), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv16 [4s Kd]
+Dealt to BAMF6 [Tc 9s]
+Dealt to OldBotv26 [6s Ts]
+BAMF6 calls 2
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [5d Ks 2h]
+OldBotv26 checks
+BAMF6 checks
+*** TURN *** (8) [5d Ks 2h] [3d]
+OldBotv26 bets 3
+BAMF6 folds
+OldBotv26 wins the pot (11)
+
+Hand #67, OldBotv26 (36), BAMF6 (564), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv26 [3h 3c]
+Dealt to OldBotv16 [4c 9s]
+Dealt to BAMF6 [2s Jh]
+OldBotv26 raises to 4
+BAMF6 folds
+OldBotv26 wins the pot (6)
+
+Hand #68, BAMF6 (562), OldBotv26 (38), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to BAMF6 [Jd Js]
+Dealt to OldBotv26 [Kh Ad]
+Dealt to OldBotv16 [5s Jh]
+BAMF6 raises to 6
+OldBotv26 raises to 11
+BAMF6 raises to 23
+OldBotv26 folds
+BAMF6 wins the pot (34)
+
+Hand #69, OldBotv26 (27), BAMF6 (573), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv16 [5s As]
+Dealt to BAMF6 [9c 8s]
+Dealt to OldBotv26 [Kd 5c]
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [4d Qc 9d]
+BAMF6 bets 8
+OldBotv26 calls 8
+*** TURN *** (24) [4d Qc 9d] [6s]
+BAMF6 bets 15
+OldBotv26 folds
+BAMF6 wins the pot (39)
+
+Hand #70, BAMF6 (585), OldBotv26 (15), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv26 [5h 3s]
+Dealt to OldBotv16 [Ac 2h]
+Dealt to BAMF6 [As 9h]
+BAMF6 calls 2
+OldBotv26 checks
+*** FLOP *** (4) [9s Kd 7d]
+OldBotv26 checks
+BAMF6 bets 2
+OldBotv26 folds
+BAMF6 wins the pot (6)
+
+Hand #71, OldBotv26 (13), BAMF6 (587), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [8h 7d]
+Dealt to OldBotv26 [2s 7h]
+Dealt to OldBotv16 [6h Ac]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #72, BAMF6 (588), OldBotv26 (12), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv16 [2h 6h]
+Dealt to BAMF6 [8c Jh]
+Dealt to OldBotv26 [3c 9d]
+BAMF6 calls 2
+OldBotv26 checks
+*** FLOP *** (4) [9c Js Kh]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=10]
+OldBotv26 checks
+BAMF6 bets 3
+OldBotv26 raises to 10
+BAMF6 calls 10
+*** TURN *** (24) [9c Js Kh] [3h]
+*** RIVER *** (24) [9c Js Kh 3h] [3d]
+BAMF6 shows [8c Jh]
+OldBotv26 shows [3c 9d]
+OldBotv26 wins the pot (24)
+
+Hand #73, OldBotv26 (24), BAMF6 (576), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv26 [Jh 7s]
+Dealt to OldBotv16 [5c Ks]
+Dealt to BAMF6 [Qc 5s]
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [Ts 6h Ac]
+BAMF6 checks
+OldBotv26 checks
+*** TURN *** (8) [Ts 6h Ac] [9s]
+BAMF6 checks
+OldBotv26 bets 3
+BAMF6 calls 3
+*** RIVER *** (14) [Ts 6h Ac 9s] [6s]
+BAMF6 checks
+OldBotv26 checks
+OldBotv26 shows [Jh 7s]
+BAMF6 shows [Qc 5s]
+BAMF6 wins the pot (14)
+
+Hand #74, BAMF6 (583), OldBotv26 (17), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to BAMF6 [Kh 5c]
+Dealt to OldBotv26 [6s Jc]
+Dealt to OldBotv16 [Th 2s]
+BAMF6 calls 2
+OldBotv26 checks
+*** FLOP *** (4) [7c 2d Js]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=15]
+OldBotv26 checks
+BAMF6 checks
+*** TURN *** (4) [7c 2d Js] [Qc]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=15]
+OldBotv26 checks
+BAMF6 checks
+*** RIVER *** (4) [7c 2d Js Qc] [3d]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=15]
+OldBotv26 checks
+BAMF6 checks
+BAMF6 shows [Kh 5c]
+OldBotv26 shows [6s Jc]
+OldBotv26 wins the pot (4)
+
+Hand #75, OldBotv26 (19), BAMF6 (581), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv16 [Ad Tc]
+Dealt to BAMF6 [3h Kc]
+Dealt to OldBotv26 [5c Qd]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #76, BAMF6 (582), OldBotv26 (18), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv26 [7s 3c]
+Dealt to OldBotv16 [9d Td]
+Dealt to BAMF6 [Tc Ac]
+BAMF6 calls 2
+OldBotv26 checks
+*** FLOP *** (4) [8h Jh 2c]
+OldBotv26 checks
+BAMF6 checks
+*** TURN *** (4) [8h Jh 2c] [6c]
+OldBotv26 checks
+BAMF6 checks
+*** RIVER *** (4) [8h Jh 2c 6c] [2h]
+OldBotv26 checks
+BAMF6 checks
+OldBotv26 shows [7s 3c]
+BAMF6 shows [Tc Ac]
+BAMF6 wins the pot (4)
+
+Hand #77, OldBotv26 (16), BAMF6 (584), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [Kd 9c]
+Dealt to OldBotv26 [Tc Jc]
+Dealt to OldBotv16 [3c 4s]
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=15]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #78, BAMF6 (585), OldBotv26 (15), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv16 [4s 2s]
+Dealt to BAMF6 [3s 3h]
+Dealt to OldBotv26 [4h Js]
+BAMF6 calls 2
+OldBotv26 checks
+*** FLOP *** (4) [7h 3c Qs]
+OldBotv26 checks
+BAMF6 bets 3
+OldBotv26 folds
+BAMF6 wins the pot (7)
+
+Hand #79, OldBotv26 (13), BAMF6 (587), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv26 [8s As]
+Dealt to OldBotv16 [5h 4c]
+Dealt to BAMF6 [Ts Kh]
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=12]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #80, BAMF6 (588), OldBotv26 (12), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to BAMF6 [4c 7d]
+Dealt to OldBotv26 [Jd 9c]
+Dealt to OldBotv16 [Ts 8c]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #81, OldBotv26 (13), BAMF6 (587), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv16 [3s Ks]
+Dealt to BAMF6 [4c 4s]
+Dealt to OldBotv26 [Ah 7h]
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=12]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #82, BAMF6 (588), OldBotv26 (12), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv26 [Jd 7c]
+Dealt to OldBotv16 [Td 3h]
+Dealt to BAMF6 [9s 8s]
+BAMF6 calls 2
+OldBotv26 checks
+*** FLOP *** (4) [2s 5h 9h]
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=4]
+OldBotv26 checks
+BAMF6 bets 3
+OldBotv26 folds
+BAMF6 wins the pot (7)
+
+Hand #83, OldBotv26 (10), BAMF6 (590), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [9h Qh]
+Dealt to OldBotv26 [2d 6s]
+Dealt to OldBotv16 [5c 2h]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #84, BAMF6 (591), OldBotv26 (9), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv16 [Ah 9d]
+Dealt to BAMF6 [Qs 7h]
+Dealt to OldBotv26 [3c Qh]
+BAMF6 calls 2
+OldBotv26 checks
+*** FLOP *** (4) [Js 3h Tc]
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=4]
+OldBotv26 checks
+BAMF6 checks
+*** TURN *** (4) [Js 3h Tc] [5s]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=7]
+OldBotv26 checks
+BAMF6 checks
+*** RIVER *** (4) [Js 3h Tc 5s] [3s]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=7]
+OldBotv26 checks
+BAMF6 checks
+BAMF6 shows [Qs 7h]
+OldBotv26 shows [3c Qh]
+OldBotv26 wins the pot (4)
+
+Hand #85, OldBotv26 (11), BAMF6 (589), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv26 [Kh 7c]
+Dealt to OldBotv16 [4s 5d]
+Dealt to BAMF6 [Ah 3c]
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=10]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #86, BAMF6 (590), OldBotv26 (10), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to BAMF6 [5d 2c]
+Dealt to OldBotv26 [2d 2h]
+Dealt to OldBotv16 [Kh 9s]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #87, OldBotv26 (11), BAMF6 (589), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv16 [Tc 3h]
+Dealt to BAMF6 [9h 7h]
+Dealt to OldBotv26 [Kc Kh]
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=10]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #88, BAMF6 (590), OldBotv26 (10), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv26 [Ad Jc]
+Dealt to OldBotv16 [9h 6s]
+Dealt to BAMF6 [Tc 6c]
+BAMF6 calls 2
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=8]
+OldBotv26 checks
+*** FLOP *** (4) [Ah Ks 8c]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=8]
+OldBotv26 checks
+BAMF6 checks
+*** TURN *** (4) [Ah Ks 8c] [5h]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=8]
+OldBotv26 checks
+BAMF6 checks
+*** RIVER *** (4) [Ah Ks 8c 5h] [Th]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=8]
+OldBotv26 checks
+BAMF6 bets 3
+OldBotv26 raises to 8
+BAMF6 calls 8
+OldBotv26 shows [Ad Jc]
+BAMF6 shows [Tc 6c]
+OldBotv26 wins the pot (20)
+
+Hand #89, OldBotv26 (20), BAMF6 (580), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [7s 3s]
+Dealt to OldBotv26 [Ad 5s]
+Dealt to OldBotv16 [7h 8s]
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=19]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #90, BAMF6 (581), OldBotv26 (19), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv16 [9s 7c]
+Dealt to BAMF6 [6c 6s]
+Dealt to OldBotv26 [2h 9c]
+BAMF6 calls 2
+OldBotv26 checks
+*** FLOP *** (4) [4d Kd Qs]
+OldBotv26 checks
+BAMF6 checks
+*** TURN *** (4) [4d Kd Qs] [4h]
+OldBotv26 checks
+BAMF6 checks
+*** RIVER *** (4) [4d Kd Qs 4h] [Qd]
+OldBotv26 checks
+BAMF6 bets 3
+OldBotv26 folds
+BAMF6 wins the pot (7)
+
+Hand #91, OldBotv26 (17), BAMF6 (583), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv26 [5c 9h]
+Dealt to OldBotv16 [2d 6s]
+Dealt to BAMF6 [6h Th]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #92, BAMF6 (584), OldBotv26 (16), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to BAMF6 [6d Kd]
+Dealt to OldBotv26 [Kc 4h]
+Dealt to OldBotv16 [2c Jc]
+BAMF6 calls 2
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=14]
+OldBotv26 checks
+*** FLOP *** (4) [Ad Qh Ts]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=14]
+OldBotv26 checks
+BAMF6 checks
+*** TURN *** (4) [Ad Qh Ts] [3h]
+OldBotv26 checks
+BAMF6 checks
+*** RIVER *** (4) [Ad Qh Ts 3h] [8h]
+OldBotv26 checks
+BAMF6 checks
+BAMF6 shows [6d Kd]
+OldBotv26 shows [Kc 4h]
+BAMF6 ties for the pot (2)
+OldBotv26 ties for the pot (2)
+
+Hand #93, OldBotv26 (16), BAMF6 (584), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv16 [6d 5s]
+Dealt to BAMF6 [Qh 4s]
+Dealt to OldBotv26 [Ts Kc]
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=15]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #94, BAMF6 (585), OldBotv26 (15), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv26 [Ac 7c]
+Dealt to OldBotv16 [8h Jh]
+Dealt to BAMF6 [7s 5h]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #95, OldBotv26 (16), BAMF6 (584), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [9h 5h]
+Dealt to OldBotv26 [Jh Qh]
+Dealt to OldBotv16 [7s 6c]
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=15]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #96, BAMF6 (585), OldBotv26 (15), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv16 [Ts Tc]
+Dealt to BAMF6 [Ah 2d]
+Dealt to OldBotv26 [Qs Td]
+BAMF6 calls 2
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=13]
+OldBotv26 checks
+*** FLOP *** (4) [9s Ks 7d]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=13]
+OldBotv26 checks
+BAMF6 checks
+*** TURN *** (4) [9s Ks 7d] [Kh]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=13]
+OldBotv26 checks
+BAMF6 checks
+*** RIVER *** (4) [9s Ks 7d Kh] [4h]
+OldBotv26 checks
+BAMF6 checks
+BAMF6 shows [Ah 2d]
+OldBotv26 shows [Qs Td]
+BAMF6 wins the pot (4)
+
+Hand #97, OldBotv26 (13), BAMF6 (587), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv26 [4d 8h]
+Dealt to OldBotv16 [Ts 2h]
+Dealt to BAMF6 [6h 3s]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #98, BAMF6 (588), OldBotv26 (12), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to BAMF6 [Ts 7d]
+Dealt to OldBotv26 [4h 5d]
+Dealt to OldBotv16 [Kh 9s]
+BAMF6 calls 2
+OldBotv26 checks
+*** FLOP *** (4) [4d Kc 2s]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=10]
+OldBotv26 checks
+BAMF6 checks
+*** TURN *** (4) [4d Kc 2s] [Jh]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=10]
+OldBotv26 checks
+BAMF6 checks
+*** RIVER *** (4) [4d Kc 2s Jh] [2c]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=10]
+OldBotv26 checks
+BAMF6 checks
+BAMF6 shows [Ts 7d]
+OldBotv26 shows [4h 5d]
+OldBotv26 wins the pot (4)
+
+Hand #99, OldBotv26 (14), BAMF6 (586), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv16 [5c 5h]
+Dealt to BAMF6 [Ad Js]
+Dealt to OldBotv26 [6h Ts]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #100, BAMF6 (587), OldBotv26 (13), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv26 [9d Th]
+Dealt to OldBotv16 [Qs 3d]
+Dealt to BAMF6 [5s 5d]
+BAMF6 calls 2
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=11]
+OldBotv26 checks
+*** FLOP *** (4) [Jh Ts 2d]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=11]
+OldBotv26 checks
+BAMF6 checks
+*** TURN *** (4) [Jh Ts 2d] [4s]
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=11]
+OldBotv26 checks
+BAMF6 bets 3
+OldBotv26 raises to 11
+BAMF6 calls 11
+*** RIVER *** (26) [Jh Ts 2d 4s] [4d]
+OldBotv26 shows [9d Th]
+BAMF6 shows [5s 5d]
+OldBotv26 wins the pot (26)
+
+Hand #101, OldBotv26 (26), BAMF6 (574), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [4c 4d]
+Dealt to OldBotv26 [5d 5s]
+Dealt to OldBotv16 [Tc Jd]
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [2c Qh 8h]
+BAMF6 checks
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=10]
+OldBotv26 checks
+*** TURN *** (8) [2c Qh 8h] [5c]
+BAMF6 checks
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=20]
+OldBotv26 checks
+*** RIVER *** (8) [2c Qh 8h 5c] [7c]
+BAMF6 checks
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=20]
+OldBotv26 checks
+BAMF6 shows [4c 4d]
+OldBotv26 shows [5d 5s]
+OldBotv26 wins the pot (8)
+
+Hand #102, BAMF6 (570), OldBotv26 (30), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv16 [Ks Tc]
+Dealt to BAMF6 [7d 2d]
+Dealt to OldBotv26 [9c Td]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #103, OldBotv26 (31), BAMF6 (569), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv26 [Jc 8h]
+Dealt to OldBotv16 [7d Td]
+Dealt to BAMF6 [Tc 4d]
+OldBotv26 raises to 4
+BAMF6 folds
+OldBotv26 wins the pot (6)
+
+Hand #104, BAMF6 (567), OldBotv26 (33), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to BAMF6 [9s Js]
+Dealt to OldBotv26 [6s 3c]
+Dealt to OldBotv16 [Jc 6c]
+BAMF6 calls 2
+OldBotv26 checks
+*** FLOP *** (4) [Jh 8h 4d]
+OldBotv26 bets 2
+BAMF6 raises to 8
+OldBotv26 folds
+BAMF6 wins the pot (14)
+
+Hand #105, OldBotv26 (29), BAMF6 (571), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv16 [3d 7s]
+Dealt to BAMF6 [Js 6d]
+Dealt to OldBotv26 [6h Qh]
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [3s Ks Qd]
+BAMF6 checks
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=20]
+OldBotv26 checks
+*** TURN *** (8) [3s Ks Qd] [2s]
+BAMF6 checks
+### ILLEGAL ACTION: Bet [player=OldBotv26][amount=15]
+OldBotv26 checks
+*** RIVER *** (8) [3s Ks Qd 2s] [6s]
+BAMF6 bets 8
+OldBotv26 raises to 21
+BAMF6 raises to 25
+OldBotv26 folds
+BAMF6 wins the pot (54)
+
+Hand #106, BAMF6 (596), OldBotv26 (4), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv26 [Ad 7h]
+Dealt to OldBotv16 [8h 5s]
+Dealt to BAMF6 [2c 8d]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #107, OldBotv26 (5), BAMF6 (595), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [7d 5h]
+Dealt to OldBotv26 [Jc Jh]
+Dealt to OldBotv16 [8s Ts]
+OldBotv26 raises to 4
+BAMF6 folds
+OldBotv26 wins the pot (6)
+
+Hand #108, BAMF6 (593), OldBotv26 (7), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv16 [9s 7c]
+Dealt to BAMF6 [9c 2h]
+Dealt to OldBotv26 [5c Kc]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #109, OldBotv26 (8), BAMF6 (592), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv26 [8s 6c]
+Dealt to OldBotv16 [3c Ah]
+Dealt to BAMF6 [3s 9s]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #110, BAMF6 (593), OldBotv26 (7), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to BAMF6 [8c 6s]
+Dealt to OldBotv26 [Kh 7h]
+Dealt to OldBotv16 [9s 5d]
+BAMF6 folds
+OldBotv26 wins the pot (3)
+
+Hand #111, OldBotv26 (8), BAMF6 (592), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to OldBotv16 [Jh 9d]
+Dealt to BAMF6 [3d Js]
+Dealt to OldBotv26 [9c Qc]
+### ILLEGAL ACTION: Raise [player=OldBotv26][amount=7]
+OldBotv26 folds
+BAMF6 wins the pot (3)
+
+Hand #112, BAMF6 (593), OldBotv26 (7), OldBotv16 (0)
+BAMF6 posts the blind of 1
+OldBotv26 posts the blind of 2
+Dealt to OldBotv26 [3d Qc]
+Dealt to OldBotv16 [Td 6h]
+Dealt to BAMF6 [5h Jc]
+BAMF6 calls 2
+OldBotv26 checks
+*** FLOP *** (4) [5c Kh 8s]
+OldBotv26 checks
+BAMF6 bets 4
+OldBotv26 folds
+BAMF6 wins the pot (8)
+
+Hand #113, OldBotv26 (5), BAMF6 (595), OldBotv16 (0)
+OldBotv26 posts the blind of 1
+BAMF6 posts the blind of 2
+Dealt to BAMF6 [9d Jd]
+Dealt to OldBotv26 [Ah 2h]
+Dealt to OldBotv16 [5c 3h]
+OldBotv26 raises to 4
+BAMF6 calls 4
+*** FLOP *** (8) [9c 8d 9h]
+BAMF6 bets 1
+OldBotv26 calls 1
+*** TURN *** (10) [9c 8d 9h] [5d]
+*** RIVER *** (10) [9c 8d 9h 5d] [Kh]
+BAMF6 shows [9d Jd]
+OldBotv26 shows [Ah 2h]
+BAMF6 wins the pot (10)
+

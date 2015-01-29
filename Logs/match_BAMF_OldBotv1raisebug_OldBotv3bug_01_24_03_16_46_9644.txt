@@ -1,0 +1,70 @@
+6.176 MIT Pokerbots - OldBotv1raisebug4 vs OldBotv3bug4 vs BAMF4 (stack=200, bb=2)
+Hand #1, OldBotv1raisebug4 (200), OldBotv3bug4 (200), BAMF4 (200)
+OldBotv3bug4 posts the blind of 1
+BAMF4 posts the blind of 2
+Dealt to OldBotv1raisebug4 [3d Ah]
+Dealt to OldBotv3bug4 [Kh Kd]
+Dealt to BAMF4 [Js 3h]
+OldBotv1raisebug4 raises to 4
+OldBotv3bug4 raises to 11
+BAMF4 folds
+OldBotv1raisebug4 raises to 18
+OldBotv3bug4 raises to 49
+OldBotv1raisebug4 raises to 149
+OldBotv3bug4 folds
+OldBotv1raisebug4 wins the pot (200)
+
+Hand #2, BAMF4 (198), OldBotv1raisebug4 (251), OldBotv3bug4 (151)
+OldBotv1raisebug4 posts the blind of 1
+OldBotv3bug4 posts the blind of 2
+Dealt to BAMF4 [6s 6d]
+Dealt to OldBotv1raisebug4 [Kd 5c]
+Dealt to OldBotv3bug4 [Kh 5d]
+BAMF4 calls 2
+OldBotv1raisebug4 raises to 4
+OldBotv3bug4 raises to 8
+BAMF4 calls 8
+OldBotv1raisebug4 raises to 12
+OldBotv3bug4 folds
+BAMF4 calls 12
+*** FLOP *** (32) [4d 3d Jc]
+### ILLEGAL ACTION: Raise [player=OldBotv1raisebug4][amount=32]
+OldBotv1raisebug4 checks
+BAMF4 bets 30
+OldBotv1raisebug4 raises to 122
+BAMF4 calls 122
+*** TURN *** (276) [4d 3d Jc] [Qd]
+### ILLEGAL ACTION: Raise [player=OldBotv1raisebug4][amount=64]
+OldBotv1raisebug4 checks
+BAMF4 bets 34
+OldBotv1raisebug4 raises to 64
+BAMF4 calls 64
+*** RIVER *** (404) [4d 3d Jc Qd] [6h]
+BAMF4 shows [6s 6d]
+OldBotv1raisebug4 shows [Kd 5c]
+BAMF4 wins the pot (404)
+
+Hand #3, OldBotv3bug4 (143), BAMF4 (404), OldBotv1raisebug4 (53)
+BAMF4 posts the blind of 1
+OldBotv1raisebug4 posts the blind of 2
+Dealt to OldBotv3bug4 [Ac Js]
+Dealt to BAMF4 [6s Ts]
+Dealt to OldBotv1raisebug4 [Ks 5d]
+OldBotv3bug4 raises to 4
+BAMF4 raises to 14
+OldBotv1raisebug4 raises to 24
+OldBotv3bug4 raises to 67
+BAMF4 calls 67
+OldBotv1raisebug4 calls 53
+*** FLOP *** (28) [Tc 2h 3d]
+BAMF4 bets 63
+OldBotv3bug4 raises to 76
+BAMF4 calls 76
+*** TURN *** (180) [Tc 2h 3d] [4d]
+*** RIVER *** (180) [Tc 2h 3d 4d] [5h]
+OldBotv3bug4 shows [Ac Js]
+BAMF4 shows [6s Ts]
+OldBotv1raisebug4 shows [Ks 5d]
+BAMF4 wins the pot (159)
+BAMF4 wins the pot (180)
+

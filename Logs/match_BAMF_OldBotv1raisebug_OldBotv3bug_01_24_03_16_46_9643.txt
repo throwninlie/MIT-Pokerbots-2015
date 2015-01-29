@@ -1,0 +1,208 @@
+6.176 MIT Pokerbots - OldBotv1raisebug3 vs BAMF3 vs OldBotv3bug3 (stack=200, bb=2)
+Hand #1, OldBotv1raisebug3 (200), BAMF3 (200), OldBotv3bug3 (200)
+BAMF3 posts the blind of 1
+OldBotv3bug3 posts the blind of 2
+Dealt to OldBotv1raisebug3 [3d Ah]
+Dealt to BAMF3 [Kh Kd]
+Dealt to OldBotv3bug3 [Js 3h]
+OldBotv1raisebug3 raises to 4
+BAMF3 raises to 10
+OldBotv3bug3 calls 10
+OldBotv1raisebug3 raises to 16
+BAMF3 raises to 28
+OldBotv3bug3 folds
+OldBotv1raisebug3 raises to 94
+BAMF3 calls 94
+*** FLOP *** (198) [Kc Th 5d]
+BAMF3 bets 104
+OldBotv1raisebug3 raises to 106
+BAMF3 calls 106
+*** TURN *** (410) [Kc Th 5d] [Td]
+*** RIVER *** (410) [Kc Th 5d Td] [4c]
+OldBotv1raisebug3 shows [3d Ah]
+BAMF3 shows [Kh Kd]
+BAMF3 wins the pot (410)
+
+Hand #2, BAMF3 (410), OldBotv3bug3 (190), OldBotv1raisebug3 (0)
+BAMF3 posts the blind of 1
+OldBotv3bug3 posts the blind of 2
+Dealt to OldBotv3bug3 [6s 6d]
+Dealt to OldBotv1raisebug3 [Kd 5c]
+Dealt to BAMF3 [Kh 5d]
+BAMF3 calls 2
+OldBotv3bug3 raises to 5
+BAMF3 calls 5
+*** FLOP *** (10) [4d 3d Jc]
+### ILLEGAL ACTION: Bet [player=OldBotv3bug3][amount=19]
+OldBotv3bug3 checks
+BAMF3 checks
+*** TURN *** (10) [4d 3d Jc] [Qd]
+### ILLEGAL ACTION: Bet [player=OldBotv3bug3][amount=16]
+OldBotv3bug3 checks
+BAMF3 checks
+*** RIVER *** (10) [4d 3d Jc Qd] [6h]
+### ILLEGAL ACTION: Bet [player=OldBotv3bug3][amount=20]
+OldBotv3bug3 checks
+BAMF3 checks
+OldBotv3bug3 shows [6s 6d]
+BAMF3 shows [Kh 5d]
+OldBotv3bug3 wins the pot (10)
+
+Hand #3, OldBotv3bug3 (195), BAMF3 (405), OldBotv1raisebug3 (0)
+OldBotv3bug3 posts the blind of 1
+BAMF3 posts the blind of 2
+Dealt to BAMF3 [Ac Js]
+Dealt to OldBotv3bug3 [6s Ts]
+Dealt to OldBotv1raisebug3 [Ks 5d]
+OldBotv3bug3 raises to 4
+BAMF3 calls 4
+*** FLOP *** (8) [Tc 2h 3d]
+BAMF3 checks
+### ILLEGAL ACTION: Bet [player=OldBotv3bug3][amount=20]
+OldBotv3bug3 checks
+*** TURN *** (8) [Tc 2h 3d] [4d]
+BAMF3 checks
+### ILLEGAL ACTION: Bet [player=OldBotv3bug3][amount=20]
+OldBotv3bug3 checks
+*** RIVER *** (8) [Tc 2h 3d 4d] [5h]
+BAMF3 bets 7
+OldBotv3bug3 raises to 20
+BAMF3 raises to 38
+OldBotv3bug3 raises to 109
+BAMF3 raises to 191
+OldBotv3bug3 folds
+BAMF3 wins the pot (308)
+
+Hand #4, BAMF3 (518), OldBotv3bug3 (82), OldBotv1raisebug3 (0)
+BAMF3 posts the blind of 1
+OldBotv3bug3 posts the blind of 2
+Dealt to OldBotv1raisebug3 [3d 3c]
+Dealt to BAMF3 [7s Jd]
+Dealt to OldBotv3bug3 [Ks Qd]
+BAMF3 calls 2
+OldBotv3bug3 raises to 6
+BAMF3 calls 6
+*** FLOP *** (12) [2d 3h 7h]
+OldBotv3bug3 checks
+BAMF3 bets 11
+OldBotv3bug3 calls 11
+*** TURN *** (34) [2d 3h 7h] [8c]
+OldBotv3bug3 checks
+BAMF3 bets 9
+OldBotv3bug3 folds
+BAMF3 wins the pot (43)
+
+Hand #5, OldBotv3bug3 (65), BAMF3 (535), OldBotv1raisebug3 (0)
+OldBotv3bug3 posts the blind of 1
+BAMF3 posts the blind of 2
+Dealt to OldBotv3bug3 [2h 4h]
+Dealt to OldBotv1raisebug3 [Js Kh]
+Dealt to BAMF3 [3c Th]
+OldBotv3bug3 raises to 4
+BAMF3 folds
+OldBotv3bug3 wins the pot (6)
+
+Hand #6, BAMF3 (533), OldBotv3bug3 (67), OldBotv1raisebug3 (0)
+BAMF3 posts the blind of 1
+OldBotv3bug3 posts the blind of 2
+Dealt to BAMF3 [Kh 8h]
+Dealt to OldBotv3bug3 [Kd 2s]
+Dealt to OldBotv1raisebug3 [Qc Jh]
+BAMF3 calls 2
+OldBotv3bug3 raises to 4
+BAMF3 calls 4
+*** FLOP *** (8) [7d Jc Ah]
+OldBotv3bug3 checks
+BAMF3 checks
+*** TURN *** (8) [7d Jc Ah] [3c]
+OldBotv3bug3 bets 2
+BAMF3 calls 2
+*** RIVER *** (12) [7d Jc Ah 3c] [Jd]
+OldBotv3bug3 bets 3
+BAMF3 calls 3
+BAMF3 shows [Kh 8h]
+OldBotv3bug3 shows [Kd 2s]
+BAMF3 wins the pot (18)
+
+Hand #7, OldBotv3bug3 (58), BAMF3 (542), OldBotv1raisebug3 (0)
+OldBotv3bug3 posts the blind of 1
+BAMF3 posts the blind of 2
+Dealt to OldBotv1raisebug3 [Js Jh]
+Dealt to BAMF3 [Kd Kc]
+Dealt to OldBotv3bug3 [Tc 5c]
+OldBotv3bug3 raises to 4
+BAMF3 raises to 11
+OldBotv3bug3 folds
+BAMF3 wins the pot (15)
+
+Hand #8, BAMF3 (546), OldBotv3bug3 (54), OldBotv1raisebug3 (0)
+BAMF3 posts the blind of 1
+OldBotv3bug3 posts the blind of 2
+Dealt to OldBotv3bug3 [3h 2d]
+Dealt to OldBotv1raisebug3 [5h 8d]
+Dealt to BAMF3 [2s Kc]
+BAMF3 calls 2
+OldBotv3bug3 checks
+*** FLOP *** (4) [Qh Qd Kh]
+OldBotv3bug3 checks
+BAMF3 bets 4
+OldBotv3bug3 folds
+BAMF3 wins the pot (8)
+
+Hand #9, OldBotv3bug3 (52), BAMF3 (548), OldBotv1raisebug3 (0)
+OldBotv3bug3 posts the blind of 1
+BAMF3 posts the blind of 2
+Dealt to BAMF3 [8h Tc]
+Dealt to OldBotv3bug3 [Jc 9h]
+Dealt to OldBotv1raisebug3 [2h 7s]
+OldBotv3bug3 raises to 4
+BAMF3 calls 4
+*** FLOP *** (8) [Js 2s Qd]
+BAMF3 checks
+### ILLEGAL ACTION: Bet [player=OldBotv3bug3][amount=20]
+OldBotv3bug3 checks
+*** TURN *** (8) [Js 2s Qd] [6c]
+BAMF3 checks
+### ILLEGAL ACTION: Bet [player=OldBotv3bug3][amount=20]
+OldBotv3bug3 checks
+*** RIVER *** (8) [Js 2s Qd 6c] [8c]
+BAMF3 bets 2
+### ILLEGAL ACTION: Raise [player=OldBotv3bug3][amount=20]
+OldBotv3bug3 folds
+BAMF3 wins the pot (10)
+
+Hand #10, BAMF3 (552), OldBotv3bug3 (48), OldBotv1raisebug3 (0)
+BAMF3 posts the blind of 1
+OldBotv3bug3 posts the blind of 2
+Dealt to OldBotv1raisebug3 [4c Jc]
+Dealt to BAMF3 [5d Jh]
+Dealt to OldBotv3bug3 [2d 5h]
+BAMF3 calls 2
+OldBotv3bug3 checks
+*** FLOP *** (4) [3c 4h Jd]
+OldBotv3bug3 bets 2
+BAMF3 raises to 5
+OldBotv3bug3 raises to 8
+BAMF3 raises to 23
+OldBotv3bug3 calls 23
+*** TURN *** (50) [3c 4h Jd] [2c]
+OldBotv3bug3 bets 19
+BAMF3 raises to 23
+OldBotv3bug3 folds
+BAMF3 wins the pot (92)
+
+Hand #11, OldBotv3bug3 (4), BAMF3 (596), OldBotv1raisebug3 (0)
+OldBotv3bug3 posts the blind of 1
+BAMF3 posts the blind of 2
+Dealt to OldBotv3bug3 [3s As]
+Dealt to OldBotv1raisebug3 [Qd 9s]
+Dealt to BAMF3 [Qs Ad]
+OldBotv3bug3 raises to 4
+BAMF3 calls 4
+*** FLOP *** (8) [9h 5d 6s]
+*** TURN *** (8) [9h 5d 6s] [Ts]
+*** RIVER *** (8) [9h 5d 6s Ts] [Th]
+OldBotv3bug3 shows [3s As]
+BAMF3 shows [Qs Ad]
+BAMF3 wins the pot (8)
+

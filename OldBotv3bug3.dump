@@ -1,0 +1,1216 @@
+
+C:\Users\Er\Dropbox\Pokerbot\Versions\v3bug>python Player.py 3002 
+Connecting to localhost:3002
+Our name: OldBotv3bug3
+Opp1 name: OldBotv1raisebug3
+Opp2 name: BAMF3
+
+
+NEWHAND:1
+
+['NEWHAND', '1', '3', 'As', 'Ad', '200', '200', '200', 'OldBotv1raisebug3', 'BAMF3', 'OldBotv3bug3', '3', 'true', 'true', 'true', '15.000000']
+Active Players:3
+
+Our hand: As Ad
+OldBotv1raisebug3's VPIP: 0.000000
+OldBotv1raisebug3's PFR: 0.000000
+OldBotv1raisebug3's estimated fold percentage is 0.000000
+OldBotv1raisebug3's AF flop/postflop: 0.000000
+OldBotv1raisebug3's Player Type: NIT
+OldBotv1raisebug3's Seat:1
+BAMF3's VPIP: 0.000000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.000000
+BAMF3's AF flop/postflop: 0.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:2
+OldBotv3bug3's VPIP: 0.000000
+OldBotv3bug3's PFR: 0.000000
+OldBotv3bug3's estimated fold percentage is 0.000000
+OldBotv3bug3's AF flop/postflop: 0.000000
+OldBotv3bug3's Player Type: NIT
+OldBotv3bug3's Seat:3
+
+BAMF3 posts small blind, stack size (199)
+OldBotv3bug3 posts big blind, stack size (198)
+
+
+***PREFLOP***(10) Board:()
+Our hand: As Ad
+
+OldBotv1raisebug3 raised to 4.
+BAMF3 called 4.
+OldBotv3bug3's EV: 7.753000
+OldBotv3bug3's Equity: 0.8395
+OldBotv3bug3's Implied Odds: -13
+OldBotv3bug3's maxBetFold: 0
+OldBotv3bug3's maxBetEV: 52
+
+BETTING LOOSE2
+final max raise:16
+final min raise:6
+Raise range: 6 16
+OldBotv3bug3 raise 10.
+
+***PREFLOP***(42) Board:()
+Our hand: As Ad
+
+OldBotv1raisebug3 raised to 16.
+BAMF3 called 16.
+OldBotv3bug3's EV: 32.691000
+OldBotv3bug3's Equity: 0.8395
+OldBotv3bug3's Implied Odds: -54
+OldBotv3bug3's maxBetFold: 0
+OldBotv3bug3's maxBetEV: 219
+
+BETTING LOOSE2
+final max raise:64
+final min raise:22
+Raise range: 22 64
+OldBotv3bug3 raise 39.
+
+***PREFLOP***(305) Board:()
+Our hand: As Ad
+
+OldBotv1raisebug3 raised to 133.
+BAMF3 called 133.
+OldBotv3bug3's EV: 234.701000
+OldBotv3bug3's Equity: 0.8395
+OldBotv3bug3's Implied Odds: -412
+OldBotv3bug3's maxBetFold: 0
+OldBotv3bug3's maxBetEV: 1595
+
+BETTING LOOSE2
+final max raise:200
+final min raise:200
+Raise range: 200 200
+OldBotv3bug3 folds.
+OldBotv3bug3 raise 200.
+BAMF3 checks.
+OldBotv1raisebug3 checks.
+BAMF3 checks.
+OldBotv1raisebug3 checks.
+BAMF3 checks.
+OldBotv1raisebug3 checks.
+OldBotv1raisebug3 WTSD percentage is: 1.000000
+BAMF3 WTSD percentage is: 1.000000
+OldBotv1raisebug3 W$SD percentage is: 1.000000
+
+
+NEWHAND:2
+
+['NEWHAND', '2', '1', '7d', '4s', '161', '372', '67', 'OldBotv3bug3', 'OldBotv1raisebug3', 'BAMF3', '3', 'true', 'true', 'true', '14.973463']
+Active Players:3
+
+Our hand: 7d 4s
+OldBotv3bug3's VPIP: 1.000000
+OldBotv3bug3's PFR: 1.000000
+OldBotv3bug3's estimated fold percentage is 0.000000
+OldBotv3bug3's AF flop/postflop: 0.000000
+OldBotv3bug3's Player Type: CASHCOW
+OldBotv3bug3's Seat:1
+OldBotv1raisebug3's VPIP: 1.000000
+OldBotv1raisebug3's PFR: 1.000000
+OldBotv1raisebug3's estimated fold percentage is 0.000000
+OldBotv1raisebug3's AF flop/postflop: 0.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:2
+BAMF3's VPIP: 1.000000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.000000
+BAMF3's AF flop/postflop: 0.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:3
+
+OldBotv1raisebug3 posts small blind, stack size (371)
+BAMF3 posts big blind, stack size (65)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 7d 4s
+
+OldBotv3bug3's EV: -0.017500
+OldBotv3bug3's Equity: 0.3965
+OldBotv3bug3's Implied Odds: -1
+OldBotv3bug3's maxBetFold: 0
+OldBotv3bug3's maxBetEV: 1
+
+OldBotv3bug3 folds.
+EV FOLD
+OldBotv3bug3 folds.
+OldBotv1raisebug3 raised to 4.
+BAMF3 folds.
+
+
+NEWHAND:3
+
+['NEWHAND', '3', '2', 'Ts', 'Th', '65', '161', '374', 'BAMF3', 'OldBotv3bug3', 'OldBotv1raisebug3', '3', 'true', 'true', 'true', '14.963722']
+Active Players:3
+
+Our hand: Ts Th
+BAMF3's VPIP: 0.500000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.500000
+BAMF3's AF flop/postflop: 0.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:1
+OldBotv3bug3's VPIP: 0.500000
+OldBotv3bug3's PFR: 0.500000
+OldBotv3bug3's estimated fold percentage is 0.500000
+OldBotv3bug3's AF flop/postflop: 0.000000
+OldBotv3bug3's Player Type: CASHCOW
+OldBotv3bug3's Seat:2
+OldBotv1raisebug3's VPIP: 1.000000
+OldBotv1raisebug3's PFR: 0.500000
+OldBotv1raisebug3's estimated fold percentage is 0.000000
+OldBotv1raisebug3's AF flop/postflop: 0.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:3
+
+OldBotv3bug3 posts small blind, stack size (160)
+OldBotv1raisebug3 posts big blind, stack size (372)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Ts Th
+
+BAMF3 folds.
+OldBotv3bug3's EV: 1.607500
+OldBotv3bug3's Equity: 0.7215
+OldBotv3bug3's Implied Odds: -4
+OldBotv3bug3's maxBetFold: 5
+OldBotv3bug3's maxBetEV: 7
+
+BETTING LOOSE2
+final max raise:6
+final min raise:4
+Raise range: 4 6
+OldBotv3bug3 raise 5.
+OldBotv1raisebug3 folds.
+
+
+NEWHAND:4
+
+['NEWHAND', '4', '3', '6s', '5h', '372', '65', '163', 'OldBotv1raisebug3', 'BAMF3', 'OldBotv3bug3', '3', 'true', 'true', 'true', '14.955422']
+Active Players:3
+
+Our hand: 6s 5h
+OldBotv1raisebug3's VPIP: 0.666667
+OldBotv1raisebug3's PFR: 0.333333
+OldBotv1raisebug3's estimated fold percentage is 0.333333
+OldBotv1raisebug3's AF flop/postflop: 0.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:1
+BAMF3's VPIP: 0.333333
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.666667
+BAMF3's AF flop/postflop: 0.000000
+BAMF3's Player Type: CALLING STATION
+BAMF3's Seat:2
+OldBotv3bug3's VPIP: 0.666667
+OldBotv3bug3's PFR: 0.333333
+OldBotv3bug3's estimated fold percentage is 0.500000
+OldBotv3bug3's AF flop/postflop: 0.000000
+OldBotv3bug3's Player Type: CASHCOW
+OldBotv3bug3's Seat:3
+
+BAMF3 posts small blind, stack size (64)
+OldBotv3bug3 posts big blind, stack size (161)
+
+
+***PREFLOP***(7) Board:()
+Our hand: 6s 5h
+
+OldBotv1raisebug3 raised to 4.
+BAMF3 folds.
+OldBotv3bug3's EV: 0.411000
+OldBotv3bug3's Equity: 0.401
+OldBotv3bug3's Implied Odds: -5
+OldBotv3bug3's maxBetFold: 21
+OldBotv3bug3's maxBetEV: 4
+
+OldBotv3bug3 calls 4.
+
+***FLOP***(9) Board:(4s Ks Ah)
+Our hand: 6s 5h
+
+OldBotv3bug3's EV: 2.128500
+OldBotv3bug3's Equity: 0.2365
+OldBotv3bug3's Implied Odds: -9
+OldBotv3bug3's maxBetFold: 27
+OldBotv3bug3's maxBetEV: 2
+
+final max bet:9
+final min bet:8
+Bet range: 2 9
+OldBotv3bug3 bets 9.
+OldBotv1raisebug3 folds.
+
+
+NEWHAND:5
+
+['NEWHAND', '5', '1', '4d', '4c', '168', '368', '64', 'OldBotv3bug3', 'OldBotv1raisebug3', 'BAMF3', '3', 'true', 'true', 'true', '14.939474']
+Active Players:3
+
+Our hand: 4d 4c
+OldBotv3bug3's VPIP: 0.500000
+OldBotv3bug3's PFR: 0.250000
+OldBotv3bug3's estimated fold percentage is 0.500000
+OldBotv3bug3's AF flop/postflop: 1.000000
+OldBotv3bug3's Player Type: CASHCOW
+OldBotv3bug3's Seat:1
+OldBotv1raisebug3's VPIP: 0.750000
+OldBotv1raisebug3's PFR: 0.250000
+OldBotv1raisebug3's estimated fold percentage is 0.333333
+OldBotv1raisebug3's AF flop/postflop: 0.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:2
+BAMF3's VPIP: 0.250000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.750000
+BAMF3's AF flop/postflop: 0.000000
+BAMF3's Player Type: CALLING STATION
+BAMF3's Seat:3
+
+OldBotv1raisebug3 posts small blind, stack size (367)
+BAMF3 posts big blind, stack size (62)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 4d 4c
+
+OldBotv3bug3's EV: 0.762500
+OldBotv3bug3's Equity: 0.5525
+OldBotv3bug3's Implied Odds: -3
+OldBotv3bug3's maxBetFold: 9
+OldBotv3bug3's maxBetEV: 3
+
+final max raise:8
+final min raise:8
+Raise range: 4 7
+OldBotv3bug3 raise 8.
+OldBotv1raisebug3 raised to 4.
+BAMF3 called 4.
+OldBotv1raisebug3 checks.
+BAMF3 bet 6.
+OldBotv1raisebug3 folds.
+
+
+NEWHAND:6
+
+['NEWHAND', '6', '2', '5h', 'Jd', '68', '168', '364', 'BAMF3', 'OldBotv3bug3', 'OldBotv1raisebug3', '3', 'true', 'true', 'true', '14.926571']
+Active Players:3
+
+Our hand: 5h Jd
+BAMF3's VPIP: 0.200000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.750000
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: CALLING STATION
+BAMF3's Seat:1
+OldBotv3bug3's VPIP: 0.400000
+OldBotv3bug3's PFR: 0.200000
+OldBotv3bug3's estimated fold percentage is 0.500000
+OldBotv3bug3's AF flop/postflop: 1.000000
+OldBotv3bug3's Player Type: UNKNOWN
+OldBotv3bug3's Seat:2
+OldBotv1raisebug3's VPIP: 0.600000
+OldBotv1raisebug3's PFR: 0.200000
+OldBotv1raisebug3's estimated fold percentage is 0.333333
+OldBotv1raisebug3's AF flop/postflop: 1.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:3
+
+OldBotv3bug3 posts small blind, stack size (167)
+OldBotv1raisebug3 posts big blind, stack size (362)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 5h Jd
+
+BAMF3 folds.
+OldBotv3bug3's EV: 0.345000
+OldBotv3bug3's Equity: 0.469
+OldBotv3bug3's Implied Odds: -2
+OldBotv3bug3's maxBetFold: 5
+OldBotv3bug3's maxBetEV: 2
+
+BETTING LESS LOOSE2
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv3bug3 raise 4.
+OldBotv1raisebug3 folds.
+
+
+NEWHAND:7
+
+['NEWHAND', '7', '3', 'Th', 'Kc', '362', '68', '170', 'OldBotv1raisebug3', 'BAMF3', 'OldBotv3bug3', '3', 'true', 'true', 'true', '14.917949']
+Active Players:3
+
+Our hand: Th Kc
+OldBotv1raisebug3's VPIP: 0.500000
+OldBotv1raisebug3's PFR: 0.166667
+OldBotv1raisebug3's estimated fold percentage is 0.333333
+OldBotv1raisebug3's AF flop/postflop: 1.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:1
+BAMF3's VPIP: 0.166667
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.666667
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:2
+OldBotv3bug3's VPIP: 0.500000
+OldBotv3bug3's PFR: 0.166667
+OldBotv3bug3's estimated fold percentage is 0.500000
+OldBotv3bug3's AF flop/postflop: 1.000000
+OldBotv3bug3's Player Type: UNKNOWN
+OldBotv3bug3's Seat:3
+
+BAMF3 posts small blind, stack size (67)
+OldBotv3bug3 posts big blind, stack size (168)
+
+
+***PREFLOP***(7) Board:()
+Our hand: Th Kc
+
+OldBotv1raisebug3 raised to 4.
+BAMF3 folds.
+OldBotv3bug3's EV: 2.704500
+OldBotv3bug3's Equity: 0.6095
+OldBotv3bug3's Implied Odds: -8
+OldBotv3bug3's maxBetFold: 17
+OldBotv3bug3's maxBetEV: 10
+
+BETTING LOOSE2
+final max raise:10
+final min raise:6
+Raise range: 6 13
+OldBotv3bug3 raise 6.
+
+***PREFLOP***(15) Board:()
+Our hand: Th Kc
+
+OldBotv1raisebug3 raised to 8.
+OldBotv3bug3's EV: 6.018500
+OldBotv3bug3's Equity: 0.6095
+OldBotv3bug3's Implied Odds: -17
+OldBotv3bug3's maxBetFold: 37
+OldBotv3bug3's maxBetEV: 23
+
+BETTING LOOSE2
+final max raise:23
+final min raise:10
+Raise range: 10 25
+OldBotv3bug3 raise 12.
+
+***PREFLOP***(29) Board:()
+Our hand: Th Kc
+
+OldBotv1raisebug3 raised to 16.
+OldBotv3bug3's EV: 11.427500
+OldBotv3bug3's Equity: 0.6095
+OldBotv3bug3's Implied Odds: -34
+OldBotv3bug3's maxBetFold: 72
+OldBotv3bug3's maxBetEV: 45
+
+BETTING LOOSE2
+final max raise:45
+final min raise:20
+Raise range: 20 49
+OldBotv3bug3 raise 42.
+
+***PREFLOP***(111) Board:()
+Our hand: Th Kc
+
+OldBotv1raisebug3 raised to 68.
+OldBotv3bug3's EV: 41.100500
+OldBotv3bug3's Equity: 0.6095
+OldBotv3bug3's Implied Odds: -135
+OldBotv3bug3's maxBetFold: 277
+OldBotv3bug3's maxBetEV: 173
+
+BETTING LOOSE2
+final max raise:128
+final min raise:94
+Raise range: 94 170
+OldBotv3bug3 raise 106.
+
+***PREFLOP***(277) Board:()
+Our hand: Th Kc
+
+OldBotv1raisebug3 raised to 170.
+OldBotv3bug3's EV: 102.446500
+OldBotv3bug3's Equity: 0.6095
+OldBotv3bug3's Implied Odds: -338
+OldBotv3bug3's maxBetFold: 692
+OldBotv3bug3's maxBetEV: 432
+
+BETTING LOOSE2
+final call min:170
+OldBotv3bug3 folds.
+
+
+NEWHAND:8
+
+['NEWHAND', '8', '1', '2h', 'Qc', '64', '469', '67', 'OldBotv3bug3', 'OldBotv1raisebug3', 'BAMF3', '3', 'true', 'true', 'true', '14.869963']
+Active Players:3
+
+Our hand: 2h Qc
+OldBotv3bug3's VPIP: 0.571429
+OldBotv3bug3's PFR: 0.142857
+OldBotv3bug3's estimated fold percentage is 0.285714
+OldBotv3bug3's AF flop/postflop: 1.000000
+OldBotv3bug3's Player Type: UNKNOWN
+OldBotv3bug3's Seat:1
+OldBotv1raisebug3's VPIP: 0.571429
+OldBotv1raisebug3's PFR: 0.142857
+OldBotv1raisebug3's estimated fold percentage is 0.333333
+OldBotv1raisebug3's AF flop/postflop: 1.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:2
+BAMF3's VPIP: 0.142857
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.714286
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:3
+
+OldBotv1raisebug3 posts small blind, stack size (468)
+BAMF3 posts big blind, stack size (65)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 2h Qc
+
+OldBotv3bug3's EV: 0.355000
+OldBotv3bug3's Equity: 0.471
+OldBotv3bug3's Implied Odds: -2
+OldBotv3bug3's maxBetFold: 7
+OldBotv3bug3's maxBetEV: 2
+
+final max raise:7
+final min raise:4
+Raise range: 4 7
+OldBotv3bug3 raise 6.
+
+***PREFLOP***(26) Board:()
+Our hand: 2h Qc
+
+OldBotv1raisebug3 raised to 10.
+BAMF3 called 10.
+OldBotv3bug3's EV: 6.956000
+OldBotv3bug3's Equity: 0.471
+OldBotv3bug3's Implied Odds: -24
+OldBotv3bug3's maxBetFold: 65
+OldBotv3bug3's maxBetEV: 23
+
+final max raise:40
+final min raise:14
+Raise range: 14 40
+OldBotv3bug3 raise 40.
+
+***PREFLOP***(174) Board:()
+Our hand: 2h Qc
+
+OldBotv1raisebug3 raised to 67.
+BAMF3 called 67.
+OldBotv3bug3's EV: 48.098000
+OldBotv3bug3's Equity: 0.471
+OldBotv3bug3's Implied Odds: -166
+OldBotv3bug3's maxBetFold: 435
+OldBotv3bug3's maxBetEV: 154
+
+final call min:64
+OldBotv3bug3 folds.
+OldBotv1raisebug3 WTSD percentage is: 0.250000
+BAMF3 WTSD percentage is: 0.250000
+OldBotv1raisebug3 W$SD percentage is: 1.000000
+
+
+NEWHAND:9
+
+['NEWHAND', '9', '2', '8h', '3c', '576', '24', '0', 'OldBotv1raisebug3', 'OldBotv3bug3', 'BAMF3', '2', 'true', 'true', 'false', '14.838363']
+Active Players:2
+
+Our hand: 8h 3c
+OldBotv1raisebug3's VPIP: 0.625000
+OldBotv1raisebug3's PFR: 0.125000
+OldBotv1raisebug3's estimated fold percentage is 0.333333
+OldBotv1raisebug3's AF flop/postflop: 1.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:1
+OldBotv3bug3's VPIP: 0.625000
+OldBotv3bug3's PFR: 0.125000
+OldBotv3bug3's estimated fold percentage is 0.285714
+OldBotv3bug3's AF flop/postflop: 1.000000
+OldBotv3bug3's Player Type: UNKNOWN
+OldBotv3bug3's Seat:2
+BAMF3's VPIP: 0.250000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.714286
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:3
+BAMF3 is eliminated
+
+OldBotv1raisebug3 posts small blind/and is dealer, stack size (575)
+OldBotv3bug3 posts big blind, stack size (22)
+
+
+***PREFLOP***(6) Board:()
+Our hand: 8h 3c
+
+OldBotv1raisebug3 raised to 4.
+OldBotv3bug3's EV: -0.230000
+OldBotv3bug3's Equity: 0.377
+OldBotv3bug3's Implied Odds: -3
+OldBotv3bug3's maxBetFold: 15
+OldBotv3bug3's maxBetEV: 3
+
+final max raise:12
+final min raise:8
+Raise range: 6 12
+OldBotv3bug3 raise 10.
+EV FOLD
+OldBotv3bug3 folds.
+
+***PREFLOP***(26) Board:()
+Our hand: 8h 3c
+
+OldBotv1raisebug3 raised to 16.
+OldBotv3bug3's EV: -0.166000
+OldBotv3bug3's Equity: 0.377
+OldBotv3bug3's Implied Odds: -15
+OldBotv3bug3's maxBetFold: 65
+OldBotv3bug3's maxBetEV: 15
+
+OldBotv3bug3 folds.
+OldBotv3bug3 folds.
+EV FOLD
+OldBotv3bug3 folds.
+
+
+NEWHAND:10
+
+['NEWHAND', '10', '1', '8d', '4s', '14', '586', '0', 'OldBotv3bug3', 'OldBotv1raisebug3', 'BAMF3', '2', 'true', 'true', 'false', '14.819085']
+Active Players:2
+
+Our hand: 8d 4s
+OldBotv3bug3's VPIP: 0.666667
+OldBotv3bug3's PFR: 0.111111
+OldBotv3bug3's estimated fold percentage is 0.333333
+OldBotv3bug3's AF flop/postflop: 1.000000
+OldBotv3bug3's Player Type: UNKNOWN
+OldBotv3bug3's Seat:1
+OldBotv1raisebug3's VPIP: 0.666667
+OldBotv1raisebug3's PFR: 0.111111
+OldBotv1raisebug3's estimated fold percentage is 0.333333
+OldBotv1raisebug3's AF flop/postflop: 1.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:2
+BAMF3's VPIP: 0.222222
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.714286
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:3
+BAMF3 is eliminated
+
+OldBotv3bug3 posts small blind/and is dealer, stack size (13)
+OldBotv1raisebug3 posts big blind, stack size (584)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 8d 4s
+
+OldBotv3bug3's EV: -0.030000
+OldBotv3bug3's Equity: 0.394
+OldBotv3bug3's Implied Odds: -1
+OldBotv3bug3's maxBetFold: 7
+OldBotv3bug3's maxBetEV: 1
+
+OldBotv3bug3 folds.
+OldBotv3bug3 folds.
+EV FOLD
+OldBotv3bug3 folds.
+
+
+NEWHAND:11
+
+['NEWHAND', '11', '2', 'Ts', '5d', '587', '13', '0', 'OldBotv1raisebug3', 'OldBotv3bug3', 'BAMF3', '2', 'true', 'true', 'false', '14.809909']
+Active Players:2
+
+Our hand: Ts 5d
+OldBotv1raisebug3's VPIP: 0.600000
+OldBotv1raisebug3's PFR: 0.100000
+OldBotv1raisebug3's estimated fold percentage is 0.333333
+OldBotv1raisebug3's AF flop/postflop: 1.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:1
+OldBotv3bug3's VPIP: 0.600000
+OldBotv3bug3's PFR: 0.100000
+OldBotv3bug3's estimated fold percentage is 0.400000
+OldBotv3bug3's AF flop/postflop: 1.000000
+OldBotv3bug3's Player Type: UNKNOWN
+OldBotv3bug3's Seat:2
+BAMF3's VPIP: 0.200000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.714286
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:3
+BAMF3 is eliminated
+
+OldBotv1raisebug3 posts small blind/and is dealer, stack size (586)
+OldBotv3bug3 posts big blind, stack size (11)
+
+OldBotv1raisebug3 folds.
+
+
+NEWHAND:12
+
+['NEWHAND', '12', '1', 'Qc', '2d', '14', '586', '0', 'OldBotv3bug3', 'OldBotv1raisebug3', 'BAMF3', '2', 'true', 'true', 'false', '14.809909']
+Active Players:2
+
+Our hand: Qc 2d
+OldBotv3bug3's VPIP: 0.545455
+OldBotv3bug3's PFR: 0.090909
+OldBotv3bug3's estimated fold percentage is 0.400000
+OldBotv3bug3's AF flop/postflop: 1.000000
+OldBotv3bug3's Player Type: UNKNOWN
+OldBotv3bug3's Seat:1
+OldBotv1raisebug3's VPIP: 0.545455
+OldBotv1raisebug3's PFR: 0.090909
+OldBotv1raisebug3's estimated fold percentage is 0.272727
+OldBotv1raisebug3's AF flop/postflop: 1.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:2
+BAMF3's VPIP: 0.181818
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.714286
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:3
+BAMF3 is eliminated
+
+OldBotv3bug3 posts small blind/and is dealer, stack size (13)
+OldBotv1raisebug3 posts big blind, stack size (584)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Qc 2d
+
+OldBotv3bug3's EV: 0.315000
+OldBotv3bug3's Equity: 0.463
+OldBotv3bug3's Implied Odds: -2
+OldBotv3bug3's maxBetFold: 7
+OldBotv3bug3's maxBetEV: 2
+
+OldBotv3bug3 folds.
+final max raise:6
+final min raise:4
+Raise range: 4 6
+OldBotv3bug3 raise 6.
+
+
+NEWHAND:13
+
+['NEWHAND', '13', '2', 'Ac', '6s', '587', '13', '0', 'OldBotv1raisebug3', 'OldBotv3bug3', 'BAMF3', '2', 'true', 'true', 'false', '14.788897']
+Active Players:2
+
+Our hand: Ac 6s
+OldBotv1raisebug3's VPIP: 0.500000
+OldBotv1raisebug3's PFR: 0.083333
+OldBotv1raisebug3's estimated fold percentage is 0.272727
+OldBotv1raisebug3's AF flop/postflop: 1.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:1
+OldBotv3bug3's VPIP: 0.500000
+OldBotv3bug3's PFR: 0.083333
+OldBotv3bug3's estimated fold percentage is 0.416667
+OldBotv3bug3's AF flop/postflop: 1.000000
+OldBotv3bug3's Player Type: UNKNOWN
+OldBotv3bug3's Seat:2
+BAMF3's VPIP: 0.166667
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.714286
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:3
+BAMF3 is eliminated
+
+OldBotv1raisebug3 posts small blind/and is dealer, stack size (586)
+OldBotv3bug3 posts big blind, stack size (11)
+
+OldBotv1raisebug3 folds.
+
+
+NEWHAND:14
+
+['NEWHAND', '14', '1', '2h', 'Jh', '14', '586', '0', 'OldBotv3bug3', 'OldBotv1raisebug3', 'BAMF3', '2', 'true', 'true', 'false', '14.788897']
+Active Players:2
+
+Our hand: 2h Jh
+OldBotv3bug3's VPIP: 0.461538
+OldBotv3bug3's PFR: 0.076923
+OldBotv3bug3's estimated fold percentage is 0.416667
+OldBotv3bug3's AF flop/postflop: 1.000000
+OldBotv3bug3's Player Type: UNKNOWN
+OldBotv3bug3's Seat:1
+OldBotv1raisebug3's VPIP: 0.461538
+OldBotv1raisebug3's PFR: 0.076923
+OldBotv1raisebug3's estimated fold percentage is 0.307692
+OldBotv1raisebug3's AF flop/postflop: 1.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:2
+BAMF3's VPIP: 0.153846
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.714286
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:3
+BAMF3 is eliminated
+
+OldBotv3bug3 posts small blind/and is dealer, stack size (13)
+OldBotv1raisebug3 posts big blind, stack size (584)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 2h Jh
+
+OldBotv3bug3's EV: 0.295000
+OldBotv3bug3's Equity: 0.459
+OldBotv3bug3's Implied Odds: -2
+OldBotv3bug3's maxBetFold: 7
+OldBotv3bug3's maxBetEV: 2
+
+OldBotv3bug3 folds.
+OldBotv3bug3 folds.
+final max raise:6
+final min raise:4
+Raise range: 4 6
+OldBotv3bug3 raise 6.
+
+
+NEWHAND:15
+
+['NEWHAND', '15', '2', '7c', '2c', '587', '13', '0', 'OldBotv1raisebug3', 'OldBotv3bug3', 'BAMF3', '2', 'true', 'true', 'false', '14.764166']
+Active Players:2
+
+Our hand: 7c 2c
+OldBotv1raisebug3's VPIP: 0.428571
+OldBotv1raisebug3's PFR: 0.071429
+OldBotv1raisebug3's estimated fold percentage is 0.307692
+OldBotv1raisebug3's AF flop/postflop: 1.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:1
+OldBotv3bug3's VPIP: 0.428571
+OldBotv3bug3's PFR: 0.071429
+OldBotv3bug3's estimated fold percentage is 0.428571
+OldBotv3bug3's AF flop/postflop: 1.000000
+OldBotv3bug3's Player Type: UNKNOWN
+OldBotv3bug3's Seat:2
+BAMF3's VPIP: 0.142857
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.714286
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:3
+BAMF3 is eliminated
+
+OldBotv1raisebug3 posts small blind/and is dealer, stack size (586)
+OldBotv3bug3 posts big blind, stack size (11)
+
+
+***PREFLOP***(6) Board:()
+Our hand: 7c 2c
+
+OldBotv1raisebug3 raised to 4.
+OldBotv3bug3's EV: 0.065000
+OldBotv3bug3's Equity: 0.4065
+OldBotv3bug3's Implied Odds: -4
+OldBotv3bug3's maxBetFold: 15
+OldBotv3bug3's maxBetEV: 4
+
+OldBotv3bug3 folds.
+final max raise:11
+final min raise:8
+Raise range: 6 12
+OldBotv3bug3 raise 8.
+OldBotv3bug3 calls 4.
+
+
+NEWHAND:16
+
+['NEWHAND', '16', '1', '4d', 'Qc', '11', '589', '0', 'OldBotv3bug3', 'OldBotv1raisebug3', 'BAMF3', '2', 'true', 'true', 'false', '14.750941']
+Active Players:2
+
+Our hand: 4d Qc
+OldBotv3bug3's VPIP: 0.400000
+OldBotv3bug3's PFR: 0.066667
+OldBotv3bug3's estimated fold percentage is 0.466667
+OldBotv3bug3's AF flop/postflop: 1.000000
+OldBotv3bug3's Player Type: UNKNOWN
+OldBotv3bug3's Seat:1
+OldBotv1raisebug3's VPIP: 0.466667
+OldBotv1raisebug3's PFR: 0.066667
+OldBotv1raisebug3's estimated fold percentage is 0.307692
+OldBotv1raisebug3's AF flop/postflop: 1.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:2
+BAMF3's VPIP: 0.133333
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.714286
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:3
+BAMF3 is eliminated
+
+OldBotv3bug3 posts small blind/and is dealer, stack size (10)
+OldBotv1raisebug3 posts big blind, stack size (587)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 4d Qc
+
+OldBotv3bug3's EV: 0.435000
+OldBotv3bug3's Equity: 0.487
+OldBotv3bug3's Implied Odds: -2
+OldBotv3bug3's maxBetFold: 7
+OldBotv3bug3's maxBetEV: 2
+
+OldBotv3bug3 folds.
+final max raise:6
+final min raise:4
+Raise range: 4 6
+OldBotv3bug3 raise 4.
+
+
+NEWHAND:17
+
+['NEWHAND', '17', '2', 'Qc', '7s', '590', '10', '0', 'OldBotv1raisebug3', 'OldBotv3bug3', 'BAMF3', '2', 'true', 'true', 'false', '14.734124']
+Active Players:2
+
+Our hand: Qc 7s
+OldBotv1raisebug3's VPIP: 0.437500
+OldBotv1raisebug3's PFR: 0.062500
+OldBotv1raisebug3's estimated fold percentage is 0.307692
+OldBotv1raisebug3's AF flop/postflop: 1.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:1
+OldBotv3bug3's VPIP: 0.375000
+OldBotv3bug3's PFR: 0.062500
+OldBotv3bug3's estimated fold percentage is 0.500000
+OldBotv3bug3's AF flop/postflop: 1.000000
+OldBotv3bug3's Player Type: UNKNOWN
+OldBotv3bug3's Seat:2
+BAMF3's VPIP: 0.125000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.714286
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:3
+BAMF3 is eliminated
+
+OldBotv1raisebug3 posts small blind/and is dealer, stack size (589)
+OldBotv3bug3 posts big blind, stack size (8)
+
+
+***PREFLOP***(6) Board:()
+Our hand: Qc 7s
+
+OldBotv1raisebug3 raised to 4.
+OldBotv3bug3's EV: 1.000000
+OldBotv3bug3's Equity: 0.5
+OldBotv3bug3's Implied Odds: -6
+OldBotv3bug3's maxBetFold: 15
+OldBotv3bug3's maxBetEV: 6
+
+OldBotv3bug3 folds.
+final max raise:8
+final min raise:8
+Raise range: 6 10
+OldBotv3bug3 raise 8.
+
+
+NEWHAND:18
+
+['NEWHAND', '18', '1', '8d', '3c', '8', '592', '0', 'OldBotv3bug3', 'OldBotv1raisebug3', 'BAMF3', '2', 'true', 'true', 'false', '14.724714']
+Active Players:2
+
+Our hand: 8d 3c
+OldBotv3bug3's VPIP: 0.352941
+OldBotv3bug3's PFR: 0.058824
+OldBotv3bug3's estimated fold percentage is 0.529412
+OldBotv3bug3's AF flop/postflop: 1.000000
+OldBotv3bug3's Player Type: UNKNOWN
+OldBotv3bug3's Seat:1
+OldBotv1raisebug3's VPIP: 0.470588
+OldBotv1raisebug3's PFR: 0.058824
+OldBotv1raisebug3's estimated fold percentage is 0.307692
+OldBotv1raisebug3's AF flop/postflop: 1.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:2
+BAMF3's VPIP: 0.117647
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.714286
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:3
+BAMF3 is eliminated
+
+OldBotv3bug3 posts small blind/and is dealer, stack size (7)
+OldBotv1raisebug3 posts big blind, stack size (590)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 8d 3c
+
+OldBotv3bug3's EV: -0.207500
+OldBotv3bug3's Equity: 0.3585
+OldBotv3bug3's Implied Odds: -1
+OldBotv3bug3's maxBetFold: 7
+OldBotv3bug3's maxBetEV: 1
+
+OldBotv3bug3 folds.
+final max raise:6
+final min raise:4
+Raise range: 4 6
+OldBotv3bug3 raise 5.
+EV FOLD
+OldBotv3bug3 folds.
+
+
+NEWHAND:19
+
+['NEWHAND', '19', '2', 'Qc', '9d', '593', '7', '0', 'OldBotv1raisebug3', 'OldBotv3bug3', 'BAMF3', '2', 'true', 'true', 'false', '14.710627']
+Active Players:2
+
+Our hand: Qc 9d
+OldBotv1raisebug3's VPIP: 0.444444
+OldBotv1raisebug3's PFR: 0.055556
+OldBotv1raisebug3's estimated fold percentage is 0.307692
+OldBotv1raisebug3's AF flop/postflop: 1.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:1
+OldBotv3bug3's VPIP: 0.333333
+OldBotv3bug3's PFR: 0.055556
+OldBotv3bug3's estimated fold percentage is 0.555556
+OldBotv3bug3's AF flop/postflop: 1.000000
+OldBotv3bug3's Player Type: UNKNOWN
+OldBotv3bug3's Seat:2
+BAMF3's VPIP: 0.111111
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.714286
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:3
+BAMF3 is eliminated
+
+OldBotv1raisebug3 posts small blind/and is dealer, stack size (592)
+OldBotv3bug3 posts big blind, stack size (5)
+
+OldBotv1raisebug3 folds.
+
+
+NEWHAND:20
+
+['NEWHAND', '20', '1', 'Kd', 'Qc', '8', '592', '0', 'OldBotv3bug3', 'OldBotv1raisebug3', 'BAMF3', '2', 'true', 'true', 'false', '14.710627']
+Active Players:2
+
+Our hand: Kd Qc
+OldBotv3bug3's VPIP: 0.315789
+OldBotv3bug3's PFR: 0.052632
+OldBotv3bug3's estimated fold percentage is 0.555556
+OldBotv3bug3's AF flop/postflop: 1.000000
+OldBotv3bug3's Player Type: UNKNOWN
+OldBotv3bug3's Seat:1
+OldBotv1raisebug3's VPIP: 0.421053
+OldBotv1raisebug3's PFR: 0.052632
+OldBotv1raisebug3's estimated fold percentage is 0.263158
+OldBotv1raisebug3's AF flop/postflop: 1.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:2
+BAMF3's VPIP: 0.105263
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.714286
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:3
+BAMF3 is eliminated
+
+OldBotv3bug3 posts small blind/and is dealer, stack size (7)
+OldBotv1raisebug3 posts big blind, stack size (590)
+
+
+***PREFLOP***(3) Board:()
+Our hand: Kd Qc
+
+OldBotv3bug3's EV: 0.962500
+OldBotv3bug3's Equity: 0.5925
+OldBotv3bug3's Implied Odds: -3
+OldBotv3bug3's maxBetFold: 7
+OldBotv3bug3's maxBetEV: 4
+
+final max raise:7
+final min raise:7
+Raise range: 4 6
+OldBotv3bug3 raise 7.
+BETTING LESS LOOSE2
+final max raise:4
+final min raise:4
+Raise range: 4 6
+OldBotv3bug3 raise 4.
+
+
+NEWHAND:21
+
+['NEWHAND', '21', '2', '7s', 'Js', '593', '7', '0', 'OldBotv1raisebug3', 'OldBotv3bug3', 'BAMF3', '2', 'true', 'true', 'false', '14.700485']
+Active Players:2
+
+Our hand: 7s Js
+OldBotv1raisebug3's VPIP: 0.400000
+OldBotv1raisebug3's PFR: 0.050000
+OldBotv1raisebug3's estimated fold percentage is 0.263158
+OldBotv1raisebug3's AF flop/postflop: 1.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:1
+OldBotv3bug3's VPIP: 0.300000
+OldBotv3bug3's PFR: 0.050000
+OldBotv3bug3's estimated fold percentage is 0.550000
+OldBotv3bug3's AF flop/postflop: 1.000000
+OldBotv3bug3's Player Type: UNKNOWN
+OldBotv3bug3's Seat:2
+BAMF3's VPIP: 0.100000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.714286
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:3
+BAMF3 is eliminated
+
+OldBotv1raisebug3 posts small blind/and is dealer, stack size (592)
+OldBotv3bug3 posts big blind, stack size (5)
+
+OldBotv1raisebug3 folds.
+
+
+NEWHAND:22
+
+['NEWHAND', '22', '1', '4s', 'Qs', '8', '592', '0', 'OldBotv3bug3', 'OldBotv1raisebug3', 'BAMF3', '2', 'true', 'true', 'false', '14.700485']
+Active Players:2
+
+Our hand: 4s Qs
+OldBotv3bug3's VPIP: 0.285714
+OldBotv3bug3's PFR: 0.047619
+OldBotv3bug3's estimated fold percentage is 0.550000
+OldBotv3bug3's AF flop/postflop: 1.000000
+OldBotv3bug3's Player Type: UNKNOWN
+OldBotv3bug3's Seat:1
+OldBotv1raisebug3's VPIP: 0.380952
+OldBotv1raisebug3's PFR: 0.047619
+OldBotv1raisebug3's estimated fold percentage is 0.285714
+OldBotv1raisebug3's AF flop/postflop: 1.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:2
+BAMF3's VPIP: 0.095238
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.714286
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:3
+BAMF3 is eliminated
+
+OldBotv3bug3 posts small blind/and is dealer, stack size (7)
+OldBotv1raisebug3 posts big blind, stack size (590)
+
+
+***PREFLOP***(3) Board:()
+Our hand: 4s Qs
+
+OldBotv3bug3's EV: 0.525000
+OldBotv3bug3's Equity: 0.505
+OldBotv3bug3's Implied Odds: -3
+OldBotv3bug3's maxBetFold: 7
+OldBotv3bug3's maxBetEV: 3
+
+final max raise:7
+final min raise:7
+Raise range: 4 6
+OldBotv3bug3 raise 7.
+final max raise:6
+final min raise:4
+Raise range: 4 6
+OldBotv3bug3 raise 5.
+
+
+NEWHAND:23
+
+['NEWHAND', '23', '2', '9c', 'Tc', '593', '7', '0', 'OldBotv1raisebug3', 'OldBotv3bug3', 'BAMF3', '2', 'true', 'true', 'false', '14.690706']
+Active Players:2
+
+Our hand: 9c Tc
+OldBotv1raisebug3's VPIP: 0.363636
+OldBotv1raisebug3's PFR: 0.045455
+OldBotv1raisebug3's estimated fold percentage is 0.285714
+OldBotv1raisebug3's AF flop/postflop: 1.000000
+OldBotv1raisebug3's Player Type: UNKNOWN
+OldBotv1raisebug3's Seat:1
+OldBotv3bug3's VPIP: 0.272727
+OldBotv3bug3's PFR: 0.045455
+OldBotv3bug3's estimated fold percentage is 0.545455
+OldBotv3bug3's AF flop/postflop: 1.000000
+OldBotv3bug3's Player Type: UNKNOWN
+OldBotv3bug3's Seat:2
+BAMF3's VPIP: 0.090909
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.714286
+BAMF3's AF flop/postflop: 1.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:3
+BAMF3 is eliminated
+
+OldBotv1raisebug3 posts small blind/and is dealer, stack size (592)
+OldBotv3bug3 posts big blind, stack size (5)
+
+
+***PREFLOP***(6) Board:()
+Our hand: 9c Tc
+
+OldBotv1raisebug3 raised to 4.
+OldBotv3bug3's EV: 1.205000
+OldBotv3bug3's Equity: 0.5205
+OldBotv3bug3's Implied Odds: -6
+OldBotv3bug3's maxBetFold: 15
+OldBotv3bug3's maxBetEV: 6
+
+final max raise:6
+final min raise:6
+Raise range: 6 7
+OldBotv3bug3 raise 6.
+BETTING LESS LOOSE2
+final max raise:6
+final min raise:6
+Raise range: 6 7
+OldBotv3bug3 raise 6.
+
+***PREFLOP***(13) Board:()
+Our hand: 9c Tc
+
+OldBotv1raisebug3 raised to 7.
+OldBotv3bug3's EV: 3.410000
+OldBotv3bug3's Equity: 0.5205
+OldBotv3bug3's Implied Odds: -13
+OldBotv3bug3's maxBetFold: 32
+OldBotv3bug3's maxBetEV: 14
+
+final call min:7
+OldBotv3bug3 calls 7.
+final call min:7
+OldBotv3bug3 calls 7.
+OldBotv3bug3 WTSD percentage is: 0.043478
+OldBotv1raisebug3 WTSD percentage is: 0.130435
+OldBotv1raisebug3 W$SD percentage is: 1.000000
+Gameover, engine disconnected.
