@@ -1,0 +1,99 @@
+6.176 MIT Pokerbots - OldBotv1(Ain'tABitch)4 vs OldBotv2(MOUSE)4 vs BAMF4 (stack=200, bb=2)
+Hand #1, OldBotv1(Ain'tABitch)4 (200), OldBotv2(MOUSE)4 (200), BAMF4 (200)
+OldBotv2(MOUSE)4 posts the blind of 1
+BAMF4 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)4 [7h 3s]
+Dealt to OldBotv2(MOUSE)4 [2s Kd]
+Dealt to BAMF4 [9c Kh]
+OldBotv1(Ain'tABitch)4 folds
+OldBotv2(MOUSE)4 calls 2
+BAMF4 checks
+*** FLOP *** (4) [Ts Ac 6h]
+OldBotv2(MOUSE)4 checks
+BAMF4 checks
+*** TURN *** (4) [Ts Ac 6h] [2c]
+OldBotv2(MOUSE)4 checks
+BAMF4 checks
+*** RIVER *** (4) [Ts Ac 6h 2c] [Qh]
+OldBotv2(MOUSE)4 checks
+BAMF4 checks
+OldBotv2(MOUSE)4 shows [2s Kd]
+BAMF4 shows [9c Kh]
+OldBotv2(MOUSE)4 wins the pot (4)
+
+Hand #2, BAMF4 (198), OldBotv1(Ain'tABitch)4 (200), OldBotv2(MOUSE)4 (202)
+OldBotv1(Ain'tABitch)4 posts the blind of 1
+OldBotv2(MOUSE)4 posts the blind of 2
+Dealt to BAMF4 [7s 2d]
+Dealt to OldBotv1(Ain'tABitch)4 [Tc Qd]
+Dealt to OldBotv2(MOUSE)4 [8d Jc]
+BAMF4 folds
+OldBotv1(Ain'tABitch)4 raises to 4
+OldBotv2(MOUSE)4 calls 4
+*** FLOP *** (8) [6h 4c 9h]
+OldBotv1(Ain'tABitch)4 checks
+OldBotv2(MOUSE)4 checks
+*** TURN *** (8) [6h 4c 9h] [8h]
+OldBotv1(Ain'tABitch)4 checks
+OldBotv2(MOUSE)4 checks
+*** RIVER *** (8) [6h 4c 9h 8h] [Qh]
+OldBotv1(Ain'tABitch)4 checks
+OldBotv2(MOUSE)4 checks
+OldBotv1(Ain'tABitch)4 shows [Tc Qd]
+OldBotv2(MOUSE)4 shows [8d Jc]
+OldBotv1(Ain'tABitch)4 wins the pot (8)
+
+Hand #3, OldBotv2(MOUSE)4 (198), BAMF4 (198), OldBotv1(Ain'tABitch)4 (204)
+BAMF4 posts the blind of 1
+OldBotv1(Ain'tABitch)4 posts the blind of 2
+Dealt to OldBotv2(MOUSE)4 [4s Tc]
+Dealt to BAMF4 [Ad Ks]
+Dealt to OldBotv1(Ain'tABitch)4 [7h 5c]
+OldBotv2(MOUSE)4 folds
+BAMF4 calls 2
+OldBotv1(Ain'tABitch)4 raises to 4
+BAMF4 calls 4
+*** FLOP *** (8) [6h 7d 4h]
+BAMF4 checks
+OldBotv1(Ain'tABitch)4 checks
+*** TURN *** (8) [6h 7d 4h] [8d]
+BAMF4 checks
+OldBotv1(Ain'tABitch)4 checks
+*** RIVER *** (8) [6h 7d 4h 8d] [7c]
+BAMF4 checks
+OldBotv1(Ain'tABitch)4 checks
+BAMF4 shows [Ad Ks]
+OldBotv1(Ain'tABitch)4 shows [7h 5c]
+OldBotv1(Ain'tABitch)4 wins the pot (8)
+
+Hand #4, OldBotv1(Ain'tABitch)4 (208), OldBotv2(MOUSE)4 (198), BAMF4 (194)
+OldBotv2(MOUSE)4 posts the blind of 1
+BAMF4 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)4 [4h Ac]
+Dealt to OldBotv2(MOUSE)4 [Jc 2h]
+Dealt to BAMF4 [8s Ts]
+OldBotv1(Ain'tABitch)4 raises to 4
+OldBotv2(MOUSE)4 calls 4
+BAMF4 calls 4
+*** FLOP *** (12) [2c 9s 8h]
+OldBotv2(MOUSE)4 checks
+BAMF4 bets 3
+OldBotv1(Ain'tABitch)4 raises to 6
+OldBotv2(MOUSE)4 calls 6
+BAMF4 raises to 35
+OldBotv1(Ain'tABitch)4 raises to 64
+OldBotv2(MOUSE)4 calls 64
+BAMF4 calls 64
+*** TURN *** (204) [2c 9s 8h] [9h]
+OldBotv2(MOUSE)4 checks
+BAMF4 bets 11
+OldBotv1(Ain'tABitch)4 raises to 130
+OldBotv2(MOUSE)4 calls 130
+BAMF4 calls 126
+*** RIVER *** (8) [2c 9s 8h 9h] [Ah]
+OldBotv1(Ain'tABitch)4 shows [4h Ac]
+OldBotv2(MOUSE)4 shows [Jc 2h]
+BAMF4 shows [8s Ts]
+OldBotv1(Ain'tABitch)4 wins the pot (582)
+OldBotv1(Ain'tABitch)4 wins the pot (8)
+

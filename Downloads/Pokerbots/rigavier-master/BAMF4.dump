@@ -1,0 +1,2734 @@
+
+C:\Users\Richard\Downloads\Pokerbots\rigavier-master\players>python Player.py 3000 
+Connecting to localhost:3000
+Our name: BAMF4
+Opp1 name: OldBotv1(Ain'tABitch)4
+Opp2 name: OldBotv2(MOUSE)4
+key1 45
+key2 100
+
+
+NEWHAND:1
+
+['NEWHAND', '1', '3', 'Qh', '7c', '200', '200', '200', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '3', 'true', 'true', 'true', '15.000000']
+Active Players:3
+
+Our hand: Qh 7c
+Time banks:  15.0
+OldBotv1(Ain'tABitch)4's VPIP: 0.000000
+OldBotv1(Ain'tABitch)4's PFR: 0.000000
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.000000
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 0.000000
+OldBotv1(Ain'tABitch)4's Player Type: UNKNOWN
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.000000
+OldBotv2(MOUSE)4's AF flop/postflop: 0.000000
+OldBotv2(MOUSE)4's Player Type: UNKNOWN
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 0.000000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:3
+
+OldBotv2(MOUSE)4 posts small blind, stack size (199)
+BAMF4 posts big blind, stack size (198)
+
+['FOLD', 'CALL:4', 'RAISE:6:13']
+{}
+
+***PREFLOP***(7) Board:()
+Our hand: Qh 7c
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 folds.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.765500
+BAMF4's Equity: 0.5295
+BAMF4's Implied Odds: -7
+BAMF4's maxBetFold: 198
+BAMF4's M ratio:66
+BAMF4's maxBetEV: 7
+
+BAMF4 calls 4.
+our bot's last action is CALL for 4
+['CHECK', 'BET:2:9']
+{}
+
+***FLOP***(9) Board:(3h 5c 4s)
+Our hand: Qh 7c
+
+our last bet of 4 was in round 0
+BAMF4's EV: 3.910500
+BAMF4's Equity: 0.4345
+BAMF4's Implied Odds: -9
+BAMF4's maxBetFold: 196
+BAMF4's M ratio:65
+BAMF4's maxBetEV: 6
+
+line 6
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:9']
+{}
+
+***TURN***(9) Board:(3h 5c 4s 7h)
+Our hand: Qh 7c
+
+OldBotv1(Ain'tABitch)4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 5.598000
+BAMF4's Equity: 0.622
+BAMF4's Implied Odds: -9
+BAMF4's maxBetFold: 196
+BAMF4's M ratio:65
+BAMF4's maxBetEV: 14
+
+line 1
+final max bet:9
+final min bet:2
+Bet range: 2 9
+BAMF4 bets 3.
+our bot's last action is BET for 3
+['FOLD', 'CALL:6', 'RAISE:9:27']
+{}
+
+***TURN***(18) Board:(3h 5c 4s 7h)
+Our hand: Qh 7c
+
+OldBotv1(Ain'tABitch)4 raised to 6.
+our last bet of 3 was in round 4
+BAMF4's EV: 10.062000
+BAMF4's Equity: 0.622
+BAMF4's Implied Odds: -19
+BAMF4's maxBetFold: 193
+BAMF4's M ratio:64
+BAMF4's maxBetEV: 29
+
+line 1
+final max raise:27
+final min raise:9
+Raise range: 9 27
+BAMF4 raises to 27.
+our bot's last action is RAISE for 27
+['FOLD', 'CALL:90', 'RAISE:153:196']
+{}
+
+***TURN***(126) Board:(3h 5c 4s 7h)
+Our hand: Qh 7c
+
+OldBotv1(Ain'tABitch)4 raised to 90.
+our last bet of 27 was in round 4
+BAMF4's EV: 54.558000
+BAMF4's Equity: 0.622
+BAMF4's Implied Odds: -150
+BAMF4's maxBetFold: 169
+BAMF4's M ratio:56
+BAMF4's maxBetEV: 207
+
+line 1
+final max raise:169
+final min raise:153
+Raise range: 153 196
+BAMF4 calls 90.
+our bot's last action is CALL for 90
+['CHECK', 'BET:2:106']
+{}
+
+***RIVER***(189) Board:(3h 5c 4s 7h 4d)
+Our hand: Qh 7c
+
+our last bet of 90 was in round 4
+BAMF4's EV: 124.854545
+BAMF4's Equity: 0.660606060606
+BAMF4's Implied Odds: -189
+BAMF4's maxBetFold: 106
+BAMF4's M ratio:35
+BAMF4's maxBetEV: 367
+
+line 1
+final max bet:106
+final min bet:2
+Bet range: 2 106
+BAMF4 bets 31.
+our bot's last action is BET for 31
+['FOLD', 'CALL:106']
+{}
+
+***RIVER***(326) Board:(3h 5c 4s 7h 4d)
+Our hand: Qh 7c
+
+OldBotv1(Ain'tABitch)4 raised to 106.
+our last bet of 31 was in round 5
+BAMF4's EV: 189.903030
+BAMF4's Equity: 0.660606060606
+BAMF4's Implied Odds: -362
+BAMF4's maxBetFold: 75
+BAMF4's M ratio:25
+BAMF4's maxBetEV: 634
+
+line 1
+final call min:106
+BAMF4 calls 106.
+our bot's last action is CALL for 106
+OldBotv1(Ain'tABitch)4 WTSD percentage is: 1.000000
+BAMF4 WTSD percentage is: 1.000000
+OldBotv1(Ain'tABitch)4 W$SD percentage is: 1.000000
+
+
+NEWHAND:2
+
+['NEWHAND', '2', '3', 'Jh', 'Jd', '199', '401', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Jh Jd
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 1.000000
+OldBotv2(MOUSE)4's AF flop/postflop: 0.000000
+OldBotv2(MOUSE)4's Player Type: UNKNOWN
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 1.000000
+OldBotv1(Ain'tABitch)4's PFR: 1.000000
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.000000
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 3.000000
+OldBotv1(Ain'tABitch)4's Player Type: UNKNOWN
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (198)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (399)
+
+OldBotv2(MOUSE)4 called 2.
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 bet 3.
+OldBotv1(Ain'tABitch)4 raised to 6.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:3
+
+['NEWHAND', '3', '3', '5c', '2h', '408', '192', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 5c 2h
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.500000
+OldBotv1(Ain'tABitch)4's PFR: 0.500000
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.000000
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 5.000000
+OldBotv1(Ain'tABitch)4's Player Type: UNKNOWN
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 1.000000
+OldBotv2(MOUSE)4's AF flop/postflop: 0.500000
+OldBotv2(MOUSE)4's Player Type: UNKNOWN
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (407)
+OldBotv2(MOUSE)4 posts big blind, stack size (190)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv2(MOUSE)4 bet 8.
+OldBotv1(Ain'tABitch)4 raised to 16.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:4
+
+['NEWHAND', '4', '3', '4c', '9s', '180', '420', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 4c 9s
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 1.000000
+OldBotv2(MOUSE)4's AF flop/postflop: 0.666667
+OldBotv2(MOUSE)4's Player Type: UNKNOWN
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.333333
+OldBotv1(Ain'tABitch)4's PFR: 0.333333
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.000000
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 7.000000
+OldBotv1(Ain'tABitch)4's Player Type: UNKNOWN
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (179)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (418)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:5
+
+['NEWHAND', '5', '3', '4d', '3d', '421', '179', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 4d 3d
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.250000
+OldBotv1(Ain'tABitch)4's PFR: 0.250000
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.000000
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 7.000000
+OldBotv1(Ain'tABitch)4's Player Type: UNKNOWN
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.500000
+OldBotv2(MOUSE)4's AF flop/postflop: 0.666667
+OldBotv2(MOUSE)4's Player Type: UNKNOWN
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: UNKNOWN
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (420)
+OldBotv2(MOUSE)4 posts big blind, stack size (177)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:6
+
+['NEWHAND', '6', '3', '2s', 'Qc', '177', '423', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 2s Qc
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.600000
+OldBotv2(MOUSE)4's AF flop/postflop: 0.666667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.400000
+OldBotv1(Ain'tABitch)4's PFR: 0.400000
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.000000
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 7.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (176)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (421)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:7
+
+['NEWHAND', '7', '3', '4c', '9c', '424', '176', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 4c 9c
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.333333
+OldBotv1(Ain'tABitch)4's PFR: 0.333333
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.000000
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 7.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.666667
+OldBotv2(MOUSE)4's AF flop/postflop: 0.666667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (423)
+OldBotv2(MOUSE)4 posts big blind, stack size (174)
+
+OldBotv1(Ain'tABitch)4 folds.
+
+
+NEWHAND:8
+
+['NEWHAND', '8', '3', 'Kd', 'Td', '177', '423', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Kd Td
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.666667
+OldBotv2(MOUSE)4's AF flop/postflop: 0.666667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.285714
+OldBotv1(Ain'tABitch)4's PFR: 0.285714
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.142857
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 7.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (176)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (421)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:9
+
+['NEWHAND', '9', '3', 'Ac', '2s', '424', '176', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Ac 2s
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.250000
+OldBotv1(Ain'tABitch)4's PFR: 0.250000
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.142857
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 7.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.625000
+OldBotv2(MOUSE)4's AF flop/postflop: 0.666667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (423)
+OldBotv2(MOUSE)4 posts big blind, stack size (174)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:10
+
+['NEWHAND', '10', '3', '6s', '5h', '174', '426', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 6s 5h
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.666667
+OldBotv2(MOUSE)4's AF flop/postflop: 0.666667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.333333
+OldBotv1(Ain'tABitch)4's PFR: 0.333333
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.142857
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 7.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (173)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (424)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:11
+
+['NEWHAND', '11', '3', '2d', '9d', '427', '173', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 2d 9d
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.300000
+OldBotv1(Ain'tABitch)4's PFR: 0.300000
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.142857
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 7.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.700000
+OldBotv2(MOUSE)4's AF flop/postflop: 0.666667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (426)
+OldBotv2(MOUSE)4 posts big blind, stack size (171)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:12
+
+['NEWHAND', '12', '3', 'Jc', 'Th', '171', '429', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Jc Th
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.727273
+OldBotv2(MOUSE)4's AF flop/postflop: 0.666667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.363636
+OldBotv1(Ain'tABitch)4's PFR: 0.363636
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.142857
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 7.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (170)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (427)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:13
+
+['NEWHAND', '13', '3', '5c', 'Ad', '430', '170', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 5c Ad
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.333333
+OldBotv1(Ain'tABitch)4's PFR: 0.333333
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.142857
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 7.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.750000
+OldBotv2(MOUSE)4's AF flop/postflop: 0.666667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (429)
+OldBotv2(MOUSE)4 posts big blind, stack size (168)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:14
+
+['NEWHAND', '14', '3', 'Qc', 'Kh', '168', '432', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Qc Kh
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.769231
+OldBotv2(MOUSE)4's AF flop/postflop: 0.666667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.384615
+OldBotv1(Ain'tABitch)4's PFR: 0.384615
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.142857
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 7.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (167)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (430)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:15
+
+['NEWHAND', '15', '3', 'Ah', '5d', '433', '167', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Ah 5d
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.357143
+OldBotv1(Ain'tABitch)4's PFR: 0.357143
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.142857
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 7.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.785714
+OldBotv2(MOUSE)4's AF flop/postflop: 0.666667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (432)
+OldBotv2(MOUSE)4 posts big blind, stack size (165)
+
+OldBotv1(Ain'tABitch)4 folds.
+
+
+NEWHAND:16
+
+['NEWHAND', '16', '3', '7d', '8h', '168', '432', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 7d 8h
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.785714
+OldBotv2(MOUSE)4's AF flop/postflop: 0.666667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.333333
+OldBotv1(Ain'tABitch)4's PFR: 0.333333
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.133333
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 7.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (167)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (430)
+
+OldBotv2(MOUSE)4 called 2.
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 WTSD percentage is: 0.125000
+OldBotv2(MOUSE)4 WTSD percentage is: 0.062500
+OldBotv1(Ain'tABitch)4 W$SD percentage is: 1.000000
+
+
+NEWHAND:17
+
+['NEWHAND', '17', '3', '3d', 'Kd', '436', '164', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 3d Kd
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.312500
+OldBotv1(Ain'tABitch)4's PFR: 0.312500
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.133333
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 8.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.785714
+OldBotv2(MOUSE)4's AF flop/postflop: 0.400000
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (435)
+OldBotv2(MOUSE)4 posts big blind, stack size (162)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv1(Ain'tABitch)4 WTSD percentage is: 0.176471
+OldBotv2(MOUSE)4 WTSD percentage is: 0.117647
+OldBotv1(Ain'tABitch)4 W$SD percentage is: 1.000000
+
+
+NEWHAND:18
+
+['NEWHAND', '18', '3', 'Kh', '4h', '160', '440', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Kh 4h
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.785714
+OldBotv2(MOUSE)4's AF flop/postflop: 0.333333
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.294118
+OldBotv1(Ain'tABitch)4's PFR: 0.294118
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.133333
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 9.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (159)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (438)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:19
+
+['NEWHAND', '19', '3', '9h', '4d', '441', '159', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 9h 4d
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.277778
+OldBotv1(Ain'tABitch)4's PFR: 0.277778
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.133333
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 9.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.666667
+OldBotv2(MOUSE)4's AF flop/postflop: 0.333333
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (440)
+OldBotv2(MOUSE)4 posts big blind, stack size (157)
+
+OldBotv1(Ain'tABitch)4 folds.
+
+
+NEWHAND:20
+
+['NEWHAND', '20', '3', '2d', '4d', '160', '440', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 2d 4d
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.666667
+OldBotv2(MOUSE)4's AF flop/postflop: 0.333333
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.263158
+OldBotv1(Ain'tABitch)4's PFR: 0.263158
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.157895
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 9.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (159)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (438)
+
+OldBotv2(MOUSE)4 called 2.
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 WTSD percentage is: 0.200000
+OldBotv2(MOUSE)4 WTSD percentage is: 0.150000
+OldBotv2(MOUSE)4 W$SD percentage is: 0.333333
+
+
+NEWHAND:21
+
+['NEWHAND', '21', '3', '2d', 'Ad', '436', '164', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 2d Ad
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.250000
+OldBotv1(Ain'tABitch)4's PFR: 0.250000
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.157895
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 10.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.666667
+OldBotv2(MOUSE)4's AF flop/postflop: 0.250000
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (435)
+OldBotv2(MOUSE)4 posts big blind, stack size (162)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 bet 7.
+OldBotv1(Ain'tABitch)4 raised to 14.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:22
+
+['NEWHAND', '22', '3', '9c', '8d', '153', '447', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 9c 8d
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.666667
+OldBotv2(MOUSE)4's AF flop/postflop: 0.333333
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.238095
+OldBotv1(Ain'tABitch)4's PFR: 0.238095
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.157895
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 12.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (152)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (445)
+
+OldBotv2(MOUSE)4 called 2.
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 bet 6.
+OldBotv1(Ain'tABitch)4 raised to 26.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:23
+
+['NEWHAND', '23', '3', '3h', 'Kc', '457', '143', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 3h Kc
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.227273
+OldBotv1(Ain'tABitch)4's PFR: 0.227273
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.157895
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 14.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.666667
+OldBotv2(MOUSE)4's AF flop/postflop: 0.363636
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (456)
+OldBotv2(MOUSE)4 posts big blind, stack size (141)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:24
+
+['NEWHAND', '24', '3', 'Js', '7d', '141', '459', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Js 7d
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.565217
+OldBotv2(MOUSE)4's AF flop/postflop: 0.363636
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.260870
+OldBotv1(Ain'tABitch)4's PFR: 0.260870
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.157895
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 14.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (140)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (457)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:25
+
+['NEWHAND', '25', '3', 'As', 'Jc', '460', '140', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: As Jc
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.250000
+OldBotv1(Ain'tABitch)4's PFR: 0.250000
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.157895
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 14.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.583333
+OldBotv2(MOUSE)4's AF flop/postflop: 0.363636
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (459)
+OldBotv2(MOUSE)4 posts big blind, stack size (138)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:26
+
+['NEWHAND', '26', '3', '5h', '9h', '138', '462', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 5h 9h
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.600000
+OldBotv2(MOUSE)4's AF flop/postflop: 0.363636
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.280000
+OldBotv1(Ain'tABitch)4's PFR: 0.280000
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.157895
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 14.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (137)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (460)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:27
+
+['NEWHAND', '27', '3', '4h', '6d', '463', '137', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 4h 6d
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.269231
+OldBotv1(Ain'tABitch)4's PFR: 0.269231
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.157895
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 14.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.615385
+OldBotv2(MOUSE)4's AF flop/postflop: 0.363636
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (462)
+OldBotv2(MOUSE)4 posts big blind, stack size (135)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv2(MOUSE)4 bet 3.
+OldBotv1(Ain'tABitch)4 raised to 6.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:28
+
+['NEWHAND', '28', '3', '7c', '7d', '130', '470', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 7c 7d
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.615385
+OldBotv2(MOUSE)4's AF flop/postflop: 0.416667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.259259
+OldBotv1(Ain'tABitch)4's PFR: 0.259259
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.157895
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 16.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (129)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (468)
+
+OldBotv2(MOUSE)4 called 2.
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 bet 2.
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:29
+
+['NEWHAND', '29', '3', 'Td', 'As', '476', '124', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Td As
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.250000
+OldBotv1(Ain'tABitch)4's PFR: 0.250000
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.157895
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 18.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.615385
+OldBotv2(MOUSE)4's AF flop/postflop: 0.428571
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (475)
+OldBotv2(MOUSE)4 posts big blind, stack size (122)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv2(MOUSE)4 bet 4.
+OldBotv1(Ain'tABitch)4 raised to 8.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:30
+
+['NEWHAND', '30', '3', '6h', '6s', '116', '484', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 6h 6s
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.615385
+OldBotv2(MOUSE)4's AF flop/postflop: 0.466667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.241379
+OldBotv1(Ain'tABitch)4's PFR: 0.241379
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.157895
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 20.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (115)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (482)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:31
+
+['NEWHAND', '31', '3', '6d', '3s', '485', '115', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 6d 3s
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.233333
+OldBotv1(Ain'tABitch)4's PFR: 0.233333
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.157895
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 20.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.566667
+OldBotv2(MOUSE)4's AF flop/postflop: 0.466667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (484)
+OldBotv2(MOUSE)4 posts big blind, stack size (113)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:32
+
+['NEWHAND', '32', '3', 'Ad', 'Kd', '113', '487', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Ad Kd
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.580645
+OldBotv2(MOUSE)4's AF flop/postflop: 0.466667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.258065
+OldBotv1(Ain'tABitch)4's PFR: 0.258065
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.157895
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 20.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (112)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (485)
+
+OldBotv2(MOUSE)4 called 2.
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 WTSD percentage is: 0.156250
+OldBotv2(MOUSE)4 WTSD percentage is: 0.125000
+OldBotv1(Ain'tABitch)4 W$SD percentage is: 0.800000
+
+
+NEWHAND:33
+
+['NEWHAND', '33', '3', 'Kd', 'Qd', '491', '109', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Kd Qd
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.250000
+OldBotv1(Ain'tABitch)4's PFR: 0.250000
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.157895
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 21.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.580645
+OldBotv2(MOUSE)4's AF flop/postflop: 0.411765
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (490)
+OldBotv2(MOUSE)4 posts big blind, stack size (107)
+
+OldBotv1(Ain'tABitch)4 folds.
+
+
+NEWHAND:34
+
+['NEWHAND', '34', '3', '2c', 'Qs', '110', '490', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 2c Qs
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.580645
+OldBotv2(MOUSE)4's AF flop/postflop: 0.411765
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.242424
+OldBotv1(Ain'tABitch)4's PFR: 0.242424
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.121212
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 21.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (109)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (488)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:35
+
+['NEWHAND', '35', '3', '5c', '2d', '491', '109', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 5c 2d
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.235294
+OldBotv1(Ain'tABitch)4's PFR: 0.235294
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.121212
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 21.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.558824
+OldBotv2(MOUSE)4's AF flop/postflop: 0.411765
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (490)
+OldBotv2(MOUSE)4 posts big blind, stack size (107)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:36
+
+['NEWHAND', '36', '3', '9s', '7c', '107', '493', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 9s 7c
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.571429
+OldBotv2(MOUSE)4's AF flop/postflop: 0.411765
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.257143
+OldBotv1(Ain'tABitch)4's PFR: 0.257143
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.121212
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 21.000000
+OldBotv1(Ain'tABitch)4's Player Type: BOMB
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (106)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (491)
+
+OldBotv2(MOUSE)4 called 2.
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv2(MOUSE)4 WTSD percentage is: 0.138889
+OldBotv1(Ain'tABitch)4 WTSD percentage is: 0.166667
+OldBotv1(Ain'tABitch)4 W$SD percentage is: 0.833333
+
+
+NEWHAND:37
+
+['NEWHAND', '37', '3', 'Jh', '6h', '497', '103', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Jh 6h
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.250000
+OldBotv1(Ain'tABitch)4's PFR: 0.250000
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.121212
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 22.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.571429
+OldBotv2(MOUSE)4's AF flop/postflop: 0.368421
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (496)
+OldBotv2(MOUSE)4 posts big blind, stack size (101)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv2(MOUSE)4 bet 2.
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:38
+
+['NEWHAND', '38', '3', '9d', '5s', '97', '503', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 9d 5s
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.571429
+OldBotv2(MOUSE)4's AF flop/postflop: 0.400000
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.243243
+OldBotv1(Ain'tABitch)4's PFR: 0.243243
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.121212
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 24.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (96)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (501)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:39
+
+['NEWHAND', '39', '3', 'Qs', '9h', '504', '96', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Qs 9h
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.236842
+OldBotv1(Ain'tABitch)4's PFR: 0.236842
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.121212
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 24.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.552632
+OldBotv2(MOUSE)4's AF flop/postflop: 0.400000
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (503)
+OldBotv2(MOUSE)4 posts big blind, stack size (94)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv2(MOUSE)4 bet 4.
+OldBotv1(Ain'tABitch)4 raised to 8.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:40
+
+['NEWHAND', '40', '3', '4c', '9h', '88', '512', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 4c 9h
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.552632
+OldBotv2(MOUSE)4's AF flop/postflop: 0.428571
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.230769
+OldBotv1(Ain'tABitch)4's PFR: 0.230769
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.121212
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 26.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (87)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (510)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:41
+
+['NEWHAND', '41', '3', '2s', '6c', '513', '87', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 2s 6c
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.225000
+OldBotv1(Ain'tABitch)4's PFR: 0.225000
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.121212
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 26.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.550000
+OldBotv2(MOUSE)4's AF flop/postflop: 0.428571
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (512)
+OldBotv2(MOUSE)4 posts big blind, stack size (85)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv2(MOUSE)4 bet 6.
+OldBotv1(Ain'tABitch)4 raised to 12.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:42
+
+['NEWHAND', '42', '3', 'Jc', 'Ks', '77', '523', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Jc Ks
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.550000
+OldBotv2(MOUSE)4's AF flop/postflop: 0.454545
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.219512
+OldBotv1(Ain'tABitch)4's PFR: 0.219512
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.121212
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 28.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (76)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (521)
+
+OldBotv2(MOUSE)4 called 2.
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 bet 5.
+OldBotv1(Ain'tABitch)4 raised to 10.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:43
+
+['NEWHAND', '43', '3', '4h', '2s', '532', '68', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 4h 2s
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.214286
+OldBotv1(Ain'tABitch)4's PFR: 0.214286
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.121212
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 30.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.550000
+OldBotv2(MOUSE)4's AF flop/postflop: 0.458333
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (531)
+OldBotv2(MOUSE)4 posts big blind, stack size (66)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv1(Ain'tABitch)4 WTSD percentage is: 0.162791
+OldBotv2(MOUSE)4 WTSD percentage is: 0.139535
+OldBotv1(Ain'tABitch)4 W$SD percentage is: 0.857143
+
+
+NEWHAND:44
+
+['NEWHAND', '44', '3', '9s', 'Kh', '64', '536', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 9s Kh
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.550000
+OldBotv2(MOUSE)4's AF flop/postflop: 0.440000
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.209302
+OldBotv1(Ain'tABitch)4's PFR: 0.209302
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.121212
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 31.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (63)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (534)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:45
+
+['NEWHAND', '45', '3', 'As', 'Kd', '537', '63', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: As Kd
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.204545
+OldBotv1(Ain'tABitch)4's PFR: 0.204545
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.121212
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 31.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.522727
+OldBotv2(MOUSE)4's AF flop/postflop: 0.440000
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (536)
+OldBotv2(MOUSE)4 posts big blind, stack size (61)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:46
+
+['NEWHAND', '46', '3', '4h', '9c', '61', '539', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 4h 9c
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.533333
+OldBotv2(MOUSE)4's AF flop/postflop: 0.440000
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.222222
+OldBotv1(Ain'tABitch)4's PFR: 0.222222
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.121212
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 31.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (60)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (537)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:47
+
+['NEWHAND', '47', '3', 'Ks', '8s', '540', '60', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Ks 8s
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.217391
+OldBotv1(Ain'tABitch)4's PFR: 0.217391
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.121212
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 31.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.543478
+OldBotv2(MOUSE)4's AF flop/postflop: 0.440000
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (539)
+OldBotv2(MOUSE)4 posts big blind, stack size (58)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv2(MOUSE)4 bet 5.
+OldBotv1(Ain'tABitch)4 raised to 10.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:48
+
+['NEWHAND', '48', '3', 'Jc', '5d', '51', '549', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Jc 5d
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.543478
+OldBotv2(MOUSE)4's AF flop/postflop: 0.461538
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.212766
+OldBotv1(Ain'tABitch)4's PFR: 0.212766
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.121212
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 33.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (50)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (547)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:49
+
+['NEWHAND', '49', '3', '6s', 'Ad', '550', '50', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 6s Ad
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.208333
+OldBotv1(Ain'tABitch)4's PFR: 0.208333
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.121212
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 33.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.541667
+OldBotv2(MOUSE)4's AF flop/postflop: 0.461538
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (549)
+OldBotv2(MOUSE)4 posts big blind, stack size (48)
+
+OldBotv1(Ain'tABitch)4 folds.
+
+
+NEWHAND:50
+
+['NEWHAND', '50', '3', '5d', 'Kc', '51', '549', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 5d Kc
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.541667
+OldBotv2(MOUSE)4's AF flop/postflop: 0.461538
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.204082
+OldBotv1(Ain'tABitch)4's PFR: 0.204082
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.102041
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 33.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (50)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (547)
+
+OldBotv2(MOUSE)4 called 2.
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 WTSD percentage is: 0.160000
+OldBotv2(MOUSE)4 WTSD percentage is: 0.140000
+OldBotv1(Ain'tABitch)4 W$SD percentage is: 0.875000
+
+
+NEWHAND:51
+
+['NEWHAND', '51', '3', '9s', '5d', '553', '47', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 9s 5d
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.200000
+OldBotv1(Ain'tABitch)4's PFR: 0.200000
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.102041
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 34.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.541667
+OldBotv2(MOUSE)4's AF flop/postflop: 0.428571
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (552)
+OldBotv2(MOUSE)4 posts big blind, stack size (45)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:52
+
+['NEWHAND', '52', '3', 'Ac', 'Th', '45', '555', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Ac Th
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.529412
+OldBotv2(MOUSE)4's AF flop/postflop: 0.428571
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.215686
+OldBotv1(Ain'tABitch)4's PFR: 0.215686
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.102041
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 34.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (44)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (553)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:53
+
+['NEWHAND', '53', '3', 'Jd', '6h', '556', '44', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Jd 6h
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.211538
+OldBotv1(Ain'tABitch)4's PFR: 0.211538
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.102041
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 34.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.538462
+OldBotv2(MOUSE)4's AF flop/postflop: 0.428571
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (555)
+OldBotv2(MOUSE)4 posts big blind, stack size (42)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:54
+
+['NEWHAND', '54', '3', '6c', '9d', '42', '558', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 6c 9d
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.547170
+OldBotv2(MOUSE)4's AF flop/postflop: 0.428571
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.226415
+OldBotv1(Ain'tABitch)4's PFR: 0.226415
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.102041
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 34.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (41)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (556)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:55
+
+['NEWHAND', '55', '3', '8h', '7c', '559', '41', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 8h 7c
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.222222
+OldBotv1(Ain'tABitch)4's PFR: 0.222222
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.102041
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 34.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.555556
+OldBotv2(MOUSE)4's AF flop/postflop: 0.428571
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (558)
+OldBotv2(MOUSE)4 posts big blind, stack size (39)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:56
+
+['NEWHAND', '56', '3', '3c', '9d', '39', '561', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 3c 9d
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.563636
+OldBotv2(MOUSE)4's AF flop/postflop: 0.428571
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.236364
+OldBotv1(Ain'tABitch)4's PFR: 0.236364
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.102041
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 34.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (38)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (559)
+
+OldBotv2(MOUSE)4 called 2.
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 bet 2.
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:57
+
+['NEWHAND', '57', '3', '9d', '8s', '567', '33', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 9d 8s
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.232143
+OldBotv1(Ain'tABitch)4's PFR: 0.232143
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.102041
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 36.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.563636
+OldBotv2(MOUSE)4's AF flop/postflop: 0.433333
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (566)
+OldBotv2(MOUSE)4 posts big blind, stack size (31)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 WTSD percentage is: 0.140351
+OldBotv1(Ain'tABitch)4 WTSD percentage is: 0.157895
+OldBotv1(Ain'tABitch)4 W$SD percentage is: 0.888889
+
+
+NEWHAND:58
+
+['NEWHAND', '58', '3', 'Qh', '8s', '29', '571', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Qh 8s
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.563636
+OldBotv2(MOUSE)4's AF flop/postflop: 0.419355
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.228070
+OldBotv1(Ain'tABitch)4's PFR: 0.228070
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.102041
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 37.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (28)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (569)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:59
+
+['NEWHAND', '59', '3', '2c', '6s', '572', '28', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 2c 6s
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.224138
+OldBotv1(Ain'tABitch)4's PFR: 0.224138
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.102041
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 37.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.551724
+OldBotv2(MOUSE)4's AF flop/postflop: 0.419355
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (571)
+OldBotv2(MOUSE)4 posts big blind, stack size (26)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 bet 5.
+OldBotv1(Ain'tABitch)4 raised to 10.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:60
+
+['NEWHAND', '60', '3', '3h', '8h', '19', '581', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 3h 8h
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.551724
+OldBotv2(MOUSE)4's AF flop/postflop: 0.437500
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.220339
+OldBotv1(Ain'tABitch)4's PFR: 0.220339
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.102041
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 39.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (18)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (579)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:61
+
+['NEWHAND', '61', '3', '4d', 'Ts', '582', '18', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 4d Ts
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.216667
+OldBotv1(Ain'tABitch)4's PFR: 0.216667
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.102041
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 39.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.550000
+OldBotv2(MOUSE)4's AF flop/postflop: 0.437500
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (581)
+OldBotv2(MOUSE)4 posts big blind, stack size (16)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:62
+
+['NEWHAND', '62', '3', 'Qh', '5h', '16', '584', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Qh 5h
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.557377
+OldBotv2(MOUSE)4's AF flop/postflop: 0.437500
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.229508
+OldBotv1(Ain'tABitch)4's PFR: 0.229508
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.102041
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 39.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (15)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (582)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:63
+
+['NEWHAND', '63', '3', 'Td', '6h', '585', '15', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Td 6h
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.225806
+OldBotv1(Ain'tABitch)4's PFR: 0.225806
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.102041
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 39.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.564516
+OldBotv2(MOUSE)4's AF flop/postflop: 0.437500
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (584)
+OldBotv2(MOUSE)4 posts big blind, stack size (13)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 WTSD percentage is: 0.142857
+OldBotv1(Ain'tABitch)4 WTSD percentage is: 0.158730
+OldBotv2(MOUSE)4 W$SD percentage is: 0.222222
+
+
+NEWHAND:64
+
+['NEWHAND', '64', '3', '4s', '7s', '19', '581', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 4s 7s
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.564516
+OldBotv2(MOUSE)4's AF flop/postflop: 0.424242
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.222222
+OldBotv1(Ain'tABitch)4's PFR: 0.222222
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.102041
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 40.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (18)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (579)
+
+OldBotv2(MOUSE)4 called 2.
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 checks.
+OldBotv2(MOUSE)4 checks.
+OldBotv1(Ain'tABitch)4 WTSD percentage is: 0.171875
+OldBotv2(MOUSE)4 WTSD percentage is: 0.156250
+OldBotv1(Ain'tABitch)4 W$SD percentage is: 0.818182
+
+
+NEWHAND:65
+
+['NEWHAND', '65', '3', 'Jc', 'Js', '585', '15', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Jc Js
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.218750
+OldBotv1(Ain'tABitch)4's PFR: 0.218750
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.102041
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 41.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.564516
+OldBotv2(MOUSE)4's AF flop/postflop: 0.400000
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (584)
+OldBotv2(MOUSE)4 posts big blind, stack size (13)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv2(MOUSE)4 bet 4.
+OldBotv1(Ain'tABitch)4 raised to 8.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:66
+
+['NEWHAND', '66', '3', 'Ac', '9c', '7', '593', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Ac 9c
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.564516
+OldBotv2(MOUSE)4's AF flop/postflop: 0.416667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.215385
+OldBotv1(Ain'tABitch)4's PFR: 0.215385
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.102041
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 43.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (6)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (591)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:67
+
+['NEWHAND', '67', '3', 'Kc', '8h', '594', '6', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Kc 8h
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.212121
+OldBotv1(Ain'tABitch)4's PFR: 0.212121
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.102041
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 43.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.545455
+OldBotv2(MOUSE)4's AF flop/postflop: 0.416667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (593)
+OldBotv2(MOUSE)4 posts big blind, stack size (4)
+
+OldBotv1(Ain'tABitch)4 folds.
+
+
+NEWHAND:68
+
+['NEWHAND', '68', '3', 'Ah', '8s', '7', '593', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Ah 8s
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.545455
+OldBotv2(MOUSE)4's AF flop/postflop: 0.416667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.208955
+OldBotv1(Ain'tABitch)4's PFR: 0.208955
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.089552
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 43.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (6)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (591)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:69
+
+['NEWHAND', '69', '3', '8d', '9h', '594', '6', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 8d 9h
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.205882
+OldBotv1(Ain'tABitch)4's PFR: 0.205882
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.089552
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 43.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.544118
+OldBotv2(MOUSE)4's AF flop/postflop: 0.416667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (593)
+OldBotv2(MOUSE)4 posts big blind, stack size (4)
+
+OldBotv1(Ain'tABitch)4 folds.
+
+
+NEWHAND:70
+
+['NEWHAND', '70', '3', '8s', 'Ad', '7', '593', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: 8s Ad
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.544118
+OldBotv2(MOUSE)4's AF flop/postflop: 0.416667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.202899
+OldBotv1(Ain'tABitch)4's PFR: 0.202899
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.101449
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 43.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (6)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (591)
+
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:71
+
+['NEWHAND', '71', '3', 'Ah', '3s', '594', '6', '0', "OldBotv1(Ain'tABitch)4", 'OldBotv2(MOUSE)4', 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Ah 3s
+Time banks:  14.930409
+OldBotv1(Ain'tABitch)4's VPIP: 0.200000
+OldBotv1(Ain'tABitch)4's PFR: 0.200000
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.101449
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 43.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:1
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.542857
+OldBotv2(MOUSE)4's AF flop/postflop: 0.416667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv1(Ain'tABitch)4 posts small blind/and is dealer, stack size (593)
+OldBotv2(MOUSE)4 posts big blind, stack size (4)
+
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 folds.
+
+
+NEWHAND:72
+
+['NEWHAND', '72', '3', 'Jc', '7d', '4', '596', '0', 'OldBotv2(MOUSE)4', "OldBotv1(Ain'tABitch)4", 'BAMF4', '2', 'true', 'true', 'false', '14.930409']
+Active Players:2
+
+Our hand: Jc 7d
+Time banks:  14.930409
+OldBotv2(MOUSE)4's VPIP: 0.000000
+OldBotv2(MOUSE)4's PFR: 0.000000
+OldBotv2(MOUSE)4's estimated fold percentage is 0.549296
+OldBotv2(MOUSE)4's AF flop/postflop: 0.416667
+OldBotv2(MOUSE)4's Player Type: NIT
+OldBotv2(MOUSE)4's Seat:1
+OldBotv1(Ain'tABitch)4's VPIP: 0.211268
+OldBotv1(Ain'tABitch)4's PFR: 0.211268
+OldBotv1(Ain'tABitch)4's estimated fold percentage is 0.101449
+OldBotv1(Ain'tABitch)4's AF flop/postflop: 43.000000
+OldBotv1(Ain'tABitch)4's Player Type: SHARK
+OldBotv1(Ain'tABitch)4's Seat:2
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 1.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4 is eliminated
+
+OldBotv2(MOUSE)4 posts small blind/and is dealer, stack size (3)
+OldBotv1(Ain'tABitch)4 posts big blind, stack size (594)
+
+OldBotv2(MOUSE)4 called 2.
+OldBotv1(Ain'tABitch)4 raised to 4.
+OldBotv2(MOUSE)4 called 4.
+OldBotv2(MOUSE)4 WTSD percentage is: 0.152778
+OldBotv1(Ain'tABitch)4 WTSD percentage is: 0.166667
+OldBotv1(Ain'tABitch)4 W$SD percentage is: 0.833333
+bytes left =  1985
+put BAMF4 0.0
+put OldBotv1(Ain'tABitch)4 0.833333333333
+put OldBotv2(MOUSE)4 0.222222222222
+Gameover, engine disconnected.

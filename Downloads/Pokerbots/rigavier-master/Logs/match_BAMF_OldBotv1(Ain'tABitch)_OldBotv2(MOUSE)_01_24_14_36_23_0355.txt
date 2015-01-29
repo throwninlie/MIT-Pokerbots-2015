@@ -1,0 +1,977 @@
+6.176 MIT Pokerbots - OldBotv2(MOUSE)5 vs BAMF5 vs OldBotv1(Ain'tABitch)5 (stack=200, bb=2)
+Hand #1, OldBotv2(MOUSE)5 (200), BAMF5 (200), OldBotv1(Ain'tABitch)5 (200)
+BAMF5 posts the blind of 1
+OldBotv1(Ain'tABitch)5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [Ad 3c]
+Dealt to BAMF5 [4s Td]
+Dealt to OldBotv1(Ain'tABitch)5 [9d 6d]
+OldBotv2(MOUSE)5 calls 2
+BAMF5 calls 2
+OldBotv1(Ain'tABitch)5 raises to 4
+OldBotv2(MOUSE)5 calls 4
+BAMF5 folds
+*** FLOP *** (10) [9c Jc 8c]
+OldBotv1(Ain'tABitch)5 checks
+OldBotv2(MOUSE)5 checks
+*** TURN *** (10) [9c Jc 8c] [7h]
+OldBotv1(Ain'tABitch)5 checks
+OldBotv2(MOUSE)5 checks
+*** RIVER *** (10) [9c Jc 8c 7h] [Js]
+OldBotv1(Ain'tABitch)5 checks
+OldBotv2(MOUSE)5 checks
+OldBotv2(MOUSE)5 shows [Ad 3c]
+OldBotv1(Ain'tABitch)5 shows [9d 6d]
+OldBotv1(Ain'tABitch)5 wins the pot (10)
+
+Hand #2, OldBotv1(Ain'tABitch)5 (206), OldBotv2(MOUSE)5 (196), BAMF5 (198)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [Qc 2c]
+Dealt to OldBotv2(MOUSE)5 [3c Kc]
+Dealt to BAMF5 [6s 8c]
+OldBotv1(Ain'tABitch)5 raises to 4
+OldBotv2(MOUSE)5 calls 4
+BAMF5 folds
+*** FLOP *** (10) [4d Ad 4h]
+OldBotv2(MOUSE)5 checks
+OldBotv1(Ain'tABitch)5 checks
+*** TURN *** (10) [4d Ad 4h] [Qd]
+OldBotv2(MOUSE)5 checks
+OldBotv1(Ain'tABitch)5 checks
+*** RIVER *** (10) [4d Ad 4h Qd] [4s]
+OldBotv2(MOUSE)5 checks
+OldBotv1(Ain'tABitch)5 checks
+OldBotv1(Ain'tABitch)5 shows [Qc 2c]
+OldBotv2(MOUSE)5 shows [3c Kc]
+OldBotv1(Ain'tABitch)5 wins the pot (10)
+
+Hand #3, BAMF5 (196), OldBotv1(Ain'tABitch)5 (212), OldBotv2(MOUSE)5 (192)
+OldBotv1(Ain'tABitch)5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to BAMF5 [Ah 3h]
+Dealt to OldBotv1(Ain'tABitch)5 [8d 2h]
+Dealt to OldBotv2(MOUSE)5 [7c Th]
+BAMF5 calls 2
+OldBotv1(Ain'tABitch)5 raises to 4
+OldBotv2(MOUSE)5 calls 4
+BAMF5 calls 4
+*** FLOP *** (12) [Ts 3s 6s]
+OldBotv1(Ain'tABitch)5 checks
+OldBotv2(MOUSE)5 bets 5
+BAMF5 calls 5
+OldBotv1(Ain'tABitch)5 folds
+*** TURN *** (22) [Ts 3s 6s] [Ad]
+OldBotv2(MOUSE)5 bets 22
+BAMF5 raises to 63
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (107)
+
+Hand #4, OldBotv2(MOUSE)5 (161), BAMF5 (231), OldBotv1(Ain'tABitch)5 (208)
+BAMF5 posts the blind of 1
+OldBotv1(Ain'tABitch)5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [Kd Kc]
+Dealt to BAMF5 [4s Ah]
+Dealt to OldBotv1(Ain'tABitch)5 [As 7s]
+OldBotv2(MOUSE)5 folds
+BAMF5 calls 2
+OldBotv1(Ain'tABitch)5 raises to 4
+BAMF5 calls 4
+*** FLOP *** (8) [5s 5h Jh]
+BAMF5 checks
+OldBotv1(Ain'tABitch)5 checks
+*** TURN *** (8) [5s 5h Jh] [8d]
+BAMF5 checks
+OldBotv1(Ain'tABitch)5 checks
+*** RIVER *** (8) [5s 5h Jh 8d] [7c]
+BAMF5 checks
+OldBotv1(Ain'tABitch)5 checks
+BAMF5 shows [4s Ah]
+OldBotv1(Ain'tABitch)5 shows [As 7s]
+OldBotv1(Ain'tABitch)5 wins the pot (8)
+
+Hand #5, OldBotv1(Ain'tABitch)5 (212), OldBotv2(MOUSE)5 (161), BAMF5 (227)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [2h 8s]
+Dealt to OldBotv2(MOUSE)5 [Th Kd]
+Dealt to BAMF5 [8c 5c]
+OldBotv1(Ain'tABitch)5 folds
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (3)
+
+Hand #6, BAMF5 (228), OldBotv1(Ain'tABitch)5 (212), OldBotv2(MOUSE)5 (160)
+OldBotv1(Ain'tABitch)5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to BAMF5 [3s Kd]
+Dealt to OldBotv1(Ain'tABitch)5 [Jc 4c]
+Dealt to OldBotv2(MOUSE)5 [9s 5d]
+BAMF5 calls 2
+OldBotv1(Ain'tABitch)5 raises to 4
+OldBotv2(MOUSE)5 folds
+BAMF5 calls 4
+*** FLOP *** (10) [Th Qs 8c]
+OldBotv1(Ain'tABitch)5 checks
+BAMF5 checks
+*** TURN *** (10) [Th Qs 8c] [Qc]
+OldBotv1(Ain'tABitch)5 checks
+BAMF5 bets 10
+OldBotv1(Ain'tABitch)5 raises to 20
+BAMF5 raises to 31
+OldBotv1(Ain'tABitch)5 raises to 103
+BAMF5 calls 103
+*** RIVER *** (216) [Th Qs 8c Qc] [7h]
+OldBotv1(Ain'tABitch)5 checks
+BAMF5 bets 26
+OldBotv1(Ain'tABitch)5 raises to 105
+BAMF5 calls 105
+BAMF5 shows [3s Kd]
+OldBotv1(Ain'tABitch)5 shows [Jc 4c]
+BAMF5 wins the pot (426)
+
+Hand #7, OldBotv2(MOUSE)5 (158), BAMF5 (442), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [2c Th]
+Dealt to BAMF5 [Ah Qc]
+Dealt to OldBotv1(Ain'tABitch)5 [Td 8d]
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (3)
+
+Hand #8, BAMF5 (443), OldBotv2(MOUSE)5 (157), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [3h 5h]
+Dealt to OldBotv2(MOUSE)5 [4d Ts]
+Dealt to BAMF5 [Kd 2d]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [6d Tc Td]
+OldBotv2(MOUSE)5 bets 4
+BAMF5 raises to 14
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (22)
+
+Hand #9, OldBotv2(MOUSE)5 (151), BAMF5 (449), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to BAMF5 [7s 3c]
+Dealt to OldBotv1(Ain'tABitch)5 [Ks Jd]
+Dealt to OldBotv2(MOUSE)5 [Td Qc]
+OldBotv2(MOUSE)5 calls 2
+BAMF5 checks
+*** FLOP *** (4) [Qh 6c 5c]
+BAMF5 checks
+OldBotv2(MOUSE)5 bets 2
+BAMF5 calls 2
+*** TURN *** (8) [Qh 6c 5c] [2c]
+BAMF5 checks
+OldBotv2(MOUSE)5 bets 3
+BAMF5 calls 3
+*** RIVER *** (14) [Qh 6c 5c 2c] [As]
+BAMF5 bets 8
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (22)
+
+Hand #10, BAMF5 (456), OldBotv2(MOUSE)5 (144), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [7h Jh]
+Dealt to BAMF5 [8d 9s]
+Dealt to OldBotv1(Ain'tABitch)5 [9d Kd]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [5d 4h 5s]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+*** TURN *** (4) [5d 4h 5s] [Qh]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+*** RIVER *** (4) [5d 4h 5s Qh] [2h]
+OldBotv2(MOUSE)5 bets 3
+BAMF5 folds
+OldBotv2(MOUSE)5 wins the pot (7)
+
+Hand #11, OldBotv2(MOUSE)5 (146), BAMF5 (454), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [Ad Qs]
+Dealt to OldBotv2(MOUSE)5 [3s 8c]
+Dealt to BAMF5 [8h 7s]
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (3)
+
+Hand #12, BAMF5 (455), OldBotv2(MOUSE)5 (145), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to BAMF5 [5h 8h]
+Dealt to OldBotv1(Ain'tABitch)5 [2d 7h]
+Dealt to OldBotv2(MOUSE)5 [5c Ah]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [Jd As Ac]
+OldBotv2(MOUSE)5 bets 2
+BAMF5 calls 2
+*** TURN *** (8) [Jd As Ac] [6d]
+OldBotv2(MOUSE)5 bets 7
+BAMF5 folds
+OldBotv2(MOUSE)5 wins the pot (15)
+
+Hand #13, OldBotv2(MOUSE)5 (149), BAMF5 (451), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [8h 4d]
+Dealt to BAMF5 [Ah 9h]
+Dealt to OldBotv1(Ain'tABitch)5 [9d Tc]
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (3)
+
+Hand #14, BAMF5 (452), OldBotv2(MOUSE)5 (148), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [2s 5h]
+Dealt to OldBotv2(MOUSE)5 [8c 5c]
+Dealt to BAMF5 [6h 6c]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [Kh Js Td]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+*** TURN *** (4) [Kh Js Td] [2c]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+*** RIVER *** (4) [Kh Js Td 2c] [5s]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+OldBotv2(MOUSE)5 shows [8c 5c]
+BAMF5 shows [6h 6c]
+BAMF5 wins the pot (4)
+
+Hand #15, OldBotv2(MOUSE)5 (146), BAMF5 (454), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to BAMF5 [7s 9c]
+Dealt to OldBotv1(Ain'tABitch)5 [8d Kh]
+Dealt to OldBotv2(MOUSE)5 [4d 8h]
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (3)
+
+Hand #16, BAMF5 (455), OldBotv2(MOUSE)5 (145), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [9d 9c]
+Dealt to BAMF5 [7h Ks]
+Dealt to OldBotv1(Ain'tABitch)5 [5s 4s]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [As 9h Jd]
+OldBotv2(MOUSE)5 bets 4
+BAMF5 calls 4
+*** TURN *** (12) [As 9h Jd] [7s]
+OldBotv2(MOUSE)5 bets 11
+BAMF5 folds
+OldBotv2(MOUSE)5 wins the pot (23)
+
+Hand #17, OldBotv2(MOUSE)5 (151), BAMF5 (449), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [As 7c]
+Dealt to OldBotv2(MOUSE)5 [Qd Qc]
+Dealt to BAMF5 [7s 2s]
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (3)
+
+Hand #18, BAMF5 (450), OldBotv2(MOUSE)5 (150), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to BAMF5 [Ah Jc]
+Dealt to OldBotv1(Ain'tABitch)5 [Kd 2d]
+Dealt to OldBotv2(MOUSE)5 [Td 4c]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [Ac 9s 5d]
+OldBotv2(MOUSE)5 checks
+BAMF5 bets 2
+OldBotv2(MOUSE)5 calls 2
+*** TURN *** (8) [Ac 9s 5d] [7s]
+OldBotv2(MOUSE)5 checks
+BAMF5 bets 3
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (11)
+
+Hand #19, OldBotv2(MOUSE)5 (146), BAMF5 (454), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [Jh 4c]
+Dealt to BAMF5 [Kh Th]
+Dealt to OldBotv1(Ain'tABitch)5 [Ah Ac]
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (3)
+
+Hand #20, BAMF5 (455), OldBotv2(MOUSE)5 (145), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [Jh Jc]
+Dealt to OldBotv2(MOUSE)5 [3c 4d]
+Dealt to BAMF5 [5c 8d]
+BAMF5 folds
+OldBotv2(MOUSE)5 wins the pot (3)
+
+Hand #21, OldBotv2(MOUSE)5 (146), BAMF5 (454), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to BAMF5 [Ac Th]
+Dealt to OldBotv1(Ain'tABitch)5 [4d 5s]
+Dealt to OldBotv2(MOUSE)5 [Ks 5c]
+OldBotv2(MOUSE)5 calls 2
+BAMF5 checks
+*** FLOP *** (4) [5d 2s 8c]
+BAMF5 checks
+OldBotv2(MOUSE)5 bets 4
+BAMF5 calls 4
+*** TURN *** (12) [5d 2s 8c] [Qs]
+BAMF5 checks
+OldBotv2(MOUSE)5 bets 2
+BAMF5 raises to 9
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (23)
+
+Hand #22, BAMF5 (462), OldBotv2(MOUSE)5 (138), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [8s 6h]
+Dealt to BAMF5 [Tc Qd]
+Dealt to OldBotv1(Ain'tABitch)5 [Ah Qc]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [7c 3h 2d]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+*** TURN *** (4) [7c 3h 2d] [9h]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+*** RIVER *** (4) [7c 3h 2d 9h] [9d]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+OldBotv2(MOUSE)5 shows [8s 6h]
+BAMF5 shows [Tc Qd]
+BAMF5 wins the pot (4)
+
+Hand #23, OldBotv2(MOUSE)5 (136), BAMF5 (464), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [Js 7c]
+Dealt to OldBotv2(MOUSE)5 [4d Jd]
+Dealt to BAMF5 [8h 3d]
+OldBotv2(MOUSE)5 calls 2
+BAMF5 checks
+*** FLOP *** (4) [4s 4h 6c]
+BAMF5 checks
+OldBotv2(MOUSE)5 bets 2
+BAMF5 folds
+OldBotv2(MOUSE)5 wins the pot (6)
+
+Hand #24, BAMF5 (462), OldBotv2(MOUSE)5 (138), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to BAMF5 [Jc 2s]
+Dealt to OldBotv1(Ain'tABitch)5 [Qc 5h]
+Dealt to OldBotv2(MOUSE)5 [Th Ah]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [7d 5s Jd]
+OldBotv2(MOUSE)5 checks
+BAMF5 bets 2
+OldBotv2(MOUSE)5 calls 2
+*** TURN *** (8) [7d 5s Jd] [3c]
+OldBotv2(MOUSE)5 checks
+BAMF5 bets 4
+OldBotv2(MOUSE)5 calls 4
+*** RIVER *** (16) [7d 5s Jd 3c] [8c]
+OldBotv2(MOUSE)5 checks
+BAMF5 bets 12
+OldBotv2(MOUSE)5 calls 12
+BAMF5 shows [Jc 2s]
+OldBotv2(MOUSE)5 shows [Th Ah]
+BAMF5 wins the pot (40)
+
+Hand #25, OldBotv2(MOUSE)5 (118), BAMF5 (482), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [Ad 7d]
+Dealt to BAMF5 [Kc Kh]
+Dealt to OldBotv1(Ain'tABitch)5 [5d Ks]
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (3)
+
+Hand #26, BAMF5 (483), OldBotv2(MOUSE)5 (117), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [8d 6d]
+Dealt to OldBotv2(MOUSE)5 [Th 3s]
+Dealt to BAMF5 [9d Kd]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [5d Ad Ks]
+OldBotv2(MOUSE)5 checks
+BAMF5 bets 3
+OldBotv2(MOUSE)5 calls 3
+*** TURN *** (10) [5d Ad Ks] [Ac]
+OldBotv2(MOUSE)5 checks
+BAMF5 bets 3
+OldBotv2(MOUSE)5 calls 3
+*** RIVER *** (16) [5d Ad Ks Ac] [Qh]
+OldBotv2(MOUSE)5 checks
+BAMF5 bets 14
+OldBotv2(MOUSE)5 calls 14
+OldBotv2(MOUSE)5 shows [Th 3s]
+BAMF5 shows [9d Kd]
+BAMF5 wins the pot (44)
+
+Hand #27, OldBotv2(MOUSE)5 (95), BAMF5 (505), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to BAMF5 [As Ts]
+Dealt to OldBotv1(Ain'tABitch)5 [3c 9d]
+Dealt to OldBotv2(MOUSE)5 [5d Ah]
+OldBotv2(MOUSE)5 calls 2
+BAMF5 checks
+*** FLOP *** (4) [6s 2d 7h]
+BAMF5 checks
+OldBotv2(MOUSE)5 checks
+*** TURN *** (4) [6s 2d 7h] [Ad]
+BAMF5 bets 2
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (6)
+
+Hand #28, BAMF5 (507), OldBotv2(MOUSE)5 (93), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [6s Ad]
+Dealt to BAMF5 [Kc 9c]
+Dealt to OldBotv1(Ain'tABitch)5 [As 3h]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [3c Ac Jc]
+OldBotv2(MOUSE)5 bets 3
+BAMF5 raises to 8
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (15)
+
+Hand #29, OldBotv2(MOUSE)5 (88), BAMF5 (512), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [8s Ts]
+Dealt to OldBotv2(MOUSE)5 [Tc As]
+Dealt to BAMF5 [Qh 4h]
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (3)
+
+Hand #30, BAMF5 (513), OldBotv2(MOUSE)5 (87), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to BAMF5 [Qh 4c]
+Dealt to OldBotv1(Ain'tABitch)5 [7d 2s]
+Dealt to OldBotv2(MOUSE)5 [8d Kh]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [6d Ks Ah]
+OldBotv2(MOUSE)5 bets 3
+BAMF5 calls 3
+*** TURN *** (10) [6d Ks Ah] [Kd]
+OldBotv2(MOUSE)5 bets 4
+BAMF5 calls 4
+*** RIVER *** (18) [6d Ks Ah Kd] [Qc]
+OldBotv2(MOUSE)5 bets 4
+BAMF5 raises to 25
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (47)
+
+Hand #31, OldBotv2(MOUSE)5 (74), BAMF5 (526), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [Qc 7c]
+Dealt to BAMF5 [9d 7s]
+Dealt to OldBotv1(Ain'tABitch)5 [Ac 2h]
+OldBotv2(MOUSE)5 calls 2
+BAMF5 checks
+*** FLOP *** (4) [Kd Qh 5s]
+BAMF5 checks
+OldBotv2(MOUSE)5 bets 4
+BAMF5 folds
+OldBotv2(MOUSE)5 wins the pot (8)
+
+Hand #32, BAMF5 (524), OldBotv2(MOUSE)5 (76), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [5d Ac]
+Dealt to OldBotv2(MOUSE)5 [Qd Ks]
+Dealt to BAMF5 [9c Jh]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [Jd 8c 7h]
+OldBotv2(MOUSE)5 checks
+BAMF5 bets 2
+OldBotv2(MOUSE)5 calls 2
+*** TURN *** (8) [Jd 8c 7h] [3s]
+OldBotv2(MOUSE)5 checks
+BAMF5 bets 2
+OldBotv2(MOUSE)5 calls 2
+*** RIVER *** (12) [Jd 8c 7h 3s] [Kc]
+OldBotv2(MOUSE)5 bets 5
+BAMF5 raises to 16
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (33)
+
+Hand #33, OldBotv2(MOUSE)5 (65), BAMF5 (535), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to BAMF5 [Jh 2d]
+Dealt to OldBotv1(Ain'tABitch)5 [5c 4s]
+Dealt to OldBotv2(MOUSE)5 [6h Qc]
+OldBotv2(MOUSE)5 calls 2
+BAMF5 checks
+*** FLOP *** (4) [5h Jd 3h]
+BAMF5 bets 4
+OldBotv2(MOUSE)5 calls 4
+*** TURN *** (12) [5h Jd 3h] [Kc]
+BAMF5 bets 8
+OldBotv2(MOUSE)5 calls 8
+*** RIVER *** (28) [5h Jd 3h Kc] [Tc]
+BAMF5 bets 12
+OldBotv2(MOUSE)5 calls 12
+BAMF5 shows [Jh 2d]
+OldBotv2(MOUSE)5 shows [6h Qc]
+BAMF5 wins the pot (52)
+
+Hand #34, BAMF5 (561), OldBotv2(MOUSE)5 (39), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [Th 7d]
+Dealt to BAMF5 [8d 9d]
+Dealt to OldBotv1(Ain'tABitch)5 [3h 9s]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [2s Kh Td]
+OldBotv2(MOUSE)5 bets 2
+BAMF5 calls 2
+*** TURN *** (8) [2s Kh Td] [5c]
+OldBotv2(MOUSE)5 bets 2
+BAMF5 calls 2
+*** RIVER *** (12) [2s Kh Td 5c] [Jh]
+OldBotv2(MOUSE)5 bets 6
+BAMF5 folds
+OldBotv2(MOUSE)5 wins the pot (18)
+
+Hand #35, OldBotv2(MOUSE)5 (45), BAMF5 (555), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [Ac 8s]
+Dealt to OldBotv2(MOUSE)5 [Qd Ah]
+Dealt to BAMF5 [8h 2c]
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (3)
+
+Hand #36, BAMF5 (556), OldBotv2(MOUSE)5 (44), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to BAMF5 [2s 5c]
+Dealt to OldBotv1(Ain'tABitch)5 [4h 9d]
+Dealt to OldBotv2(MOUSE)5 [Ad 5h]
+BAMF5 folds
+OldBotv2(MOUSE)5 wins the pot (3)
+
+Hand #37, OldBotv2(MOUSE)5 (45), BAMF5 (555), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [Th Qs]
+Dealt to BAMF5 [2d Ts]
+Dealt to OldBotv1(Ain'tABitch)5 [Jh 6h]
+OldBotv2(MOUSE)5 calls 2
+BAMF5 checks
+*** FLOP *** (4) [Qc 2c Td]
+BAMF5 bets 2
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (6)
+
+Hand #38, BAMF5 (557), OldBotv2(MOUSE)5 (43), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [4c Ks]
+Dealt to OldBotv2(MOUSE)5 [4s 3d]
+Dealt to BAMF5 [Tc 5h]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [Qh 2s Js]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+*** TURN *** (4) [Qh 2s Js] [Kc]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+*** RIVER *** (4) [Qh 2s Js Kc] [7d]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+OldBotv2(MOUSE)5 shows [4s 3d]
+BAMF5 shows [Tc 5h]
+BAMF5 wins the pot (4)
+
+Hand #39, OldBotv2(MOUSE)5 (41), BAMF5 (559), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to BAMF5 [2h 5s]
+Dealt to OldBotv1(Ain'tABitch)5 [3c 2d]
+Dealt to OldBotv2(MOUSE)5 [3h 6s]
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (3)
+
+Hand #40, BAMF5 (560), OldBotv2(MOUSE)5 (40), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [6h 8s]
+Dealt to BAMF5 [4h 2c]
+Dealt to OldBotv1(Ain'tABitch)5 [Kc 3s]
+BAMF5 folds
+OldBotv2(MOUSE)5 wins the pot (3)
+
+Hand #41, OldBotv2(MOUSE)5 (41), BAMF5 (559), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [Jc 6d]
+Dealt to OldBotv2(MOUSE)5 [Kc 2d]
+Dealt to BAMF5 [9d Th]
+OldBotv2(MOUSE)5 calls 2
+BAMF5 checks
+*** FLOP *** (4) [Jh 4s 9h]
+BAMF5 bets 2
+OldBotv2(MOUSE)5 calls 2
+*** TURN *** (8) [Jh 4s 9h] [Ts]
+BAMF5 bets 7
+OldBotv2(MOUSE)5 calls 7
+*** RIVER *** (22) [Jh 4s 9h Ts] [3s]
+BAMF5 bets 19
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (41)
+
+Hand #42, BAMF5 (570), OldBotv2(MOUSE)5 (30), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to BAMF5 [7h 8c]
+Dealt to OldBotv1(Ain'tABitch)5 [Qc 2d]
+Dealt to OldBotv2(MOUSE)5 [5s 4d]
+BAMF5 folds
+OldBotv2(MOUSE)5 wins the pot (3)
+
+Hand #43, OldBotv2(MOUSE)5 (31), BAMF5 (569), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [Ad Qc]
+Dealt to BAMF5 [2s 6s]
+Dealt to OldBotv1(Ain'tABitch)5 [9d 4s]
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (3)
+
+Hand #44, BAMF5 (570), OldBotv2(MOUSE)5 (30), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [5d Js]
+Dealt to OldBotv2(MOUSE)5 [9s Kc]
+Dealt to BAMF5 [Ad 8d]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [3h 5c 6c]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+*** TURN *** (4) [3h 5c 6c] [7s]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+*** RIVER *** (4) [3h 5c 6c 7s] [As]
+OldBotv2(MOUSE)5 checks
+BAMF5 bets 3
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (7)
+
+Hand #45, OldBotv2(MOUSE)5 (28), BAMF5 (572), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to BAMF5 [Ts Qh]
+Dealt to OldBotv1(Ain'tABitch)5 [Qc 3h]
+Dealt to OldBotv2(MOUSE)5 [Th 6h]
+OldBotv2(MOUSE)5 calls 2
+BAMF5 checks
+*** FLOP *** (4) [9c Ad Js]
+BAMF5 bets 3
+OldBotv2(MOUSE)5 calls 3
+*** TURN *** (10) [9c Ad Js] [7s]
+BAMF5 checks
+OldBotv2(MOUSE)5 checks
+*** RIVER *** (10) [9c Ad Js 7s] [Jc]
+BAMF5 checks
+OldBotv2(MOUSE)5 checks
+BAMF5 shows [Ts Qh]
+OldBotv2(MOUSE)5 shows [Th 6h]
+BAMF5 wins the pot (10)
+
+Hand #46, BAMF5 (577), OldBotv2(MOUSE)5 (23), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [Qh 4s]
+Dealt to BAMF5 [9s Ac]
+Dealt to OldBotv1(Ain'tABitch)5 [2c Jd]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [Qs Td 5d]
+OldBotv2(MOUSE)5 bets 2
+BAMF5 calls 2
+*** TURN *** (8) [Qs Td 5d] [4d]
+OldBotv2(MOUSE)5 bets 7
+BAMF5 calls 7
+*** RIVER *** (22) [Qs Td 5d 4d] [9d]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+OldBotv2(MOUSE)5 shows [Qh 4s]
+BAMF5 shows [9s Ac]
+OldBotv2(MOUSE)5 wins the pot (22)
+
+Hand #47, OldBotv2(MOUSE)5 (34), BAMF5 (566), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [9s Qd]
+Dealt to OldBotv2(MOUSE)5 [6d 8d]
+Dealt to BAMF5 [2s 9d]
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (3)
+
+Hand #48, BAMF5 (567), OldBotv2(MOUSE)5 (33), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to BAMF5 [2c Ks]
+Dealt to OldBotv1(Ain'tABitch)5 [Js As]
+Dealt to OldBotv2(MOUSE)5 [Qc Th]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [3h 6d 2s]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+*** TURN *** (4) [3h 6d 2s] [Jc]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+*** RIVER *** (4) [3h 6d 2s Jc] [Ac]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+BAMF5 shows [2c Ks]
+OldBotv2(MOUSE)5 shows [Qc Th]
+BAMF5 wins the pot (4)
+
+Hand #49, OldBotv2(MOUSE)5 (31), BAMF5 (569), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [2d Qd]
+Dealt to BAMF5 [9s 8s]
+Dealt to OldBotv1(Ain'tABitch)5 [6d Qc]
+OldBotv2(MOUSE)5 calls 2
+BAMF5 checks
+*** FLOP *** (4) [9h 2h Qs]
+BAMF5 bets 2
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (6)
+
+Hand #50, BAMF5 (571), OldBotv2(MOUSE)5 (29), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [9d 5d]
+Dealt to OldBotv2(MOUSE)5 [Qh 4d]
+Dealt to BAMF5 [Qd Kd]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [Jc Th Qs]
+OldBotv2(MOUSE)5 bets 4
+BAMF5 raises to 15
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (23)
+
+Hand #51, OldBotv2(MOUSE)5 (23), BAMF5 (577), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to BAMF5 [As 9d]
+Dealt to OldBotv1(Ain'tABitch)5 [6d 7h]
+Dealt to OldBotv2(MOUSE)5 [Js Tc]
+OldBotv2(MOUSE)5 calls 2
+BAMF5 checks
+*** FLOP *** (4) [5h Ad 7s]
+BAMF5 bets 3
+OldBotv2(MOUSE)5 calls 3
+*** TURN *** (10) [5h Ad 7s] [8c]
+BAMF5 bets 3
+OldBotv2(MOUSE)5 calls 3
+*** RIVER *** (16) [5h Ad 7s 8c] [8s]
+BAMF5 bets 15
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (31)
+
+Hand #52, BAMF5 (585), OldBotv2(MOUSE)5 (15), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [4d 4c]
+Dealt to BAMF5 [Ks 3c]
+Dealt to OldBotv1(Ain'tABitch)5 [8h Td]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [3d 8s 6h]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+*** TURN *** (4) [3d 8s 6h] [7c]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+*** RIVER *** (4) [3d 8s 6h 7c] [5s]
+OldBotv2(MOUSE)5 bets 3
+BAMF5 folds
+OldBotv2(MOUSE)5 wins the pot (7)
+
+Hand #53, OldBotv2(MOUSE)5 (17), BAMF5 (583), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [Ad Th]
+Dealt to OldBotv2(MOUSE)5 [Ah 4d]
+Dealt to BAMF5 [9d 5d]
+OldBotv2(MOUSE)5 calls 2
+BAMF5 checks
+*** FLOP *** (4) [6c 2s Ts]
+BAMF5 checks
+OldBotv2(MOUSE)5 checks
+*** TURN *** (4) [6c 2s Ts] [6d]
+BAMF5 checks
+OldBotv2(MOUSE)5 checks
+*** RIVER *** (4) [6c 2s Ts 6d] [Ac]
+BAMF5 checks
+OldBotv2(MOUSE)5 bets 2
+BAMF5 folds
+OldBotv2(MOUSE)5 wins the pot (6)
+
+Hand #54, BAMF5 (581), OldBotv2(MOUSE)5 (19), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to BAMF5 [As 2s]
+Dealt to OldBotv1(Ain'tABitch)5 [Ad 2h]
+Dealt to OldBotv2(MOUSE)5 [2d Ac]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [Th 6s 7c]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+*** TURN *** (4) [Th 6s 7c] [4d]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+*** RIVER *** (4) [Th 6s 7c 4d] [4c]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+BAMF5 shows [As 2s]
+OldBotv2(MOUSE)5 shows [2d Ac]
+BAMF5 ties for the pot (2)
+OldBotv2(MOUSE)5 ties for the pot (2)
+
+Hand #55, OldBotv2(MOUSE)5 (19), BAMF5 (581), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [9s 7d]
+Dealt to BAMF5 [8s 8c]
+Dealt to OldBotv1(Ain'tABitch)5 [Qh Ac]
+OldBotv2(MOUSE)5 calls 2
+BAMF5 checks
+*** FLOP *** (4) [3c 2h 5c]
+BAMF5 bets 4
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (8)
+
+Hand #56, BAMF5 (583), OldBotv2(MOUSE)5 (17), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [2d 8s]
+Dealt to OldBotv2(MOUSE)5 [6h Kc]
+Dealt to BAMF5 [3s 9c]
+BAMF5 folds
+OldBotv2(MOUSE)5 wins the pot (3)
+
+Hand #57, OldBotv2(MOUSE)5 (18), BAMF5 (582), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to BAMF5 [Kd 7s]
+Dealt to OldBotv1(Ain'tABitch)5 [6c 9h]
+Dealt to OldBotv2(MOUSE)5 [Js 7d]
+OldBotv2(MOUSE)5 calls 2
+BAMF5 checks
+*** FLOP *** (4) [Ks 2h 9c]
+BAMF5 bets 2
+OldBotv2(MOUSE)5 calls 2
+*** TURN *** (8) [Ks 2h 9c] [8h]
+BAMF5 bets 3
+OldBotv2(MOUSE)5 calls 3
+*** RIVER *** (14) [Ks 2h 9c 8h] [Tc]
+BAMF5 bets 2
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (16)
+
+Hand #58, BAMF5 (589), OldBotv2(MOUSE)5 (11), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [5d Td]
+Dealt to BAMF5 [7c 4c]
+Dealt to OldBotv1(Ain'tABitch)5 [Qd 6d]
+BAMF5 folds
+OldBotv2(MOUSE)5 wins the pot (3)
+
+Hand #59, OldBotv2(MOUSE)5 (12), BAMF5 (588), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [7d 6h]
+Dealt to OldBotv2(MOUSE)5 [3s 5s]
+Dealt to BAMF5 [Ac Kc]
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (3)
+
+Hand #60, BAMF5 (589), OldBotv2(MOUSE)5 (11), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to BAMF5 [4d Jc]
+Dealt to OldBotv1(Ain'tABitch)5 [Ac 9s]
+Dealt to OldBotv2(MOUSE)5 [Js Th]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [3s Ah 5c]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+*** TURN *** (4) [3s Ah 5c] [8d]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+*** RIVER *** (4) [3s Ah 5c 8d] [6c]
+OldBotv2(MOUSE)5 checks
+BAMF5 checks
+BAMF5 shows [4d Jc]
+OldBotv2(MOUSE)5 shows [Js Th]
+OldBotv2(MOUSE)5 wins the pot (4)
+
+Hand #61, OldBotv2(MOUSE)5 (13), BAMF5 (587), OldBotv1(Ain'tABitch)5 (0)
+OldBotv2(MOUSE)5 posts the blind of 1
+BAMF5 posts the blind of 2
+Dealt to OldBotv2(MOUSE)5 [2h 8s]
+Dealt to BAMF5 [2c 6s]
+Dealt to OldBotv1(Ain'tABitch)5 [6h Js]
+OldBotv2(MOUSE)5 folds
+BAMF5 wins the pot (3)
+
+Hand #62, BAMF5 (588), OldBotv2(MOUSE)5 (12), OldBotv1(Ain'tABitch)5 (0)
+BAMF5 posts the blind of 1
+OldBotv2(MOUSE)5 posts the blind of 2
+Dealt to OldBotv1(Ain'tABitch)5 [Td 2h]
+Dealt to OldBotv2(MOUSE)5 [4c Qd]
+Dealt to BAMF5 [9s 7h]
+BAMF5 calls 2
+OldBotv2(MOUSE)5 checks
+*** FLOP *** (4) [4s 9d 8s]
+OldBotv2(MOUSE)5 bets 2
+BAMF5 raises to 10
+OldBotv2(MOUSE)5 calls 10
+*** TURN *** (24) [4s 9d 8s] [6s]
+*** RIVER *** (24) [4s 9d 8s 6s] [Jd]
+OldBotv2(MOUSE)5 shows [4c Qd]
+BAMF5 shows [9s 7h]
+BAMF5 wins the pot (24)
+
