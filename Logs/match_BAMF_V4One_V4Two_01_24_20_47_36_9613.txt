@@ -1,0 +1,460 @@
+6.176 MIT Pokerbots - V4One3 vs BAMF3 vs V4Two3 (stack=200, bb=2)
+Hand #1, V4One3 (200), BAMF3 (200), V4Two3 (200)
+BAMF3 posts the blind of 1
+V4Two3 posts the blind of 2
+Dealt to V4One3 [2c 4s]
+Dealt to BAMF3 [6d Jc]
+Dealt to V4Two3 [Th Qd]
+V4One3 folds
+BAMF3 calls 2
+V4Two3 checks
+*** FLOP *** (4) [7c Qh 2s]
+BAMF3 checks
+V4Two3 bets 3
+BAMF3 calls 3
+*** TURN *** (10) [7c Qh 2s] [Jh]
+BAMF3 checks
+V4Two3 bets 4
+BAMF3 calls 4
+*** RIVER *** (18) [7c Qh 2s Jh] [9d]
+BAMF3 bets 5
+V4Two3 raises to 15
+BAMF3 raises to 25
+V4Two3 raises to 52
+BAMF3 raises to 91
+V4Two3 calls 91
+BAMF3 shows [6d Jc]
+V4Two3 shows [Th Qd]
+V4Two3 wins the pot (200)
+
+Hand #2, V4Two3 (300), V4One3 (200), BAMF3 (100)
+V4One3 posts the blind of 1
+BAMF3 posts the blind of 2
+Dealt to V4Two3 [4s 7h]
+Dealt to V4One3 [Kh Ks]
+Dealt to BAMF3 [8h 7c]
+V4Two3 folds
+V4One3 raises to 4
+BAMF3 raises to 11
+V4One3 raises to 29
+BAMF3 folds
+V4One3 wins the pot (40)
+
+Hand #3, BAMF3 (89), V4Two3 (300), V4One3 (211)
+V4Two3 posts the blind of 1
+V4One3 posts the blind of 2
+Dealt to BAMF3 [Ac 2c]
+Dealt to V4Two3 [Th 5s]
+Dealt to V4One3 [Jd Jc]
+BAMF3 calls 2
+V4Two3 folds
+V4One3 raises to 7
+BAMF3 calls 7
+*** FLOP *** (15) [Ks 7c 8c]
+V4One3 bets 14
+BAMF3 raises to 48
+V4One3 raises to 82
+BAMF3 calls 82
+*** TURN *** (179) [Ks 7c 8c] [8s]
+*** RIVER *** (179) [Ks 7c 8c 8s] [Qs]
+BAMF3 shows [Ac 2c]
+V4One3 shows [Jd Jc]
+V4One3 wins the pot (179)
+
+Hand #4, V4Two3 (299), V4One3 (301), BAMF3 (0)
+V4Two3 posts the blind of 1
+V4One3 posts the blind of 2
+Dealt to V4One3 [2d Qc]
+Dealt to BAMF3 [2s 3s]
+Dealt to V4Two3 [2c Kc]
+V4Two3 calls 2
+V4One3 checks
+*** FLOP *** (4) [6s 5c Jd]
+V4One3 checks
+V4Two3 checks
+*** TURN *** (4) [6s 5c Jd] [8h]
+V4One3 checks
+V4Two3 checks
+*** RIVER *** (4) [6s 5c Jd 8h] [As]
+V4One3 checks
+V4Two3 checks
+V4One3 shows [2d Qc]
+V4Two3 shows [2c Kc]
+V4Two3 wins the pot (4)
+
+Hand #5, V4One3 (299), V4Two3 (301), BAMF3 (0)
+V4One3 posts the blind of 1
+V4Two3 posts the blind of 2
+Dealt to V4Two3 [4h 5h]
+Dealt to V4One3 [Js 9d]
+Dealt to BAMF3 [2c 7d]
+V4One3 calls 2
+V4Two3 checks
+*** FLOP *** (4) [2d 7s 5s]
+V4Two3 bets 3
+V4One3 raises to 11
+V4Two3 raises to 25
+V4One3 raises to 54
+V4Two3 raises to 95
+V4One3 calls 95
+*** TURN *** (194) [2d 7s 5s] [Qh]
+V4Two3 checks
+V4One3 checks
+*** RIVER *** (194) [2d 7s 5s Qh] [Jd]
+V4Two3 checks
+V4One3 bets 186
+V4Two3 calls 186
+V4Two3 shows [4h 5h]
+V4One3 shows [Js 9d]
+V4One3 wins the pot (566)
+
+Hand #6, V4Two3 (18), V4One3 (582), BAMF3 (0)
+V4Two3 posts the blind of 1
+V4One3 posts the blind of 2
+Dealt to BAMF3 [3h Th]
+Dealt to V4Two3 [7h Ah]
+Dealt to V4One3 [9s Jc]
+V4Two3 raises to 6
+V4One3 raises to 13
+V4Two3 calls 13
+*** FLOP *** (26) [Ad 8s Kc]
+V4One3 checks
+V4Two3 checks
+*** TURN *** (26) [Ad 8s Kc] [3d]
+V4One3 checks
+V4Two3 checks
+*** RIVER *** (26) [Ad 8s Kc 3d] [6s]
+V4One3 checks
+V4Two3 checks
+V4Two3 shows [7h Ah]
+V4One3 shows [9s Jc]
+V4Two3 wins the pot (26)
+
+Hand #7, V4One3 (569), V4Two3 (31), BAMF3 (0)
+V4One3 posts the blind of 1
+V4Two3 posts the blind of 2
+Dealt to V4One3 [8s Jh]
+Dealt to BAMF3 [Th 9d]
+Dealt to V4Two3 [Ks 2d]
+V4One3 calls 2
+V4Two3 checks
+*** FLOP *** (4) [5d Jc 3s]
+V4Two3 checks
+V4One3 bets 4
+V4Two3 calls 4
+*** TURN *** (12) [5d Jc 3s] [Qd]
+V4Two3 checks
+V4One3 bets 10
+V4Two3 folds
+V4One3 wins the pot (22)
+
+Hand #8, V4Two3 (25), V4One3 (575), BAMF3 (0)
+V4Two3 posts the blind of 1
+V4One3 posts the blind of 2
+Dealt to V4Two3 [9s 3h]
+Dealt to V4One3 [6s As]
+Dealt to BAMF3 [5s 2s]
+V4Two3 calls 2
+V4One3 checks
+*** FLOP *** (4) [2d Jd Qc]
+V4One3 checks
+V4Two3 checks
+*** TURN *** (4) [2d Jd Qc] [8c]
+V4One3 checks
+V4Two3 checks
+*** RIVER *** (4) [2d Jd Qc 8c] [4s]
+V4One3 bets 4
+V4Two3 folds
+V4One3 wins the pot (8)
+
+Hand #9, V4One3 (577), V4Two3 (23), BAMF3 (0)
+V4One3 posts the blind of 1
+V4Two3 posts the blind of 2
+Dealt to BAMF3 [9c Jh]
+Dealt to V4Two3 [3s 6h]
+Dealt to V4One3 [5s Qc]
+V4One3 calls 2
+V4Two3 checks
+*** FLOP *** (4) [2c 8d Kd]
+V4Two3 checks
+V4One3 checks
+*** TURN *** (4) [2c 8d Kd] [5c]
+V4Two3 checks
+V4One3 bets 2
+V4Two3 folds
+V4One3 wins the pot (6)
+
+Hand #10, V4Two3 (21), V4One3 (579), BAMF3 (0)
+V4Two3 posts the blind of 1
+V4One3 posts the blind of 2
+Dealt to V4One3 [9d 7h]
+Dealt to BAMF3 [6h 3s]
+Dealt to V4Two3 [4s 2c]
+V4Two3 calls 2
+V4One3 raises to 6
+V4Two3 calls 6
+*** FLOP *** (12) [Kd 3c 4h]
+V4One3 checks
+V4Two3 bets 12
+V4One3 folds
+V4Two3 wins the pot (24)
+
+Hand #11, V4One3 (573), V4Two3 (27), BAMF3 (0)
+V4One3 posts the blind of 1
+V4Two3 posts the blind of 2
+Dealt to V4Two3 [9d Td]
+Dealt to V4One3 [2s 5c]
+Dealt to BAMF3 [2d 2c]
+V4One3 folds
+V4Two3 wins the pot (3)
+
+Hand #12, V4Two3 (28), V4One3 (572), BAMF3 (0)
+V4Two3 posts the blind of 1
+V4One3 posts the blind of 2
+Dealt to BAMF3 [Qs 7c]
+Dealt to V4Two3 [4c 6h]
+Dealt to V4One3 [Jh 7d]
+V4Two3 folds
+V4One3 wins the pot (3)
+
+Hand #13, V4One3 (573), V4Two3 (27), BAMF3 (0)
+V4One3 posts the blind of 1
+V4Two3 posts the blind of 2
+Dealt to V4One3 [8s 3h]
+Dealt to BAMF3 [6h Ks]
+Dealt to V4Two3 [Jh Jd]
+V4One3 folds
+V4Two3 wins the pot (3)
+
+Hand #14, V4Two3 (28), V4One3 (572), BAMF3 (0)
+V4Two3 posts the blind of 1
+V4One3 posts the blind of 2
+Dealt to V4Two3 [4d Kc]
+Dealt to V4One3 [9s 3c]
+Dealt to BAMF3 [6s 7s]
+V4Two3 calls 2
+V4One3 checks
+*** FLOP *** (4) [5s 2h Js]
+V4One3 checks
+V4Two3 checks
+*** TURN *** (4) [5s 2h Js] [8h]
+V4One3 checks
+V4Two3 checks
+*** RIVER *** (4) [5s 2h Js 8h] [9h]
+V4One3 bets 3
+V4Two3 folds
+V4One3 wins the pot (7)
+
+Hand #15, V4One3 (574), V4Two3 (26), BAMF3 (0)
+V4One3 posts the blind of 1
+V4Two3 posts the blind of 2
+Dealt to BAMF3 [Th 9d]
+Dealt to V4Two3 [Qs 8d]
+Dealt to V4One3 [7d 9c]
+V4One3 folds
+V4Two3 wins the pot (3)
+
+Hand #16, V4Two3 (27), V4One3 (573), BAMF3 (0)
+V4Two3 posts the blind of 1
+V4One3 posts the blind of 2
+Dealt to V4One3 [3s Td]
+Dealt to BAMF3 [3d 9d]
+Dealt to V4Two3 [2s Jh]
+V4Two3 folds
+V4One3 wins the pot (3)
+
+Hand #17, V4One3 (574), V4Two3 (26), BAMF3 (0)
+V4One3 posts the blind of 1
+V4Two3 posts the blind of 2
+Dealt to V4Two3 [7h 5s]
+Dealt to V4One3 [3s 8c]
+Dealt to BAMF3 [8s Ac]
+V4One3 folds
+V4Two3 wins the pot (3)
+
+Hand #18, V4Two3 (27), V4One3 (573), BAMF3 (0)
+V4Two3 posts the blind of 1
+V4One3 posts the blind of 2
+Dealt to BAMF3 [2d 4d]
+Dealt to V4Two3 [Kh 8d]
+Dealt to V4One3 [Th Js]
+V4Two3 calls 2
+V4One3 checks
+*** FLOP *** (4) [6s Jd 6h]
+V4One3 bets 2
+V4Two3 calls 2
+*** TURN *** (8) [6s Jd 6h] [4s]
+V4One3 bets 6
+V4Two3 raises to 12
+V4One3 raises to 22
+V4Two3 folds
+V4One3 wins the pot (42)
+
+Hand #19, V4One3 (589), V4Two3 (11), BAMF3 (0)
+V4One3 posts the blind of 1
+V4Two3 posts the blind of 2
+Dealt to V4One3 [6d Ts]
+Dealt to BAMF3 [Kh Ac]
+Dealt to V4Two3 [8h 4h]
+V4One3 folds
+V4Two3 wins the pot (3)
+
+Hand #20, V4Two3 (12), V4One3 (588), BAMF3 (0)
+V4Two3 posts the blind of 1
+V4One3 posts the blind of 2
+Dealt to V4Two3 [Tc Ks]
+Dealt to V4One3 [Js 9d]
+Dealt to BAMF3 [2d 3s]
+V4Two3 folds
+V4One3 wins the pot (3)
+
+Hand #21, V4One3 (589), V4Two3 (11), BAMF3 (0)
+V4One3 posts the blind of 1
+V4Two3 posts the blind of 2
+Dealt to BAMF3 [Jh Kh]
+Dealt to V4Two3 [6c Ts]
+Dealt to V4One3 [3c Jc]
+V4One3 calls 2
+V4Two3 checks
+*** FLOP *** (4) [2d 4d 6s]
+V4Two3 checks
+V4One3 checks
+*** TURN *** (4) [2d 4d 6s] [Ac]
+V4Two3 checks
+V4One3 checks
+*** RIVER *** (4) [2d 4d 6s Ac] [Ah]
+V4Two3 checks
+V4One3 checks
+V4Two3 shows [6c Ts]
+V4One3 shows [3c Jc]
+V4Two3 wins the pot (4)
+
+Hand #22, V4Two3 (13), V4One3 (587), BAMF3 (0)
+V4Two3 posts the blind of 1
+V4One3 posts the blind of 2
+Dealt to V4One3 [9d 7d]
+Dealt to BAMF3 [2s 8h]
+Dealt to V4Two3 [Td 4c]
+V4Two3 raises to 6
+V4One3 calls 6
+*** FLOP *** (12) [Jc Ad Kd]
+V4One3 checks
+V4Two3 checks
+*** TURN *** (12) [Jc Ad Kd] [7h]
+V4One3 bets 6
+V4Two3 folds
+V4One3 wins the pot (18)
+
+Hand #23, V4One3 (593), V4Two3 (7), BAMF3 (0)
+V4One3 posts the blind of 1
+V4Two3 posts the blind of 2
+Dealt to V4Two3 [Tc Jh]
+Dealt to V4One3 [2h Jc]
+Dealt to BAMF3 [9h 4h]
+V4One3 folds
+V4Two3 wins the pot (3)
+
+Hand #24, V4Two3 (8), V4One3 (592), BAMF3 (0)
+V4Two3 posts the blind of 1
+V4One3 posts the blind of 2
+Dealt to BAMF3 [6s 5d]
+Dealt to V4Two3 [7s 6c]
+Dealt to V4One3 [7c Kc]
+V4Two3 folds
+V4One3 wins the pot (3)
+
+Hand #25, V4One3 (593), V4Two3 (7), BAMF3 (0)
+V4One3 posts the blind of 1
+V4Two3 posts the blind of 2
+Dealt to V4One3 [Jc Jh]
+Dealt to BAMF3 [6h As]
+Dealt to V4Two3 [Qc 7h]
+V4One3 raises to 6
+V4Two3 folds
+V4One3 wins the pot (8)
+
+Hand #26, V4Two3 (5), V4One3 (595), BAMF3 (0)
+V4Two3 posts the blind of 1
+V4One3 posts the blind of 2
+Dealt to V4Two3 [3s Qh]
+Dealt to V4One3 [4s 9s]
+Dealt to BAMF3 [2d 4h]
+V4Two3 folds
+V4One3 wins the pot (3)
+
+Hand #27, V4One3 (596), V4Two3 (4), BAMF3 (0)
+V4One3 posts the blind of 1
+V4Two3 posts the blind of 2
+Dealt to BAMF3 [Td 3c]
+Dealt to V4Two3 [Ac 4d]
+Dealt to V4One3 [4c 9h]
+V4One3 folds
+V4Two3 wins the pot (3)
+
+Hand #28, V4Two3 (5), V4One3 (595), BAMF3 (0)
+V4Two3 posts the blind of 1
+V4One3 posts the blind of 2
+Dealt to V4One3 [5s Ac]
+Dealt to BAMF3 [2c Ks]
+Dealt to V4Two3 [7h Qd]
+V4Two3 folds
+V4One3 wins the pot (3)
+
+Hand #29, V4One3 (596), V4Two3 (4), BAMF3 (0)
+V4One3 posts the blind of 1
+V4Two3 posts the blind of 2
+Dealt to V4Two3 [2h 7s]
+Dealt to V4One3 [Ac Ks]
+Dealt to BAMF3 [4d 7h]
+V4One3 calls 2
+V4Two3 checks
+*** FLOP *** (4) [2c 3c Kc]
+V4Two3 checks
+V4One3 bets 2
+V4Two3 folds
+V4One3 wins the pot (6)
+
+Hand #30, V4Two3 (2), V4One3 (598), BAMF3 (0)
+V4Two3 posts the blind of 1
+V4One3 posts the blind of 2
+Dealt to BAMF3 [Ah 5c]
+Dealt to V4Two3 [As Qh]
+Dealt to V4One3 [Kc 4d]
+V4Two3 folds
+V4One3 wins the pot (3)
+
+Hand #31, V4One3 (599), V4Two3 (1), BAMF3 (0)
+V4One3 posts the blind of 1
+V4Two3 posts the blind of 1
+Dealt to V4One3 [Td 2c]
+Dealt to BAMF3 [7s 6d]
+Dealt to V4Two3 [4c 6c]
+*** FLOP *** (2) [4d Kh 3d]
+*** TURN *** (2) [4d Kh 3d] [Th]
+*** RIVER *** (2) [4d Kh 3d Th] [4s]
+V4One3 shows [Td 2c]
+V4Two3 shows [4c 6c]
+V4Two3 wins the pot (2)
+
+Hand #32, V4Two3 (2), V4One3 (598), BAMF3 (0)
+V4Two3 posts the blind of 1
+V4One3 posts the blind of 2
+Dealt to V4Two3 [9h 8d]
+Dealt to V4One3 [Ad Ts]
+Dealt to BAMF3 [Jc Qh]
+V4Two3 folds
+V4One3 wins the pot (3)
+
+Hand #33, V4One3 (599), V4Two3 (1), BAMF3 (0)
+V4One3 posts the blind of 1
+V4Two3 posts the blind of 1
+Dealt to BAMF3 [Ah Jc]
+Dealt to V4Two3 [3d 8h]
+Dealt to V4One3 [Ad Jh]
+*** FLOP *** (2) [Qc Tc 9h]
+*** TURN *** (2) [Qc Tc 9h] [5c]
+*** RIVER *** (2) [Qc Tc 9h 5c] [Qd]
+V4Two3 shows [3d 8h]
+V4One3 shows [Ad Jh]
+V4One3 wins the pot (2)
+

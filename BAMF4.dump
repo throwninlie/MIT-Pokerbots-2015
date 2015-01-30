@@ -2,1561 +2,541 @@
 C:\Users\Er\Dropbox\Pokerbot\players>python Player.py 3000 
 Connecting to localhost:3000
 Our name: BAMF4
-Opp1 name: Clone4
-Opp2 name: Doppelganger4
+Opp1 name: V4One4
+Opp2 name: V4Two4
 
 
 NEWHAND:1
 
-['NEWHAND', '1', '3', '7d', 'Ah', '200', '200', '200', 'Clone4', 'Doppelganger4', 'BAMF4', '3', 'true', 'true', 'true', '15.000000']
+['NEWHAND', '1', '3', 'Qh', '4s', '200', '200', '200', 'V4One4', 'V4Two4', 'BAMF4', '3', 'true', 'true', 'true', '15.000000']
 Active Players:3
 
-Our hand: 7d Ah
-Clone4's VPIP: 0.000000
-Clone4's PFR: 0.000000
-Clone4's estimated fold percentage is 0.000000
-Clone4's AF flop/postflop: 0.000000
-Clone4's Player Type: NIT
-Clone4's Seat:1
-Doppelganger4's VPIP: 0.000000
-Doppelganger4's PFR: 0.000000
-Doppelganger4's estimated fold percentage is 0.000000
-Doppelganger4's AF flop/postflop: 0.000000
-Doppelganger4's Player Type: NIT
-Doppelganger4's Seat:2
+Our hand: Qh 4s
+V4One4's VPIP: 0.000000
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.000000
+V4One4's AF flop/postflop: 0.000000
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:1.000000
+V4Two4's VPIP: 0.000000
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.000000
+V4Two4's AF flop/postflop: 0.000000
+V4Two4's Player Type: NIT
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:1.000000
 BAMF4's VPIP: 0.000000
 BAMF4's PFR: 0.000000
 BAMF4's estimated fold percentage is 0.000000
 BAMF4's AF flop/postflop: 0.000000
 BAMF4's Player Type: NIT
 BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:1.000000
 
-Doppelganger4 posts small blind, stack size (199)
+V4Two4 posts small blind, stack size (199)
+BAMF4 posts big blind, stack size (198)
+
+V4One4 folds.
+V4Two4 folds.
+
+
+NEWHAND:2
+
+['NEWHAND', '2', '1', '2c', '9h', '201', '200', '199', 'BAMF4', 'V4One4', 'V4Two4', '3', 'true', 'true', 'true', '15.000000']
+Active Players:3
+
+Our hand: 2c 9h
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 0.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:1
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:2.000000
+V4One4's VPIP: 0.000000
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 1.000000
+V4One4's AF flop/postflop: 0.000000
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:2.000000
+V4Two4's VPIP: 0.000000
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 1.000000
+V4Two4's AF flop/postflop: 0.000000
+V4Two4's Player Type: NIT
+V4Two4's Seat:3
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:2.000000
+
+V4One4 posts small blind, stack size (199)
+V4Two4 posts big blind, stack size (197)
+
+['CALL:2', 'FOLD', 'RAISE:4:7']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 2c 9h
+
+our last bet of 0 was in round 0
+BAMF4's EV: 0.022500
+BAMF4's Equity: 0.4045
+BAMF4's Implied Odds: -2
+BAMF4's Pot odds: 0.666667
+BAMF4's maxBetFold: 2
+BAMF4's M ratio:67.000000
+BAMF4's maxBetEV: 2
+
+NOT BLUFFING FOLD
+BAMF4 folds.
+our bot's last action is FOLD for 0
+V4One4 called 2.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 bet 4.
+V4One4 called 4.
+V4One4 checks.
+V4Two4 bet 9.
+V4One4 called 9.
+V4One4 bet 28.
+V4Two4 folds.
+
+
+NEWHAND:3
+
+['NEWHAND', '3', '2', '9d', '7s', '184', '201', '215', 'V4Two4', 'BAMF4', 'V4One4', '3', 'true', 'true', 'true', '14.991450']
+Active Players:3
+
+Our hand: 9d 7s
+V4Two4's VPIP: 0.000000
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 1.000000
+V4Two4's AF flop/postflop: 2.000000
+V4Two4's Player Type: NIT
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:3.000000
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 0.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:2
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:3.000000
+V4One4's VPIP: 0.000000
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 1.000000
+V4One4's AF flop/postflop: 0.333333
+V4One4's Player Type: NIT
+V4One4's Seat:3
+V4One4's preflop raises:0.000000
+V4One4's hands played:3.000000
+
+BAMF4 posts small blind, stack size (200)
+V4One4 posts big blind, stack size (213)
+
+['FOLD', 'CALL:2', 'RAISE:4:8']
+{}
+
+***PREFLOP***(5) Board:()
+Our hand: 9d 7s
+
+V4Two4 called 2.
+our last bet of 1 was in round 0
+BAMF4's EV: 1.586000
+BAMF4's Equity: 0.431
+BAMF4's Implied Odds: -4
+BAMF4's Pot odds: 0.200000
+BAMF4's maxBetFold: 3
+BAMF4's M ratio:66.666667
+BAMF4's maxBetEV: 3
+
+NOT BLUFFING FOLD
+BAMF4 folds.
+our bot's last action is FOLD for 0
+V4One4 raised to 7.
+V4Two4 called 7.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 bet 14.
+V4One4 called 14.
+V4One4 checks.
+V4Two4 checks.
+V4Two4 WTSD percentage is: 0.333333
+V4One4 WTSD percentage is: 0.333333
+V4One4 W$SD percentage is: 1.000000
+
+
+NEWHAND:4
+
+['NEWHAND', '4', '3', 'Kd', 'Ad', '237', '163', '200', 'V4One4', 'V4Two4', 'BAMF4', '3', 'true', 'true', 'true', '14.980891']
+Active Players:3
+
+Our hand: Kd Ad
+V4One4's VPIP: 0.000000
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 1.000000
+V4One4's AF flop/postflop: 0.500000
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:4.000000
+V4Two4's VPIP: 0.333333
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 1.000000
+V4Two4's AF flop/postflop: 3.000000
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:4.000000
+BAMF4's VPIP: 0.000000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 0.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:4.000000
+
+V4Two4 posts small blind, stack size (162)
 BAMF4 posts big blind, stack size (198)
 
 ['CHECK', 'RAISE:4:8']
 {}
 
 ***PREFLOP***(6) Board:()
-Our hand: 7d Ah
+Our hand: Kd Ad
 
-Clone4 called 2.
-Doppelganger4 called 2.
+V4One4 called 2.
+V4Two4 called 2.
 our last bet of 2 was in round 0
-BAMF4's EV: 3.612000
-BAMF4's Equity: 0.602
+BAMF4's EV: 4.074000
+BAMF4's Equity: 0.679
 BAMF4's Implied Odds: -6
-BAMF4's maxBetFold: 0
-BAMF4's M ratio:66
-BAMF4's maxBetEV: 9
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 12
+BAMF4's M ratio:66.000000
+BAMF4's maxBetEV: 12
 
 BAMF4 checks.
 our bot's last action is CHECK for 0
 ['CHECK', 'BET:2:6']
 {}
 
-***FLOP***(6) Board:(Kh Jc Ts)
-Our hand: 7d Ah
+***FLOP***(6) Board:(Jd 3h 2c)
+Our hand: Kd Ad
 
-Doppelganger4 checks.
+V4Two4 checks.
 our last bet of 0 was in round 0
-BAMF4's EV: 3.054000
-BAMF4's Equity: 0.509
+BAMF4's EV: 3.513000
+BAMF4's Equity: 0.5855
 BAMF4's Implied Odds: -6
-BAMF4's maxBetFold: 0
-BAMF4's M ratio:66
-BAMF4's maxBetEV: 6
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 8
+BAMF4's M ratio:66.000000
+BAMF4's maxBetEV: 8
 
-line 6
+line 2
 BAMF4 checks.
 our bot's last action is CHECK for 0
-['CHECK', 'BET:2:6']
+['FOLD', 'CALL:4', 'RAISE:8:22']
 {}
 
-***TURN***(6) Board:(Kh Jc Ts Kd)
-Our hand: 7d Ah
+***FLOP***(14) Board:(Jd 3h 2c)
+Our hand: Kd Ad
 
-Clone4 checks.
-Doppelganger4 checks.
+V4One4 bet 4.
+V4Two4 called 4.
 our last bet of 0 was in round 3
-BAMF4's EV: 3.372000
-BAMF4's Equity: 0.562
-BAMF4's Implied Odds: -6
-BAMF4's maxBetFold: 0
-BAMF4's M ratio:66
-BAMF4's maxBetEV: 7
+BAMF4's EV: 6.539000
+BAMF4's Equity: 0.5855
+BAMF4's Implied Odds: -15
+BAMF4's Pot odds: 0.285714
+BAMF4's maxBetFold: 19
+BAMF4's M ratio:66.000000
+BAMF4's maxBetEV: 19
 
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:6']
+line 2
+BAMF4 calls 4.
+our bot's last action is CALL for 4
+['CHECK', 'BET:2:18']
 {}
 
-***RIVER***(6) Board:(Kh Jc Ts Kd 5s)
-Our hand: 7d Ah
+***TURN***(18) Board:(Jd 3h 2c 4s)
+Our hand: Kd Ad
 
-Clone4 checks.
-Doppelganger4 checks.
-our last bet of 0 was in round 4
-BAMF4's EV: 2.693939
-BAMF4's Equity: 0.44898989899
-BAMF4's Implied Odds: -6
-BAMF4's maxBetFold: 0
-BAMF4's M ratio:66
-BAMF4's maxBetEV: 4
+V4Two4 checks.
+our last bet of 4 was in round 3
+BAMF4's EV: 8.703000
+BAMF4's Equity: 0.4835
+BAMF4's Implied Odds: -18
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 16
+BAMF4's M ratio:64.666667
+BAMF4's maxBetEV: 16
 
-line 6
+line 2
 BAMF4 checks.
 our bot's last action is CHECK for 0
-Clone4 checks.
-Clone4 WTSD percentage is: 1.000000
-Doppelganger4 WTSD percentage is: 1.000000
-BAMF4 WTSD percentage is: 1.000000
-BAMF4 W$SD percentage is: 1.000000
+['FOLD', 'CALL:11', 'RAISE:22:51']
+{}
+
+***TURN***(29) Board:(Jd 3h 2c 4s)
+Our hand: Kd Ad
+
+V4One4 bet 11.
+V4Two4 folds.
+our last bet of 0 was in round 4
+BAMF4's EV: 8.340000
+BAMF4's Equity: 0.4835
+BAMF4's Implied Odds: -28
+BAMF4's Pot odds: 0.379310
+BAMF4's maxBetFold: 27
+BAMF4's M ratio:64.666667
+BAMF4's maxBetEV: 27
+
+line 2
+BAMF4 calls 11.
+our bot's last action is CALL for 11
+['CHECK', 'BET:2:40']
+{}
+
+***RIVER***(40) Board:(Jd 3h 2c 4s 4c)
+Our hand: Kd Ad
+
+our last bet of 11 was in round 4
+BAMF4's EV: 19.414141
+BAMF4's Equity: 0.485353535354
+BAMF4's Implied Odds: -40
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 37
+BAMF4's M ratio:61.000000
+BAMF4's maxBetEV: 37
+
+line 2
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:33', 'RAISE:66:139']
+{}
+
+***RIVER***(73) Board:(Jd 3h 2c 4s 4c)
+Our hand: Kd Ad
+
+V4One4 bet 33.
+our last bet of 0 was in round 5
+BAMF4's EV: 18.447475
+BAMF4's Equity: 0.485353535354
+BAMF4's Implied Odds: -71
+BAMF4's Pot odds: 0.452055
+BAMF4's maxBetFold: 68
+BAMF4's M ratio:61.000000
+BAMF4's maxBetEV: 68
+
+line 2
+BAMF4 calls 33.
+our bot's last action is CALL for 33
+V4One4 WTSD percentage is: 0.500000
+BAMF4 WTSD percentage is: 0.250000
+V4One4 W$SD percentage is: 1.000000
 
 
-NEWHAND:2
+NEWHAND:5
 
-['NEWHAND', '2', '1', 'As', '8s', '204', '198', '198', 'BAMF4', 'Clone4', 'Doppelganger4', '3', 'true', 'true', 'true', '14.976288']
+['NEWHAND', '5', '1', '7c', 'Jh', '150', '293', '157', 'BAMF4', 'V4One4', 'V4Two4', '3', 'true', 'true', 'true', '14.936255']
 Active Players:3
 
-Our hand: As 8s
+Our hand: 7c Jh
 BAMF4's VPIP: 0.000000
 BAMF4's PFR: 0.000000
 BAMF4's estimated fold percentage is 0.000000
 BAMF4's AF flop/postflop: 0.000000
 BAMF4's Player Type: NIT
 BAMF4's Seat:1
-Clone4's VPIP: 1.000000
-Clone4's PFR: 0.000000
-Clone4's estimated fold percentage is 0.000000
-Clone4's AF flop/postflop: 0.000000
-Clone4's Player Type: UNKNOWN
-Clone4's Seat:2
-Doppelganger4's VPIP: 1.000000
-Doppelganger4's PFR: 0.000000
-Doppelganger4's estimated fold percentage is 0.000000
-Doppelganger4's AF flop/postflop: 0.000000
-Doppelganger4's Player Type: UNKNOWN
-Doppelganger4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:5.000000
+V4One4's VPIP: 0.250000
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 1.000000
+V4One4's AF flop/postflop: 1.250000
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:5.000000
+V4Two4's VPIP: 0.500000
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 1.000000
+V4Two4's AF flop/postflop: 1.500000
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:3
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:5.000000
 
-Clone4 posts small blind, stack size (197)
-Doppelganger4 posts big blind, stack size (196)
-
-['CALL:2', 'FOLD', 'RAISE:4:7']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: As 8s
-
-our last bet of 0 was in round 0
-BAMF4's EV: 1.090000
-BAMF4's Equity: 0.618
-BAMF4's Implied Odds: -3
-BAMF4's maxBetFold: 0
-BAMF4's M ratio:68
-BAMF4's maxBetEV: 4
-
-BAMF4 calls 2.
-our bot's last action is CALL for 2
-['CHECK', 'BET:2:5']
-{}
-
-***FLOP***(5) Board:(5c 6c Ah)
-Our hand: As 8s
-
-Clone4 folds.
-Doppelganger4 checks.
-Doppelganger4 checks.
-our last bet of 2 was in round 0
-BAMF4's EV: 3.980000
-BAMF4's Equity: 0.796
-BAMF4's Implied Odds: -5
-BAMF4's maxBetFold: 0
-BAMF4's M ratio:67
-BAMF4's maxBetEV: 19
-
-line 1
-final max bet:5
-final min bet:2
-Bet range: 2 5
-BAMF4 bets 4.
-our bot's last action is BET for 4
-Doppelganger4 folds.
-
-
-NEWHAND:3
-
-['NEWHAND', '3', '2', '9c', 'Qc', '196', '207', '197', 'Doppelganger4', 'BAMF4', 'Clone4', '3', 'true', 'true', 'true', '14.960997']
-Active Players:3
-
-Our hand: 9c Qc
-Doppelganger4's VPIP: 0.500000
-Doppelganger4's PFR: 0.000000
-Doppelganger4's estimated fold percentage is 0.000000
-Doppelganger4's AF flop/postflop: 0.000000
-Doppelganger4's Player Type: UNKNOWN
-Doppelganger4's Seat:1
-BAMF4's VPIP: 0.000000
-BAMF4's PFR: 0.000000
-BAMF4's estimated fold percentage is 0.000000
-BAMF4's AF flop/postflop: 1.000000
-BAMF4's Player Type: NIT
-BAMF4's Seat:2
-Clone4's VPIP: 0.500000
-Clone4's PFR: 0.000000
-Clone4's estimated fold percentage is 0.000000
-Clone4's AF flop/postflop: 0.000000
-Clone4's Player Type: UNKNOWN
-Clone4's Seat:3
-
-BAMF4 posts small blind, stack size (206)
-Clone4 posts big blind, stack size (195)
-
-['FOLD', 'CALL:2', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 9c Qc
-
-Doppelganger4 folds.
-our last bet of 1 was in round 0
-BAMF4's EV: 1.282000
-BAMF4's Equity: 0.5705
-BAMF4's Implied Odds: -3
-BAMF4's maxBetFold: 1
-BAMF4's M ratio:68
-BAMF4's maxBetEV: 3
-
-BAMF4 calls 2.
-our bot's last action is CALL for 2
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(Jd Qd Tc)
-Our hand: 9c Qc
-
-Clone4 checks.
-our last bet of 2 was in round 0
-BAMF4's EV: 3.006000
-BAMF4's Equity: 0.7515
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 1
-BAMF4's M ratio:68
-BAMF4's maxBetEV: 12
-
-line 1
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF4 bets 2.
-our bot's last action is BET for 2
-['FOLD', 'CALL:8', 'RAISE:14:28']
-{}
-
-***FLOP***(14) Board:(Jd Qd Tc)
-Our hand: 9c Qc
-
-Clone4 raised to 8.
-our last bet of 2 was in round 3
-BAMF4's EV: 9.030000
-BAMF4's Equity: 0.7515
-BAMF4's Implied Odds: -18
-BAMF4's maxBetFold: 6
-BAMF4's M ratio:67
-BAMF4's maxBetEV: 42
-
-line 1
-final max raise:28
-final min raise:14
-Raise range: 14 28
-BAMF4 raises to 27.
-our bot's last action is RAISE for 27
-['FOLD', 'CALL:78', 'RAISE:129:195']
-{}
-
-***FLOP***(109) Board:(Jd Qd Tc)
-Our hand: 9c Qc
-
-Clone4 raised to 78.
-our last bet of 27 was in round 3
-BAMF4's EV: 69.240000
-BAMF4's Equity: 0.7515
-BAMF4's Implied Odds: -143
-BAMF4's maxBetFold: 54
-BAMF4's M ratio:59
-BAMF4's maxBetEV: 329
-
-line 1
-final max raise:178
-final min raise:129
-Raise range: 129 195
-BAMF4 calls 78.
-our bot's last action is CALL for 78
-['CHECK', 'BET:2:117']
-{}
-
-***TURN***(160) Board:(Jd Qd Tc 6d)
-Our hand: 9c Qc
-
-our last bet of 78 was in round 3
-BAMF4's EV: 114.960000
-BAMF4's Equity: 0.7185
-BAMF4's Implied Odds: -160
-BAMF4's maxBetFold: 79
-BAMF4's M ratio:42
-BAMF4's maxBetEV: 408
-
-line 1
-final max bet:117
-final min bet:2
-Bet range: 2 117
-BAMF4 bets 88.
-our bot's last action is BET for 88
-['CHECK', 'BET:2:29']
-{}
-
-***RIVER***(336) Board:(Jd Qd Tc 6d 6s)
-Our hand: 9c Qc
-
-Clone4 called 88.
-our last bet of 88 was in round 4
-BAMF4's EV: 253.527273
-BAMF4's Equity: 0.754545454545
-BAMF4's Implied Odds: -336
-BAMF4's maxBetFold: 167
-BAMF4's M ratio:13
-BAMF4's maxBetEV: 1032
-
-line 1
-final max bet:29
-final min bet:2
-Bet range: 2 29
-BAMF4 bets 14.
-our bot's last action is BET for 14
-Clone4 called 14.
-BAMF4 WTSD percentage is: 0.666667
-Clone4 WTSD percentage is: 0.666667
-BAMF4 W$SD percentage is: 1.000000
-
-
-NEWHAND:4
-
-['NEWHAND', '4', '3', '7s', '4s', '15', '196', '389', 'Clone4', 'Doppelganger4', 'BAMF4', '3', 'true', 'true', 'true', '14.930195']
-Active Players:3
-
-Our hand: 7s 4s
-Clone4's VPIP: 0.333333
-Clone4's PFR: 0.000000
-Clone4's estimated fold percentage is 0.000000
-Clone4's AF flop/postflop: 1.000000
-Clone4's Player Type: CALLING STATION
-Clone4's Seat:1
-Doppelganger4's VPIP: 0.333333
-Doppelganger4's PFR: 0.000000
-Doppelganger4's estimated fold percentage is 0.333333
-Doppelganger4's AF flop/postflop: 0.000000
-Doppelganger4's Player Type: CALLING STATION
-Doppelganger4's Seat:2
-BAMF4's VPIP: 0.000000
-BAMF4's PFR: 0.000000
-BAMF4's estimated fold percentage is 0.000000
-BAMF4's AF flop/postflop: 1.666667
-BAMF4's Player Type: NIT
-BAMF4's Seat:3
-
-Doppelganger4 posts small blind, stack size (195)
-BAMF4 posts big blind, stack size (387)
-
-Clone4 folds.
-Doppelganger4 folds.
-
-
-NEWHAND:5
-
-['NEWHAND', '5', '1', '3h', 'Ad', '390', '15', '195', 'BAMF4', 'Clone4', 'Doppelganger4', '3', 'true', 'true', 'true', '14.930195']
-Active Players:3
-
-Our hand: 3h Ad
-BAMF4's VPIP: 0.000000
-BAMF4's PFR: 0.000000
-BAMF4's estimated fold percentage is 0.000000
-BAMF4's AF flop/postflop: 1.666667
-BAMF4's Player Type: NIT
-BAMF4's Seat:1
-Clone4's VPIP: 0.250000
-Clone4's PFR: 0.000000
-Clone4's estimated fold percentage is 0.250000
-Clone4's AF flop/postflop: 1.000000
-Clone4's Player Type: CALLING STATION
-Clone4's Seat:2
-Doppelganger4's VPIP: 0.250000
-Doppelganger4's PFR: 0.000000
-Doppelganger4's estimated fold percentage is 0.500000
-Doppelganger4's AF flop/postflop: 0.000000
-Doppelganger4's Player Type: CALLING STATION
-Doppelganger4's Seat:3
-
-Clone4 posts small blind, stack size (14)
-Doppelganger4 posts big blind, stack size (193)
+V4One4 posts small blind, stack size (292)
+V4Two4 posts big blind, stack size (155)
 
 ['CALL:2', 'FOLD', 'RAISE:4:7']
 {}
 
 ***PREFLOP***(3) Board:()
-Our hand: 3h Ad
+Our hand: 7c Jh
 
 our last bet of 0 was in round 0
-BAMF4's EV: 0.770000
-BAMF4's Equity: 0.554
-BAMF4's Implied Odds: -3
-BAMF4's maxBetFold: 3
-BAMF4's M ratio:130
-BAMF4's maxBetEV: 3
-
-BAMF4 calls 2.
-our bot's last action is CALL for 2
-['CHECK', 'BET:2:5']
-{}
-
-***FLOP***(5) Board:(Qs 6h 7d)
-Our hand: 3h Ad
-
-Clone4 folds.
-Doppelganger4 checks.
-Doppelganger4 checks.
-our last bet of 2 was in round 0
-BAMF4's EV: 2.092500
-BAMF4's Equity: 0.4185
-BAMF4's Implied Odds: -5
-BAMF4's maxBetFold: 5
-BAMF4's M ratio:129
-BAMF4's maxBetEV: 3
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:5', 'RAISE:10:20']
-{}
-
-***TURN***(10) Board:(Qs 6h 7d 4d)
-Our hand: 3h Ad
-
-Doppelganger4 bet 5.
-our last bet of 0 was in round 3
-BAMF4's EV: 1.097500
-BAMF4's Equity: 0.4065
-BAMF4's Implied Odds: -7
-BAMF4's maxBetFold: 10
-BAMF4's M ratio:129
-BAMF4's maxBetEV: 6
-
-line 3
-BAMF4 folds.
-our bot's last action is FOLD for 0
-
-
-NEWHAND:6
-
-['NEWHAND', '6', '2', 'Qh', 'Kc', '198', '388', '14', 'Doppelganger4', 'BAMF4', 'Clone4', '3', 'true', 'true', 'true', '14.911002']
-Active Players:3
-
-Our hand: Qh Kc
-Doppelganger4's VPIP: 0.200000
-Doppelganger4's PFR: 0.000000
-Doppelganger4's estimated fold percentage is 0.500000
-Doppelganger4's AF flop/postflop: 1.000000
-Doppelganger4's Player Type: CALLING STATION
-Doppelganger4's Seat:1
-BAMF4's VPIP: 0.000000
-BAMF4's PFR: 0.000000
-BAMF4's estimated fold percentage is 0.000000
-BAMF4's AF flop/postflop: 1.250000
-BAMF4's Player Type: NIT
-BAMF4's Seat:2
-Clone4's VPIP: 0.200000
-Clone4's PFR: 0.000000
-Clone4's estimated fold percentage is 0.250000
-Clone4's AF flop/postflop: 1.000000
-Clone4's Player Type: CALLING STATION
-Clone4's Seat:3
-
-BAMF4 posts small blind, stack size (387)
-Clone4 posts big blind, stack size (12)
-
-['FOLD', 'CALL:2', 'RAISE:4:8']
-{}
-
-***PREFLOP***(5) Board:()
-Our hand: Qh Kc
-
-Doppelganger4 called 2.
-our last bet of 1 was in round 0
-BAMF4's EV: 2.612000
-BAMF4's Equity: 0.602
-BAMF4's Implied Odds: -5
-BAMF4's maxBetFold: 5
-BAMF4's M ratio:129
-BAMF4's maxBetEV: 7
-
-BAMF4 calls 2.
-our bot's last action is CALL for 2
-['FOLD', 'CALL:8', 'RAISE:14:32']
-{}
-
-***PREFLOP***(18) Board:()
-Our hand: Qh Kc
-
-Clone4 raised to 8.
-Doppelganger4 called 8.
-our last bet of 2 was in round 0
-BAMF4's EV: 8.448000
-BAMF4's Equity: 0.602
-BAMF4's Implied Odds: -20
-BAMF4's maxBetFold: 18
-BAMF4's M ratio:128
-BAMF4's maxBetEV: 27
-
-BAMF4 calls 8.
-our bot's last action is CALL for 8
-['CHECK', 'BET:2:24']
-{}
-
-***FLOP***(24) Board:(3c 6d 9d)
-Our hand: Qh Kc
-
-our last bet of 8 was in round 0
-BAMF4's EV: 10.008000
-BAMF4's Equity: 0.417
-BAMF4's Implied Odds: -24
-BAMF4's maxBetFold: 24
-BAMF4's M ratio:126
-BAMF4's maxBetEV: 17
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:6', 'RAISE:12:48']
-{}
-
-***FLOP***(36) Board:(3c 6d 9d)
-Our hand: Qh Kc
-
-Clone4 bet 6.
-Doppelganger4 called 6.
-our last bet of 0 was in round 3
-BAMF4's EV: 11.514000
-BAMF4's Equity: 0.417
-BAMF4's Implied Odds: -33
-BAMF4's maxBetFold: 36
-BAMF4's M ratio:126
-BAMF4's maxBetEV: 25
-
-line 6
-BAMF4 calls 6.
-our bot's last action is CALL for 6
-['CHECK', 'BET:2:42']
-{}
-
-***TURN***(42) Board:(3c 6d 9d 9s)
-Our hand: Qh Kc
-
-our last bet of 6 was in round 3
-BAMF4's EV: 19.152000
-BAMF4's Equity: 0.456
-BAMF4's Implied Odds: -42
-BAMF4's maxBetFold: 42
-BAMF4's M ratio:124
-BAMF4's maxBetEV: 35
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:42']
-{}
-
-***RIVER***(42) Board:(3c 6d 9d 9s 7d)
-Our hand: Qh Kc
-
-Doppelganger4 checks.
-our last bet of 0 was in round 4
-BAMF4's EV: 13.406061
-BAMF4's Equity: 0.319191919192
-BAMF4's Implied Odds: -42
-BAMF4's maxBetFold: 42
-BAMF4's M ratio:124
-BAMF4's maxBetEV: 19
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:22', 'RAISE:44:108']
-{}
-
-***RIVER***(64) Board:(3c 6d 9d 9s 7d)
-Our hand: Qh Kc
-
-Doppelganger4 bet 22.
-our last bet of 0 was in round 5
-BAMF4's EV: 5.450505
-BAMF4's Equity: 0.319191919192
-BAMF4's Implied Odds: -39
-BAMF4's maxBetFold: 64
-BAMF4's M ratio:124
-BAMF4's maxBetEV: 30
-
-line 3
-BAMF4 folds.
-our bot's last action is FOLD for 0
-Doppelganger4 WTSD percentage is: 0.333333
-Clone4 WTSD percentage is: 0.500000
-Doppelganger4 W$SD percentage is: 0.500000
-Clone4 W$SD percentage is: 0.333333
-Doppelganger4 W$SD percentage is: 1.000000
-
-
-NEWHAND:7
-
-['NEWHAND', '7', '3', 'Jc', '3s', '21', '205', '374', 'Clone4', 'Doppelganger4', 'BAMF4', '3', 'true', 'true', 'true', '14.864571']
-Active Players:3
-
-Our hand: Jc 3s
-Clone4's VPIP: 0.333333
-Clone4's PFR: 0.166667
-Clone4's estimated fold percentage is 0.250000
-Clone4's AF flop/postflop: 1.500000
-Clone4's Player Type: LOOSE
-Clone4's Seat:1
-Doppelganger4's VPIP: 0.333333
-Doppelganger4's PFR: 0.000000
-Doppelganger4's estimated fold percentage is 0.500000
-Doppelganger4's AF flop/postflop: 2.000000
-Doppelganger4's Player Type: UNKNOWN
-Doppelganger4's Seat:2
-BAMF4's VPIP: 0.166667
-BAMF4's PFR: 0.000000
-BAMF4's estimated fold percentage is 0.000000
-BAMF4's AF flop/postflop: 0.833333
-BAMF4's Player Type: UNKNOWN
-BAMF4's Seat:3
-
-Doppelganger4 posts small blind, stack size (204)
-BAMF4 posts big blind, stack size (372)
-
-['FOLD', 'CALL:7', 'RAISE:12:21']
-{}
-
-***PREFLOP***(10) Board:()
-Our hand: Jc 3s
-
-Clone4 raised to 7.
-Doppelganger4 folds.
-our last bet of 2 was in round 0
-BAMF4's EV: 1.532500
-BAMF4's Equity: 0.4355
-BAMF4's Implied Odds: -8
-BAMF4's maxBetFold: 7
-BAMF4's M ratio:124
-BAMF4's maxBetEV: 7
-
-NOT BLUFFING FOLD
-BAMF4 folds.
-our bot's last action is FOLD for 0
-
-
-NEWHAND:8
-
-['NEWHAND', '8', '1', '7h', '6s', '372', '24', '204', 'BAMF4', 'Clone4', 'Doppelganger4', '3', 'true', 'true', 'true', '14.854455']
-Active Players:3
-
-Our hand: 7h 6s
-BAMF4's VPIP: 0.142857
-BAMF4's PFR: 0.000000
-BAMF4's estimated fold percentage is 0.142857
-BAMF4's AF flop/postflop: 0.833333
-BAMF4's Player Type: UNKNOWN
-BAMF4's Seat:1
-Clone4's VPIP: 0.428571
-Clone4's PFR: 0.142857
-Clone4's estimated fold percentage is 0.250000
-Clone4's AF flop/postflop: 1.500000
-Clone4's Player Type: LOOSE
-Clone4's Seat:2
-Doppelganger4's VPIP: 0.285714
-Doppelganger4's PFR: 0.000000
-Doppelganger4's estimated fold percentage is 0.428571
-Doppelganger4's AF flop/postflop: 2.000000
-Doppelganger4's Player Type: UNKNOWN
-Doppelganger4's Seat:3
-
-Clone4 posts small blind, stack size (23)
-Doppelganger4 posts big blind, stack size (202)
-
-['CALL:2', 'FOLD', 'RAISE:4:7']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 7h 6s
-
-our last bet of 0 was in round 0
-BAMF4's EV: 0.152500
-BAMF4's Equity: 0.4305
+BAMF4's EV: 0.345000
+BAMF4's Equity: 0.469
 BAMF4's Implied Odds: -2
+BAMF4's Pot odds: 0.666667
 BAMF4's maxBetFold: 2
-BAMF4's M ratio:124
+BAMF4's M ratio:50.000000
 BAMF4's maxBetEV: 2
-
-NOT BLUFFING FOLD
-BAMF4 folds.
-our bot's last action is FOLD for 0
-Clone4 folds.
-
-
-NEWHAND:9
-
-['NEWHAND', '9', '2', 'Jd', '5s', '205', '372', '23', 'Doppelganger4', 'BAMF4', 'Clone4', '3', 'true', 'true', 'true', '14.844203']
-Active Players:3
-
-Our hand: Jd 5s
-Doppelganger4's VPIP: 0.250000
-Doppelganger4's PFR: 0.000000
-Doppelganger4's estimated fold percentage is 0.428571
-Doppelganger4's AF flop/postflop: 2.000000
-Doppelganger4's Player Type: UNKNOWN
-Doppelganger4's Seat:1
-BAMF4's VPIP: 0.125000
-BAMF4's PFR: 0.000000
-BAMF4's estimated fold percentage is 0.250000
-BAMF4's AF flop/postflop: 0.833333
-BAMF4's Player Type: NIT
-BAMF4's Seat:2
-Clone4's VPIP: 0.375000
-Clone4's PFR: 0.125000
-Clone4's estimated fold percentage is 0.250000
-Clone4's AF flop/postflop: 1.500000
-Clone4's Player Type: CALLING STATION
-Clone4's Seat:3
-
-BAMF4 posts small blind, stack size (371)
-Clone4 posts big blind, stack size (21)
-
-['FOLD', 'CALL:2', 'RAISE:4:8']
-{}
-
-***PREFLOP***(5) Board:()
-Our hand: Jd 5s
-
-Doppelganger4 called 2.
-our last bet of 1 was in round 0
-BAMF4's EV: 1.826000
-BAMF4's Equity: 0.471
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 3
-BAMF4's M ratio:123
-BAMF4's maxBetEV: 4
 
 BAMF4 calls 2.
 our bot's last action is CALL for 2
 ['CHECK', 'BET:2:6']
 {}
 
-***FLOP***(6) Board:(3d 8d 4c)
-Our hand: Jd 5s
+***FLOP***(6) Board:(7h 6d 8s)
+Our hand: 7c Jh
 
-Clone4 checks.
+V4One4 called 2.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
 our last bet of 2 was in round 0
-BAMF4's EV: 1.989000
-BAMF4's Equity: 0.3315
+BAMF4's EV: 3.543000
+BAMF4's Equity: 0.5905
 BAMF4's Implied Odds: -6
-BAMF4's maxBetFold: 4
-BAMF4's M ratio:123
-BAMF4's maxBetEV: 2
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:17', 'RAISE:28:63']
-{}
-
-***FLOP***(29) Board:(3d 8d 4c)
-Our hand: Jd 5s
-
-Clone4 bet 6.
-Doppelganger4 raised to 17.
-our last bet of 0 was in round 3
-BAMF4's EV: -1.751000
-BAMF4's Equity: 0.3315
-BAMF4's Implied Odds: -11
-BAMF4's maxBetFold: 21
-BAMF4's M ratio:123
-BAMF4's maxBetEV: 14
-
-BAMF4 folds.
-our bot's last action is FOLD for 0
-Clone4 called 17.
-Clone4 bet 4.
-Doppelganger4 called 4.
-Doppelganger4 WTSD percentage is: 0.333333
-Clone4 WTSD percentage is: 0.444444
-Doppelganger4 W$SD percentage is: 1.000000
-
-
-NEWHAND:10
-
-['NEWHAND', '10', '1', '9c', 'Js', '370', '230', '0', 'BAMF4', 'Doppelganger4', 'Clone4', '2', 'true', 'true', 'false', '14.817783']
-Active Players:2
-
-Our hand: 9c Js
-BAMF4's VPIP: 0.111111
-BAMF4's PFR: 0.000000
-BAMF4's estimated fold percentage is 0.250000
-BAMF4's AF flop/postflop: 0.714286
-BAMF4's Player Type: NIT
-BAMF4's Seat:1
-Doppelganger4's VPIP: 0.333333
-Doppelganger4's PFR: 0.000000
-Doppelganger4's estimated fold percentage is 0.428571
-Doppelganger4's AF flop/postflop: 1.500000
-Doppelganger4's Player Type: UNKNOWN
-Doppelganger4's Seat:2
-Clone4's VPIP: 0.333333
-Clone4's PFR: 0.111111
-Clone4's estimated fold percentage is 0.250000
-Clone4's AF flop/postflop: 1.666667
-Clone4's Player Type: CALLING STATION
-Clone4's Seat:3
-Clone4 is eliminated
-
-BAMF4 posts small blind/and is dealer, stack size (369)
-Doppelganger4 posts big blind, stack size (228)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 9c Js
-
-our last bet of 1 was in round 0
-BAMF4's EV: 0.976000
-BAMF4's Equity: 0.494
-BAMF4's Implied Odds: -2
-BAMF4's maxBetFold: 2
-BAMF4's M ratio:123
-BAMF4's maxBetEV: 2
-
-BAMF4 calls 2.
-our bot's last action is CALL for 2
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(Ks 2s 2d)
-Our hand: 9c Js
-
-Doppelganger4 checks.
-Doppelganger4 checks.
-our last bet of 2 was in round 0
-BAMF4's EV: 1.728000
-BAMF4's Equity: 0.432
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 3
-BAMF4's M ratio:122
-BAMF4's maxBetEV: 3
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***TURN***(4) Board:(Ks 2s 2d 7h)
-Our hand: 9c Js
-
-Doppelganger4 checks.
-our last bet of 0 was in round 3
-BAMF4's EV: 1.494000
-BAMF4's Equity: 0.3735
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 3
-BAMF4's M ratio:122
-BAMF4's maxBetEV: 2
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***RIVER***(4) Board:(Ks 2s 2d 7h 9h)
-Our hand: 9c Js
-
-Doppelganger4 checks.
-our last bet of 0 was in round 4
-BAMF4's EV: 2.868687
-BAMF4's Equity: 0.717171717172
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 3
-BAMF4's M ratio:122
-BAMF4's maxBetEV: 10
-
-line 1
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF4 bets 4.
-our bot's last action is BET for 4
-Doppelganger4 folds.
-
-
-NEWHAND:11
-
-['NEWHAND', '11', '2', 'Kc', 'Tc', '228', '372', '0', 'Doppelganger4', 'BAMF4', 'Clone4', '2', 'true', 'true', 'false', '14.791741']
-Active Players:2
-
-Our hand: Kc Tc
-Doppelganger4's VPIP: 0.300000
-Doppelganger4's PFR: 0.000000
-Doppelganger4's estimated fold percentage is 0.428571
-Doppelganger4's AF flop/postflop: 1.500000
-Doppelganger4's Player Type: UNKNOWN
-Doppelganger4's Seat:1
-BAMF4's VPIP: 0.100000
-BAMF4's PFR: 0.000000
-BAMF4's estimated fold percentage is 0.250000
-BAMF4's AF flop/postflop: 0.750000
-BAMF4's Player Type: NIT
-BAMF4's Seat:2
-Clone4's VPIP: 0.300000
-Clone4's PFR: 0.100000
-Clone4's estimated fold percentage is 0.250000
-Clone4's AF flop/postflop: 1.666667
-Clone4's Player Type: CALLING STATION
-Clone4's Seat:3
-Clone4 is eliminated
-
-Doppelganger4 posts small blind/and is dealer, stack size (227)
-BAMF4 posts big blind, stack size (370)
-
-['CHECK', 'RAISE:4:6']
-{}
-
-***PREFLOP***(4) Board:()
-Our hand: Kc Tc
-
-Doppelganger4 called 2.
-our last bet of 2 was in round 0
-BAMF4's EV: 2.528000
-BAMF4's Equity: 0.632
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 3
-BAMF4's M ratio:123
-BAMF4's maxBetEV: 6
-
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(4h 4s 2s)
-Our hand: Kc Tc
-
-our last bet of 0 was in round 0
-BAMF4's EV: 2.068000
-BAMF4's Equity: 0.517
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 3
-BAMF4's M ratio:123
-BAMF4's maxBetEV: 4
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***TURN***(4) Board:(4h 4s 2s 8d)
-Our hand: Kc Tc
-
-Doppelganger4 checks.
-our last bet of 0 was in round 3
-BAMF4's EV: 1.846000
-BAMF4's Equity: 0.4615
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 3
-BAMF4's M ratio:123
-BAMF4's maxBetEV: 3
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:2', 'RAISE:4:10']
-{}
-
-***TURN***(6) Board:(4h 4s 2s 8d)
-Our hand: Kc Tc
-
-Doppelganger4 bet 2.
-our last bet of 0 was in round 4
-BAMF4's EV: 1.692000
-BAMF4's Equity: 0.4615
-BAMF4's Implied Odds: -5
-BAMF4's maxBetFold: 4
-BAMF4's M ratio:123
-BAMF4's maxBetEV: 5
-
-line 6
-BAMF4 calls 2.
-our bot's last action is CALL for 2
-['CHECK', 'BET:2:8']
-{}
-
-***RIVER***(8) Board:(4h 4s 2s 8d Qc)
-Our hand: Kc Tc
-
-our last bet of 2 was in round 4
-BAMF4's EV: 3.042424
-BAMF4's Equity: 0.380303030303
-BAMF4's Implied Odds: -8
-BAMF4's maxBetFold: 6
-BAMF4's M ratio:122
-BAMF4's maxBetEV: 4
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:6', 'RAISE:12:26']
-{}
-
-***RIVER***(14) Board:(4h 4s 2s 8d Qc)
-Our hand: Kc Tc
-
-Doppelganger4 bet 6.
-our last bet of 0 was in round 5
-BAMF4's EV: 1.606061
-BAMF4's Equity: 0.380303030303
-BAMF4's Implied Odds: -10
-BAMF4's maxBetFold: 10
-BAMF4's M ratio:122
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 8
+BAMF4's M ratio:49.333333
 BAMF4's maxBetEV: 8
 
-line 6
-BAMF4 calls 6.
-our bot's last action is CALL for 6
-BAMF4 WTSD percentage is: 0.272727
-Doppelganger4 WTSD percentage is: 0.363636
-Doppelganger4 W$SD percentage is: 1.000000
-
-
-NEWHAND:12
-
-['NEWHAND', '12', '1', '6h', '6s', '362', '238', '0', 'BAMF4', 'Doppelganger4', 'Clone4', '2', 'true', 'true', 'false', '14.756817']
-Active Players:2
-
-Our hand: 6h 6s
-BAMF4's VPIP: 0.090909
-BAMF4's PFR: 0.000000
-BAMF4's estimated fold percentage is 0.250000
-BAMF4's AF flop/postflop: 0.600000
-BAMF4's Player Type: NIT
-BAMF4's Seat:1
-Doppelganger4's VPIP: 0.363636
-Doppelganger4's PFR: 0.000000
-Doppelganger4's estimated fold percentage is 0.428571
-Doppelganger4's AF flop/postflop: 2.500000
-Doppelganger4's Player Type: CALLING STATION
-Doppelganger4's Seat:2
-Clone4's VPIP: 0.272727
-Clone4's PFR: 0.090909
-Clone4's estimated fold percentage is 0.250000
-Clone4's AF flop/postflop: 1.666667
-Clone4's Player Type: CALLING STATION
-Clone4's Seat:3
-Clone4 is eliminated
-
-BAMF4 posts small blind/and is dealer, stack size (361)
-Doppelganger4 posts big blind, stack size (236)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 6h 6s
-
-our last bet of 1 was in round 0
-BAMF4's EV: 1.492000
-BAMF4's Equity: 0.623
-BAMF4's Implied Odds: -3
-BAMF4's maxBetFold: 2
-BAMF4's M ratio:120
-BAMF4's maxBetEV: 4
-
-BAMF4 calls 2.
-our bot's last action is CALL for 2
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(2d 7c 3h)
-Our hand: 6h 6s
-
-Doppelganger4 checks.
-Doppelganger4 checks.
-our last bet of 2 was in round 0
-BAMF4's EV: 2.670000
-BAMF4's Equity: 0.6675
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 3
-BAMF4's M ratio:120
-BAMF4's maxBetEV: 8
-
-line 1
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF4 bets 3.
-our bot's last action is BET for 3
-['FOLD', 'CALL:10', 'RAISE:20:40']
-{}
-
-***TURN***(20) Board:(2d 7c 3h 2s)
-Our hand: 6h 6s
-
-Doppelganger4 called 3.
-Doppelganger4 bet 10.
-our last bet of 3 was in round 3
-BAMF4's EV: 10.445000
-BAMF4's Equity: 0.6815
-BAMF4's Implied Odds: -25
-BAMF4's maxBetFold: 15
-BAMF4's M ratio:119
-BAMF4's maxBetEV: 42
-
-line 1
-final max raise:40
-final min raise:20
-Raise range: 20 40
-BAMF4 raises to 36.
-our bot's last action is RAISE for 36
-['FOLD', 'CALL:24', 'RAISE:48:154']
-{}
-
-***RIVER***(106) Board:(2d 7c 3h 2s 3d)
-Our hand: 6h 6s
-
-Doppelganger4 called 36.
-Doppelganger4 bet 24.
-our last bet of 36 was in round 4
-BAMF4's EV: 62.732323
-BAMF4's Equity: 0.667171717172
-BAMF4's Implied Odds: -118
-BAMF4's maxBetFold: 79
-BAMF4's M ratio:107
-BAMF4's maxBetEV: 212
-
-line 1
-final max raise:154
-final min raise:48
-Raise range: 48 154
-BAMF4 raises to 82.
-our bot's last action is RAISE for 82
-Doppelganger4 called 82.
-Doppelganger4 WTSD percentage is: 0.416667
-BAMF4 WTSD percentage is: 0.333333
-BAMF4 W$SD percentage is: 0.750000
-
-
-NEWHAND:13
-
-['NEWHAND', '13', '2', 'Jh', '6h', '115', '485', '0', 'Doppelganger4', 'BAMF4', 'Clone4', '2', 'true', 'true', 'false', '14.731086']
-Active Players:2
-
-Our hand: Jh 6h
-Doppelganger4's VPIP: 0.333333
-Doppelganger4's PFR: 0.000000
-Doppelganger4's estimated fold percentage is 0.428571
-Doppelganger4's AF flop/postflop: 1.400000
-Doppelganger4's Player Type: CALLING STATION
-Doppelganger4's Seat:1
-BAMF4's VPIP: 0.083333
-BAMF4's PFR: 0.000000
-BAMF4's estimated fold percentage is 0.250000
-BAMF4's AF flop/postflop: 0.818182
-BAMF4's Player Type: NIT
-BAMF4's Seat:2
-Clone4's VPIP: 0.250000
-Clone4's PFR: 0.083333
-Clone4's estimated fold percentage is 0.250000
-Clone4's AF flop/postflop: 1.666667
-Clone4's Player Type: CALLING STATION
-Clone4's Seat:3
-Clone4 is eliminated
-
-Doppelganger4 posts small blind/and is dealer, stack size (114)
-BAMF4 posts big blind, stack size (483)
-
-['CHECK', 'RAISE:4:6']
-{}
-
-***PREFLOP***(4) Board:()
-Our hand: Jh 6h
-
-Doppelganger4 called 2.
-our last bet of 2 was in round 0
-BAMF4's EV: 2.002000
-BAMF4's Equity: 0.5005
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 3
-BAMF4's M ratio:161
-BAMF4's maxBetEV: 4
-
+line 2
 BAMF4 checks.
 our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
+['FOLD', 'CALL:8', 'RAISE:13:33']
 {}
 
-***FLOP***(4) Board:(Td 8c Kc)
-Our hand: Jh 6h
+***TURN***(17) Board:(7h 6d 8s Qh)
+Our hand: 7c Jh
 
-our last bet of 0 was in round 0
-BAMF4's EV: 1.292000
-BAMF4's Equity: 0.323
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 3
-BAMF4's M ratio:161
-BAMF4's maxBetEV: 1
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***TURN***(4) Board:(Td 8c Kc Qc)
-Our hand: Jh 6h
-
-Doppelganger4 checks.
+V4One4 bet 3.
+V4Two4 raised to 8.
 our last bet of 0 was in round 3
-BAMF4's EV: 1.414000
-BAMF4's Equity: 0.3535
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 3
-BAMF4's M ratio:161
-BAMF4's maxBetEV: 2
+BAMF4's EV: 5.800000
+BAMF4's Equity: 0.552
+BAMF4's Implied Odds: -18
+BAMF4's Pot odds: 0.470588
+BAMF4's maxBetFold: 20
+BAMF4's M ratio:49.333333
+BAMF4's maxBetEV: 20
 
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
+line 2
+BAMF4 calls 8.
+our bot's last action is CALL for 8
+['FOLD', 'CALL:23', 'RAISE:38:98']
 {}
 
-***RIVER***(4) Board:(Td 8c Kc Qc 9c)
-Our hand: Jh 6h
+***TURN***(60) Board:(7h 6d 8s Qh)
+Our hand: 7c Jh
 
-Doppelganger4 checks.
-our last bet of 0 was in round 4
-BAMF4's EV: 2.393939
-BAMF4's Equity: 0.598484848485
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 3
-BAMF4's M ratio:161
-BAMF4's maxBetEV: 5
+V4One4 raised to 23.
+V4Two4 called 23.
+our last bet of 8 was in round 4
+BAMF4's EV: 26.400000
+BAMF4's Equity: 0.552
+BAMF4's Implied Odds: -62
+BAMF4's Pot odds: 0.250000
+BAMF4's maxBetFold: 73
+BAMF4's M ratio:46.666667
+BAMF4's maxBetEV: 73
 
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-Doppelganger4 checks.
-Doppelganger4 WTSD percentage is: 0.461538
-BAMF4 WTSD percentage is: 0.384615
-BAMF4 W$SD percentage is: 0.800000
-
-
-NEWHAND:14
-
-['NEWHAND', '14', '1', 'Jh', '6s', '487', '113', '0', 'BAMF4', 'Doppelganger4', 'Clone4', '2', 'true', 'true', 'false', '14.704097']
-Active Players:2
-
-Our hand: Jh 6s
-BAMF4's VPIP: 0.076923
-BAMF4's PFR: 0.000000
-BAMF4's estimated fold percentage is 0.250000
-BAMF4's AF flop/postflop: 0.818182
-BAMF4's Player Type: NIT
-BAMF4's Seat:1
-Doppelganger4's VPIP: 0.384615
-Doppelganger4's PFR: 0.000000
-Doppelganger4's estimated fold percentage is 0.428571
-Doppelganger4's AF flop/postflop: 1.400000
-Doppelganger4's Player Type: CALLING STATION
-Doppelganger4's Seat:2
-Clone4's VPIP: 0.230769
-Clone4's PFR: 0.076923
-Clone4's estimated fold percentage is 0.250000
-Clone4's AF flop/postflop: 1.666667
-Clone4's Player Type: CALLING STATION
-Clone4's Seat:3
-Clone4 is eliminated
-
-BAMF4 posts small blind/and is dealer, stack size (486)
-Doppelganger4 posts big blind, stack size (111)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
+line 2
+BAMF4 calls 23.
+our bot's last action is CALL for 23
+['FOLD', 'CALL:69', 'RAISE:125:125']
 {}
 
-***PREFLOP***(3) Board:()
-Our hand: Jh 6s
+***RIVER***(144) Board:(7h 6d 8s Qh 3c)
+Our hand: 7c Jh
 
-our last bet of 1 was in round 0
-BAMF4's EV: 0.916000
-BAMF4's Equity: 0.479
-BAMF4's Implied Odds: -2
-BAMF4's maxBetFold: 2
-BAMF4's M ratio:162
-BAMF4's maxBetEV: 2
-
-BAMF4 calls 2.
-our bot's last action is CALL for 2
-['FOLD', 'CALL:4', 'RAISE:6:12']
-{}
-
-***PREFLOP***(6) Board:()
-Our hand: Jh 6s
-
-Doppelganger4 raised to 4.
-our last bet of 2 was in round 0
-BAMF4's EV: 1.832000
-BAMF4's Equity: 0.479
-BAMF4's Implied Odds: -5
-BAMF4's maxBetFold: 4
-BAMF4's M ratio:161
-BAMF4's maxBetEV: 5
-
-BAMF4 calls 4.
-our bot's last action is CALL for 4
-['CHECK', 'BET:2:8']
-{}
-
-***FLOP***(8) Board:(5d 3c 4h)
-Our hand: Jh 6s
-
-Doppelganger4 checks.
-our last bet of 4 was in round 0
-BAMF4's EV: 3.664000
-BAMF4's Equity: 0.458
-BAMF4's Implied Odds: -8
-BAMF4's maxBetFold: 6
-BAMF4's M ratio:161
-BAMF4's maxBetEV: 6
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:8']
-{}
-
-***TURN***(8) Board:(5d 3c 4h 9h)
-Our hand: Jh 6s
-
-Doppelganger4 checks.
-our last bet of 0 was in round 3
-BAMF4's EV: 2.528000
-BAMF4's Equity: 0.316
-BAMF4's Implied Odds: -8
-BAMF4's maxBetFold: 6
-BAMF4's M ratio:161
-BAMF4's maxBetEV: 3
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:8', 'RAISE:16:32']
-{}
-
-***RIVER***(16) Board:(5d 3c 4h 9h 8d)
-Our hand: Jh 6s
-
-Doppelganger4 bet 8.
-our last bet of 0 was in round 4
-BAMF4's EV: -6.145455
-BAMF4's Equity: 0.0772727272727
-BAMF4's Implied Odds: 71
-BAMF4's maxBetFold: 12
-BAMF4's M ratio:161
-BAMF4's maxBetEV: 1
-
-BAMF4 folds.
-our bot's last action is FOLD for 0
-
-
-NEWHAND:15
-
-['NEWHAND', '15', '2', '6d', '5d', '117', '483', '0', 'Doppelganger4', 'BAMF4', 'Clone4', '2', 'true', 'true', 'false', '14.653320']
-Active Players:2
-
-Our hand: 6d 5d
-Doppelganger4's VPIP: 0.428571
-Doppelganger4's PFR: 0.071429
-Doppelganger4's estimated fold percentage is 0.428571
-Doppelganger4's AF flop/postflop: 1.600000
-Doppelganger4's Player Type: UNKNOWN
-Doppelganger4's Seat:1
-BAMF4's VPIP: 0.142857
-BAMF4's PFR: 0.000000
-BAMF4's estimated fold percentage is 0.250000
-BAMF4's AF flop/postflop: 0.750000
-BAMF4's Player Type: UNKNOWN
-BAMF4's Seat:2
-Clone4's VPIP: 0.214286
-Clone4's PFR: 0.071429
-Clone4's estimated fold percentage is 0.250000
-Clone4's AF flop/postflop: 1.666667
-Clone4's Player Type: CALLING STATION
-Clone4's Seat:3
-Clone4 is eliminated
-
-Doppelganger4 posts small blind/and is dealer, stack size (116)
-BAMF4 posts big blind, stack size (481)
-
-['CHECK', 'RAISE:4:6']
-{}
-
-***PREFLOP***(4) Board:()
-Our hand: 6d 5d
-
-Doppelganger4 called 2.
-our last bet of 2 was in round 0
-BAMF4's EV: 1.780000
-BAMF4's Equity: 0.445
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 3
-BAMF4's M ratio:160
-BAMF4's maxBetEV: 3
-
-final max raise:4
-final min raise:4
-Raise range: 4 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(2s 6h Td)
-Our hand: 6d 5d
-
-our last bet of 0 was in round 0
-BAMF4's EV: 2.680000
-BAMF4's Equity: 0.67
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 3
-BAMF4's M ratio:160
-BAMF4's maxBetEV: 8
+V4One4 bet 69.
+V4Two4 folds.
+our last bet of 23 was in round 4
+BAMF4's EV: 64.178788
+BAMF4's Equity: 0.625252525253
+BAMF4's Implied Odds: -171
+BAMF4's Pot odds: 0.479167
+BAMF4's maxBetFold: 125
+BAMF4's M ratio:41.666667
+BAMF4's maxBetEV: 240
 
 line 1
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF4 bets 4.
-our bot's last action is BET for 4
-['CHECK', 'BET:2:12']
-{}
-
-***TURN***(12) Board:(2s 6h Td 7d)
-Our hand: 6d 5d
-
-Doppelganger4 called 4.
-our last bet of 4 was in round 3
-BAMF4's EV: 8.388000
-BAMF4's Equity: 0.699
-BAMF4's Implied Odds: -12
-BAMF4's maxBetFold: 9
-BAMF4's M ratio:159
-BAMF4's maxBetEV: 27
-
-line 1
-final max bet:12
-final min bet:2
-Bet range: 2 12
-BAMF4 bets 5.
-our bot's last action is BET for 5
-['CHECK', 'BET:2:22']
-{}
-
-***RIVER***(22) Board:(2s 6h Td 7d Kh)
-Our hand: 6d 5d
-
-Doppelganger4 called 5.
-our last bet of 5 was in round 4
-BAMF4's EV: 11.622222
-BAMF4's Equity: 0.528282828283
-BAMF4's Implied Odds: -22
-BAMF4's maxBetFold: 16
-BAMF4's M ratio:157
-BAMF4's maxBetEV: 24
-
-line 6
-BAMF4 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:3', 'RAISE:6:31']
-{}
-
-***RIVER***(25) Board:(2s 6h Td 7d Kh)
-Our hand: 6d 5d
-
-Doppelganger4 bet 3.
-our last bet of 0 was in round 5
-BAMF4's EV: 11.791919
-BAMF4's Equity: 0.528282828283
-BAMF4's Implied Odds: -25
-BAMF4's maxBetFold: 18
-BAMF4's M ratio:157
-BAMF4's maxBetEV: 27
-
-line 6
-BAMF4 calls 3.
-our bot's last action is CALL for 3
-Doppelganger4 WTSD percentage is: 0.466667
+final max raise:125
+final min raise:125
+Raise range: 125 125
+BAMF4 calls 69.
+our bot's last action is CALL for 69
 BAMF4 WTSD percentage is: 0.400000
-Doppelganger4 W$SD percentage is: 0.714286
+V4One4 WTSD percentage is: 0.600000
+V4One4 W$SD percentage is: 1.000000
 
 
-NEWHAND:16
+NEWHAND:6
 
-['NEWHAND', '16', '1', '4s', 'Tc', '469', '131', '0', 'BAMF4', 'Doppelganger4', 'Clone4', '2', 'true', 'true', 'false', '14.620859']
-Active Players:2
+['NEWHAND', '6', '2', 'Th', '6s', '132', '56', '412', 'V4Two4', 'BAMF4', 'V4One4', '3', 'true', 'true', 'true', '14.894699']
+Active Players:3
 
-Our hand: 4s Tc
-BAMF4's VPIP: 0.133333
+Our hand: Th 6s
+V4Two4's VPIP: 0.400000
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 1.000000
+V4Two4's AF flop/postflop: 1.333333
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:6.000000
+BAMF4's VPIP: 0.000000
 BAMF4's PFR: 0.000000
-BAMF4's estimated fold percentage is 0.250000
-BAMF4's AF flop/postflop: 0.846154
-BAMF4's Player Type: UNKNOWN
-BAMF4's Seat:1
-Doppelganger4's VPIP: 0.466667
-Doppelganger4's PFR: 0.066667
-Doppelganger4's estimated fold percentage is 0.428571
-Doppelganger4's AF flop/postflop: 1.285714
-Doppelganger4's Player Type: UNKNOWN
-Doppelganger4's Seat:2
-Clone4's VPIP: 0.200000
-Clone4's PFR: 0.066667
-Clone4's estimated fold percentage is 0.250000
-Clone4's AF flop/postflop: 1.666667
-Clone4's Player Type: CALLING STATION
-Clone4's Seat:3
-Clone4 is eliminated
+BAMF4's estimated fold percentage is 0.000000
+BAMF4's AF flop/postflop: 0.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:2
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:6.000000
+V4One4's VPIP: 0.200000
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 1.000000
+V4One4's AF flop/postflop: 1.600000
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:3
+V4One4's preflop raises:0.000000
+V4One4's hands played:6.000000
 
-BAMF4 posts small blind/and is dealer, stack size (468)
-Doppelganger4 posts big blind, stack size (129)
+BAMF4 posts small blind, stack size (55)
+V4One4 posts big blind, stack size (410)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
+['FOLD', 'CALL:2', 'RAISE:4:6']
 {}
 
 ***PREFLOP***(3) Board:()
-Our hand: 4s Tc
+Our hand: Th 6s
 
+V4Two4 folds.
 our last bet of 1 was in round 0
-BAMF4's EV: 0.770000
-BAMF4's Equity: 0.4425
+BAMF4's EV: 0.808000
+BAMF4's Equity: 0.452
 BAMF4's Implied Odds: -2
-BAMF4's maxBetFold: 2
-BAMF4's M ratio:156
+BAMF4's Pot odds: 0.333333
+BAMF4's maxBetFold: 1
+BAMF4's M ratio:18.333333
 BAMF4's maxBetEV: 2
 
 NOT BLUFFING FOLD
@@ -1564,435 +544,4505 @@ BAMF4 folds.
 our bot's last action is FOLD for 0
 
 
-NEWHAND:17
+NEWHAND:7
 
-['NEWHAND', '17', '2', 'Ts', '6s', '132', '468', '0', 'Doppelganger4', 'BAMF4', 'Clone4', '2', 'true', 'true', 'false', '14.605067']
-Active Players:2
+['NEWHAND', '7', '3', 'Kh', '7h', '413', '132', '55', 'V4One4', 'V4Two4', 'BAMF4', '3', 'true', 'true', 'true', '14.888247']
+Active Players:3
 
-Our hand: Ts 6s
-Doppelganger4's VPIP: 0.437500
-Doppelganger4's PFR: 0.062500
-Doppelganger4's estimated fold percentage is 0.428571
-Doppelganger4's AF flop/postflop: 1.285714
-Doppelganger4's Player Type: UNKNOWN
-Doppelganger4's Seat:1
-BAMF4's VPIP: 0.125000
+Our hand: Kh 7h
+V4One4's VPIP: 0.166667
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 1.000000
+V4One4's AF flop/postflop: 1.600000
+V4One4's Player Type: UNKNOWN
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:7.000000
+V4Two4's VPIP: 0.333333
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.333333
+V4Two4's AF flop/postflop: 1.333333
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:7.000000
+BAMF4's VPIP: 0.000000
 BAMF4's PFR: 0.000000
-BAMF4's estimated fold percentage is 0.187500
-BAMF4's AF flop/postflop: 0.846154
+BAMF4's estimated fold percentage is 0.166667
+BAMF4's AF flop/postflop: 0.000000
 BAMF4's Player Type: NIT
-BAMF4's Seat:2
-Clone4's VPIP: 0.187500
-Clone4's PFR: 0.062500
-Clone4's estimated fold percentage is 0.250000
-Clone4's AF flop/postflop: 1.666667
-Clone4's Player Type: UNKNOWN
-Clone4's Seat:3
-Clone4 is eliminated
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:7.000000
 
-Doppelganger4 posts small blind/and is dealer, stack size (131)
-BAMF4 posts big blind, stack size (466)
+V4Two4 posts small blind, stack size (131)
+BAMF4 posts big blind, stack size (53)
 
-Doppelganger4 folds.
+['CHECK', 'RAISE:4:7']
+{}
+
+***PREFLOP***(5) Board:()
+Our hand: Kh 7h
+
+V4One4 called 2.
+V4Two4 folds.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.920000
+BAMF4's Equity: 0.584
+BAMF4's Implied Odds: -5
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 3
+BAMF4's M ratio:17.666667
+BAMF4's maxBetEV: 7
+
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:5']
+{}
+
+***FLOP***(5) Board:(2c 6h 5c)
+Our hand: Kh 7h
+
+our last bet of 0 was in round 0
+BAMF4's EV: 2.187500
+BAMF4's Equity: 0.4375
+BAMF4's Implied Odds: -5
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 3
+BAMF4's M ratio:17.666667
+BAMF4's maxBetEV: 3
+
+line 2
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:5']
+{}
+
+***TURN***(5) Board:(2c 6h 5c 4c)
+Our hand: Kh 7h
+
+V4One4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 1.497500
+BAMF4's Equity: 0.2995
+BAMF4's Implied Odds: -5
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 2
+BAMF4's M ratio:17.666667
+BAMF4's maxBetEV: 2
+
+line 2
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:2', 'RAISE:4:11']
+{}
+
+***TURN***(7) Board:(2c 6h 5c 4c)
+Our hand: Kh 7h
+
+V4One4 bet 2.
+our last bet of 0 was in round 4
+BAMF4's EV: 0.695500
+BAMF4's Equity: 0.2995
+BAMF4's Implied Odds: -4
+BAMF4's Pot odds: 0.285714
+BAMF4's maxBetFold: 2
+BAMF4's M ratio:17.666667
+BAMF4's maxBetEV: 2
+
+line 2
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:9']
+{}
+
+***RIVER***(9) Board:(2c 6h 5c 4c 3d)
+Our hand: Kh 7h
+
+our last bet of 2 was in round 4
+BAMF4's EV: 7.995455
+BAMF4's Equity: 0.888383838384
+BAMF4's Implied Odds: -9
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 6
+BAMF4's M ratio:17.000000
+BAMF4's maxBetEV: 71
+
+line 2
+BAMF4 checks.
+our bot's last action is CHECK for 0
+V4One4 checks.
+V4One4 WTSD percentage is: 0.571429
+BAMF4 WTSD percentage is: 0.428571
+BAMF4 W$SD percentage is: 0.333333
 
 
-NEWHAND:18
+NEWHAND:8
 
-['NEWHAND', '18', '1', '5s', '5h', '469', '131', '0', 'BAMF4', 'Doppelganger4', 'Clone4', '2', 'true', 'true', 'false', '14.605067']
-Active Players:2
+['NEWHAND', '8', '1', '7c', 'Qh', '60', '409', '131', 'BAMF4', 'V4One4', 'V4Two4', '3', 'true', 'true', 'true', '14.861050']
+Active Players:3
 
-Our hand: 5s 5h
-BAMF4's VPIP: 0.117647
+Our hand: 7c Qh
+BAMF4's VPIP: 0.000000
 BAMF4's PFR: 0.000000
-BAMF4's estimated fold percentage is 0.187500
-BAMF4's AF flop/postflop: 0.846154
+BAMF4's estimated fold percentage is 0.166667
+BAMF4's AF flop/postflop: 0.000000
 BAMF4's Player Type: NIT
 BAMF4's Seat:1
-Doppelganger4's VPIP: 0.411765
-Doppelganger4's PFR: 0.058824
-Doppelganger4's estimated fold percentage is 0.235294
-Doppelganger4's AF flop/postflop: 1.285714
-Doppelganger4's Player Type: UNKNOWN
-Doppelganger4's Seat:2
-Clone4's VPIP: 0.176471
-Clone4's PFR: 0.058824
-Clone4's estimated fold percentage is 0.250000
-Clone4's AF flop/postflop: 1.666667
-Clone4's Player Type: UNKNOWN
-Clone4's Seat:3
-Clone4 is eliminated
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:8.000000
+V4One4's VPIP: 0.285714
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 1.000000
+V4One4's AF flop/postflop: 1.800000
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:8.000000
+V4Two4's VPIP: 0.285714
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.428571
+V4Two4's AF flop/postflop: 1.333333
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:3
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:8.000000
 
-BAMF4 posts small blind/and is dealer, stack size (468)
-Doppelganger4 posts big blind, stack size (129)
+V4One4 posts small blind, stack size (408)
+V4Two4 posts big blind, stack size (129)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
+['CALL:2', 'FOLD', 'RAISE:4:7']
 {}
 
 ***PREFLOP***(3) Board:()
-Our hand: 5s 5h
+Our hand: 7c Qh
 
-our last bet of 1 was in round 0
-BAMF4's EV: 1.420000
-BAMF4's Equity: 0.605
+our last bet of 0 was in round 0
+BAMF4's EV: 0.617500
+BAMF4's Equity: 0.5235
 BAMF4's Implied Odds: -3
-BAMF4's maxBetFold: 0
-BAMF4's M ratio:156
-BAMF4's maxBetEV: 4
+BAMF4's Pot odds: 0.666667
+BAMF4's maxBetFold: 2
+BAMF4's M ratio:20.000000
+BAMF4's maxBetEV: 3
 
 BAMF4 calls 2.
 our bot's last action is CALL for 2
-['CHECK', 'BET:2:4']
+['FOLD', 'CALL:5', 'RAISE:8:20']
 {}
 
-***FLOP***(4) Board:(Ks Js 2s)
-Our hand: 5s 5h
+***PREFLOP***(12) Board:()
+Our hand: 7c Qh
 
-Doppelganger4 checks.
-Doppelganger4 checks.
+new preflop raise
+V4One4 raised to 5.
+V4Two4 called 5.
 our last bet of 2 was in round 0
-BAMF4's EV: 2.446000
-BAMF4's Equity: 0.6115
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 1
-BAMF4's M ratio:155
-BAMF4's maxBetEV: 6
+BAMF4's EV: 4.852500
+BAMF4's Equity: 0.5235
+BAMF4's Implied Odds: -12
+BAMF4's Pot odds: 0.250000
+BAMF4's maxBetFold: 9
+BAMF4's M ratio:19.333333
+BAMF4's maxBetEV: 13
 
-line 1
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF4 bets 2.
-our bot's last action is BET for 2
-['FOLD', 'CALL:8', 'RAISE:16:32']
+final max raise:9
+final min raise:8
+Raise range: 8 20
+BAMF4 raises to 9.
+our bot's last action is RAISE for 9
+['FOLD', 'CALL:26', 'RAISE:38:60']
 {}
 
-***TURN***(16) Board:(Ks Js 2s Qd)
-Our hand: 5s 5h
+***PREFLOP***(49) Board:()
+Our hand: 7c Qh
 
-Doppelganger4 called 2.
-Doppelganger4 bet 8.
-our last bet of 2 was in round 3
-BAMF4's EV: 4.384000
-BAMF4's Equity: 0.516
-BAMF4's Implied Odds: -16
+new preflop raise
+new preflop raise
+V4One4 raised to 14.
+new preflop raise
+V4Two4 raised to 26.
+our last bet of 9 was in round 0
+BAMF4's EV: 17.551000
+BAMF4's Equity: 0.5235
+BAMF4's Implied Odds: -50
+BAMF4's Pot odds: 0.346939
+BAMF4's maxBetFold: 36
+BAMF4's M ratio:17.000000
+BAMF4's maxBetEV: 53
+
+final max raise:38
+final min raise:38
+Raise range: 38 60
+BAMF4 folds.
+our bot's last action is FOLD for 0
+V4One4 folds.
+
+
+NEWHAND:9
+
+['NEWHAND', '9', '2', '9h', 'Td', '154', '51', '395', 'V4Two4', 'BAMF4', 'V4One4', '3', 'true', 'true', 'true', '14.837424']
+Active Players:3
+
+Our hand: 9h Td
+V4Two4's VPIP: 0.375000
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.428571
+V4Two4's AF flop/postflop: 1.333333
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:9.000000
+BAMF4's VPIP: 0.125000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.000000
+BAMF4's Player Type: NIT
+BAMF4's Seat:2
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:9.000000
+V4One4's VPIP: 0.375000
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 1.800000
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:3
+V4One4's preflop raises:0.000000
+V4One4's hands played:9.000000
+
+BAMF4 posts small blind, stack size (50)
+V4One4 posts big blind, stack size (393)
+
+['FOLD', 'CALL:2', 'RAISE:4:8']
+{}
+
+***PREFLOP***(5) Board:()
+Our hand: 9h Td
+
+V4Two4 called 2.
+our last bet of 1 was in round 0
+BAMF4's EV: 2.168000
+BAMF4's Equity: 0.528
+BAMF4's Implied Odds: -5
+BAMF4's Pot odds: 0.200000
+BAMF4's maxBetFold: 3
+BAMF4's M ratio:16.666667
+BAMF4's maxBetEV: 5
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:6']
+{}
+
+***FLOP***(6) Board:(8c Qs Qh)
+Our hand: 9h Td
+
+V4One4 checks.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.925000
+BAMF4's Equity: 0.4875
+BAMF4's Implied Odds: -6
+BAMF4's Pot odds: 0.000000
 BAMF4's maxBetFold: 4
-BAMF4's M ratio:155
+BAMF4's M ratio:16.333333
+BAMF4's maxBetEV: 5
+
+line 2
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:6', 'RAISE:12:30']
+{}
+
+***FLOP***(18) Board:(8c Qs Qh)
+Our hand: 9h Td
+
+V4One4 bet 6.
+V4Two4 called 6.
+our last bet of 0 was in round 3
+BAMF4's EV: 5.700000
+BAMF4's Equity: 0.4875
+BAMF4's Implied Odds: -17
+BAMF4's Pot odds: 0.333333
+BAMF4's maxBetFold: 13
+BAMF4's M ratio:16.333333
 BAMF4's maxBetEV: 17
 
-line 6
-BAMF4 calls 8.
-our bot's last action is CALL for 8
+line 2
+BAMF4 calls 6.
+our bot's last action is CALL for 6
 ['CHECK', 'BET:2:24']
 {}
 
-***RIVER***(24) Board:(Ks Js 2s Qd 8h)
-Our hand: 5s 5h
+***TURN***(24) Board:(8c Qs Qh 7c)
+Our hand: 9h Td
 
-Doppelganger4 checks.
-our last bet of 8 was in round 4
-BAMF4's EV: 10.751515
-BAMF4's Equity: 0.44797979798
+our last bet of 6 was in round 3
+BAMF4's EV: 9.612000
+BAMF4's Equity: 0.4005
 BAMF4's Implied Odds: -24
-BAMF4's maxBetFold: 7
-BAMF4's M ratio:152
-BAMF4's maxBetEV: 19
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 16
+BAMF4's M ratio:14.333333
+BAMF4's maxBetEV: 16
 
-line 6
+line 2
 BAMF4 checks.
 our bot's last action is CHECK for 0
-Doppelganger4 WTSD percentage is: 0.444444
-BAMF4 WTSD percentage is: 0.388889
-BAMF4 W$SD percentage is: 0.714286
-
-
-NEWHAND:19
-
-['NEWHAND', '19', '2', 'Td', 'Qh', '119', '481', '0', 'Doppelganger4', 'BAMF4', 'Clone4', '2', 'true', 'true', 'false', '14.539498']
-Active Players:2
-
-Our hand: Td Qh
-Doppelganger4's VPIP: 0.388889
-Doppelganger4's PFR: 0.055556
-Doppelganger4's estimated fold percentage is 0.235294
-Doppelganger4's AF flop/postflop: 1.250000
-Doppelganger4's Player Type: CALLING STATION
-Doppelganger4's Seat:1
-BAMF4's VPIP: 0.111111
-BAMF4's PFR: 0.000000
-BAMF4's estimated fold percentage is 0.187500
-BAMF4's AF flop/postflop: 0.800000
-BAMF4's Player Type: NIT
-BAMF4's Seat:2
-Clone4's VPIP: 0.166667
-Clone4's PFR: 0.055556
-Clone4's estimated fold percentage is 0.250000
-Clone4's AF flop/postflop: 1.666667
-Clone4's Player Type: UNKNOWN
-Clone4's Seat:3
-Clone4 is eliminated
-
-Doppelganger4 posts small blind/and is dealer, stack size (118)
-BAMF4 posts big blind, stack size (479)
-
-['CHECK', 'RAISE:4:6']
+['FOLD', 'CALL:8', 'RAISE:16:43']
 {}
 
-***PREFLOP***(4) Board:()
-Our hand: Td Qh
+***TURN***(32) Board:(8c Qs Qh 7c)
+Our hand: 9h Td
 
-Doppelganger4 called 2.
+V4One4 checks.
+V4Two4 bet 8.
+our last bet of 0 was in round 4
+BAMF4's EV: 8.020000
+BAMF4's Equity: 0.4005
+BAMF4's Implied Odds: -28
+BAMF4's Pot odds: 0.250000
+BAMF4's maxBetFold: 21
+BAMF4's M ratio:14.333333
+BAMF4's maxBetEV: 21
+
+line 2
+BAMF4 calls 8.
+our bot's last action is CALL for 8
+['CHECK', 'BET:2:35']
+{}
+
+***RIVER***(48) Board:(8c Qs Qh 7c 9d)
+Our hand: 9h Td
+
+V4One4 called 8.
+our last bet of 8 was in round 4
+BAMF4's EV: 39.175758
+BAMF4's Equity: 0.816161616162
+BAMF4's Implied Odds: -48
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 36
+BAMF4's M ratio:11.666667
+BAMF4's maxBetEV: 213
+
+line 1
+final max bet:35
+final min bet:2
+Bet range: 2 35
+BAMF4 bets 4.
+our bot's last action is BET for 4
+V4One4 called 4.
+V4Two4 called 4.
+V4Two4 WTSD percentage is: 0.222222
+BAMF4 WTSD percentage is: 0.444444
+V4One4 WTSD percentage is: 0.555556
+BAMF4 W$SD percentage is: 0.500000
+
+
+NEWHAND:10
+
+['NEWHAND', '10', '3', '9c', 'Jd', '375', '134', '91', 'V4One4', 'V4Two4', 'BAMF4', '3', 'true', 'true', 'true', '14.795221']
+Active Players:3
+
+Our hand: 9c Jd
+V4One4's VPIP: 0.333333
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 1.428571
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:10.000000
+V4Two4's VPIP: 0.444444
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.428571
+V4Two4's AF flop/postflop: 1.000000
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:10.000000
+BAMF4's VPIP: 0.111111
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.090909
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:10.000000
+
+V4Two4 posts small blind, stack size (133)
+BAMF4 posts big blind, stack size (89)
+
+['CHECK', 'RAISE:4:7']
+{}
+
+***PREFLOP***(5) Board:()
+Our hand: 9c Jd
+
+V4One4 called 2.
+V4Two4 folds.
 our last bet of 2 was in round 0
-BAMF4's EV: 2.300000
-BAMF4's Equity: 0.575
-BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 1
-BAMF4's M ratio:159
+BAMF4's EV: 2.720000
+BAMF4's Equity: 0.544
+BAMF4's Implied Odds: -5
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 3
+BAMF4's M ratio:29.666667
 BAMF4's maxBetEV: 5
 
 BAMF4 checks.
 our bot's last action is CHECK for 0
+['CHECK', 'BET:2:5']
+{}
+
+***FLOP***(5) Board:(Qs 8s 7h)
+Our hand: 9c Jd
+
+our last bet of 0 was in round 0
+BAMF4's EV: 2.322500
+BAMF4's Equity: 0.4645
+BAMF4's Implied Odds: -5
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 3
+BAMF4's M ratio:29.666667
+BAMF4's maxBetEV: 4
+
+line 2
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:5']
+{}
+
+***TURN***(5) Board:(Qs 8s 7h Ts)
+Our hand: 9c Jd
+
+V4One4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 4.312500
+BAMF4's Equity: 0.8625
+BAMF4's Implied Odds: -5
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 3
+BAMF4's M ratio:29.666667
+BAMF4's maxBetEV: 31
+
+line 2
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:5']
+{}
+
+***RIVER***(5) Board:(Qs 8s 7h Ts Jh)
+Our hand: 9c Jd
+
+V4One4 checks.
+our last bet of 0 was in round 4
+BAMF4's EV: 4.366162
+BAMF4's Equity: 0.873232323232
+BAMF4's Implied Odds: -5
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 3
+BAMF4's M ratio:29.666667
+BAMF4's maxBetEV: 34
+
+line 2
+BAMF4 checks.
+our bot's last action is CHECK for 0
+V4One4 checks.
+V4One4 WTSD percentage is: 0.600000
+BAMF4 WTSD percentage is: 0.500000
+BAMF4 W$SD percentage is: 0.600000
+
+
+NEWHAND:11
+
+['NEWHAND', '11', '1', 'Qd', '8c', '94', '373', '133', 'BAMF4', 'V4One4', 'V4Two4', '3', 'true', 'true', 'true', '14.770101']
+Active Players:3
+
+Our hand: Qd 8c
+BAMF4's VPIP: 0.100000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.090909
+BAMF4's Player Type: NIT
+BAMF4's Seat:1
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:11.000000
+V4One4's VPIP: 0.400000
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 1.428571
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:11.000000
+V4Two4's VPIP: 0.400000
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.400000
+V4Two4's AF flop/postflop: 1.000000
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:3
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:11.000000
+
+V4One4 posts small blind, stack size (372)
+V4Two4 posts big blind, stack size (131)
+
+['CALL:2', 'FOLD', 'RAISE:4:7']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Qd 8c
+
+our last bet of 0 was in round 0
+BAMF4's EV: 0.665000
+BAMF4's Equity: 0.533
+BAMF4's Implied Odds: -3
+BAMF4's Pot odds: 0.666667
+BAMF4's maxBetFold: 2
+BAMF4's M ratio:31.333333
+BAMF4's maxBetEV: 3
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:5']
+{}
+
+***FLOP***(5) Board:(Jd 2s Td)
+Our hand: Qd 8c
+
+V4One4 folds.
+V4Two4 checks.
+V4Two4 checks.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.450000
+BAMF4's Equity: 0.49
+BAMF4's Implied Odds: -5
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 3
+BAMF4's M ratio:30.666667
+BAMF4's maxBetEV: 4
+
+line 2
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:3', 'RAISE:6:14']
+{}
+
+***TURN***(8) Board:(Jd 2s Td Qs)
+Our hand: Qd 8c
+
+V4Two4 bet 3.
+our last bet of 0 was in round 3
+BAMF4's EV: 5.365500
+BAMF4's Equity: 0.7605
+BAMF4's Implied Odds: -10
+BAMF4's Pot odds: 0.375000
+BAMF4's maxBetFold: 5
+BAMF4's M ratio:30.666667
+BAMF4's maxBetEV: 25
+
+line 2
+BAMF4 calls 3.
+our bot's last action is CALL for 3
+['FOLD', 'CALL:3', 'RAISE:6:20']
+{}
+
+***RIVER***(14) Board:(Jd 2s Td Qs Jh)
+Our hand: Qd 8c
+
+V4Two4 bet 3.
+our last bet of 3 was in round 4
+BAMF4's EV: 10.582828
+BAMF4's Equity: 0.79898989899
+BAMF4's Implied Odds: -16
+BAMF4's Pot odds: 0.214286
+BAMF4's maxBetFold: 9
+BAMF4's M ratio:29.666667
+BAMF4's maxBetEV: 55
+
+line 1
+final max raise:20
+final min raise:6
+Raise range: 6 20
+BAMF4 raises to 18.
+our bot's last action is RAISE for 18
+['FOLD', 'CALL:49', 'RAISE:80:89']
+{}
+
+***RIVER***(78) Board:(Jd 2s Td Qs Jh)
+Our hand: Qd 8c
+
+V4Two4 raised to 49.
+our last bet of 18 was in round 5
+BAMF4's EV: 56.089899
+BAMF4's Equity: 0.79898989899
+BAMF4's Implied Odds: -101
+BAMF4's Pot odds: 0.397436
+BAMF4's maxBetFold: 52
+BAMF4's M ratio:23.666667
+BAMF4's maxBetEV: 310
+
+line 1
+final max raise:80
+final min raise:80
+Raise range: 80 89
+BAMF4 calls 49.
+our bot's last action is CALL for 49
+BAMF4 WTSD percentage is: 0.545455
+V4Two4 WTSD percentage is: 0.272727
+BAMF4 W$SD percentage is: 0.666667
+V4Two4 W$SD percentage is: 0.333333
+
+
+NEWHAND:12
+
+['NEWHAND', '12', '2', '9d', 'Kd', '133', '95', '372', 'V4Two4', 'BAMF4', 'V4One4', '3', 'true', 'true', 'true', '14.737345']
+Active Players:3
+
+Our hand: 9d Kd
+V4Two4's VPIP: 0.363636
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.400000
+V4Two4's AF flop/postflop: 1.600000
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:12.000000
+BAMF4's VPIP: 0.090909
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.142857
+BAMF4's Player Type: NIT
+BAMF4's Seat:2
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:12.000000
+V4One4's VPIP: 0.363636
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 1.428571
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:3
+V4One4's preflop raises:0.000000
+V4One4's hands played:12.000000
+
+BAMF4 posts small blind, stack size (94)
+V4One4 posts big blind, stack size (370)
+
+['FOLD', 'CALL:2', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 9d Kd
+
+V4Two4 folds.
+our last bet of 1 was in round 0
+BAMF4's EV: 1.506000
+BAMF4's Equity: 0.6265
+BAMF4's Implied Odds: -3
+BAMF4's Pot odds: 0.333333
+BAMF4's maxBetFold: 2
+BAMF4's M ratio:31.333333
+BAMF4's maxBetEV: 5
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
 ['CHECK', 'BET:2:4']
 {}
 
-***FLOP***(4) Board:(8d Ah Ts)
-Our hand: Td Qh
+***FLOP***(4) Board:(9h Th Ah)
+Our hand: 9d Kd
+
+V4One4 checks.
+our last bet of 2 was in round 0
+BAMF4's EV: 2.200000
+BAMF4's Equity: 0.55
+BAMF4's Implied Odds: -4
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 2
+BAMF4's M ratio:31.000000
+BAMF4's maxBetEV: 4
+
+line 2
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(9h Th Ah 9c)
+Our hand: 9d Kd
+
+V4One4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 3.388000
+BAMF4's Equity: 0.847
+BAMF4's Implied Odds: -4
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 2
+BAMF4's M ratio:31.000000
+BAMF4's maxBetEV: 22
+
+line 2
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(9h Th Ah 9c Td)
+Our hand: 9d Kd
+
+V4One4 checks.
+our last bet of 0 was in round 4
+BAMF4's EV: 3.545455
+BAMF4's Equity: 0.886363636364
+BAMF4's Implied Odds: -4
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 2
+BAMF4's M ratio:31.000000
+BAMF4's maxBetEV: 31
+
+line 2
+BAMF4 checks.
+our bot's last action is CHECK for 0
+V4One4 checks.
+BAMF4 WTSD percentage is: 0.583333
+V4One4 WTSD percentage is: 0.583333
+BAMF4 W$SD percentage is: 0.714286
+
+
+NEWHAND:13
+
+['NEWHAND', '13', '3', '7d', 'Ks', '370', '133', '97', 'V4One4', 'V4Two4', 'BAMF4', '3', 'true', 'true', 'true', '14.707332']
+Active Players:3
+
+Our hand: 7d Ks
+V4One4's VPIP: 0.333333
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 1.428571
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:13.000000
+V4Two4's VPIP: 0.333333
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 1.600000
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:13.000000
+BAMF4's VPIP: 0.083333
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.133333
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:13.000000
+
+V4Two4 posts small blind, stack size (132)
+BAMF4 posts big blind, stack size (95)
+
+['CHECK', 'RAISE:4:8']
+{}
+
+***PREFLOP***(6) Board:()
+Our hand: 7d Ks
+
+V4One4 called 2.
+V4Two4 called 2.
+our last bet of 2 was in round 0
+BAMF4's EV: 3.441000
+BAMF4's Equity: 0.5735
+BAMF4's Implied Odds: -6
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 4
+BAMF4's M ratio:31.666667
+BAMF4's maxBetEV: 8
+
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:6']
+{}
+
+***FLOP***(6) Board:(7c 9d Qc)
+Our hand: 7d Ks
+
+V4Two4 checks.
+our last bet of 0 was in round 0
+BAMF4's EV: 3.699000
+BAMF4's Equity: 0.6165
+BAMF4's Implied Odds: -6
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 4
+BAMF4's M ratio:31.666667
+BAMF4's maxBetEV: 9
+
+line 2
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:6']
+{}
+
+***TURN***(6) Board:(7c 9d Qc Qs)
+Our hand: 7d Ks
+
+V4One4 checks.
+V4Two4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 4.173000
+BAMF4's Equity: 0.6955
+BAMF4's Implied Odds: -6
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 4
+BAMF4's M ratio:31.666667
+BAMF4's maxBetEV: 13
+
+line 2
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:6']
+{}
+
+***RIVER***(6) Board:(7c 9d Qc Qs 7h)
+Our hand: 7d Ks
+
+V4One4 checks.
+V4Two4 checks.
+our last bet of 0 was in round 4
+BAMF4's EV: 5.327273
+BAMF4's Equity: 0.887878787879
+BAMF4's Implied Odds: -6
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 4
+BAMF4's M ratio:31.666667
+BAMF4's maxBetEV: 47
+
+line 2
+BAMF4 checks.
+our bot's last action is CHECK for 0
+V4One4 checks.
+V4One4 WTSD percentage is: 0.615385
+V4Two4 WTSD percentage is: 0.307692
+BAMF4 WTSD percentage is: 0.615385
+BAMF4 W$SD percentage is: 0.750000
+
+
+NEWHAND:14
+
+['NEWHAND', '14', '1', '4s', '7d', '101', '368', '131', 'BAMF4', 'V4One4', 'V4Two4', '3', 'true', 'true', 'true', '14.681188']
+Active Players:3
+
+Our hand: 4s 7d
+BAMF4's VPIP: 0.076923
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.133333
+BAMF4's Player Type: NIT
+BAMF4's Seat:1
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:14.000000
+V4One4's VPIP: 0.384615
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 1.428571
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:14.000000
+V4Two4's VPIP: 0.384615
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 1.600000
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:3
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:14.000000
+
+V4One4 posts small blind, stack size (367)
+V4Two4 posts big blind, stack size (129)
+
+['CALL:2', 'FOLD', 'RAISE:4:7']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 4s 7d
 
 our last bet of 0 was in round 0
-BAMF4's EV: 3.020000
-BAMF4's Equity: 0.755
+BAMF4's EV: 0.015000
+BAMF4's Equity: 0.403
+BAMF4's Implied Odds: -2
+BAMF4's Pot odds: 0.666667
+BAMF4's maxBetFold: 2
+BAMF4's M ratio:33.666667
+BAMF4's maxBetEV: 2
+
+NOT BLUFFING FOLD
+BAMF4 folds.
+our bot's last action is FOLD for 0
+V4One4 called 2.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 WTSD percentage is: 0.642857
+V4Two4 WTSD percentage is: 0.357143
+V4One4 W$SD percentage is: 0.444444
+
+
+NEWHAND:15
+
+['NEWHAND', '15', '2', 'Jd', '3s', '129', '101', '370', 'V4Two4', 'BAMF4', 'V4One4', '3', 'true', 'true', 'true', '14.670132']
+Active Players:3
+
+Our hand: Jd 3s
+V4Two4's VPIP: 0.357143
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 1.600000
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:15.000000
+BAMF4's VPIP: 0.071429
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.133333
+BAMF4's Player Type: NIT
+BAMF4's Seat:2
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:15.000000
+V4One4's VPIP: 0.357143
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 1.250000
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:3
+V4One4's preflop raises:0.000000
+V4One4's hands played:15.000000
+
+BAMF4 posts small blind, stack size (100)
+V4One4 posts big blind, stack size (368)
+
+['FOLD', 'CALL:2', 'RAISE:4:8']
+{}
+
+***PREFLOP***(5) Board:()
+Our hand: Jd 3s
+
+V4Two4 called 2.
+our last bet of 1 was in round 0
+BAMF4's EV: 1.652000
+BAMF4's Equity: 0.442
 BAMF4's Implied Odds: -4
-BAMF4's maxBetFold: 1
-BAMF4's M ratio:159
-BAMF4's maxBetEV: 12
+BAMF4's Pot odds: 0.200000
+BAMF4's maxBetFold: 3
+BAMF4's M ratio:33.333333
+BAMF4's maxBetEV: 3
 
-line 1
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF4 bets 4.
-our bot's last action is BET for 4
-['FOLD', 'CALL:12', 'RAISE:20:40']
+NOT BLUFFING FOLD
+BAMF4 folds.
+our bot's last action is FOLD for 0
+V4One4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 bet 4.
+V4One4 folds.
+
+
+NEWHAND:16
+
+['NEWHAND', '16', '3', '5d', 'Qs', '368', '132', '100', 'V4One4', 'V4Two4', 'BAMF4', '3', 'true', 'true', 'true', '14.661408']
+Active Players:3
+
+Our hand: 5d Qs
+V4One4's VPIP: 0.333333
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 1.250000
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:16.000000
+V4Two4's VPIP: 0.400000
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 1.800000
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:16.000000
+BAMF4's VPIP: 0.066667
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.133333
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:16.000000
+
+V4Two4 posts small blind, stack size (131)
+BAMF4 posts big blind, stack size (98)
+
+['CHECK', 'RAISE:4:8']
 {}
 
-***FLOP***(20) Board:(8d Ah Ts)
-Our hand: Td Qh
+***PREFLOP***(6) Board:()
+Our hand: 5d Qs
 
-Doppelganger4 raised to 12.
-our last bet of 4 was in round 3
-BAMF4's EV: 13.140000
-BAMF4's Equity: 0.755
-BAMF4's Implied Odds: -25
-BAMF4's maxBetFold: 6
-BAMF4's M ratio:158
-BAMF4's maxBetEV: 61
+V4One4 called 2.
+V4Two4 called 2.
+our last bet of 2 was in round 0
+BAMF4's EV: 3.141000
+BAMF4's Equity: 0.5235
+BAMF4's Implied Odds: -6
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 4
+BAMF4's M ratio:32.666667
+BAMF4's maxBetEV: 6
 
-line 1
-final max raise:40
-final min raise:20
-Raise range: 20 40
-BAMF4 raises to 40.
-our bot's last action is RAISE for 40
-['CHECK', 'BET:2:77']
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:6']
 {}
 
-***TURN***(84) Board:(8d Ah Ts Qc)
-Our hand: Td Qh
+***FLOP***(6) Board:(7s Th 5s)
+Our hand: 5d Qs
 
-Doppelganger4 called 40.
-our last bet of 40 was in round 3
-BAMF4's EV: 72.156000
-BAMF4's Equity: 0.859
-BAMF4's Implied Odds: -84
-BAMF4's maxBetFold: 25
-BAMF4's M ratio:146
-BAMF4's maxBetEV: 511
+V4Two4 checks.
+our last bet of 0 was in round 0
+BAMF4's EV: 3.657000
+BAMF4's Equity: 0.6095
+BAMF4's Implied Odds: -6
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 4
+BAMF4's M ratio:32.666667
+BAMF4's maxBetEV: 9
 
-line 1
-final max bet:77
-final min bet:2
-Bet range: 2 77
-BAMF4 bets 5.
-our bot's last action is BET for 5
-['FOLD', 'CALL:27', 'RAISE:49:77']
+line 2
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:6']
 {}
 
-***TURN***(116) Board:(8d Ah Ts Qc)
-Our hand: Td Qh
+***TURN***(6) Board:(7s Th 5s 9h)
+Our hand: 5d Qs
 
-Doppelganger4 raised to 27.
-our last bet of 5 was in round 4
-BAMF4's EV: 96.542000
-BAMF4's Equity: 0.859
-BAMF4's Implied Odds: -134
-BAMF4's maxBetFold: 35
-BAMF4's M ratio:144
-BAMF4's maxBetEV: 706
+V4One4 checks.
+V4Two4 checks.
+our last bet of 0 was in round 3
+BAMF4's EV: 3.216000
+BAMF4's Equity: 0.536
+BAMF4's Implied Odds: -6
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 4
+BAMF4's M ratio:32.666667
+BAMF4's maxBetEV: 6
 
-line 1
-final max raise:77
-final min raise:49
-Raise range: 49 77
-BAMF4 raises to 75.
-our bot's last action is RAISE for 75
-['CHECK', 'BET:2:2']
+line 2
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:6']
 {}
 
-***RIVER***(234) Board:(8d Ah Ts Qc 9c)
-Our hand: Td Qh
+***RIVER***(6) Board:(7s Th 5s 9h Qh)
+Our hand: 5d Qs
 
-Doppelganger4 called 75.
-our last bet of 75 was in round 4
-BAMF4's EV: 179.872727
-BAMF4's Equity: 0.768686868687
-BAMF4's Implied Odds: -234
-BAMF4's maxBetFold: 72
-BAMF4's M ratio:121
-BAMF4's maxBetEV: 777
+V4One4 checks.
+V4Two4 checks.
+our last bet of 0 was in round 4
+BAMF4's EV: 5.266667
+BAMF4's Equity: 0.877777777778
+BAMF4's Implied Odds: -6
+BAMF4's Pot odds: 0.000000
+BAMF4's maxBetFold: 4
+BAMF4's M ratio:32.666667
+BAMF4's maxBetEV: 43
+
+line 2
+BAMF4 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:4', 'RAISE:8:18']
+{}
+
+***RIVER***(10) Board:(7s Th 5s 9h Qh)
+Our hand: 5d Qs
+
+V4One4 bet 4.
+V4Two4 folds.
+our last bet of 0 was in round 5
+BAMF4's EV: 8.288889
+BAMF4's Equity: 0.877777777778
+BAMF4's Implied Odds: -13
+BAMF4's Pot odds: 0.400000
+BAMF4's maxBetFold: 7
+BAMF4's M ratio:32.666667
+BAMF4's maxBetEV: 71
+
+line 2
+BAMF4 calls 4.
+our bot's last action is CALL for 4
+V4One4 WTSD percentage is: 0.625000
+BAMF4 WTSD percentage is: 0.562500
+BAMF4 W$SD percentage is: 0.777778
+
+
+NEWHAND:17
+
+['NEWHAND', '17', '1', 'Td', 'Qc', '108', '362', '130', 'BAMF4', 'V4One4', 'V4Two4', '3', 'true', 'true', 'true', '14.629349']
+Active Players:3
+
+Our hand: Td Qc
+BAMF4's VPIP: 0.062500
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.125000
+BAMF4's Player Type: NIT
+BAMF4's Seat:1
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:17.000000
+V4One4's VPIP: 0.375000
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 1.375000
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:17.000000
+V4Two4's VPIP: 0.437500
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 1.800000
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:3
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:17.000000
+
+V4One4 posts small blind, stack size (361)
+V4Two4 posts big blind, stack size (128)
+
+['CALL:2', 'FOLD', 'RAISE:4:7']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Td Qc
+
+our last bet of 0 was in round 0
+BAMF4's EV: 0.845000
+BAMF4's Equity: 0.569
+BAMF4's Implied Odds: -3
+BAMF4's Pot odds: 0.666667
+BAMF4's maxBetFold: 2
+BAMF4's M ratio:36.000000
+BAMF4's maxBetEV: 3
+
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:2', 'RAISE:4:12']
+{}
+
+***FLOP***(8) Board:(8c Tc Qd)
+Our hand: Td Qc
+
+V4One4 called 2.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 bet 2.
+our last bet of 2 was in round 0
+BAMF4's EV: 6.510000
+BAMF4's Equity: 0.851
+BAMF4's Implied Odds: -9
+BAMF4's Pot odds: 0.250000
+BAMF4's maxBetFold: 5
+BAMF4's M ratio:35.333333
+BAMF4's maxBetEV: 45
+
+line 2
+BAMF4 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:35', 'RAISE:61:104']
+{}
+
+***TURN***(56) Board:(8c Tc Qd 9s)
+Our hand: Td Qc
+
+V4One4 called 2.
+V4One4 bet 9.
+V4Two4 raised to 35.
+our last bet of 2 was in round 3
+BAMF4's EV: 31.430000
+BAMF4's Equity: 0.73
+BAMF4's Implied Odds: -78
+BAMF4's Pot odds: 0.625000
+BAMF4's maxBetFold: 40
+BAMF4's M ratio:34.666667
+BAMF4's maxBetEV: 151
 
 line 1
-final max bet:2
-final min bet:2
-Bet range: 2 2
-BAMF4 bets 2.
-our bot's last action is BET for 2
-Doppelganger4 called 2.
-Doppelganger4 WTSD percentage is: 0.473684
-BAMF4 WTSD percentage is: 0.421053
-Doppelganger4 W$SD percentage is: 0.666667
+final max raise:104
+final min raise:61
+Raise range: 61 104
+BAMF4 raises to 87.
+our bot's last action is RAISE for 87
+['FOLD', 'CALL:104']
+{}
+
+***TURN***(351) Board:(8c Tc Qd 9s)
+Our hand: Td Qc
+
+V4One4 raised to 126.
+V4Two4 called 126.
+our last bet of 87 was in round 4
+BAMF4's EV: 251.640000
+BAMF4's Equity: 0.73
+BAMF4's Implied Odds: -361
+BAMF4's Pot odds: 0.048433
+BAMF4's maxBetFold: 250
+BAMF4's M ratio:5.666667
+BAMF4's maxBetEV: 949
+
+all in 1
+final call min:104
+BAMF4 calls 104.
+our bot's last action is CALL for 104
+BAMF4 WTSD percentage is: 0.588235
+V4One4 WTSD percentage is: 0.647059
+V4Two4 WTSD percentage is: 0.352941
+V4One4 W$SD percentage is: 0.454545
+V4Two4 W$SD percentage is: 0.333333
+V4One4 W$SD percentage is: 0.545455
+V4Two4 W$SD percentage is: 0.500000
+
+
+NEWHAND:18
+
+['NEWHAND', '18', '3', 'Th', 'Kh', '416', '184', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Th Kh
+V4One4's VPIP: 0.352941
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 1.300000
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:18.000000
+V4Two4's VPIP: 0.411765
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 1.833333
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:18.000000
+BAMF4's VPIP: 0.058824
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:18.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (415)
+V4Two4 posts big blind, stack size (182)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 bet 3.
+V4One4 called 3.
+V4Two4 bet 5.
+V4One4 called 5.
+V4Two4 bet 7.
+V4One4 called 7.
+V4Two4 WTSD percentage is: 0.388889
+V4One4 WTSD percentage is: 0.666667
+V4One4 W$SD percentage is: 0.583333
+
+
+NEWHAND:19
+
+['NEWHAND', '19', '3', '6d', 'Jc', '167', '433', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 6d Jc
+V4Two4's VPIP: 0.388889
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 2.333333
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:19.000000
+V4One4's VPIP: 0.333333
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 0.928571
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:19.000000
+BAMF4's VPIP: 0.055556
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:19.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (166)
+V4One4 posts big blind, stack size (431)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 WTSD percentage is: 0.684211
+V4Two4 WTSD percentage is: 0.421053
+V4Two4 W$SD percentage is: 0.500000
 
 
 NEWHAND:20
 
-['NEWHAND', '20', '1', 'Kd', 'Jh', '362', '238', '0', 'BAMF4', 'Doppelganger4', 'Clone4', '2', 'true', 'true', 'false', '14.496446']
+['NEWHAND', '20', '3', '6s', 'Jh', '431', '169', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
 Active Players:2
 
-Our hand: Kd Jh
-BAMF4's VPIP: 0.105263
+Our hand: 6s Jh
+V4One4's VPIP: 0.315789
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 0.928571
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:20.000000
+V4Two4's VPIP: 0.368421
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 2.000000
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:20.000000
+BAMF4's VPIP: 0.052632
 BAMF4's PFR: 0.000000
-BAMF4's estimated fold percentage is 0.187500
-BAMF4's AF flop/postflop: 1.133333
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
 BAMF4's Player Type: NIT
-BAMF4's Seat:1
-Doppelganger4's VPIP: 0.421053
-Doppelganger4's PFR: 0.052632
-Doppelganger4's estimated fold percentage is 0.235294
-Doppelganger4's AF flop/postflop: 1.090909
-Doppelganger4's Player Type: UNKNOWN
-Doppelganger4's Seat:2
-Clone4's VPIP: 0.157895
-Clone4's PFR: 0.052632
-Clone4's estimated fold percentage is 0.250000
-Clone4's AF flop/postflop: 1.666667
-Clone4's Player Type: UNKNOWN
-Clone4's Seat:3
-Clone4 is eliminated
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:20.000000
+BAMF4 is eliminated
 
-BAMF4 posts small blind/and is dealer, stack size (361)
-Doppelganger4 posts big blind, stack size (236)
+V4One4 posts small blind/and is dealer, stack size (430)
+V4Two4 posts big blind, stack size (167)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 checks.
+V4One4 bet 4.
+V4Two4 called 4.
+V4Two4 checks.
+V4One4 bet 9.
+V4Two4 called 9.
+V4Two4 bet 8.
+V4One4 raised to 32.
+V4Two4 folds.
 
-***PREFLOP***(3) Board:()
-Our hand: Kd Jh
 
-our last bet of 1 was in round 0
-BAMF4's EV: 1.332000
-BAMF4's Equity: 0.583
-BAMF4's Implied Odds: -3
-BAMF4's maxBetFold: 0
-BAMF4's M ratio:120
-BAMF4's maxBetEV: 4
+NEWHAND:21
 
-BAMF4 calls 2.
-our bot's last action is CALL for 2
-['FOLD', 'CALL:4', 'RAISE:8:16']
-{}
+['NEWHAND', '21', '3', 'As', 'Ks', '146', '454', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
 
-***FLOP***(8) Board:(6s Ks Ad)
-Our hand: Kd Jh
+Our hand: As Ks
+V4Two4's VPIP: 0.350000
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 1.666667
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:21.000000
+V4One4's VPIP: 0.300000
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 1.066667
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:21.000000
+BAMF4's VPIP: 0.050000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:21.000000
+BAMF4 is eliminated
 
-Doppelganger4 checks.
-Doppelganger4 bet 4.
-our last bet of 2 was in round 0
-BAMF4's EV: 5.552000
-BAMF4's Equity: 0.796
-BAMF4's Implied Odds: -10
-BAMF4's maxBetFold: 2
-BAMF4's M ratio:120
-BAMF4's maxBetEV: 31
+V4Two4 posts small blind/and is dealer, stack size (145)
+V4One4 posts big blind, stack size (452)
 
-line 1
-final max raise:16
-final min raise:8
-Raise range: 8 16
-BAMF4 raises to 16.
-our bot's last action is RAISE for 16
-['FOLD', 'CALL:37', 'RAISE:58:115']
-{}
+V4Two4 called 2.
+V4One4 checks.
+V4One4 bet 3.
+V4Two4 called 3.
+V4One4 bet 8.
+V4Two4 called 8.
+V4One4 bet 17.
+V4Two4 called 17.
+V4Two4 WTSD percentage is: 0.428571
+V4One4 WTSD percentage is: 0.666667
+V4One4 W$SD percentage is: 0.571429
 
-***FLOP***(57) Board:(6s Ks Ad)
-Our hand: Kd Jh
 
-Doppelganger4 raised to 37.
-our last bet of 16 was in round 3
-BAMF4's EV: 41.088000
-BAMF4's Equity: 0.796
-BAMF4's Implied Odds: -72
-BAMF4's maxBetFold: 17
-BAMF4's M ratio:114
-BAMF4's maxBetEV: 222
+NEWHAND:22
 
-line 1
-final max raise:115
-final min raise:58
-Raise range: 58 115
-BAMF4 raises to 78.
-our bot's last action is RAISE for 78
-['FOLD', 'CALL:142', 'RAISE:206:236']
-{}
+['NEWHAND', '22', '3', '3h', 'Th', '484', '116', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
 
-***FLOP***(224) Board:(6s Ks Ad)
-Our hand: Kd Jh
+Our hand: 3h Th
+V4One4's VPIP: 0.285714
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 1.266667
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:22.000000
+V4Two4's VPIP: 0.333333
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 1.153846
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:22.000000
+BAMF4's VPIP: 0.047619
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:22.000000
+BAMF4 is eliminated
 
-Doppelganger4 raised to 142.
-our last bet of 78 was in round 3
-BAMF4's EV: 165.248000
-BAMF4's Equity: 0.796
-BAMF4's Implied Odds: -271
-BAMF4's maxBetFold: 68
-BAMF4's M ratio:94
-BAMF4's maxBetEV: 874
+V4One4 posts small blind/and is dealer, stack size (483)
+V4Two4 posts big blind, stack size (114)
 
-line 1
-final max raise:236
-final min raise:206
-Raise range: 206 236
-BAMF4 calls 142.
-our bot's last action is CALL for 142
-['FOLD', 'CALL:48', 'RAISE:94:94']
-{}
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 bet 4.
+V4One4 folds.
 
-***TURN***(336) Board:(6s Ks Ad 9c)
-Our hand: Kd Jh
 
-Doppelganger4 bet 48.
-our last bet of 142 was in round 3
-BAMF4's EV: 256.128000
-BAMF4's Equity: 0.792
-BAMF4's Implied Odds: -371
-BAMF4's maxBetFold: 103
-BAMF4's M ratio:72
-BAMF4's maxBetEV: 1279
+NEWHAND:23
 
-line 1
-final max raise:94
-final min raise:94
-Raise range: 94 94
-BAMF4 raises to 94.
-our bot's last action is RAISE for 94
-Doppelganger4 called 94.
-BAMF4 WTSD percentage is: 0.450000
-Doppelganger4 WTSD percentage is: 0.500000
-BAMF4 W$SD percentage is: 0.666667
+['NEWHAND', '23', '3', '2d', 'As', '118', '482', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 2d As
+V4Two4's VPIP: 0.318182
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 1.230769
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:23.000000
+V4One4's VPIP: 0.272727
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 1.187500
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:23.000000
+BAMF4's VPIP: 0.045455
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:23.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (117)
+V4One4 posts big blind, stack size (480)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 checks.
+V4Two4 bet 2.
+V4One4 called 2.
+V4One4 checks.
+V4Two4 bet 5.
+V4One4 folds.
+
+
+NEWHAND:24
+
+['NEWHAND', '24', '3', 'Td', '4d', '478', '122', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Td 4d
+V4One4's VPIP: 0.260870
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 1.117647
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:24.000000
+V4Two4's VPIP: 0.304348
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 1.285714
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:24.000000
+BAMF4's VPIP: 0.043478
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:24.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (477)
+V4Two4 posts big blind, stack size (120)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 WTSD percentage is: 0.416667
+V4One4 WTSD percentage is: 0.625000
+V4One4 W$SD percentage is: 0.600000
+
+
+NEWHAND:25
+
+['NEWHAND', '25', '3', 'Qc', 'Kh', '120', '480', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Qc Kh
+V4Two4's VPIP: 0.291667
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 1.285714
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:25.000000
+V4One4's VPIP: 0.250000
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 1.055556
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:25.000000
+BAMF4's VPIP: 0.041667
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:25.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (119)
+V4One4 posts big blind, stack size (478)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 bet 2.
+V4Two4 called 2.
+V4One4 bet 8.
+V4Two4 called 8.
+V4One4 bet 23.
+V4Two4 called 23.
+V4One4 WTSD percentage is: 0.640000
+V4Two4 WTSD percentage is: 0.440000
+V4One4 W$SD percentage is: 0.625000
+
+
+NEWHAND:26
+
+['NEWHAND', '26', '3', '3s', '3h', '515', '85', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 3s 3h
+V4One4's VPIP: 0.240000
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 1.222222
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:26.000000
+V4Two4's VPIP: 0.280000
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 1.000000
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:26.000000
+BAMF4's VPIP: 0.040000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:26.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (514)
+V4Two4 posts big blind, stack size (83)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 bet 4.
+V4One4 called 4.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 bet 12.
+V4One4 called 12.
+V4One4 WTSD percentage is: 0.653846
+V4Two4 WTSD percentage is: 0.461538
+V4Two4 W$SD percentage is: 0.416667
+
+
+NEWHAND:27
+
+['NEWHAND', '27', '3', 'Qs', '3d', '103', '497', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Qs 3d
+V4Two4's VPIP: 0.269231
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 1.111111
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:27.000000
+V4One4's VPIP: 0.230769
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 1.047619
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:27.000000
+BAMF4's VPIP: 0.038462
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:27.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (102)
+V4One4 posts big blind, stack size (495)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4Two4 WTSD percentage is: 0.481481
+V4One4 WTSD percentage is: 0.666667
+V4Two4 W$SD percentage is: 0.461538
+V4One4 W$SD percentage is: 0.611111
+
+
+NEWHAND:28
+
+['NEWHAND', '28', '3', '9s', 'Js', '497', '103', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 9s Js
+V4One4's VPIP: 0.222222
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 1.047619
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:28.000000
+V4Two4's VPIP: 0.259259
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 1.052632
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:28.000000
+BAMF4's VPIP: 0.037037
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:28.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (496)
+V4Two4 posts big blind, stack size (101)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 bet 3.
+V4One4 called 3.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4One4 WTSD percentage is: 0.678571
+V4Two4 WTSD percentage is: 0.500000
+V4One4 W$SD percentage is: 0.631579
+
+
+NEWHAND:29
+
+['NEWHAND', '29', '3', '2s', '6d', '98', '502', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 2s 6d
+V4Two4's VPIP: 0.250000
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 1.105263
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:29.000000
+V4One4's VPIP: 0.214286
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 0.956522
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:29.000000
+BAMF4's VPIP: 0.035714
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:29.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (97)
+V4One4 posts big blind, stack size (500)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 WTSD percentage is: 0.689655
+V4Two4 WTSD percentage is: 0.517241
+V4One4 W$SD percentage is: 0.650000
+
+
+NEWHAND:30
+
+['NEWHAND', '30', '3', 'Qd', 'Qh', '504', '96', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Qd Qh
+V4One4's VPIP: 0.206897
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 0.956522
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:30.000000
+V4Two4's VPIP: 0.241379
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 1.050000
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:30.000000
+BAMF4's VPIP: 0.034483
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:30.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (503)
+V4Two4 posts big blind, stack size (94)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 bet 3.
+V4One4 folds.
+
+
+NEWHAND:31
+
+['NEWHAND', '31', '3', '5s', '3h', '98', '502', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 5s 3h
+V4Two4's VPIP: 0.233333
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 1.100000
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:31.000000
+V4One4's VPIP: 0.200000
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 0.916667
+V4One4's Player Type: CALLING STATION
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:31.000000
+BAMF4's VPIP: 0.033333
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:31.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (97)
+V4One4 posts big blind, stack size (500)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 WTSD percentage is: 0.677419
+V4Two4 WTSD percentage is: 0.516129
+V4One4 W$SD percentage is: 0.666667
+
+
+NEWHAND:32
+
+['NEWHAND', '32', '3', 'Td', 'Ah', '504', '96', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Td Ah
+V4One4's VPIP: 0.193548
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 0.916667
+V4One4's Player Type: UNKNOWN
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:32.000000
+V4Two4's VPIP: 0.225806
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 1.047619
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:32.000000
+BAMF4's VPIP: 0.032258
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:32.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (503)
+V4Two4 posts big blind, stack size (94)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 bet 4.
+V4Two4 folds.
+
+
+NEWHAND:33
+
+['NEWHAND', '33', '3', '3s', 'Ah', '94', '506', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 3s Ah
+V4Two4's VPIP: 0.218750
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 1.047619
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:33.000000
+V4One4's VPIP: 0.187500
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 0.920000
+V4One4's Player Type: UNKNOWN
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:33.000000
+BAMF4's VPIP: 0.031250
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:33.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (93)
+V4One4 posts big blind, stack size (504)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 bet 3.
+V4Two4 called 3.
+V4One4 bet 4.
+V4Two4 folds.
+
+
+NEWHAND:34
+
+['NEWHAND', '34', '3', 'Qc', '2c', '511', '89', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Qc 2c
+V4One4's VPIP: 0.181818
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 1.000000
+V4One4's Player Type: UNKNOWN
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:34.000000
+V4Two4's VPIP: 0.212121
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 0.956522
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:34.000000
+BAMF4's VPIP: 0.030303
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:34.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (510)
+V4Two4 posts big blind, stack size (87)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4One4 WTSD percentage is: 0.647059
+V4Two4 WTSD percentage is: 0.500000
+V4One4 W$SD percentage is: 0.681818
+
+
+NEWHAND:35
+
+['NEWHAND', '35', '3', '7s', '3c', '87', '513', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 7s 3c
+V4Two4's VPIP: 0.205882
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.416667
+V4Two4's AF flop/postflop: 0.956522
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:35.000000
+V4One4's VPIP: 0.176471
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 0.961538
+V4One4's Player Type: UNKNOWN
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:35.000000
+BAMF4's VPIP: 0.029412
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:35.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (86)
+V4One4 posts big blind, stack size (511)
+
+V4Two4 folds.
+
+
+NEWHAND:36
+
+['NEWHAND', '36', '3', 'Kd', 'Jc', '514', '86', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Kd Jc
+V4One4's VPIP: 0.171429
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 0.961538
+V4One4's Player Type: UNKNOWN
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:36.000000
+V4Two4's VPIP: 0.200000
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.171429
+V4Two4's AF flop/postflop: 0.956522
+V4Two4's Player Type: CALLING STATION
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:36.000000
+BAMF4's VPIP: 0.028571
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:36.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (513)
+V4Two4 posts big blind, stack size (84)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 bet 3.
+V4One4 called 3.
+V4Two4 bet 8.
+V4One4 called 8.
+V4Two4 WTSD percentage is: 0.500000
+V4One4 WTSD percentage is: 0.638889
+V4Two4 W$SD percentage is: 0.388889
+
+
+NEWHAND:37
+
+['NEWHAND', '37', '3', '2s', 'Qs', '99', '501', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 2s Qs
+V4Two4's VPIP: 0.194444
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.171429
+V4Two4's AF flop/postflop: 1.043478
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:37.000000
+V4One4's VPIP: 0.166667
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 0.862069
+V4One4's Player Type: UNKNOWN
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:37.000000
+BAMF4's VPIP: 0.027778
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:37.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (98)
+V4One4 posts big blind, stack size (499)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 bet 3.
+V4Two4 called 3.
+V4One4 bet 6.
+V4Two4 raised to 22.
+V4One4 raised to 40.
+V4Two4 called 40.
+V4One4 WTSD percentage is: 0.648649
+V4Two4 WTSD percentage is: 0.513514
+V4One4 W$SD percentage is: 0.666667
+
+
+NEWHAND:38
+
+['NEWHAND', '38', '3', '4d', '9d', '546', '54', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 4d 9d
+V4One4's VPIP: 0.162162
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.250000
+V4One4's AF flop/postflop: 0.965517
+V4One4's Player Type: UNKNOWN
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:38.000000
+V4Two4's VPIP: 0.189189
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.171429
+V4Two4's AF flop/postflop: 0.961538
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:38.000000
+BAMF4's VPIP: 0.027027
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:38.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (545)
+V4Two4 posts big blind, stack size (52)
+
+V4One4 folds.
+
+
+NEWHAND:39
+
+['NEWHAND', '39', '3', '8d', '9c', '55', '545', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 8d 9c
+V4Two4's VPIP: 0.184211
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.171429
+V4Two4's AF flop/postflop: 0.961538
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:39.000000
+V4One4's VPIP: 0.157895
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.078947
+V4One4's AF flop/postflop: 0.965517
+V4One4's Player Type: UNKNOWN
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:39.000000
+BAMF4's VPIP: 0.026316
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:39.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (54)
+V4One4 posts big blind, stack size (543)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 checks.
+V4Two4 bet 2.
+V4One4 called 2.
+V4One4 checks.
+V4Two4 bet 2.
+V4One4 called 2.
+V4One4 checks.
+V4Two4 bet 12.
+V4One4 folds.
+
+
+NEWHAND:40
+
+['NEWHAND', '40', '3', '8d', 'Jd', '539', '61', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 8d Jd
+V4One4's VPIP: 0.153846
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.078947
+V4One4's AF flop/postflop: 0.903226
+V4One4's Player Type: UNKNOWN
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:40.000000
+V4Two4's VPIP: 0.179487
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.171429
+V4Two4's AF flop/postflop: 1.037037
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:40.000000
+BAMF4's VPIP: 0.025641
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:40.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (538)
+V4Two4 posts big blind, stack size (59)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4One4 WTSD percentage is: 0.625000
+V4Two4 WTSD percentage is: 0.500000
+V4One4 W$SD percentage is: 0.680000
+
+
+NEWHAND:41
+
+['NEWHAND', '41', '3', '2h', '7h', '59', '541', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 2h 7h
+V4Two4's VPIP: 0.175000
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.171429
+V4Two4's AF flop/postflop: 1.037037
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:41.000000
+V4One4's VPIP: 0.150000
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.078947
+V4One4's AF flop/postflop: 0.875000
+V4One4's Player Type: UNKNOWN
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:41.000000
+BAMF4's VPIP: 0.025000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:41.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (58)
+V4One4 posts big blind, stack size (539)
+
+V4Two4 folds.
+
+
+NEWHAND:42
+
+['NEWHAND', '42', '3', '5s', '5d', '542', '58', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 5s 5d
+V4One4's VPIP: 0.146341
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.078947
+V4One4's AF flop/postflop: 0.875000
+V4One4's Player Type: UNKNOWN
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:42.000000
+V4Two4's VPIP: 0.170732
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.170732
+V4Two4's AF flop/postflop: 1.037037
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:42.000000
+BAMF4's VPIP: 0.024390
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:42.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (541)
+V4Two4 posts big blind, stack size (56)
+
+V4One4 folds.
+
+
+NEWHAND:43
+
+['NEWHAND', '43', '3', 'Qh', '6h', '59', '541', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Qh 6h
+V4Two4's VPIP: 0.166667
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.170732
+V4Two4's AF flop/postflop: 1.037037
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:43.000000
+V4One4's VPIP: 0.142857
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.095238
+V4One4's AF flop/postflop: 0.875000
+V4One4's Player Type: UNKNOWN
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:43.000000
+BAMF4's VPIP: 0.023810
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:43.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (58)
+V4One4 posts big blind, stack size (539)
+
+V4Two4 folds.
+
+
+NEWHAND:44
+
+['NEWHAND', '44', '3', 'Ah', '8s', '542', '58', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Ah 8s
+V4One4's VPIP: 0.139535
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.095238
+V4One4's AF flop/postflop: 0.875000
+V4One4's Player Type: UNKNOWN
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:44.000000
+V4Two4's VPIP: 0.162791
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.186047
+V4Two4's AF flop/postflop: 1.037037
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:44.000000
+BAMF4's VPIP: 0.023256
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:44.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (541)
+V4Two4 posts big blind, stack size (56)
+
+V4One4 folds.
+
+
+NEWHAND:45
+
+['NEWHAND', '45', '3', '3s', 'Th', '59', '541', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 3s Th
+V4Two4's VPIP: 0.159091
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.186047
+V4Two4's AF flop/postflop: 1.037037
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:45.000000
+V4One4's VPIP: 0.136364
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.113636
+V4One4's AF flop/postflop: 0.875000
+V4One4's Player Type: UNKNOWN
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:45.000000
+BAMF4's VPIP: 0.022727
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:45.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (58)
+V4One4 posts big blind, stack size (539)
+
+V4Two4 raised to 5.
+V4One4 called 5.
+V4One4 checks.
+V4Two4 bet 2.
+V4One4 raised to 8.
+V4Two4 raised to 30.
+V4One4 folds.
+
+
+NEWHAND:46
+
+['NEWHAND', '46', '3', '7s', '2c', '528', '72', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 7s 2c
+V4One4's VPIP: 0.133333
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.113636
+V4One4's AF flop/postflop: 0.878788
+V4One4's Player Type: UNKNOWN
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:46.000000
+V4Two4's VPIP: 0.155556
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.186047
+V4Two4's AF flop/postflop: 1.148148
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:46.000000
+BAMF4's VPIP: 0.022222
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:46.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (527)
+V4Two4 posts big blind, stack size (70)
+
+V4One4 folds.
+
+
+NEWHAND:47
+
+['NEWHAND', '47', '3', '3s', 'As', '73', '527', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 3s As
+V4Two4's VPIP: 0.152174
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.186047
+V4Two4's AF flop/postflop: 1.148148
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:47.000000
+V4One4's VPIP: 0.130435
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.130435
+V4One4's AF flop/postflop: 0.878788
+V4One4's Player Type: UNKNOWN
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:47.000000
+BAMF4's VPIP: 0.021739
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:47.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (72)
+V4One4 posts big blind, stack size (525)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 bet 2.
+V4Two4 called 2.
+V4One4 bet 8.
+V4Two4 called 8.
+V4One4 bet 19.
+V4Two4 folds.
+
+
+NEWHAND:48
+
+['NEWHAND', '48', '3', 'Qc', '2s', '539', '61', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Qc 2s
+V4One4's VPIP: 0.127660
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.130435
+V4One4's AF flop/postflop: 0.969697
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:48.000000
+V4Two4's VPIP: 0.148936
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.186047
+V4Two4's AF flop/postflop: 1.033333
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:48.000000
+BAMF4's VPIP: 0.021277
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:48.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (538)
+V4Two4 posts big blind, stack size (59)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 WTSD percentage is: 0.437500
+V4One4 WTSD percentage is: 0.541667
+V4One4 W$SD percentage is: 0.692308
+
+
+NEWHAND:49
+
+['NEWHAND', '49', '3', '9s', 'Jd', '59', '541', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 9s Jd
+V4Two4's VPIP: 0.145833
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.186047
+V4Two4's AF flop/postflop: 1.033333
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:49.000000
+V4One4's VPIP: 0.125000
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.130435
+V4One4's AF flop/postflop: 0.941176
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:49.000000
+BAMF4's VPIP: 0.020833
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:49.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (58)
+V4One4 posts big blind, stack size (539)
+
+V4Two4 folds.
+
+
+NEWHAND:50
+
+['NEWHAND', '50', '3', 'Jc', '8h', '542', '58', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Jc 8h
+V4One4's VPIP: 0.122449
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.130435
+V4One4's AF flop/postflop: 0.941176
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:50.000000
+V4Two4's VPIP: 0.142857
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.183673
+V4Two4's AF flop/postflop: 1.033333
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:50.000000
+BAMF4's VPIP: 0.020408
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:50.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (541)
+V4Two4 posts big blind, stack size (56)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 bet 4.
+V4One4 raised to 11.
+V4Two4 raised to 33.
+V4One4 raised to 56.
+V4Two4 called 56.
+V4One4 WTSD percentage is: 0.540000
+V4Two4 WTSD percentage is: 0.440000
+V4Two4 W$SD percentage is: 0.363636
+
+
+NEWHAND:51
+
+['NEWHAND', '51', '3', 'Qd', 'Tc', '116', '484', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Qd Tc
+V4Two4's VPIP: 0.140000
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.183673
+V4Two4's AF flop/postflop: 1.064516
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:51.000000
+V4One4's VPIP: 0.120000
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.130435
+V4One4's AF flop/postflop: 0.971429
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:51.000000
+BAMF4's VPIP: 0.020000
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:51.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (115)
+V4One4 posts big blind, stack size (482)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 bet 4.
+V4Two4 called 4.
+V4One4 checks.
+V4Two4 checks.
+V4One4 bet 8.
+V4Two4 called 8.
+V4Two4 WTSD percentage is: 0.450980
+V4One4 WTSD percentage is: 0.549020
+V4One4 W$SD percentage is: 0.678571
+
+
+NEWHAND:52
+
+['NEWHAND', '52', '3', '4s', '6d', '498', '102', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 4s 6d
+V4One4's VPIP: 0.117647
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.130435
+V4One4's AF flop/postflop: 1.028571
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:52.000000
+V4Two4's VPIP: 0.137255
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.183673
+V4Two4's AF flop/postflop: 0.970588
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:52.000000
+BAMF4's VPIP: 0.019608
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:52.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (497)
+V4Two4 posts big blind, stack size (100)
+
+V4One4 folds.
+
+
+NEWHAND:53
+
+['NEWHAND', '53', '3', '7c', 'Ts', '103', '497', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 7c Ts
+V4Two4's VPIP: 0.134615
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.183673
+V4Two4's AF flop/postflop: 0.970588
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:53.000000
+V4One4's VPIP: 0.115385
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.134615
+V4One4's AF flop/postflop: 1.028571
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:53.000000
+BAMF4's VPIP: 0.019231
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:53.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (102)
+V4One4 posts big blind, stack size (495)
+
+V4Two4 folds.
+
+
+NEWHAND:54
+
+['NEWHAND', '54', '3', 'Qc', 'Qd', '498', '102', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Qc Qd
+V4One4's VPIP: 0.113208
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.134615
+V4One4's AF flop/postflop: 1.028571
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:54.000000
+V4Two4's VPIP: 0.132075
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.188679
+V4Two4's AF flop/postflop: 0.970588
+V4Two4's Player Type: UNKNOWN
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:54.000000
+BAMF4's VPIP: 0.018868
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:54.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (497)
+V4Two4 posts big blind, stack size (100)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 WTSD percentage is: 0.444444
+V4One4 WTSD percentage is: 0.537037
+V4One4 W$SD percentage is: 0.689655
+
+
+NEWHAND:55
+
+['NEWHAND', '55', '3', '7s', 'Ad', '100', '500', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 7s Ad
+V4Two4's VPIP: 0.129630
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.188679
+V4Two4's AF flop/postflop: 0.970588
+V4Two4's Player Type: NIT
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:55.000000
+V4One4's VPIP: 0.111111
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.134615
+V4One4's AF flop/postflop: 1.000000
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:55.000000
+BAMF4's VPIP: 0.018519
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:55.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (99)
+V4One4 posts big blind, stack size (498)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 checks.
+V4Two4 bet 4.
+V4One4 folds.
+
+
+NEWHAND:56
+
+['NEWHAND', '56', '3', '3h', 'Kd', '498', '102', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 3h Kd
+V4One4's VPIP: 0.109091
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.134615
+V4One4's AF flop/postflop: 1.000000
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:56.000000
+V4Two4's VPIP: 0.127273
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.188679
+V4Two4's AF flop/postflop: 0.971429
+V4Two4's Player Type: NIT
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:56.000000
+BAMF4's VPIP: 0.018182
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:56.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (497)
+V4Two4 posts big blind, stack size (100)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 bet 2.
+V4One4 raised to 5.
+V4Two4 raised to 14.
+V4One4 raised to 29.
+V4Two4 raised to 64.
+V4One4 raised to 100.
+V4Two4 called 100.
+V4One4 WTSD percentage is: 0.535714
+V4Two4 WTSD percentage is: 0.446429
+V4One4 W$SD percentage is: 0.700000
+V4Two4 W$SD percentage is: 0.360000
+
+
+NEWHAND:57
+
+['NEWHAND', '57', '3', '9h', '8h', '102', '498', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 9h 8h
+V4Two4's VPIP: 0.125000
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.188679
+V4Two4's AF flop/postflop: 1.027778
+V4Two4's Player Type: NIT
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:57.000000
+V4One4's VPIP: 0.107143
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.134615
+V4One4's AF flop/postflop: 1.054054
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:57.000000
+BAMF4's VPIP: 0.017857
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:57.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (101)
+V4One4 posts big blind, stack size (496)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 bet 2.
+V4Two4 called 2.
+V4One4 bet 3.
+V4Two4 called 3.
+V4One4 bet 5.
+V4Two4 called 5.
+V4Two4 WTSD percentage is: 0.456140
+V4One4 WTSD percentage is: 0.543860
+V4One4 W$SD percentage is: 0.709677
+
+
+NEWHAND:58
+
+['NEWHAND', '58', '3', '2c', '3d', '510', '90', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 2c 3d
+V4One4's VPIP: 0.105263
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.134615
+V4One4's AF flop/postflop: 1.135135
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:58.000000
+V4Two4's VPIP: 0.122807
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.188679
+V4Two4's AF flop/postflop: 0.925000
+V4Two4's Player Type: NIT
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:58.000000
+BAMF4's VPIP: 0.017544
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:58.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (509)
+V4Two4 posts big blind, stack size (88)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 bet 2.
+V4One4 called 2.
+V4Two4 bet 7.
+V4One4 called 7.
+V4Two4 checks.
+V4One4 checks.
+V4One4 WTSD percentage is: 0.551724
+V4Two4 WTSD percentage is: 0.465517
+V4Two4 W$SD percentage is: 0.370370
+
+
+NEWHAND:59
+
+['NEWHAND', '59', '3', 'Jc', 'Ac', '101', '499', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Jc Ac
+V4Two4's VPIP: 0.120690
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.188679
+V4Two4's AF flop/postflop: 0.975000
+V4Two4's Player Type: NIT
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:59.000000
+V4One4's VPIP: 0.103448
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.134615
+V4One4's AF flop/postflop: 1.050000
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:59.000000
+BAMF4's VPIP: 0.017241
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:59.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (100)
+V4One4 posts big blind, stack size (497)
+
+V4Two4 folds.
+
+
+NEWHAND:60
+
+['NEWHAND', '60', '3', '6d', 'Ah', '500', '100', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 6d Ah
+V4One4's VPIP: 0.101695
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.134615
+V4One4's AF flop/postflop: 1.050000
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:60.000000
+V4Two4's VPIP: 0.118644
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.186441
+V4Two4's AF flop/postflop: 0.975000
+V4Two4's Player Type: NIT
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:60.000000
+BAMF4's VPIP: 0.016949
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:60.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (499)
+V4Two4 posts big blind, stack size (98)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 bet 4.
+V4One4 called 4.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 bet 12.
+V4One4 called 12.
+V4Two4 WTSD percentage is: 0.466667
+V4One4 WTSD percentage is: 0.550000
+V4Two4 W$SD percentage is: 0.392857
+
+
+NEWHAND:61
+
+['NEWHAND', '61', '3', '4c', 'Qc', '118', '482', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 4c Qc
+V4Two4's VPIP: 0.116667
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.186441
+V4Two4's AF flop/postflop: 1.025000
+V4Two4's Player Type: NIT
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:61.000000
+V4One4's VPIP: 0.100000
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.134615
+V4One4's AF flop/postflop: 0.976744
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:61.000000
+BAMF4's VPIP: 0.016667
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:61.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (117)
+V4One4 posts big blind, stack size (480)
+
+V4Two4 folds.
+
+
+NEWHAND:62
+
+['NEWHAND', '62', '3', 'Jh', '6h', '483', '117', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Jh 6h
+V4One4's VPIP: 0.098361
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.134615
+V4One4's AF flop/postflop: 0.976744
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:62.000000
+V4Two4's VPIP: 0.114754
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.196721
+V4Two4's AF flop/postflop: 1.025000
+V4Two4's Player Type: NIT
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:62.000000
+BAMF4's VPIP: 0.016393
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:62.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (482)
+V4Two4 posts big blind, stack size (115)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 bet 4.
+V4Two4 folds.
+
+
+NEWHAND:63
+
+['NEWHAND', '63', '3', 'Td', '4h', '115', '485', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Td 4h
+V4Two4's VPIP: 0.112903
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.196721
+V4Two4's AF flop/postflop: 1.025000
+V4Two4's Player Type: NIT
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:63.000000
+V4One4's VPIP: 0.096774
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.134615
+V4One4's AF flop/postflop: 0.977273
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:63.000000
+BAMF4's VPIP: 0.016129
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:63.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (114)
+V4One4 posts big blind, stack size (483)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 checks.
+V4Two4 bet 2.
+V4One4 called 2.
+V4One4 checks.
+V4Two4 bet 8.
+V4One4 folds.
+
+
+NEWHAND:64
+
+['NEWHAND', '64', '3', 'Kh', '9c', '481', '119', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Kh 9c
+V4One4's VPIP: 0.095238
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.134615
+V4One4's AF flop/postflop: 0.955556
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:64.000000
+V4Two4's VPIP: 0.111111
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.196721
+V4Two4's AF flop/postflop: 1.048780
+V4Two4's Player Type: NIT
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:64.000000
+BAMF4's VPIP: 0.015873
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:64.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (480)
+V4Two4 posts big blind, stack size (117)
+
+V4One4 folds.
+
+
+NEWHAND:65
+
+['NEWHAND', '65', '3', '6h', '7c', '120', '480', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 6h 7c
+V4Two4's VPIP: 0.109375
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.196721
+V4Two4's AF flop/postflop: 1.048780
+V4Two4's Player Type: NIT
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:65.000000
+V4One4's VPIP: 0.093750
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.125000
+V4One4's AF flop/postflop: 0.955556
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:65.000000
+BAMF4's VPIP: 0.015625
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:65.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (119)
+V4One4 posts big blind, stack size (478)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 bet 2.
+V4One4 folds.
+
+
+NEWHAND:66
+
+['NEWHAND', '66', '3', '5s', 'Js', '478', '122', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 5s Js
+V4One4's VPIP: 0.092308
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.125000
+V4One4's AF flop/postflop: 0.955556
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:66.000000
+V4Two4's VPIP: 0.107692
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.196721
+V4Two4's AF flop/postflop: 1.047619
+V4Two4's Player Type: NIT
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:66.000000
+BAMF4's VPIP: 0.015385
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:66.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (477)
+V4Two4 posts big blind, stack size (120)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 WTSD percentage is: 0.439394
+V4One4 WTSD percentage is: 0.515152
+V4Two4 W$SD percentage is: 0.413793
+
+
+NEWHAND:67
+
+['NEWHAND', '67', '3', '5d', 'As', '124', '476', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 5d As
+V4Two4's VPIP: 0.106061
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.196721
+V4Two4's AF flop/postflop: 1.047619
+V4Two4's Player Type: NIT
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:67.000000
+V4One4's VPIP: 0.090909
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.125000
+V4One4's AF flop/postflop: 0.934783
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:67.000000
+BAMF4's VPIP: 0.015152
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:67.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (123)
+V4One4 posts big blind, stack size (474)
+
+V4Two4 folds.
+
+
+NEWHAND:68
+
+['NEWHAND', '68', '3', 'Ah', 'Qc', '477', '123', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Ah Qc
+V4One4's VPIP: 0.089552
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.125000
+V4One4's AF flop/postflop: 0.934783
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:68.000000
+V4Two4's VPIP: 0.104478
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.194030
+V4Two4's AF flop/postflop: 1.047619
+V4Two4's Player Type: NIT
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:68.000000
+BAMF4's VPIP: 0.014925
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:68.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (476)
+V4Two4 posts big blind, stack size (121)
+
+V4One4 folds.
+
+
+NEWHAND:69
+
+['NEWHAND', '69', '3', 'Kd', '5c', '124', '476', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Kd 5c
+V4Two4's VPIP: 0.102941
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.194030
+V4Two4's AF flop/postflop: 1.047619
+V4Two4's Player Type: NIT
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:69.000000
+V4One4's VPIP: 0.088235
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.132353
+V4One4's AF flop/postflop: 0.934783
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:69.000000
+BAMF4's VPIP: 0.014706
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:69.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (123)
+V4One4 posts big blind, stack size (474)
+
+V4Two4 folds.
+
+
+NEWHAND:70
+
+['NEWHAND', '70', '3', 'Ad', 'As', '477', '123', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Ad As
+V4One4's VPIP: 0.086957
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.132353
+V4One4's AF flop/postflop: 0.934783
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:70.000000
+V4Two4's VPIP: 0.101449
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.202899
+V4Two4's AF flop/postflop: 1.047619
+V4Two4's Player Type: NIT
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:70.000000
+BAMF4's VPIP: 0.014493
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:70.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (476)
+V4Two4 posts big blind, stack size (121)
+
+V4One4 folds.
+
+
+NEWHAND:71
+
+['NEWHAND', '71', '3', '4s', 'Kd', '124', '476', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 4s Kd
+V4Two4's VPIP: 0.100000
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.202899
+V4Two4's AF flop/postflop: 1.047619
+V4Two4's Player Type: NIT
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:71.000000
+V4One4's VPIP: 0.085714
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.142857
+V4One4's AF flop/postflop: 0.934783
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:71.000000
+BAMF4's VPIP: 0.014286
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:71.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (123)
+V4One4 posts big blind, stack size (474)
+
+V4Two4 folds.
+
+
+NEWHAND:72
+
+['NEWHAND', '72', '3', 'Qc', 'Jc', '477', '123', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Qc Jc
+V4One4's VPIP: 0.084507
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.142857
+V4One4's AF flop/postflop: 0.934783
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:72.000000
+V4Two4's VPIP: 0.098592
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.211268
+V4Two4's AF flop/postflop: 1.047619
+V4Two4's Player Type: NIT
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:72.000000
+BAMF4's VPIP: 0.014085
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:72.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (476)
+V4Two4 posts big blind, stack size (121)
+
+V4One4 folds.
+
+
+NEWHAND:73
+
+['NEWHAND', '73', '3', 'Th', '9s', '124', '476', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Th 9s
+V4Two4's VPIP: 0.097222
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.211268
+V4Two4's AF flop/postflop: 1.047619
+V4Two4's Player Type: NIT
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:73.000000
+V4One4's VPIP: 0.083333
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.152778
+V4One4's AF flop/postflop: 0.934783
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:73.000000
+BAMF4's VPIP: 0.013889
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:73.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (123)
+V4One4 posts big blind, stack size (474)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 WTSD percentage is: 0.479452
+V4Two4 WTSD percentage is: 0.410959
+V4One4 W$SD percentage is: 0.657143
+
+
+NEWHAND:74
+
+['NEWHAND', '74', '3', '3c', '3d', '478', '122', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 3c 3d
+V4One4's VPIP: 0.082192
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.152778
+V4One4's AF flop/postflop: 0.934783
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:74.000000
+V4Two4's VPIP: 0.095890
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.211268
+V4Two4's AF flop/postflop: 1.023256
+V4Two4's Player Type: NIT
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:74.000000
+BAMF4's VPIP: 0.013699
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:74.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (477)
+V4Two4 posts big blind, stack size (120)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 bet 3.
+V4One4 called 3.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 bet 6.
+V4One4 raised to 19.
+V4Two4 raised to 44.
+V4One4 raised to 71.
+V4Two4 called 71.
+V4One4 WTSD percentage is: 0.486486
+V4Two4 WTSD percentage is: 0.418919
+V4One4 W$SD percentage is: 0.666667
+V4Two4 W$SD percentage is: 0.419355
+
+
+NEWHAND:75
+
+['NEWHAND', '75', '3', '2s', 'Ac', '122', '478', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 2s Ac
+V4Two4's VPIP: 0.094595
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.211268
+V4Two4's AF flop/postflop: 1.068182
+V4Two4's Player Type: NIT
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:75.000000
+V4One4's VPIP: 0.081081
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.152778
+V4One4's AF flop/postflop: 0.937500
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:75.000000
+BAMF4's VPIP: 0.013514
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:75.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (121)
+V4One4 posts big blind, stack size (476)
+
+V4Two4 folds.
+
+
+NEWHAND:76
+
+['NEWHAND', '76', '3', '9d', '4d', '479', '121', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 9d 4d
+V4One4's VPIP: 0.080000
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.152778
+V4One4's AF flop/postflop: 0.937500
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:76.000000
+V4Two4's VPIP: 0.093333
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.213333
+V4Two4's AF flop/postflop: 1.068182
+V4Two4's Player Type: NIT
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:76.000000
+BAMF4's VPIP: 0.013333
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:76.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (478)
+V4Two4 posts big blind, stack size (119)
+
+V4One4 folds.
+
+
+NEWHAND:77
+
+['NEWHAND', '77', '3', 'Ks', '9c', '122', '478', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Ks 9c
+V4Two4's VPIP: 0.092105
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.213333
+V4Two4's AF flop/postflop: 1.068182
+V4Two4's Player Type: NIT
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:77.000000
+V4One4's VPIP: 0.078947
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.157895
+V4One4's AF flop/postflop: 0.937500
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:77.000000
+BAMF4's VPIP: 0.013158
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:77.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (121)
+V4One4 posts big blind, stack size (476)
+
+V4Two4 folds.
+
+
+NEWHAND:78
+
+['NEWHAND', '78', '3', 'Kd', '5c', '479', '121', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Kd 5c
+V4One4's VPIP: 0.077922
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.157895
+V4One4's AF flop/postflop: 0.937500
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:78.000000
+V4Two4's VPIP: 0.090909
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.220779
+V4Two4's AF flop/postflop: 1.068182
+V4Two4's Player Type: NIT
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:78.000000
+BAMF4's VPIP: 0.012987
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:78.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (478)
+V4Two4 posts big blind, stack size (119)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 WTSD percentage is: 0.410256
+V4One4 WTSD percentage is: 0.474359
+V4One4 W$SD percentage is: 0.675676
+
+
+NEWHAND:79
+
+['NEWHAND', '79', '3', '6d', 'Qd', '119', '481', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 6d Qd
+V4Two4's VPIP: 0.089744
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.220779
+V4Two4's AF flop/postflop: 1.068182
+V4Two4's Player Type: NIT
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:79.000000
+V4One4's VPIP: 0.076923
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.157895
+V4One4's AF flop/postflop: 0.918367
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:79.000000
+BAMF4's VPIP: 0.012821
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:79.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (118)
+V4One4 posts big blind, stack size (479)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 bet 3.
+V4Two4 called 3.
+V4One4 bet 6.
+V4Two4 folds.
+
+
+NEWHAND:80
+
+['NEWHAND', '80', '3', '4h', '2d', '486', '114', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 4h 2d
+V4One4's VPIP: 0.075949
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.157895
+V4One4's AF flop/postflop: 0.959184
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:80.000000
+V4Two4's VPIP: 0.088608
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.220779
+V4Two4's AF flop/postflop: 1.021739
+V4Two4's Player Type: NIT
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:80.000000
+BAMF4's VPIP: 0.012658
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:80.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (485)
+V4Two4 posts big blind, stack size (112)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 checks.
+V4One4 bet 2.
+V4Two4 called 2.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 bet 7.
+V4One4 folds.
+
+
+NEWHAND:81
+
+['NEWHAND', '81', '3', 'Jd', '7d', '118', '482', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Jd 7d
+V4Two4's VPIP: 0.087500
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.220779
+V4Two4's AF flop/postflop: 1.021277
+V4Two4's Player Type: NIT
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:81.000000
+V4One4's VPIP: 0.075000
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.157895
+V4One4's AF flop/postflop: 0.960000
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:81.000000
+BAMF4's VPIP: 0.012500
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:81.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (117)
+V4One4 posts big blind, stack size (480)
+
+V4Two4 raised to 5.
+V4One4 called 5.
+V4One4 bet 2.
+V4Two4 raised to 16.
+V4One4 raised to 45.
+V4Two4 called 45.
+V4One4 bet 28.
+V4Two4 called 28.
+V4One4 checks.
+V4Two4 checks.
+V4Two4 WTSD percentage is: 0.407407
+V4One4 WTSD percentage is: 0.469136
+V4One4 W$SD percentage is: 0.684211
+
+
+NEWHAND:82
+
+['NEWHAND', '82', '3', '3s', '2d', '560', '40', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 3s 2d
+V4One4's VPIP: 0.074074
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.157895
+V4One4's AF flop/postflop: 1.000000
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:82.000000
+V4Two4's VPIP: 0.086420
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.220779
+V4Two4's AF flop/postflop: 1.020408
+V4Two4's Player Type: NIT
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:82.000000
+BAMF4's VPIP: 0.012346
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:82.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (559)
+V4Two4 posts big blind, stack size (38)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 bet 3.
+V4One4 called 3.
+V4Two4 bet 10.
+V4One4 called 10.
+V4One4 WTSD percentage is: 0.475610
+V4Two4 WTSD percentage is: 0.414634
+V4Two4 W$SD percentage is: 0.411765
+
+
+NEWHAND:83
+
+['NEWHAND', '83', '3', 'Qd', '9h', '55', '545', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Qd 9h
+V4Two4's VPIP: 0.085366
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.220779
+V4Two4's AF flop/postflop: 1.061224
+V4Two4's Player Type: NIT
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:83.000000
+V4One4's VPIP: 0.073171
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.157895
+V4One4's AF flop/postflop: 0.944444
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:83.000000
+BAMF4's VPIP: 0.012195
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:83.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (54)
+V4One4 posts big blind, stack size (543)
+
+V4Two4 folds.
+
+
+NEWHAND:84
+
+['NEWHAND', '84', '3', '2s', '3c', '546', '54', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 2s 3c
+V4One4's VPIP: 0.072289
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.157895
+V4One4's AF flop/postflop: 0.944444
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:84.000000
+V4Two4's VPIP: 0.084337
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.216867
+V4Two4's AF flop/postflop: 1.061224
+V4Two4's Player Type: NIT
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:84.000000
+BAMF4's VPIP: 0.012048
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:84.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (545)
+V4Two4 posts big blind, stack size (52)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 WTSD percentage is: 0.416667
+V4One4 WTSD percentage is: 0.476190
+V4One4 W$SD percentage is: 0.675000
+
+
+NEWHAND:85
+
+['NEWHAND', '85', '3', '2h', '2s', '52', '548', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 2h 2s
+V4Two4's VPIP: 0.083333
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.216867
+V4Two4's AF flop/postflop: 1.061224
+V4Two4's Player Type: NIT
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:85.000000
+V4One4's VPIP: 0.071429
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.157895
+V4One4's AF flop/postflop: 0.927273
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:85.000000
+BAMF4's VPIP: 0.011905
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:85.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (51)
+V4One4 posts big blind, stack size (546)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 bet 3.
+V4Two4 called 3.
+V4One4 bet 10.
+V4Two4 folds.
+
+
+NEWHAND:86
+
+['NEWHAND', '86', '3', 'Qd', '5h', '553', '47', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Qd 5h
+V4One4's VPIP: 0.070588
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.157895
+V4One4's AF flop/postflop: 0.963636
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:86.000000
+V4Two4's VPIP: 0.082353
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.216867
+V4Two4's AF flop/postflop: 1.019608
+V4Two4's Player Type: NIT
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:86.000000
+BAMF4's VPIP: 0.011765
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:86.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (552)
+V4Two4 posts big blind, stack size (45)
+
+V4One4 folds.
+
+
+NEWHAND:87
+
+['NEWHAND', '87', '3', '7c', '2h', '48', '552', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 7c 2h
+V4Two4's VPIP: 0.081395
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.216867
+V4Two4's AF flop/postflop: 1.019608
+V4Two4's Player Type: NIT
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:87.000000
+V4One4's VPIP: 0.069767
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.151163
+V4One4's AF flop/postflop: 0.963636
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:87.000000
+BAMF4's VPIP: 0.011628
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:87.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (47)
+V4One4 posts big blind, stack size (550)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 bet 3.
+V4Two4 raised to 8.
+V4One4 raised to 26.
+V4Two4 called 26.
+V4One4 bet 5.
+V4Two4 raised to 20.
+V4One4 called 20.
+V4Two4 WTSD percentage is: 0.413793
+V4One4 WTSD percentage is: 0.471264
+V4Two4 W$SD percentage is: 0.416667
+
+
+NEWHAND:88
+
+['NEWHAND', '88', '3', '3s', '3c', '504', '96', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 3s 3c
+V4One4's VPIP: 0.068966
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.151163
+V4One4's AF flop/postflop: 1.000000
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:88.000000
+V4Two4's VPIP: 0.080460
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.216867
+V4Two4's AF flop/postflop: 1.018868
+V4Two4's Player Type: NIT
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:88.000000
+BAMF4's VPIP: 0.011494
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:88.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (503)
+V4Two4 posts big blind, stack size (94)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4One4 WTSD percentage is: 0.477273
+V4Two4 WTSD percentage is: 0.420455
+V4One4 W$SD percentage is: 0.666667
+
+
+NEWHAND:89
+
+['NEWHAND', '89', '3', '9c', '8d', '94', '506', '0', 'V4Two4', 'V4One4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: 9c 8d
+V4Two4's VPIP: 0.079545
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.216867
+V4Two4's AF flop/postflop: 1.018868
+V4Two4's Player Type: NIT
+V4Two4's Seat:1
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:89.000000
+V4One4's VPIP: 0.068182
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.151163
+V4One4's AF flop/postflop: 0.982456
+V4One4's Player Type: NIT
+V4One4's Seat:2
+V4One4's preflop raises:0.000000
+V4One4's hands played:89.000000
+BAMF4's VPIP: 0.011364
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:89.000000
+BAMF4 is eliminated
+
+V4Two4 posts small blind/and is dealer, stack size (93)
+V4One4 posts big blind, stack size (504)
+
+V4Two4 called 2.
+V4One4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 checks.
+V4Two4 checks.
+V4One4 WTSD percentage is: 0.483146
+V4Two4 WTSD percentage is: 0.426966
+V4Two4 W$SD percentage is: 0.421053
+
+
+NEWHAND:90
+
+['NEWHAND', '90', '3', 'Ah', '8h', '504', '96', '0', 'V4One4', 'V4Two4', 'BAMF4', '2', 'true', 'true', 'false', '14.597258']
+Active Players:2
+
+Our hand: Ah 8h
+V4One4's VPIP: 0.067416
+V4One4's PFR: 0.000000
+V4One4's estimated fold percentage is 0.151163
+V4One4's AF flop/postflop: 0.982456
+V4One4's Player Type: NIT
+V4One4's Seat:1
+V4One4's preflop raises:0.000000
+V4One4's hands played:90.000000
+V4Two4's VPIP: 0.078652
+V4Two4's PFR: 0.000000
+V4Two4's estimated fold percentage is 0.216867
+V4Two4's AF flop/postflop: 1.000000
+V4Two4's Player Type: NIT
+V4Two4's Seat:2
+V4Two4's preflop raises:0.000000
+V4Two4's hands played:90.000000
+BAMF4's VPIP: 0.011236
+BAMF4's PFR: 0.000000
+BAMF4's estimated fold percentage is 0.250000
+BAMF4's AF flop/postflop: 0.157895
+BAMF4's Player Type: NIT
+BAMF4's Seat:3
+BAMF4's preflop raises:0.000000
+BAMF4's hands played:90.000000
+BAMF4 is eliminated
+
+V4One4 posts small blind/and is dealer, stack size (503)
+V4Two4 posts big blind, stack size (94)
+
+V4One4 called 2.
+V4Two4 checks.
+V4Two4 bet 4.
+V4One4 raised to 13.
+V4Two4 raised to 25.
+V4One4 raised to 44.
+V4Two4 called 44.
+V4Two4 bet 33.
+V4One4 raised to 50.
+V4Two4 called 50.
+V4Two4 WTSD percentage is: 0.433333
+V4One4 WTSD percentage is: 0.488889
+V4One4 W$SD percentage is: 0.659091
 Gameover, engine disconnected.

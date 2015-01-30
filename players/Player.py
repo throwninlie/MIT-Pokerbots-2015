@@ -183,6 +183,8 @@ class Player:
                     print name + "'s AF flop/postflop: %f"%bot.getAFflop()
                     print name + "'s Player Type: %s"%bot.read()
                     print name + "'s Seat:%s"%bot.getSeat()
+                    print name + "'s preflop raises:%f"%bot.getPreFlopRaises()
+                    print name + "'s hands played:%f"%bot.getHandsPlayed()
                     #print stuff
                     #delete this later
                     if bot.isEliminated():
@@ -334,6 +336,7 @@ class Player:
                             #bot.updateAF()
                             #preflop raises - count towards pfr
                             if num_board_cards == 0:
+                                print "new preflop raise"
                                 bot.preFlopRaise()
                             elif num_board_cards >= 3:
                                 bot.addBetRaiseFlop()
@@ -341,6 +344,7 @@ class Player:
                                 bot.updateAFqFlop()
                             if not (name == our_name):
                                 print name + " raised to %d."%bet
+                            #we update our own when we reply
                             if name == our_name:
                                 pass
                             else:
@@ -644,11 +648,13 @@ def betLogic(input_socket,board,equities,pot_size,our_seat,bot1,bot2 = None):
     if our_bot.getLastRound() is not None:
         our_last_round = our_bot.getLastRound() 
     else:
-        our_last_round = 0
+        our_last_round = None
     our_last_bet = our_bot.getLastBet()
     print "our last bet of %d was in round %d"%(our_last_bet,our_last_round)
     if (their_bet - our_last_bet >= 0):
-        if our_last_round == num_board_cards:
+        #there are edge cases when our last round is preflop /hand's over (we bet really high in this hand)
+        #next hand our_last_round == 0 and we use our last bet from the previous round to calculate ev...
+        if our_last_round == num_board_cards and our_last_round is not None:
             their_bet = their_bet - our_last_bet
         else:
             pass
@@ -703,6 +709,7 @@ def betLogic(input_socket,board,equities,pot_size,our_seat,bot1,bot2 = None):
     #maxBetFold is the maxBet for our fold EV to be positive,upperbound to our bluff
     #when their fold percentage is 100%, undefined, if 0%, then nothing we bet will make them fold 
     maxBetFold = calc_functions.foldBet(minFoldPerc,pot_size,our_bot.getStack())
+    maxBetFold = min(maxBetEV,maxBetFold)
 
     #if nit, we can get them to fold preflop
     #post flop respect their bets
@@ -799,13 +806,14 @@ def betLogic(input_socket,board,equities,pot_size,our_seat,bot1,bot2 = None):
     print our_name +"'s EV: %f"%ev
     print our_name +"'s Equity: %s"%equities.ev[0]
     print our_name +"'s Implied Odds: %d"%impliedOdds
+    print our_name +"'s Pot odds: %f"%pot_odds
     print our_name +"'s maxBetFold: %d"%maxBetFold
-    print our_name +"'s M ratio:%d"%our_m
+    print our_name +"'s M ratio:%f"%our_m
     print our_name +"'s maxBetEV: %d\n"%maxBetEV
 
     
     
-    if our_equity > 0.6 and our_m >= 4 and our_m <= 7:
+    if our_equity > 0.6 and ev >= 0 and our_m >= 4 and our_m <= 7:
         #all in or fold (all in)
         action = "BET"
         print "all in 1"
@@ -840,7 +848,7 @@ def betLogic(input_socket,board,equities,pot_size,our_seat,bot1,bot2 = None):
                 bettingActions(s,action)
             else:
                 bluffRand = random.random()
-                if bluffRand < 0.35 and their_bet < maxBetFold:
+                if bluffRand < 0.35 and their_bet < maxBetFold and ev >=0:
                     action = "BET" 
                     #max bluffing bet
                     maxBet = min(our_stack,max(bluffMin,maxBetFold))
@@ -855,13 +863,13 @@ def betLogic(input_socket,board,equities,pot_size,our_seat,bot1,bot2 = None):
             #if our equity is good we want to bet
             #because our ev == 0 if no one has bet yet
             #0.6 is a random threshold
-            if our_equity >= 0.6 and not no_reraise:
+            if our_equity >= 0.6 and ev >= 10 and not no_reraise:
                 action = "BET"
                 maxBet = min(our_stack,max(maxBetEV,bb))
                 minBet = min(bb,maxBet)
                 print "BETTING LOOSE2"
                 bettingActions(s,action,minBet,maxBet)
-            elif our_equity >= 0.6 and no_reraise:
+            elif our_equity >= 0.6 and ev >= 0 and no_reraise:
                 action = "CALL"
                 bettingActions(s,action)
             else:
@@ -871,13 +879,13 @@ def betLogic(input_socket,board,equities,pot_size,our_seat,bot1,bot2 = None):
                     bettingActions(s,action)
                 else:
                     bluffRand = random.random()
-                    if bluffRand < 0.3 and their_bet <= (maxBetFold - 3*bb):
+                    if bluffRand < 0.3 and their_bet <= (maxBetFold - 3*bb) and ev >= 0:
                         action = "BET" 
                         #max bluffing bet
                         maxBet = min(our_stack,max(bluffMin,maxBetFold))
                         minBet = min(bluffMin,maxBetFold)
                         bettingActions(s,action,minBet,maxBet)
-                    elif our_equity > 0.45 and not no_reraise:
+                    elif our_equity > 0.45 and ev >= 0 and not no_reraise:
                         action = "BET"
                         maxBet = min(our_stack,max(bb,maxBetEV))
                         minBet = min(bb,maxBet)
@@ -899,7 +907,7 @@ def betLogic(input_socket,board,equities,pot_size,our_seat,bot1,bot2 = None):
         
         #check to see their last actions (if raise/bet, watch out)
         bluffRand = random.random()
-        if round_start and bluffRand <= 0.5 and not watch_out and our_equity<0.4 and not blood_in_the_water and milk_the_cow:
+        if round_start and bluffRand <= 0.5 and not watch_out and ev >= 0 and not blood_in_the_water and milk_the_cow:
             #some percentage of the time we should bluff when we have nothing
             #bet or raise
             print "line 001"
@@ -909,7 +917,7 @@ def betLogic(input_socket,board,equities,pot_size,our_seat,bot1,bot2 = None):
             minBet = min(bluffMin,maxBet)
             bettingActions(s,action,minBet,maxBet)
 
-        elif bluffRand <= 0.5 and not watch_out and our_equity < 0.4 and not cow_raised and not blood_in_the_water and milk_the_cow:
+        elif bluffRand <= 0.5 and not watch_out and ev >= 0 and not cow_raised and not blood_in_the_water and milk_the_cow:
             #some percentage of the time we should bluff
             #bet or raise
             print "line 002"
@@ -924,13 +932,13 @@ def betLogic(input_socket,board,equities,pot_size,our_seat,bot1,bot2 = None):
             #if our equity is good we want to bet
             #because our ev == 0 if no one has bet yet
             #0.6 is a random threshold
-            if our_equity >= 0.6:
+            if our_equity >0.6 and ev > 10:
                 print "line 1"
                 action = "BET"
                 maxBet = min(our_stack,max(bb,maxBetEV))
                 minBet = min(bb,maxBet)
                 bettingActions(s,action,minBet,maxBet)
-            elif our_equity >= 0.6:
+            elif ev >= 0:
                 print "line 2"
                 action= "CALL"
                 bettingActions(s,action)
@@ -942,14 +950,14 @@ def betLogic(input_socket,board,equities,pot_size,our_seat,bot1,bot2 = None):
                 else:
 
                     bluffRand = random.random()
-                    if bluffRand < 0.3 and their_bet <= (maxBetFold - 3*bb):
+                    if bluffRand < 0.25 and their_bet <= (maxBetFold - 3*bb) and ev >= 0:
                         print "line 4"
                         action = "BET" 
                         #max bluffing bet
                         maxBet = min(our_stack,max(bluffMin,maxBetFold))
                         minBet = min(bluffMin,maxBetFold)
                         bettingActions(s,action,minBet,maxBet)
-                    elif our_equity >0.5 and not no_reraise:
+                    elif ev >= 0 and not no_reraise:
                         print "line 5"
                         action = "BET"
                         maxBet = min(our_stack,max(bb,maxBetEV))

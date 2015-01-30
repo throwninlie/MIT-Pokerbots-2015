@@ -2,2855 +2,1065 @@
 C:\Users\Er\Dropbox\Pokerbot\players>python Player.py 3000 
 Connecting to localhost:3000
 Our name: BAMF3
-Opp1 name: Doppelganger3
-Opp2 name: Clone3
+Opp1 name: V4Two3
+Opp2 name: V4One3
 
 
 NEWHAND:1
 
-['NEWHAND', '1', '2', '8c', 'Qc', '200', '200', '200', 'Clone3', 'BAMF3', 'Doppelganger3', '3', 'true', 'true', 'true', '15.000000']
+['NEWHAND', '1', '2', '2h', '4h', '200', '200', '200', 'V4One3', 'BAMF3', 'V4Two3', '3', 'true', 'true', 'true', '15.000000']
 Active Players:3
 
-Our hand: 8c Qc
-Clone3's VPIP: 0.000000
-Clone3's PFR: 0.000000
-Clone3's estimated fold percentage is 0.000000
-Clone3's AF flop/postflop: 0.000000
-Clone3's Player Type: NIT
-Clone3's Seat:1
+Our hand: 2h 4h
+V4One3's VPIP: 0.000000
+V4One3's PFR: 0.000000
+V4One3's estimated fold percentage is 0.000000
+V4One3's AF flop/postflop: 0.000000
+V4One3's Player Type: NIT
+V4One3's Seat:1
+V4One3's preflop raises:0.000000
+V4One3's hands played:1.000000
 BAMF3's VPIP: 0.000000
 BAMF3's PFR: 0.000000
 BAMF3's estimated fold percentage is 0.000000
 BAMF3's AF flop/postflop: 0.000000
 BAMF3's Player Type: NIT
 BAMF3's Seat:2
-Doppelganger3's VPIP: 0.000000
-Doppelganger3's PFR: 0.000000
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 0.000000
-Doppelganger3's Player Type: NIT
-Doppelganger3's Seat:3
+BAMF3's preflop raises:0.000000
+BAMF3's hands played:1.000000
+V4Two3's VPIP: 0.000000
+V4Two3's PFR: 0.000000
+V4Two3's estimated fold percentage is 0.000000
+V4Two3's AF flop/postflop: 0.000000
+V4Two3's Player Type: NIT
+V4Two3's Seat:3
+V4Two3's preflop raises:0.000000
+V4Two3's hands played:1.000000
 
 BAMF3 posts small blind, stack size (199)
-Doppelganger3 posts big blind, stack size (198)
-
-['FOLD', 'CALL:2', 'RAISE:4:8']
-{}
-
-***PREFLOP***(5) Board:()
-Our hand: 8c Qc
-
-Clone3 called 2.
-our last bet of 1 was in round 0
-BAMF3's EV: 2.390000
-BAMF3's Equity: 0.565
-BAMF3's Implied Odds: -5
-BAMF3's maxBetFold: 0
-BAMF3's M ratio:66
-BAMF3's maxBetEV: 6
-
-BAMF3 calls 2.
-our bot's last action is CALL for 2
-['CHECK', 'BET:2:6']
-{}
-
-***FLOP***(6) Board:(Kh Jc Ts)
-Our hand: 8c Qc
-
-Doppelganger3 checks.
-our last bet of 2 was in round 0
-BAMF3's EV: 3.378000
-BAMF3's Equity: 0.563
-BAMF3's Implied Odds: -6
-BAMF3's maxBetFold: 0
-BAMF3's M ratio:66
-BAMF3's maxBetEV: 7
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:6']
-{}
-
-***TURN***(6) Board:(Kh Jc Ts Kd)
-Our hand: 8c Qc
-
-Doppelganger3 checks.
-Clone3 checks.
-our last bet of 0 was in round 3
-BAMF3's EV: 3.069000
-BAMF3's Equity: 0.5115
-BAMF3's Implied Odds: -6
-BAMF3's maxBetFold: 0
-BAMF3's M ratio:66
-BAMF3's maxBetEV: 6
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:6']
-{}
-
-***RIVER***(6) Board:(Kh Jc Ts Kd 5s)
-Our hand: 8c Qc
-
-Doppelganger3 checks.
-Clone3 checks.
-our last bet of 0 was in round 4
-BAMF3's EV: 2.100000
-BAMF3's Equity: 0.35
-BAMF3's Implied Odds: -6
-BAMF3's maxBetFold: 0
-BAMF3's M ratio:66
-BAMF3's maxBetEV: 3
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-Doppelganger3 checks.
-Clone3 checks.
-Clone3 WTSD percentage is: 1.000000
-BAMF3 WTSD percentage is: 1.000000
-Doppelganger3 WTSD percentage is: 1.000000
-Doppelganger3 W$SD percentage is: 1.000000
-
-
-NEWHAND:2
-
-['NEWHAND', '2', '3', 'Td', '3c', '204', '198', '198', 'Doppelganger3', 'Clone3', 'BAMF3', '3', 'true', 'true', 'true', '14.978919']
-Active Players:3
-
-Our hand: Td 3c
-Doppelganger3's VPIP: 0.000000
-Doppelganger3's PFR: 0.000000
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 0.000000
-Doppelganger3's Player Type: NIT
-Doppelganger3's Seat:1
-Clone3's VPIP: 1.000000
-Clone3's PFR: 0.000000
-Clone3's estimated fold percentage is 0.000000
-Clone3's AF flop/postflop: 0.000000
-Clone3's Player Type: UNKNOWN
-Clone3's Seat:2
-BAMF3's VPIP: 0.000000
-BAMF3's PFR: 0.000000
-BAMF3's estimated fold percentage is 0.000000
-BAMF3's AF flop/postflop: 0.000000
-BAMF3's Player Type: NIT
-BAMF3's Seat:3
-
-Clone3 posts small blind, stack size (197)
-BAMF3 posts big blind, stack size (196)
-
-['CHECK', 'RAISE:4:7']
-{}
-
-***PREFLOP***(5) Board:()
-Our hand: Td 3c
-
-Doppelganger3 called 2.
-Clone3 folds.
-our last bet of 2 was in round 0
-BAMF3's EV: 2.152500
-BAMF3's Equity: 0.4305
-BAMF3's Implied Odds: -5
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:65
-BAMF3's maxBetEV: 3
-
-NOT BLUFFING FOLD
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:5']
-{}
-
-***FLOP***(5) Board:(5c 6c Ah)
-Our hand: Td 3c
-
-our last bet of 0 was in round 0
-BAMF3's EV: 1.517500
-BAMF3's Equity: 0.3035
-BAMF3's Implied Odds: -5
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:65
-BAMF3's maxBetEV: 2
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:4', 'RAISE:8:17']
-{}
-
-***FLOP***(9) Board:(5c 6c Ah)
-Our hand: Td 3c
-
-Doppelganger3 bet 4.
-our last bet of 0 was in round 3
-BAMF3's EV: -0.054500
-BAMF3's Equity: 0.3035
-BAMF3's Implied Odds: -3
-BAMF3's maxBetFold: 9
-BAMF3's M ratio:65
-BAMF3's maxBetEV: 3
-
-BAMF3 folds.
-our bot's last action is FOLD for 0
-
-
-NEWHAND:3
-
-['NEWHAND', '3', '1', '4h', '6h', '196', '207', '197', 'BAMF3', 'Doppelganger3', 'Clone3', '3', 'true', 'true', 'true', '14.961118']
-Active Players:3
-
-Our hand: 4h 6h
-BAMF3's VPIP: 0.000000
-BAMF3's PFR: 0.000000
-BAMF3's estimated fold percentage is 0.000000
-BAMF3's AF flop/postflop: 0.000000
-BAMF3's Player Type: NIT
-BAMF3's Seat:1
-Doppelganger3's VPIP: 0.500000
-Doppelganger3's PFR: 0.000000
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 1.000000
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:2
-Clone3's VPIP: 0.500000
-Clone3's PFR: 0.000000
-Clone3's estimated fold percentage is 0.500000
-Clone3's AF flop/postflop: 0.000000
-Clone3's Player Type: UNKNOWN
-Clone3's Seat:3
-
-Doppelganger3 posts small blind, stack size (206)
-Clone3 posts big blind, stack size (195)
-
-['CALL:2', 'FOLD', 'RAISE:4:7']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 4h 6h
-
-our last bet of 0 was in round 0
-BAMF3's EV: 0.052500
-BAMF3's Equity: 0.4105
-BAMF3's Implied Odds: -2
-BAMF3's maxBetFold: 3
-BAMF3's M ratio:65
-BAMF3's maxBetEV: 2
-
-NOT BLUFFING FOLD
-BAMF3 folds.
-our bot's last action is FOLD for 0
-Doppelganger3 called 2.
-Clone3 checks.
-Doppelganger3 bet 4.
-Clone3 raised to 12.
-Doppelganger3 raised to 30.
-Clone3 raised to 48.
-Doppelganger3 raised to 87.
-Clone3 called 87.
-Doppelganger3 bet 17.
-Clone3 raised to 35.
-Doppelganger3 raised to 53.
-Clone3 called 53.
-Doppelganger3 bet 14.
-Clone3 raised to 41.
-Doppelganger3 called 41.
-Doppelganger3 WTSD percentage is: 0.666667
-Clone3 WTSD percentage is: 0.666667
-Doppelganger3 W$SD percentage is: 1.000000
-
-
-NEWHAND:4
-
-['NEWHAND', '4', '2', 'Tc', '2d', '14', '196', '390', 'Clone3', 'BAMF3', 'Doppelganger3', '3', 'true', 'true', 'true', '14.953068']
-Active Players:3
-
-Our hand: Tc 2d
-Clone3's VPIP: 0.333333
-Clone3's PFR: 0.000000
-Clone3's estimated fold percentage is 0.500000
-Clone3's AF flop/postflop: 2.000000
-Clone3's Player Type: CALLING STATION
-Clone3's Seat:1
-BAMF3's VPIP: 0.000000
-BAMF3's PFR: 0.000000
-BAMF3's estimated fold percentage is 0.000000
-BAMF3's AF flop/postflop: 0.000000
-BAMF3's Player Type: NIT
-BAMF3's Seat:2
-Doppelganger3's VPIP: 0.333333
-Doppelganger3's PFR: 0.000000
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 3.500000
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:3
-
-BAMF3 posts small blind, stack size (195)
-Doppelganger3 posts big blind, stack size (388)
+V4Two3 posts big blind, stack size (198)
 
 ['FOLD', 'CALL:2', 'RAISE:4:6']
 {}
 
 ***PREFLOP***(3) Board:()
-Our hand: Tc 2d
+Our hand: 2h 4h
 
-Clone3 folds.
+V4One3 folds.
 our last bet of 1 was in round 0
-BAMF3's EV: 0.682000
-BAMF3's Equity: 0.4205
+BAMF3's EV: 0.410000
+BAMF3's Equity: 0.3525
 BAMF3's Implied Odds: -2
-BAMF3's maxBetFold: 3
-BAMF3's M ratio:65
-BAMF3's maxBetEV: 2
+BAMF3's Pot odds: 0.333333
+BAMF3's maxBetFold: 1
+BAMF3's M ratio:66.333333
+BAMF3's maxBetEV: 1
 
 NOT BLUFFING FOLD
 BAMF3 folds.
 our bot's last action is FOLD for 0
 
 
-NEWHAND:5
+NEWHAND:2
 
-['NEWHAND', '5', '3', '2s', '9d', '391', '14', '195', 'Doppelganger3', 'Clone3', 'BAMF3', '3', 'true', 'true', 'true', '14.946694']
+['NEWHAND', '2', '3', '9d', '2d', '201', '200', '199', 'V4Two3', 'V4One3', 'BAMF3', '3', 'true', 'true', 'true', '14.991549']
 Active Players:3
 
-Our hand: 2s 9d
-Doppelganger3's VPIP: 0.250000
-Doppelganger3's PFR: 0.000000
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 3.500000
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:1
-Clone3's VPIP: 0.250000
-Clone3's PFR: 0.000000
-Clone3's estimated fold percentage is 0.500000
-Clone3's AF flop/postflop: 2.000000
-Clone3's Player Type: CALLING STATION
-Clone3's Seat:2
+Our hand: 9d 2d
+V4Two3's VPIP: 0.000000
+V4Two3's PFR: 0.000000
+V4Two3's estimated fold percentage is 0.000000
+V4Two3's AF flop/postflop: 0.000000
+V4Two3's Player Type: NIT
+V4Two3's Seat:1
+V4Two3's preflop raises:0.000000
+V4Two3's hands played:2.000000
+V4One3's VPIP: 0.000000
+V4One3's PFR: 0.000000
+V4One3's estimated fold percentage is 1.000000
+V4One3's AF flop/postflop: 0.000000
+V4One3's Player Type: NIT
+V4One3's Seat:2
+V4One3's preflop raises:0.000000
+V4One3's hands played:2.000000
 BAMF3's VPIP: 0.000000
 BAMF3's PFR: 0.000000
-BAMF3's estimated fold percentage is 0.250000
+BAMF3's estimated fold percentage is 1.000000
 BAMF3's AF flop/postflop: 0.000000
 BAMF3's Player Type: NIT
 BAMF3's Seat:3
+BAMF3's preflop raises:0.000000
+BAMF3's hands played:2.000000
 
-Clone3 posts small blind, stack size (13)
-BAMF3 posts big blind, stack size (193)
+V4One3 posts small blind, stack size (199)
+BAMF3 posts big blind, stack size (197)
 
-['CHECK', 'RAISE:4:7']
+['FOLD', 'CALL:7', 'RAISE:12:28']
 {}
 
-***PREFLOP***(5) Board:()
-Our hand: 2s 9d
+***PREFLOP***(16) Board:()
+Our hand: 9d 2d
 
-Doppelganger3 called 2.
-Clone3 folds.
+new preflop raise
+V4Two3 raised to 7.
+V4One3 called 7.
 our last bet of 2 was in round 0
-BAMF3's EV: 1.832500
-BAMF3's Equity: 0.3665
-BAMF3's Implied Odds: -5
-BAMF3's maxBetFold: 7
-BAMF3's M ratio:64
-BAMF3's maxBetEV: 2
+BAMF3's EV: 3.925000
+BAMF3's Equity: 0.425
+BAMF3's Implied Odds: -14
+BAMF3's Pot odds: 0.312500
+BAMF3's maxBetFold: 11
+BAMF3's M ratio:65.666667
+BAMF3's maxBetEV: 11
 
 NOT BLUFFING FOLD
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:5']
-{}
-
-***FLOP***(5) Board:(Qs 6h 7d)
-Our hand: 2s 9d
-
-our last bet of 0 was in round 0
-BAMF3's EV: 1.170000
-BAMF3's Equity: 0.234
-BAMF3's Implied Odds: -5
-BAMF3's maxBetFold: 7
-BAMF3's M ratio:64
-BAMF3's maxBetEV: 1
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:5']
-{}
-
-***TURN***(5) Board:(Qs 6h 7d 4d)
-Our hand: 2s 9d
-
-Doppelganger3 checks.
-our last bet of 0 was in round 3
-BAMF3's EV: 0.580000
-BAMF3's Equity: 0.116
-BAMF3's Implied Odds: -5
-BAMF3's maxBetFold: 7
-BAMF3's M ratio:64
-BAMF3's maxBetEV: 0
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:5']
-{}
-
-***RIVER***(5) Board:(Qs 6h 7d 4d 5d)
-Our hand: 2s 9d
-
-Doppelganger3 checks.
-our last bet of 0 was in round 4
-BAMF3's EV: 0.022727
-BAMF3's Equity: 0.00454545454545
-BAMF3's Implied Odds: -5
-BAMF3's maxBetFold: 7
-BAMF3's M ratio:64
-BAMF3's maxBetEV: 0
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:3', 'RAISE:6:14']
-{}
-
-***RIVER***(8) Board:(Qs 6h 7d 4d 5d)
-Our hand: 2s 9d
-
-Doppelganger3 bet 3.
-our last bet of 0 was in round 5
-BAMF3's EV: -2.950000
-BAMF3's Equity: 0.00454545454545
-BAMF3's Implied Odds: 646
-BAMF3's maxBetFold: 11
-BAMF3's M ratio:64
-BAMF3's maxBetEV: 0
-
 BAMF3 folds.
 our bot's last action is FOLD for 0
+V4One3 checks.
+V4Two3 bet 10.
+V4One3 called 10.
+V4One3 checks.
+V4Two3 bet 12.
+V4One3 called 12.
+V4One3 bet 10.
+V4Two3 raised to 42.
+V4One3 raised to 87.
+V4Two3 folds.
 
 
-NEWHAND:6
+NEWHAND:3
 
-['NEWHAND', '6', '1', '5c', 'Ks', '193', '394', '13', 'BAMF3', 'Doppelganger3', 'Clone3', '3', 'true', 'true', 'true', '14.922707']
+['NEWHAND', '3', '1', 'Tc', 'Kh', '197', '130', '273', 'BAMF3', 'V4Two3', 'V4One3', '3', 'true', 'true', 'true', '14.982835']
 Active Players:3
 
-Our hand: 5c Ks
+Our hand: Tc Kh
 BAMF3's VPIP: 0.000000
 BAMF3's PFR: 0.000000
-BAMF3's estimated fold percentage is 0.250000
+BAMF3's estimated fold percentage is 1.000000
 BAMF3's AF flop/postflop: 0.000000
 BAMF3's Player Type: NIT
 BAMF3's Seat:1
-Doppelganger3's VPIP: 0.400000
-Doppelganger3's PFR: 0.000000
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 4.000000
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:2
-Clone3's VPIP: 0.200000
-Clone3's PFR: 0.000000
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 2.000000
-Clone3's Player Type: CALLING STATION
-Clone3's Seat:3
+BAMF3's preflop raises:0.000000
+BAMF3's hands played:3.000000
+V4Two3's VPIP: 0.500000
+V4Two3's PFR: 0.000000
+V4Two3's estimated fold percentage is 0.000000
+V4Two3's AF flop/postflop: 3.000000
+V4Two3's Player Type: UNKNOWN
+V4Two3's Seat:2
+V4Two3's preflop raises:0.000000
+V4Two3's hands played:3.000000
+V4One3's VPIP: 0.500000
+V4One3's PFR: 0.000000
+V4One3's estimated fold percentage is 1.000000
+V4One3's AF flop/postflop: 1.000000
+V4One3's Player Type: UNKNOWN
+V4One3's Seat:3
+V4One3's preflop raises:0.000000
+V4One3's hands played:3.000000
 
-Doppelganger3 posts small blind, stack size (393)
-Clone3 posts big blind, stack size (11)
+V4Two3 posts small blind, stack size (129)
+V4One3 posts big blind, stack size (271)
 
 ['CALL:2', 'FOLD', 'RAISE:4:7']
 {}
 
 ***PREFLOP***(3) Board:()
-Our hand: 5c Ks
+Our hand: Tc Kh
 
 our last bet of 0 was in round 0
-BAMF3's EV: 0.810000
-BAMF3's Equity: 0.562
+BAMF3's EV: 0.997500
+BAMF3's Equity: 0.5995
 BAMF3's Implied Odds: -3
+BAMF3's Pot odds: 0.666667
 BAMF3's maxBetFold: 4
-BAMF3's M ratio:64
-BAMF3's maxBetEV: 3
+BAMF3's M ratio:65.666667
+BAMF3's maxBetEV: 4
 
 BAMF3 calls 2.
 our bot's last action is CALL for 2
-['FOLD', 'CALL:8', 'RAISE:14:26']
+['FOLD', 'CALL:8', 'RAISE:14:32']
 {}
 
-***PREFLOP***(12) Board:()
-Our hand: 5c Ks
+***PREFLOP***(18) Board:()
+Our hand: Tc Kh
 
-Doppelganger3 called 2.
-Clone3 raised to 8.
+new preflop raise
+V4Two3 raised to 8.
+V4One3 called 8.
 our last bet of 2 was in round 0
-BAMF3's EV: 4.116000
-BAMF3's Equity: 0.562
-BAMF3's Implied Odds: -13
-BAMF3's maxBetFold: 17
-BAMF3's M ratio:63
-BAMF3's maxBetEV: 15
+BAMF3's EV: 8.388000
+BAMF3's Equity: 0.5995
+BAMF3's Implied Odds: -19
+BAMF3's Pot odds: 0.333333
+BAMF3's maxBetFold: 26
+BAMF3's M ratio:65.000000
+BAMF3's maxBetEV: 26
 
-final max raise:17
-final min raise:14
-Raise range: 14 26
-BAMF3 raises to 17.
-our bot's last action is RAISE for 17
-['CHECK', 'BET:2:47']
+BAMF3 calls 8.
+our bot's last action is CALL for 8
+['FOLD', 'CALL:13', 'RAISE:26:76']
 {}
 
-***FLOP***(47) Board:(3c 6d 9d)
-Our hand: 5c Ks
+***FLOP***(50) Board:(3c 9h Ah)
+Our hand: Tc Kh
 
-Doppelganger3 called 17.
-Clone3 called 13.
-Doppelganger3 checks.
-our last bet of 17 was in round 0
-BAMF3's EV: 18.001000
-BAMF3's Equity: 0.383
-BAMF3's Implied Odds: -47
-BAMF3's maxBetFold: 70
-BAMF3's M ratio:58
-BAMF3's maxBetEV: 29
+V4Two3 bet 13.
+V4One3 called 13.
+our last bet of 8 was in round 0
+BAMF3's EV: 20.421500
+BAMF3's Equity: 0.5305
+BAMF3's Implied Odds: -51
+BAMF3's Pot odds: 0.260000
+BAMF3's maxBetFold: 56
+BAMF3's M ratio:63.000000
+BAMF3's maxBetEV: 56
 
-line 6
+line 2
+BAMF3 calls 13.
+our bot's last action is CALL for 13
+['FOLD', 'CALL:19', 'RAISE:38:139']
+{}
+
+***TURN***(101) Board:(3c 9h Ah 8s)
+Our hand: Tc Kh
+
+V4Two3 bet 19.
+V4One3 called 19.
+our last bet of 13 was in round 3
+BAMF3's EV: 32.000000
+BAMF3's Equity: 0.425
+BAMF3's Implied Odds: -94
+BAMF3's Pot odds: 0.188119
+BAMF3's maxBetFold: 74
+BAMF3's M ratio:58.666667
+BAMF3's maxBetEV: 74
+
+line 2
+BAMF3 calls 19.
+our bot's last action is CALL for 19
+['FOLD', 'CALL:90', 'RAISE:157:157']
+{}
+
+***RIVER***(300) Board:(3c 9h Ah 8s 6c)
+Our hand: Tc Kh
+
+V4Two3 bet 90.
+V4One3 called 90.
+our last bet of 19 was in round 4
+BAMF3's EV: 42.560606
+BAMF3's Equity: 0.339898989899
+BAMF3's Implied Odds: -215
+BAMF3's Pot odds: 0.300000
+BAMF3's maxBetFold: 154
+BAMF3's M ratio:52.333333
+BAMF3's maxBetEV: 154
+
+line 2
+BAMF3 calls 90.
+our bot's last action is CALL for 90
+BAMF3 WTSD percentage is: 0.333333
+V4Two3 WTSD percentage is: 0.333333
+V4One3 WTSD percentage is: 0.333333
+V4Two3 W$SD percentage is: 1.000000
+V4One3 W$SD percentage is: 1.000000
+
+
+NEWHAND:4
+
+['NEWHAND', '4', '2', '7h', '9h', '143', '67', '390', 'V4One3', 'BAMF3', 'V4Two3', '3', 'true', 'true', 'true', '14.946705']
+Active Players:3
+
+Our hand: 7h 9h
+V4One3's VPIP: 0.666667
+V4One3's PFR: 0.000000
+V4One3's estimated fold percentage is 1.000000
+V4One3's AF flop/postflop: 0.400000
+V4One3's Player Type: UNKNOWN
+V4One3's Seat:1
+V4One3's preflop raises:0.000000
+V4One3's hands played:4.000000
+BAMF3's VPIP: 0.333333
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 1.000000
+BAMF3's AF flop/postflop: 0.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:2
+BAMF3's preflop raises:0.000000
+BAMF3's hands played:4.000000
+V4Two3's VPIP: 0.666667
+V4Two3's PFR: 0.000000
+V4Two3's estimated fold percentage is 0.000000
+V4Two3's AF flop/postflop: 6.000000
+V4Two3's Player Type: UNKNOWN
+V4Two3's Seat:3
+V4Two3's preflop raises:0.000000
+V4Two3's hands played:4.000000
+
+BAMF3 posts small blind, stack size (66)
+V4Two3 posts big blind, stack size (388)
+
+['FOLD', 'CALL:2', 'RAISE:4:8']
+{}
+
+***PREFLOP***(5) Board:()
+Our hand: 7h 9h
+
+V4One3 called 2.
+our last bet of 1 was in round 0
+BAMF3's EV: 2.141000
+BAMF3's Equity: 0.5235
+BAMF3's Implied Odds: -5
+BAMF3's Pot odds: 0.200000
+BAMF3's maxBetFold: 5
+BAMF3's M ratio:22.000000
+BAMF3's maxBetEV: 5
+
+BAMF3 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:6']
+{}
+
+***FLOP***(6) Board:(Jd 3h 2c)
+Our hand: 7h 9h
+
+V4Two3 checks.
+our last bet of 2 was in round 0
+BAMF3's EV: 1.947000
+BAMF3's Equity: 0.3245
+BAMF3's Implied Odds: -6
+BAMF3's Pot odds: 0.000000
+BAMF3's maxBetFold: 2
+BAMF3's M ratio:21.666667
+BAMF3's maxBetEV: 2
+
+line 2
 BAMF3 checks.
 our bot's last action is CHECK for 0
-['CHECK', 'BET:2:47']
+['FOLD', 'CALL:22', 'RAISE:38:65']
 {}
 
-***TURN***(47) Board:(3c 6d 9d 9s)
-Our hand: 5c Ks
+***FLOP***(34) Board:(Jd 3h 2c)
+Our hand: 7h 9h
 
-Doppelganger3 checks.
+V4Two3 bet 6.
+V4One3 raised to 22.
 our last bet of 0 was in round 3
-BAMF3's EV: 19.411000
-BAMF3's Equity: 0.413
-BAMF3's Implied Odds: -47
-BAMF3's maxBetFold: 70
-BAMF3's M ratio:58
-BAMF3's maxBetEV: 33
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:32', 'RAISE:64:143']
-{}
-
-***RIVER***(79) Board:(3c 6d 9d 9s 7d)
-Our hand: 5c Ks
-
-Doppelganger3 bet 32.
-our last bet of 0 was in round 4
-BAMF3's EV: -1.839394
-BAMF3's Equity: 0.271717171717
-BAMF3's Implied Odds: -25
-BAMF3's maxBetFold: 118
-BAMF3's M ratio:58
-BAMF3's maxBetEV: 29
+BAMF3's EV: -3.828000
+BAMF3's Equity: 0.3245
+BAMF3's Implied Odds: -10
+BAMF3's Pot odds: 0.647059
+BAMF3's maxBetFold: 16
+BAMF3's M ratio:21.666667
+BAMF3's maxBetEV: 16
 
 BAMF3 folds.
 our bot's last action is FOLD for 0
-Doppelganger3 WTSD percentage is: 0.500000
-Clone3 WTSD percentage is: 0.500000
-Doppelganger3 W$SD percentage is: 1.000000
-Doppelganger3 W$SD percentage is: 1.333333
+V4Two3 called 22.
+V4Two3 bet 42.
+V4One3 called 42.
+V4Two3 checks.
+V4One3 bet 40.
+V4Two3 called 40.
+V4One3 WTSD percentage is: 0.500000
+V4Two3 WTSD percentage is: 0.500000
+V4One3 W$SD percentage is: 1.000000
+
+
+NEWHAND:5
+
+['NEWHAND', '5', '3', 'Jc', '5d', '284', '251', '65', 'V4Two3', 'V4One3', 'BAMF3', '3', 'true', 'true', 'true', '14.922963']
+Active Players:3
+
+Our hand: Jc 5d
+V4Two3's VPIP: 0.500000
+V4Two3's PFR: 0.000000
+V4Two3's estimated fold percentage is 0.000000
+V4Two3's AF flop/postflop: 4.000000
+V4Two3's Player Type: UNKNOWN
+V4Two3's Seat:1
+V4Two3's preflop raises:0.000000
+V4Two3's hands played:5.000000
+V4One3's VPIP: 0.750000
+V4One3's PFR: 0.000000
+V4One3's estimated fold percentage is 1.000000
+V4One3's AF flop/postflop: 0.666667
+V4One3's Player Type: UNKNOWN
+V4One3's Seat:2
+V4One3's preflop raises:0.000000
+V4One3's hands played:5.000000
+BAMF3's VPIP: 0.250000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 1.000000
+BAMF3's AF flop/postflop: 0.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:3
+BAMF3's preflop raises:0.000000
+BAMF3's hands played:5.000000
+
+V4One3 posts small blind, stack size (250)
+BAMF3 posts big blind, stack size (63)
+
+['CHECK', 'RAISE:4:8']
+{}
+
+***PREFLOP***(6) Board:()
+Our hand: Jc 5d
+
+V4Two3 called 2.
+V4One3 called 2.
+our last bet of 2 was in round 0
+BAMF3's EV: 2.793000
+BAMF3's Equity: 0.4655
+BAMF3's Implied Odds: -6
+BAMF3's Pot odds: 0.000000
+BAMF3's maxBetFold: 5
+BAMF3's M ratio:21.000000
+BAMF3's maxBetEV: 5
+
+BAMF3 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:6']
+{}
+
+***FLOP***(6) Board:(7h 6d 8s)
+Our hand: Jc 5d
+
+V4One3 checks.
+our last bet of 0 was in round 0
+BAMF3's EV: 2.697000
+BAMF3's Equity: 0.4495
+BAMF3's Implied Odds: -6
+BAMF3's Pot odds: 0.000000
+BAMF3's maxBetFold: 4
+BAMF3's M ratio:21.000000
+BAMF3's maxBetEV: 4
+
+line 2
+BAMF3 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:5', 'RAISE:10:21']
+{}
+
+***TURN***(11) Board:(7h 6d 8s Qh)
+Our hand: Jc 5d
+
+V4Two3 checks.
+V4One3 bet 5.
+our last bet of 0 was in round 3
+BAMF3's EV: 0.728000
+BAMF3's Equity: 0.358
+BAMF3's Implied Odds: -7
+BAMF3's Pot odds: 0.454545
+BAMF3's maxBetFold: 6
+BAMF3's M ratio:21.000000
+BAMF3's maxBetEV: 6
+
+line 2
+BAMF3 calls 5.
+our bot's last action is CALL for 5
+['FOLD', 'CALL:9', 'RAISE:18:48']
+{}
+
+***RIVER***(30) Board:(7h 6d 8s Qh 3c)
+Our hand: Jc 5d
+
+V4Two3 called 5.
+V4One3 bet 9.
+our last bet of 5 was in round 4
+BAMF3's EV: -4.253030
+BAMF3's Equity: 0.121717171717
+BAMF3's Implied Odds: 25
+BAMF3's Pot odds: 0.300000
+BAMF3's maxBetFold: 4
+BAMF3's M ratio:19.333333
+BAMF3's maxBetEV: 4
+
+BAMF3 folds.
+our bot's last action is FOLD for 0
+V4Two3 raised to 27.
+V4One3 raised to 72.
+V4Two3 raised to 126.
+V4One3 called 126.
+V4Two3 WTSD percentage is: 0.600000
+V4One3 WTSD percentage is: 0.600000
+V4One3 W$SD percentage is: 1.000000
+
+
+NEWHAND:6
+
+['NEWHAND', '6', '1', '2s', '4c', '58', '151', '391', 'BAMF3', 'V4Two3', 'V4One3', '3', 'true', 'true', 'true', '14.896752']
+Active Players:3
+
+Our hand: 2s 4c
+BAMF3's VPIP: 0.200000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 1.000000
+BAMF3's AF flop/postflop: 0.000000
+BAMF3's Player Type: UNKNOWN
+BAMF3's Seat:1
+BAMF3's preflop raises:0.000000
+BAMF3's hands played:6.000000
+V4Two3's VPIP: 0.600000
+V4Two3's PFR: 0.000000
+V4Two3's estimated fold percentage is 0.000000
+V4Two3's AF flop/postflop: 3.333333
+V4Two3's Player Type: UNKNOWN
+V4Two3's Seat:2
+V4Two3's preflop raises:0.000000
+V4Two3's hands played:6.000000
+V4One3's VPIP: 0.800000
+V4One3's PFR: 0.000000
+V4One3's estimated fold percentage is 1.000000
+V4One3's AF flop/postflop: 1.000000
+V4One3's Player Type: UNKNOWN
+V4One3's Seat:3
+V4One3's preflop raises:0.000000
+V4One3's hands played:6.000000
+
+V4Two3 posts small blind, stack size (150)
+V4One3 posts big blind, stack size (389)
+
+['CALL:2', 'FOLD', 'RAISE:4:7']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 2s 4c
+
+our last bet of 0 was in round 0
+BAMF3's EV: -0.280000
+BAMF3's Equity: 0.344
+BAMF3's Implied Odds: -1
+BAMF3's Pot odds: 0.666667
+BAMF3's maxBetFold: 1
+BAMF3's M ratio:19.333333
+BAMF3's maxBetEV: 1
+
+NOT BLUFFING FOLD
+BAMF3 folds.
+our bot's last action is FOLD for 0
+V4Two3 folds.
 
 
 NEWHAND:7
 
-['NEWHAND', '7', '2', '8c', '5c', '424', '176', '0', 'Doppelganger3', 'BAMF3', 'Clone3', '2', 'true', 'true', 'false', '14.887658']
-Active Players:2
+['NEWHAND', '7', '2', '7s', '2d', '392', '58', '150', 'V4One3', 'BAMF3', 'V4Two3', '3', 'true', 'true', 'true', '14.888482']
+Active Players:3
 
-Our hand: 8c 5c
-Doppelganger3's VPIP: 0.500000
-Doppelganger3's PFR: 0.000000
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 3.000000
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:1
+Our hand: 7s 2d
+V4One3's VPIP: 0.666667
+V4One3's PFR: 0.000000
+V4One3's estimated fold percentage is 1.000000
+V4One3's AF flop/postflop: 1.000000
+V4One3's Player Type: UNKNOWN
+V4One3's Seat:1
+V4One3's preflop raises:0.000000
+V4One3's hands played:7.000000
 BAMF3's VPIP: 0.166667
 BAMF3's PFR: 0.000000
-BAMF3's estimated fold percentage is 0.250000
-BAMF3's AF flop/postflop: 1.000000
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 0.000000
 BAMF3's Player Type: UNKNOWN
 BAMF3's Seat:2
-Clone3's VPIP: 0.333333
-Clone3's PFR: 0.166667
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: LOOSE
-Clone3's Seat:3
-Clone3 is eliminated
+BAMF3's preflop raises:0.000000
+BAMF3's hands played:7.000000
+V4Two3's VPIP: 0.500000
+V4Two3's PFR: 0.000000
+V4Two3's estimated fold percentage is 0.166667
+V4Two3's AF flop/postflop: 3.333333
+V4Two3's Player Type: UNKNOWN
+V4Two3's Seat:3
+V4Two3's preflop raises:0.000000
+V4Two3's hands played:7.000000
 
-Doppelganger3 posts small blind/and is dealer, stack size (423)
-BAMF3 posts big blind, stack size (174)
+BAMF3 posts small blind, stack size (57)
+V4Two3 posts big blind, stack size (148)
 
-['CHECK', 'RAISE:4:6']
+['FOLD', 'CALL:2', 'RAISE:4:8']
 {}
 
-***PREFLOP***(4) Board:()
-Our hand: 8c 5c
+***PREFLOP***(5) Board:()
+Our hand: 7s 2d
 
-Doppelganger3 called 2.
-our last bet of 2 was in round 0
-BAMF3's EV: 1.798000
-BAMF3's Equity: 0.4495
+V4One3 called 2.
+our last bet of 1 was in round 0
+BAMF3's EV: 1.067000
+BAMF3's Equity: 0.3445
 BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:58
-BAMF3's maxBetEV: 3
-
-NOT BLUFFING FOLD
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(7s 9h Qh)
-Our hand: 8c 5c
-
-our last bet of 0 was in round 0
-BAMF3's EV: 1.454000
-BAMF3's Equity: 0.3635
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:58
+BAMF3's Pot odds: 0.200000
+BAMF3's maxBetFold: 2
+BAMF3's M ratio:19.000000
 BAMF3's maxBetEV: 2
 
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***TURN***(4) Board:(7s 9h Qh 4c)
-Our hand: 8c 5c
-
-Doppelganger3 checks.
-our last bet of 0 was in round 3
-BAMF3's EV: 0.988000
-BAMF3's Equity: 0.247
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:58
-BAMF3's maxBetEV: 1
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***RIVER***(4) Board:(7s 9h Qh 4c 8s)
-Our hand: 8c 5c
-
-Doppelganger3 checks.
-our last bet of 0 was in round 4
-BAMF3's EV: 2.416162
-BAMF3's Equity: 0.60404040404
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:58
-BAMF3's maxBetEV: 6
-
-line 1
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF3 bets 4.
-our bot's last action is BET for 4
-Doppelganger3 folds.
+NOT BLUFFING FOLD
+BAMF3 folds.
+our bot's last action is FOLD for 0
+V4Two3 checks.
+V4Two3 checks.
+V4One3 checks.
+V4Two3 checks.
+V4One3 bet 2.
+V4Two3 called 2.
+V4Two3 bet 5.
+V4One3 called 5.
+V4One3 WTSD percentage is: 0.571429
+V4Two3 WTSD percentage is: 0.571429
+V4Two3 W$SD percentage is: 0.500000
 
 
 NEWHAND:8
 
-['NEWHAND', '8', '1', '8s', '6h', '178', '422', '0', 'BAMF3', 'Doppelganger3', 'Clone3', '2', 'true', 'true', 'false', '14.865355']
-Active Players:2
+['NEWHAND', '8', '3', '2c', '2h', '160', '383', '57', 'V4Two3', 'V4One3', 'BAMF3', '3', 'true', 'true', 'true', '14.881657']
+Active Players:3
 
-Our hand: 8s 6h
+Our hand: 2c 2h
+V4Two3's VPIP: 0.428571
+V4Two3's PFR: 0.000000
+V4Two3's estimated fold percentage is 0.166667
+V4Two3's AF flop/postflop: 2.750000
+V4Two3's Player Type: UNKNOWN
+V4Two3's Seat:1
+V4Two3's preflop raises:0.000000
+V4Two3's hands played:8.000000
+V4One3's VPIP: 0.714286
+V4One3's PFR: 0.000000
+V4One3's estimated fold percentage is 1.000000
+V4One3's AF flop/postflop: 1.000000
+V4One3's Player Type: UNKNOWN
+V4One3's Seat:2
+V4One3's preflop raises:0.000000
+V4One3's hands played:8.000000
 BAMF3's VPIP: 0.142857
 BAMF3's PFR: 0.000000
-BAMF3's estimated fold percentage is 0.250000
-BAMF3's AF flop/postflop: 2.000000
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 0.000000
 BAMF3's Player Type: UNKNOWN
-BAMF3's Seat:1
-Doppelganger3's VPIP: 0.571429
-Doppelganger3's PFR: 0.000000
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 3.000000
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:2
-Clone3's VPIP: 0.285714
-Clone3's PFR: 0.142857
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: CALLING STATION
-Clone3's Seat:3
-Clone3 is eliminated
+BAMF3's Seat:3
+BAMF3's preflop raises:0.000000
+BAMF3's hands played:8.000000
 
-BAMF3 posts small blind/and is dealer, stack size (177)
-Doppelganger3 posts big blind, stack size (420)
+V4One3 posts small blind, stack size (382)
+BAMF3 posts big blind, stack size (55)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
+['CHECK', 'RAISE:4:7']
 {}
 
-***PREFLOP***(3) Board:()
-Our hand: 8s 6h
+***PREFLOP***(5) Board:()
+Our hand: 2c 2h
 
-our last bet of 1 was in round 0
-BAMF3's EV: 0.662000
-BAMF3's Equity: 0.4155
-BAMF3's Implied Odds: -2
-BAMF3's maxBetFold: 4
-BAMF3's M ratio:59
-BAMF3's maxBetEV: 2
+V4Two3 called 2.
+V4One3 folds.
+our last bet of 2 was in round 0
+BAMF3's EV: 2.372500
+BAMF3's Equity: 0.4745
+BAMF3's Implied Odds: -5
+BAMF3's Pot odds: 0.000000
+BAMF3's maxBetFold: 1
+BAMF3's M ratio:18.333333
+BAMF3's maxBetEV: 4
 
-final max raise:4
-final min raise:4
-Raise range: 4 6
-BAMF3 raises to 4.
-our bot's last action is RAISE for 4
-['FOLD', 'CALL:6', 'RAISE:8:18']
+BAMF3 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:5']
 {}
 
-***PREFLOP***(10) Board:()
-Our hand: 8s 6h
+***FLOP***(5) Board:(5s 7h Qc)
+Our hand: 2c 2h
 
-Doppelganger3 raised to 6.
-our last bet of 4 was in round 0
-BAMF3's EV: 3.424000
-BAMF3's Equity: 0.452
-BAMF3's Implied Odds: -9
-BAMF3's maxBetFold: 15
-BAMF3's M ratio:58
+our last bet of 0 was in round 0
+BAMF3's EV: 2.237500
+BAMF3's Equity: 0.4475
+BAMF3's Implied Odds: -5
+BAMF3's Pot odds: 0.000000
+BAMF3's maxBetFold: 1
+BAMF3's M ratio:18.333333
+BAMF3's maxBetEV: 4
+
+line 2
+BAMF3 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:5', 'RAISE:10:20']
+{}
+
+***FLOP***(10) Board:(5s 7h Qc)
+Our hand: 2c 2h
+
+V4Two3 bet 5.
+our last bet of 0 was in round 3
+BAMF3's EV: 1.712500
+BAMF3's Equity: 0.4475
+BAMF3's Implied Odds: -8
+BAMF3's Pot odds: 0.500000
+BAMF3's maxBetFold: 3
+BAMF3's M ratio:18.333333
 BAMF3's maxBetEV: 8
 
-NOT BLUFFING FOLD
-BAMF3 folds.
-our bot's last action is FOLD for 0
+line 2
+BAMF3 calls 5.
+our bot's last action is CALL for 5
+['CHECK', 'BET:2:15']
+{}
+
+***TURN***(15) Board:(5s 7h Qc 7d)
+Our hand: 2c 2h
+
+our last bet of 5 was in round 3
+BAMF3's EV: 7.410000
+BAMF3's Equity: 0.494
+BAMF3's Implied Odds: -15
+BAMF3's Pot odds: 0.000000
+BAMF3's maxBetFold: 5
+BAMF3's M ratio:16.666667
+BAMF3's maxBetEV: 14
+
+line 2
+BAMF3 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:11', 'RAISE:22:48']
+{}
+
+***TURN***(26) Board:(5s 7h Qc 7d)
+Our hand: 2c 2h
+
+V4Two3 bet 11.
+our last bet of 0 was in round 4
+BAMF3's EV: 7.278000
+BAMF3's Equity: 0.494
+BAMF3's Implied Odds: -25
+BAMF3's Pot odds: 0.423077
+BAMF3's maxBetFold: 8
+BAMF3's M ratio:16.666667
+BAMF3's maxBetEV: 25
+
+line 2
+BAMF3 calls 11.
+our bot's last action is CALL for 11
+['CHECK', 'BET:2:37']
+{}
+
+***RIVER***(37) Board:(5s 7h Qc 7d 9s)
+Our hand: 2c 2h
+
+our last bet of 11 was in round 4
+BAMF3's EV: 18.556061
+BAMF3's Equity: 0.501515151515
+BAMF3's Implied Odds: -37
+BAMF3's Pot odds: 0.000000
+BAMF3's maxBetFold: 12
+BAMF3's M ratio:13.000000
+BAMF3's maxBetEV: 37
+
+line 2
+BAMF3 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:26', 'RAISE:39:39']
+{}
+
+***RIVER***(63) Board:(5s 7h Qc 7d 9s)
+Our hand: 2c 2h
+
+V4Two3 bet 26.
+our last bet of 0 was in round 5
+BAMF3's EV: 18.634848
+BAMF3's Equity: 0.501515151515
+BAMF3's Implied Odds: -63
+BAMF3's Pot odds: 0.412698
+BAMF3's maxBetFold: 21
+BAMF3's M ratio:13.000000
+BAMF3's maxBetEV: 63
+
+line 2
+BAMF3 calls 26.
+our bot's last action is CALL for 26
+V4Two3 WTSD percentage is: 0.625000
+BAMF3 WTSD percentage is: 0.250000
+V4Two3 W$SD percentage is: 0.600000
 
 
 NEWHAND:9
 
-['NEWHAND', '9', '2', '2d', '8s', '426', '174', '0', 'Doppelganger3', 'BAMF3', 'Clone3', '2', 'true', 'true', 'false', '14.846774']
-Active Players:2
+['NEWHAND', '9', '1', '2c', 'Tc', '13', '205', '382', 'BAMF3', 'V4Two3', 'V4One3', '3', 'true', 'true', 'true', '14.829694']
+Active Players:3
 
-Our hand: 2d 8s
-Doppelganger3's VPIP: 0.625000
-Doppelganger3's PFR: 0.125000
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 3.000000
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:1
-BAMF3's VPIP: 0.250000
-BAMF3's PFR: 0.125000
-BAMF3's estimated fold percentage is 0.250000
-BAMF3's AF flop/postflop: 2.000000
-BAMF3's Player Type: CALLING STATION
-BAMF3's Seat:2
-Clone3's VPIP: 0.250000
-Clone3's PFR: 0.125000
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: CALLING STATION
-Clone3's Seat:3
-Clone3 is eliminated
+Our hand: 2c Tc
+BAMF3's VPIP: 0.125000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 0.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:1
+BAMF3's preflop raises:0.000000
+BAMF3's hands played:9.000000
+V4Two3's VPIP: 0.500000
+V4Two3's PFR: 0.000000
+V4Two3's estimated fold percentage is 0.166667
+V4Two3's AF flop/postflop: 3.500000
+V4Two3's Player Type: UNKNOWN
+V4Two3's Seat:2
+V4Two3's preflop raises:0.000000
+V4Two3's hands played:9.000000
+V4One3's VPIP: 0.625000
+V4One3's PFR: 0.000000
+V4One3's estimated fold percentage is 0.250000
+V4One3's AF flop/postflop: 1.000000
+V4One3's Player Type: UNKNOWN
+V4One3's Seat:3
+V4One3's preflop raises:0.000000
+V4One3's hands played:9.000000
 
-Doppelganger3 posts small blind/and is dealer, stack size (425)
-BAMF3 posts big blind, stack size (172)
+V4Two3 posts small blind, stack size (204)
+V4One3 posts big blind, stack size (380)
 
-['CHECK', 'RAISE:4:6']
+['CALL:2', 'FOLD', 'RAISE:4:7']
 {}
 
-***PREFLOP***(4) Board:()
-Our hand: 2d 8s
-
-Doppelganger3 called 2.
-our last bet of 2 was in round 0
-BAMF3's EV: 1.424000
-BAMF3's Equity: 0.356
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:57
-BAMF3's maxBetEV: 2
-
-NOT BLUFFING FOLD
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(3d 8d 4c)
-Our hand: 2d 8s
+***PREFLOP***(3) Board:()
+Our hand: 2c Tc
 
 our last bet of 0 was in round 0
-BAMF3's EV: 2.874000
-BAMF3's Equity: 0.7185
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:57
-BAMF3's maxBetEV: 10
+BAMF3's EV: 0.360000
+BAMF3's Equity: 0.472
+BAMF3's Implied Odds: -2
+BAMF3's Pot odds: 0.666667
+BAMF3's maxBetFold: 1
+BAMF3's M ratio:4.333333
+BAMF3's maxBetEV: 2
 
-line 1
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF3 bets 3.
-our bot's last action is BET for 3
-Doppelganger3 folds.
+no all in, fold
+BAMF3 folds.
+our bot's last action is FOLD for 0
+V4Two3 called 2.
+V4One3 checks.
+V4Two3 checks.
+V4One3 checks.
+V4Two3 checks.
+V4One3 checks.
+V4Two3 bet 4.
+V4One3 folds.
 
 
 NEWHAND:10
 
-['NEWHAND', '10', '1', '3h', '4d', '176', '424', '0', 'BAMF3', 'Doppelganger3', 'Clone3', '2', 'true', 'true', 'false', '14.830881']
-Active Players:2
+['NEWHAND', '10', '2', '6c', '9s', '380', '13', '207', 'V4One3', 'BAMF3', 'V4Two3', '3', 'true', 'true', 'true', '14.819427']
+Active Players:3
 
-Our hand: 3h 4d
-BAMF3's VPIP: 0.222222
-BAMF3's PFR: 0.111111
-BAMF3's estimated fold percentage is 0.250000
-BAMF3's AF flop/postflop: 3.000000
-BAMF3's Player Type: CALLING STATION
-BAMF3's Seat:1
-Doppelganger3's VPIP: 0.666667
-Doppelganger3's PFR: 0.111111
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 3.000000
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:2
-Clone3's VPIP: 0.222222
-Clone3's PFR: 0.111111
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: CALLING STATION
-Clone3's Seat:3
-Clone3 is eliminated
+Our hand: 6c 9s
+V4One3's VPIP: 0.555556
+V4One3's PFR: 0.000000
+V4One3's estimated fold percentage is 0.250000
+V4One3's AF flop/postflop: 1.000000
+V4One3's Player Type: UNKNOWN
+V4One3's Seat:1
+V4One3's preflop raises:0.000000
+V4One3's hands played:10.000000
+BAMF3's VPIP: 0.111111
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 0.000000
+BAMF3's Player Type: NIT
+BAMF3's Seat:2
+BAMF3's preflop raises:0.000000
+BAMF3's hands played:10.000000
+V4Two3's VPIP: 0.444444
+V4Two3's PFR: 0.000000
+V4Two3's estimated fold percentage is 0.166667
+V4Two3's AF flop/postflop: 3.000000
+V4Two3's Player Type: UNKNOWN
+V4Two3's Seat:3
+V4Two3's preflop raises:0.000000
+V4Two3's hands played:10.000000
 
-BAMF3 posts small blind/and is dealer, stack size (175)
-Doppelganger3 posts big blind, stack size (422)
+BAMF3 posts small blind, stack size (12)
+V4Two3 posts big blind, stack size (205)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
+['FOLD', 'CALL:2', 'RAISE:4:8']
 {}
 
-***PREFLOP***(3) Board:()
-Our hand: 3h 4d
+***PREFLOP***(5) Board:()
+Our hand: 6c 9s
 
+V4One3 called 2.
 our last bet of 1 was in round 0
-BAMF3's EV: 0.456000
-BAMF3's Equity: 0.364
-BAMF3's Implied Odds: -2
-BAMF3's maxBetFold: 4
-BAMF3's M ratio:58
-BAMF3's maxBetEV: 1
+BAMF3's EV: 1.529000
+BAMF3's Equity: 0.4215
+BAMF3's Implied Odds: -4
+BAMF3's Pot odds: 0.200000
+BAMF3's maxBetFold: 1
+BAMF3's M ratio:4.000000
+BAMF3's maxBetEV: 3
 
-NOT BLUFFING FOLD
-BAMF3 folds.
-our bot's last action is FOLD for 0
+all in2
+final max raise:8
+final min raise:8
+Raise range: 4 8
+BAMF3 raises to 8.
+our bot's last action is RAISE for 8
+['CHECK', 'BET:2:5']
+{}
+
+***FLOP***(24) Board:(Qs 8s 7h)
+Our hand: 6c 9s
+
+V4Two3 called 8.
+V4One3 called 8.
+our last bet of 8 was in round 0
+BAMF3's EV: 11.484000
+BAMF3's Equity: 0.4785
+BAMF3's Implied Odds: -24
+BAMF3's Pot odds: 0.000000
+BAMF3's maxBetFold: 8
+BAMF3's M ratio:1.666667
+BAMF3's maxBetEV: 22
+
+all in2
+final max bet:5
+final min bet:5
+Bet range: 2 5
+BAMF3 bets 5.
+our bot's last action is BET for 5
+V4Two3 called 5.
+V4One3 called 5.
+V4Two3 bet 33.
+V4One3 called 33.
+V4Two3 bet 56.
+V4One3 folds.
+BAMF3 WTSD percentage is: 0.300000
+V4Two3 WTSD percentage is: 0.600000
+BAMF3 W$SD percentage is: 0.333333
+V4Two3 W$SD percentage is: 0.666667
+V4Two3 W$SD percentage is: 0.833333
 
 
 NEWHAND:11
 
-['NEWHAND', '11', '2', '8s', 'Qs', '425', '175', '0', 'Doppelganger3', 'BAMF3', 'Clone3', '2', 'true', 'true', 'false', '14.822619']
-Active Players:2
-
-Our hand: 8s Qs
-Doppelganger3's VPIP: 0.600000
-Doppelganger3's PFR: 0.100000
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 3.000000
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:1
-BAMF3's VPIP: 0.200000
-BAMF3's PFR: 0.100000
-BAMF3's estimated fold percentage is 0.300000
-BAMF3's AF flop/postflop: 3.000000
-BAMF3's Player Type: CALLING STATION
-BAMF3's Seat:2
-Clone3's VPIP: 0.200000
-Clone3's PFR: 0.100000
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: CALLING STATION
-Clone3's Seat:3
-Clone3 is eliminated
-
-Doppelganger3 posts small blind/and is dealer, stack size (424)
-BAMF3 posts big blind, stack size (173)
-
-['CHECK', 'RAISE:4:6']
-{}
-
-***PREFLOP***(4) Board:()
-Our hand: 8s Qs
-
-Doppelganger3 called 2.
-our last bet of 2 was in round 0
-BAMF3's EV: 2.258000
-BAMF3's Equity: 0.5645
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:57
-BAMF3's maxBetEV: 5
-
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(4h 4s 2s)
-Our hand: 8s Qs
-
-our last bet of 0 was in round 0
-BAMF3's EV: 2.486000
-BAMF3's Equity: 0.6215
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:57
-BAMF3's maxBetEV: 6
-
-line 1
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF3 bets 2.
-our bot's last action is BET for 2
-['CHECK', 'BET:2:8']
-{}
-
-***TURN***(8) Board:(4h 4s 2s 8d)
-Our hand: 8s Qs
-
-Doppelganger3 called 2.
-our last bet of 2 was in round 3
-BAMF3's EV: 6.548000
-BAMF3's Equity: 0.8185
-BAMF3's Implied Odds: -8
-BAMF3's maxBetFold: 11
-BAMF3's M ratio:57
-BAMF3's maxBetEV: 36
-
-line 1
-final max bet:8
-final min bet:2
-Bet range: 2 8
-BAMF3 bets 3.
-our bot's last action is BET for 3
-['CHECK', 'BET:2:14']
-{}
-
-***RIVER***(14) Board:(4h 4s 2s 8d Qc)
-Our hand: 8s Qs
-
-Doppelganger3 called 3.
-our last bet of 3 was in round 4
-BAMF3's EV: 12.501010
-BAMF3's Equity: 0.892929292929
-BAMF3's Implied Odds: -14
-BAMF3's maxBetFold: 21
-BAMF3's M ratio:56
-BAMF3's maxBetEV: 116
-
-line 1
-final max bet:14
-final min bet:2
-Bet range: 2 14
-BAMF3 bets 13.
-our bot's last action is BET for 13
-Doppelganger3 folds.
-
-
-NEWHAND:12
-
-['NEWHAND', '12', '1', 'Kh', '6d', '182', '418', '0', 'BAMF3', 'Doppelganger3', 'Clone3', '2', 'true', 'true', 'false', '14.796018']
-Active Players:2
-
-Our hand: Kh 6d
-BAMF3's VPIP: 0.181818
-BAMF3's PFR: 0.090909
-BAMF3's estimated fold percentage is 0.300000
-BAMF3's AF flop/postflop: 6.000000
-BAMF3's Player Type: UNKNOWN
-BAMF3's Seat:1
-Doppelganger3's VPIP: 0.636364
-Doppelganger3's PFR: 0.090909
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 1.800000
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:2
-Clone3's VPIP: 0.181818
-Clone3's PFR: 0.090909
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: UNKNOWN
-Clone3's Seat:3
-Clone3 is eliminated
-
-BAMF3 posts small blind/and is dealer, stack size (181)
-Doppelganger3 posts big blind, stack size (416)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: Kh 6d
-
-our last bet of 1 was in round 0
-BAMF3's EV: 1.196000
-BAMF3's Equity: 0.549
-BAMF3's Implied Odds: -3
-BAMF3's maxBetFold: 4
-BAMF3's M ratio:60
-BAMF3's maxBetEV: 3
-
-BAMF3 calls 2.
-our bot's last action is CALL for 2
-['FOLD', 'CALL:2', 'RAISE:4:10']
-{}
-
-***FLOP***(6) Board:(2d 7c 3h)
-Our hand: Kh 6d
-
-Doppelganger3 checks.
-Doppelganger3 bet 2.
-our last bet of 2 was in round 0
-BAMF3's EV: 1.404000
-BAMF3's Equity: 0.4255
-BAMF3's Implied Odds: -5
-BAMF3's maxBetFold: 8
-BAMF3's M ratio:60
-BAMF3's maxBetEV: 4
-
-line 6
-BAMF3 calls 2.
-our bot's last action is CALL for 2
-['FOLD', 'CALL:7', 'RAISE:14:29']
-{}
-
-***TURN***(15) Board:(2d 7c 3h 2s)
-Our hand: Kh 6d
-
-Doppelganger3 bet 7.
-our last bet of 2 was in round 3
-BAMF3's EV: 2.009000
-BAMF3's Equity: 0.4095
-BAMF3's Implied Odds: -11
-BAMF3's maxBetFold: 22
-BAMF3's M ratio:59
-BAMF3's maxBetEV: 10
-
-line 6
-BAMF3 calls 7.
-our bot's last action is CALL for 7
-['FOLD', 'CALL:12', 'RAISE:24:58']
-{}
-
-***RIVER***(34) Board:(2d 7c 3h 2s 3d)
-Our hand: Kh 6d
-
-Doppelganger3 bet 12.
-our last bet of 7 was in round 4
-BAMF3's EV: 9.675758
-BAMF3's Equity: 0.471212121212
-BAMF3's Implied Odds: -32
-BAMF3's maxBetFold: 50
-BAMF3's M ratio:57
-BAMF3's maxBetEV: 30
-
-line 6
-BAMF3 calls 12.
-our bot's last action is CALL for 12
-BAMF3 WTSD percentage is: 0.166667
-Doppelganger3 WTSD percentage is: 0.333333
-Doppelganger3 W$SD percentage is: 1.250000
-
-
-NEWHAND:13
-
-['NEWHAND', '13', '2', 'Ad', '5h', '441', '159', '0', 'Doppelganger3', 'BAMF3', 'Clone3', '2', 'true', 'true', 'false', '14.766026']
-Active Players:2
-
-Our hand: Ad 5h
-Doppelganger3's VPIP: 0.583333
-Doppelganger3's PFR: 0.083333
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 2.400000
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:1
-BAMF3's VPIP: 0.166667
-BAMF3's PFR: 0.083333
-BAMF3's estimated fold percentage is 0.300000
-BAMF3's AF flop/postflop: 1.200000
-BAMF3's Player Type: UNKNOWN
-BAMF3's Seat:2
-Clone3's VPIP: 0.166667
-Clone3's PFR: 0.083333
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: UNKNOWN
-Clone3's Seat:3
-Clone3 is eliminated
-
-Doppelganger3 posts small blind/and is dealer, stack size (440)
-BAMF3 posts big blind, stack size (157)
-
-['CHECK', 'RAISE:4:6']
-{}
-
-***PREFLOP***(4) Board:()
-Our hand: Ad 5h
-
-Doppelganger3 called 2.
-our last bet of 2 was in round 0
-BAMF3's EV: 2.254000
-BAMF3's Equity: 0.5635
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:52
-BAMF3's maxBetEV: 5
-
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(Td 8c Kc)
-Our hand: Ad 5h
-
-our last bet of 0 was in round 0
-BAMF3's EV: 1.764000
-BAMF3's Equity: 0.441
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:52
-BAMF3's maxBetEV: 3
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***TURN***(4) Board:(Td 8c Kc Qc)
-Our hand: Ad 5h
-
-Doppelganger3 checks.
-our last bet of 0 was in round 3
-BAMF3's EV: 1.458000
-BAMF3's Equity: 0.3645
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:52
-BAMF3's maxBetEV: 2
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***RIVER***(4) Board:(Td 8c Kc Qc 9c)
-Our hand: Ad 5h
-
-Doppelganger3 checks.
-our last bet of 0 was in round 4
-BAMF3's EV: 0.517172
-BAMF3's Equity: 0.129292929293
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:52
-BAMF3's maxBetEV: 0
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-Doppelganger3 checks.
-BAMF3 WTSD percentage is: 0.230769
-Doppelganger3 WTSD percentage is: 0.384615
-Doppelganger3 W$SD percentage is: 1.200000
-
-
-NEWHAND:14
-
-['NEWHAND', '14', '1', '2d', 'Jd', '157', '443', '0', 'BAMF3', 'Doppelganger3', 'Clone3', '2', 'true', 'true', 'false', '14.741491']
-Active Players:2
-
-Our hand: 2d Jd
-BAMF3's VPIP: 0.153846
-BAMF3's PFR: 0.076923
-BAMF3's estimated fold percentage is 0.300000
-BAMF3's AF flop/postflop: 1.200000
-BAMF3's Player Type: UNKNOWN
-BAMF3's Seat:1
-Doppelganger3's VPIP: 0.615385
-Doppelganger3's PFR: 0.076923
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 2.400000
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:2
-Clone3's VPIP: 0.153846
-Clone3's PFR: 0.076923
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: UNKNOWN
-Clone3's Seat:3
-Clone3 is eliminated
-
-BAMF3 posts small blind/and is dealer, stack size (156)
-Doppelganger3 posts big blind, stack size (441)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 2d Jd
-
-our last bet of 1 was in round 0
-BAMF3's EV: 0.864000
-BAMF3's Equity: 0.466
-BAMF3's Implied Odds: -2
-BAMF3's maxBetFold: 4
-BAMF3's M ratio:52
-BAMF3's maxBetEV: 2
-
-BAMF3 calls 2.
-our bot's last action is CALL for 2
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(5d 3c 4h)
-Our hand: 2d Jd
-
-Doppelganger3 checks.
-Doppelganger3 checks.
-our last bet of 2 was in round 0
-BAMF3's EV: 1.740000
-BAMF3's Equity: 0.435
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:51
-BAMF3's maxBetEV: 3
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***TURN***(4) Board:(5d 3c 4h 9h)
-Our hand: 2d Jd
-
-Doppelganger3 checks.
-our last bet of 0 was in round 3
-BAMF3's EV: 1.068000
-BAMF3's Equity: 0.267
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:51
-BAMF3's maxBetEV: 1
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***RIVER***(4) Board:(5d 3c 4h 9h 8d)
-Our hand: 2d Jd
-
-Doppelganger3 checks.
-our last bet of 0 was in round 4
-BAMF3's EV: 0.244444
-BAMF3's Equity: 0.0611111111111
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:51
-BAMF3's maxBetEV: 0
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-Doppelganger3 WTSD percentage is: 0.428571
-BAMF3 WTSD percentage is: 0.285714
-Doppelganger3 W$SD percentage is: 1.166667
-
-
-NEWHAND:15
-
-['NEWHAND', '15', '2', 'Ks', '9s', '445', '155', '0', 'Doppelganger3', 'BAMF3', 'Clone3', '2', 'true', 'true', 'false', '14.714863']
-Active Players:2
-
-Our hand: Ks 9s
-Doppelganger3's VPIP: 0.571429
-Doppelganger3's PFR: 0.071429
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 2.400000
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:1
-BAMF3's VPIP: 0.142857
-BAMF3's PFR: 0.071429
-BAMF3's estimated fold percentage is 0.300000
-BAMF3's AF flop/postflop: 1.000000
-BAMF3's Player Type: UNKNOWN
-BAMF3's Seat:2
-Clone3's VPIP: 0.142857
-Clone3's PFR: 0.071429
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: UNKNOWN
-Clone3's Seat:3
-Clone3 is eliminated
-
-Doppelganger3 posts small blind/and is dealer, stack size (444)
-BAMF3 posts big blind, stack size (153)
-
-['CHECK', 'RAISE:4:6']
-{}
-
-***PREFLOP***(4) Board:()
-Our hand: Ks 9s
-
-Doppelganger3 called 2.
-our last bet of 2 was in round 0
-BAMF3's EV: 2.428000
-BAMF3's Equity: 0.607
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:51
-BAMF3's maxBetEV: 6
-
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(2s 6h Td)
-Our hand: Ks 9s
-
-our last bet of 0 was in round 0
-BAMF3's EV: 1.900000
-BAMF3's Equity: 0.475
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:51
-BAMF3's maxBetEV: 3
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:3', 'RAISE:6:13']
-{}
-
-***FLOP***(7) Board:(2s 6h Td)
-Our hand: Ks 9s
-
-Doppelganger3 bet 3.
-our last bet of 0 was in round 3
-BAMF3's EV: 1.750000
-BAMF3's Equity: 0.475
-BAMF3's Implied Odds: -6
-BAMF3's maxBetFold: 10
-BAMF3's M ratio:51
-BAMF3's maxBetEV: 6
-
-line 6
-BAMF3 calls 3.
-our bot's last action is CALL for 3
-['CHECK', 'BET:2:10']
-{}
-
-***TURN***(10) Board:(2s 6h Td 7d)
-Our hand: Ks 9s
-
-our last bet of 3 was in round 3
-BAMF3's EV: 4.160000
-BAMF3's Equity: 0.416
-BAMF3's Implied Odds: -10
-BAMF3's maxBetFold: 15
-BAMF3's M ratio:50
-BAMF3's maxBetEV: 7
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:4', 'RAISE:8:22']
-{}
-
-***TURN***(14) Board:(2s 6h Td 7d)
-Our hand: Ks 9s
-
-Doppelganger3 bet 4.
-our last bet of 0 was in round 4
-BAMF3's EV: 3.488000
-BAMF3's Equity: 0.416
-BAMF3's Implied Odds: -12
-BAMF3's maxBetFold: 21
-BAMF3's M ratio:50
-BAMF3's maxBetEV: 9
-
-line 6
-BAMF3 calls 4.
-our bot's last action is CALL for 4
-['CHECK', 'BET:2:18']
-{}
-
-***RIVER***(18) Board:(2s 6h Td 7d Kh)
-Our hand: Ks 9s
-
-our last bet of 4 was in round 4
-BAMF3's EV: 15.527273
-BAMF3's Equity: 0.862626262626
-BAMF3's Implied Odds: -18
-BAMF3's maxBetFold: 26
-BAMF3's M ratio:48
-BAMF3's maxBetEV: 113
-
-line 1
-final max bet:18
-final min bet:2
-Bet range: 2 18
-BAMF3 bets 8.
-our bot's last action is BET for 8
-Doppelganger3 called 8.
-BAMF3 WTSD percentage is: 0.333333
-Doppelganger3 WTSD percentage is: 0.466667
-BAMF3 W$SD percentage is: 0.200000
-
-
-NEWHAND:16
-
-['NEWHAND', '16', '1', '7d', '4h', '172', '428', '0', 'BAMF3', 'Doppelganger3', 'Clone3', '2', 'true', 'true', 'false', '14.674565']
-Active Players:2
-
-Our hand: 7d 4h
-BAMF3's VPIP: 0.133333
-BAMF3's PFR: 0.066667
-BAMF3's estimated fold percentage is 0.300000
-BAMF3's AF flop/postflop: 0.875000
-BAMF3's Player Type: UNKNOWN
-BAMF3's Seat:1
-Doppelganger3's VPIP: 0.600000
-Doppelganger3's PFR: 0.066667
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 2.333333
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:2
-Clone3's VPIP: 0.133333
-Clone3's PFR: 0.066667
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: UNKNOWN
-Clone3's Seat:3
-Clone3 is eliminated
-
-BAMF3 posts small blind/and is dealer, stack size (171)
-Doppelganger3 posts big blind, stack size (426)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 7d 4h
-
-our last bet of 1 was in round 0
-BAMF3's EV: 0.608000
-BAMF3's Equity: 0.402
-BAMF3's Implied Odds: -2
-BAMF3's maxBetFold: 4
-BAMF3's M ratio:57
-BAMF3's maxBetEV: 2
-
-NOT BLUFFING FOLD
-BAMF3 folds.
-our bot's last action is FOLD for 0
-
-
-NEWHAND:17
-
-['NEWHAND', '17', '2', '9h', '5c', '429', '171', '0', 'Doppelganger3', 'BAMF3', 'Clone3', '2', 'true', 'true', 'false', '14.665579']
-Active Players:2
-
-Our hand: 9h 5c
-Doppelganger3's VPIP: 0.562500
-Doppelganger3's PFR: 0.062500
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 2.333333
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:1
-BAMF3's VPIP: 0.125000
-BAMF3's PFR: 0.062500
-BAMF3's estimated fold percentage is 0.250000
-BAMF3's AF flop/postflop: 0.875000
-BAMF3's Player Type: NIT
-BAMF3's Seat:2
-Clone3's VPIP: 0.125000
-Clone3's PFR: 0.062500
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
-
-Doppelganger3 posts small blind/and is dealer, stack size (428)
-BAMF3 posts big blind, stack size (169)
-
-['CHECK', 'RAISE:4:6']
-{}
-
-***PREFLOP***(4) Board:()
-Our hand: 9h 5c
-
-Doppelganger3 called 2.
-our last bet of 2 was in round 0
-BAMF3's EV: 1.672000
-BAMF3's Equity: 0.418
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:56
-BAMF3's maxBetEV: 2
-
-final max raise:5
-final min raise:5
-Raise range: 4 6
-BAMF3 raises to 5.
-our bot's last action is RAISE for 5
-['CHECK', 'BET:2:10']
-{}
-
-***FLOP***(10) Board:(Ac Qh 6h)
-Our hand: 9h 5c
-
-Doppelganger3 called 5.
-our last bet of 5 was in round 0
-BAMF3's EV: 2.795000
-BAMF3's Equity: 0.2795
-BAMF3's Implied Odds: -10
-BAMF3's maxBetFold: 15
-BAMF3's M ratio:55
-BAMF3's maxBetEV: 3
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:2', 'RAISE:4:16']
-{}
-
-***FLOP***(12) Board:(Ac Qh 6h)
-Our hand: 9h 5c
-
-Doppelganger3 bet 2.
-our last bet of 0 was in round 3
-BAMF3's EV: 1.913000
-BAMF3's Equity: 0.2795
-BAMF3's Implied Odds: -8
-BAMF3's maxBetFold: 17
-BAMF3's M ratio:55
-BAMF3's maxBetEV: 4
-
-line 6
-BAMF3 calls 2.
-our bot's last action is CALL for 2
-['CHECK', 'BET:2:14']
-{}
-
-***TURN***(14) Board:(Ac Qh 6h 3s)
-Our hand: 9h 5c
-
-our last bet of 2 was in round 3
-BAMF3's EV: 2.646000
-BAMF3's Equity: 0.189
-BAMF3's Implied Odds: -14
-BAMF3's maxBetFold: 21
-BAMF3's M ratio:54
-BAMF3's maxBetEV: 3
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:4', 'RAISE:8:26']
-{}
-
-***TURN***(18) Board:(Ac Qh 6h 3s)
-Our hand: 9h 5c
-
-Doppelganger3 bet 4.
-our last bet of 0 was in round 4
-BAMF3's EV: 0.158000
-BAMF3's Equity: 0.189
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 26
-BAMF3's M ratio:54
-BAMF3's maxBetEV: 4
-
-line 6
-BAMF3 calls 4.
-our bot's last action is CALL for 4
-['CHECK', 'BET:2:22']
-{}
-
-***RIVER***(22) Board:(Ac Qh 6h 3s 4c)
-Our hand: 9h 5c
-
-our last bet of 4 was in round 4
-BAMF3's EV: 1.700000
-BAMF3's Equity: 0.0772727272727
-BAMF3's Implied Odds: -22
-BAMF3's maxBetFold: 32
-BAMF3's M ratio:53
-BAMF3's maxBetEV: 1
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:13', 'RAISE:26:61']
-{}
-
-***RIVER***(35) Board:(Ac Qh 6h 3s 4c)
-Our hand: 9h 5c
-
-Doppelganger3 bet 13.
-our last bet of 0 was in round 5
-BAMF3's EV: -9.290909
-BAMF3's Equity: 0.0772727272727
-BAMF3's Implied Odds: 107
-BAMF3's maxBetFold: 52
-BAMF3's M ratio:53
-BAMF3's maxBetEV: 2
-
-BAMF3 folds.
-our bot's last action is FOLD for 0
-
-
-NEWHAND:18
-
-['NEWHAND', '18', '1', '4c', '9d', '160', '440', '0', 'BAMF3', 'Doppelganger3', 'Clone3', '2', 'true', 'true', 'false', '14.619390']
-Active Players:2
-
-Our hand: 4c 9d
-BAMF3's VPIP: 0.117647
-BAMF3's PFR: 0.058824
-BAMF3's estimated fold percentage is 0.250000
-BAMF3's AF flop/postflop: 0.800000
-BAMF3's Player Type: NIT
-BAMF3's Seat:1
-Doppelganger3's VPIP: 0.588235
-Doppelganger3's PFR: 0.058824
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 2.428571
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:2
-Clone3's VPIP: 0.117647
-Clone3's PFR: 0.058824
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
-
-BAMF3 posts small blind/and is dealer, stack size (159)
-Doppelganger3 posts big blind, stack size (438)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 4c 9d
-
-our last bet of 1 was in round 0
-BAMF3's EV: 0.640000
-BAMF3's Equity: 0.41
-BAMF3's Implied Odds: -2
-BAMF3's maxBetFold: 4
-BAMF3's M ratio:53
-BAMF3's maxBetEV: 2
-
-NOT BLUFFING FOLD
-BAMF3 folds.
-our bot's last action is FOLD for 0
-
-
-NEWHAND:19
-
-['NEWHAND', '19', '2', 'Jh', 'As', '441', '159', '0', 'Doppelganger3', 'BAMF3', 'Clone3', '2', 'true', 'true', 'false', '14.609917']
-Active Players:2
-
-Our hand: Jh As
-Doppelganger3's VPIP: 0.555556
-Doppelganger3's PFR: 0.055556
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 2.428571
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:1
-BAMF3's VPIP: 0.111111
-BAMF3's PFR: 0.055556
-BAMF3's estimated fold percentage is 0.277778
-BAMF3's AF flop/postflop: 0.800000
-BAMF3's Player Type: NIT
-BAMF3's Seat:2
-Clone3's VPIP: 0.111111
-Clone3's PFR: 0.055556
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
-
-Doppelganger3 posts small blind/and is dealer, stack size (440)
-BAMF3 posts big blind, stack size (157)
-
-['CHECK', 'RAISE:4:6']
-{}
-
-***PREFLOP***(4) Board:()
-Our hand: Jh As
-
-Doppelganger3 called 2.
-our last bet of 2 was in round 0
-BAMF3's EV: 2.574000
-BAMF3's Equity: 0.6435
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:52
-BAMF3's maxBetEV: 7
-
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(8d Ah Ts)
-Our hand: Jh As
-
-our last bet of 0 was in round 0
-BAMF3's EV: 3.480000
-BAMF3's Equity: 0.87
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:52
-BAMF3's maxBetEV: 26
-
-line 1
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF3 bets 2.
-our bot's last action is BET for 2
-['FOLD', 'CALL:5', 'RAISE:8:19']
-{}
-
-***FLOP***(11) Board:(8d Ah Ts)
-Our hand: Jh As
-
-Doppelganger3 raised to 5.
-our last bet of 2 was in round 3
-BAMF3's EV: 9.180000
-BAMF3's Equity: 0.87
-BAMF3's Implied Odds: -13
-BAMF3's maxBetFold: 16
-BAMF3's M ratio:51
-BAMF3's maxBetEV: 73
-
-line 1
-final max raise:19
-final min raise:8
-Raise range: 8 19
-BAMF3 raises to 15.
-our bot's last action is RAISE for 15
-['FOLD', 'CALL:37', 'RAISE:59:115']
-{}
-
-***FLOP***(56) Board:(8d Ah Ts)
-Our hand: Jh As
-
-Doppelganger3 raised to 37.
-our last bet of 15 was in round 3
-BAMF3's EV: 45.860000
-BAMF3's Equity: 0.87
-BAMF3's Implied Odds: -74
-BAMF3's maxBetFold: 84
-BAMF3's M ratio:47
-BAMF3's maxBetEV: 374
-
-line 1
-final max raise:115
-final min raise:59
-Raise range: 59 115
-BAMF3 raises to 104.
-our bot's last action is RAISE for 104
-['FOLD', 'CALL:157']
-{}
-
-***FLOP***(265) Board:(8d Ah Ts)
-Our hand: Jh As
-
-Doppelganger3 raised to 157.
-our last bet of 104 was in round 3
-BAMF3's EV: 223.660000
-BAMF3's Equity: 0.87
-BAMF3's Implied Odds: -310
-BAMF3's maxBetFold: 397
-BAMF3's M ratio:17
-BAMF3's maxBetEV: 1773
-
-line 1
-final call min:157
-BAMF3 calls 157.
-our bot's last action is CALL for 157
-BAMF3 WTSD percentage is: 0.315789
-Doppelganger3 WTSD percentage is: 0.421053
-BAMF3 W$SD percentage is: 0.333333
-
-
-NEWHAND:20
-
-['NEWHAND', '20', '1', '6c', 'Qc', '318', '282', '0', 'BAMF3', 'Doppelganger3', 'Clone3', '2', 'true', 'true', 'false', '14.572638']
-Active Players:2
-
-Our hand: 6c Qc
-BAMF3's VPIP: 0.105263
-BAMF3's PFR: 0.052632
-BAMF3's estimated fold percentage is 0.277778
-BAMF3's AF flop/postflop: 1.000000
-BAMF3's Player Type: NIT
-BAMF3's Seat:1
-Doppelganger3's VPIP: 0.578947
-Doppelganger3's PFR: 0.052632
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 2.857143
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:2
-Clone3's VPIP: 0.105263
-Clone3's PFR: 0.052632
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
-
-BAMF3 posts small blind/and is dealer, stack size (317)
-Doppelganger3 posts big blind, stack size (280)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 6c Qc
-
-our last bet of 1 was in round 0
-BAMF3's EV: 1.204000
-BAMF3's Equity: 0.551
-BAMF3's Implied Odds: -3
-BAMF3's maxBetFold: 4
-BAMF3's M ratio:105
-BAMF3's maxBetEV: 3
-
-BAMF3 calls 2.
-our bot's last action is CALL for 2
-['FOLD', 'CALL:4', 'RAISE:8:16']
-{}
-
-***FLOP***(8) Board:(6s Ks Ad)
-Our hand: 6c Qc
-
-Doppelganger3 checks.
-Doppelganger3 bet 4.
-our last bet of 2 was in round 0
-BAMF3's EV: 3.674000
-BAMF3's Equity: 0.6395
-BAMF3's Implied Odds: -9
-BAMF3's maxBetFold: 11
-BAMF3's M ratio:105
-BAMF3's maxBetEV: 14
-
-line 1
-final max raise:14
-final min raise:8
-Raise range: 8 16
-BAMF3 raises to 10.
-our bot's last action is RAISE for 10
-['FOLD', 'CALL:27', 'RAISE:44:85']
-{}
-
-***FLOP***(41) Board:(6s Ks Ad)
-Our hand: 6c Qc
-
-Doppelganger3 raised to 27.
-our last bet of 10 was in round 3
-BAMF3's EV: 20.091000
-BAMF3's Equity: 0.6395
-BAMF3's Implied Odds: -48
-BAMF3's maxBetFold: 61
-BAMF3's M ratio:102
-BAMF3's maxBetEV: 72
-
-line 1
-final max raise:72
-final min raise:44
-Raise range: 44 85
-BAMF3 raises to 47.
-our bot's last action is RAISE for 47
-['FOLD', 'CALL:74', 'RAISE:101:226']
-{}
-
-***FLOP***(125) Board:(6s Ks Ad)
-Our hand: 6c Qc
-
-Doppelganger3 raised to 74.
-our last bet of 47 was in round 3
-BAMF3's EV: 70.204000
-BAMF3's Equity: 0.6395
-BAMF3's Implied Odds: -136
-BAMF3's maxBetFold: 187
-BAMF3's M ratio:89
-BAMF3's maxBetEV: 221
-
-line 1
-final max raise:221
-final min raise:101
-Raise range: 101 226
-BAMF3 raises to 104.
-our bot's last action is RAISE for 104
-['FOLD', 'CALL:2', 'RAISE:4:176']
-{}
-
-***TURN***(214) Board:(6s Ks Ad 9c)
-Our hand: 6c Qc
-
-Doppelganger3 called 104.
-Doppelganger3 bet 2.
-our last bet of 104 was in round 3
-BAMF3's EV: 126.844000
-BAMF3's Equity: 0.5965
-BAMF3's Implied Odds: -214
-BAMF3's maxBetFold: 321
-BAMF3's M ratio:70
-BAMF3's maxBetEV: 316
-
-line 6
-BAMF3 calls 2.
-our bot's last action is CALL for 2
-['FOLD', 'CALL:154', 'RAISE:174:174']
-{}
-
-***RIVER***(370) Board:(6s Ks Ad 9c Jd)
-Our hand: 6c Qc
-
-Doppelganger3 bet 154.
-our last bet of 2 was in round 4
-BAMF3's EV: 105.882828
-BAMF3's Equity: 0.49595959596
-BAMF3's Implied Odds: -367
-BAMF3's maxBetFold: 555
-BAMF3's M ratio:70
-BAMF3's maxBetEV: 364
-
-line 6
-BAMF3 calls 154.
-our bot's last action is CALL for 154
-Doppelganger3 WTSD percentage is: 0.450000
-BAMF3 WTSD percentage is: 0.350000
-Doppelganger3 W$SD percentage is: 0.888889
-
-
-NEWHAND:21
-
-['NEWHAND', '21', '2', '6c', '7c', '544', '56', '0', 'Doppelganger3', 'BAMF3', 'Clone3', '2', 'true', 'true', 'false', '14.530888']
-Active Players:2
-
-Our hand: 6c 7c
-Doppelganger3's VPIP: 0.550000
-Doppelganger3's PFR: 0.050000
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 3.125000
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:1
+['NEWHAND', '11', '3', '9h', 'Qc', '246', '334', '20', 'V4Two3', 'V4One3', 'BAMF3', '3', 'true', 'true', 'true', '14.806383']
+Active Players:3
+
+Our hand: 9h Qc
+V4Two3's VPIP: 0.400000
+V4Two3's PFR: 0.000000
+V4Two3's estimated fold percentage is 0.166667
+V4Two3's AF flop/postflop: 2.428571
+V4Two3's Player Type: CALLING STATION
+V4Two3's Seat:1
+V4Two3's preflop raises:0.000000
+V4Two3's hands played:11.000000
+V4One3's VPIP: 0.600000
+V4One3's PFR: 0.000000
+V4One3's estimated fold percentage is 0.250000
+V4One3's AF flop/postflop: 0.727273
+V4One3's Player Type: UNKNOWN
+V4One3's Seat:2
+V4One3's preflop raises:0.000000
+V4One3's hands played:11.000000
 BAMF3's VPIP: 0.100000
-BAMF3's PFR: 0.050000
-BAMF3's estimated fold percentage is 0.277778
-BAMF3's AF flop/postflop: 1.000000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 0.222222
 BAMF3's Player Type: NIT
-BAMF3's Seat:2
-Clone3's VPIP: 0.100000
-Clone3's PFR: 0.050000
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
-
-Doppelganger3 posts small blind/and is dealer, stack size (543)
-BAMF3 posts big blind, stack size (54)
-
-['CHECK', 'RAISE:4:6']
-{}
-
-***PREFLOP***(4) Board:()
-Our hand: 6c 7c
-
-Doppelganger3 called 2.
-our last bet of 2 was in round 0
-BAMF3's EV: 1.826000
-BAMF3's Equity: 0.4565
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:18
-BAMF3's maxBetEV: 3
-
-NOT BLUFFING FOLD
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(9s 5c As)
-Our hand: 6c 7c
-
-our last bet of 0 was in round 0
-BAMF3's EV: 1.446000
-BAMF3's Equity: 0.3615
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:18
-BAMF3's maxBetEV: 2
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***TURN***(4) Board:(9s 5c As 4s)
-Our hand: 6c 7c
-
-Doppelganger3 checks.
-our last bet of 0 was in round 3
-BAMF3's EV: 0.930000
-BAMF3's Equity: 0.2325
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:18
-BAMF3's maxBetEV: 1
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***RIVER***(4) Board:(9s 5c As 4s 3d)
-Our hand: 6c 7c
-
-Doppelganger3 checks.
-our last bet of 0 was in round 4
-BAMF3's EV: 3.802020
-BAMF3's Equity: 0.950505050505
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:18
-BAMF3's maxBetEV: 76
-
-line 1
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF3 bets 2.
-our bot's last action is BET for 2
-Doppelganger3 folds.
-
-
-NEWHAND:22
-
-['NEWHAND', '22', '1', '8h', '2c', '58', '542', '0', 'BAMF3', 'Doppelganger3', 'Clone3', '2', 'true', 'true', 'false', '14.505609']
-Active Players:2
-
-Our hand: 8h 2c
-BAMF3's VPIP: 0.095238
-BAMF3's PFR: 0.047619
-BAMF3's estimated fold percentage is 0.277778
-BAMF3's AF flop/postflop: 1.071429
-BAMF3's Player Type: NIT
-BAMF3's Seat:1
-Doppelganger3's VPIP: 0.571429
-Doppelganger3's PFR: 0.047619
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 3.125000
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:2
-Clone3's VPIP: 0.095238
-Clone3's PFR: 0.047619
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
-
-BAMF3 posts small blind/and is dealer, stack size (57)
-Doppelganger3 posts big blind, stack size (540)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 8h 2c
-
-our last bet of 1 was in round 0
-BAMF3's EV: 0.350000
-BAMF3's Equity: 0.3375
-BAMF3's Implied Odds: -2
-BAMF3's maxBetFold: 4
-BAMF3's M ratio:19
-BAMF3's maxBetEV: 1
-
-final max raise:4
-final min raise:4
-Raise range: 4 6
-BAMF3 raises to 4.
-our bot's last action is RAISE for 4
-['CHECK', 'BET:2:8']
-{}
-
-***FLOP***(8) Board:(7d Td 7c)
-Our hand: 8h 2c
-
-Doppelganger3 called 4.
-Doppelganger3 checks.
-our last bet of 4 was in round 0
-BAMF3's EV: 1.868000
-BAMF3's Equity: 0.2335
-BAMF3's Implied Odds: -8
-BAMF3's maxBetFold: 11
-BAMF3's M ratio:18
-BAMF3's maxBetEV: 2
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:4', 'RAISE:8:20']
-{}
-
-***TURN***(12) Board:(7d Td 7c Tc)
-Our hand: 8h 2c
-
-Doppelganger3 bet 4.
-our last bet of 0 was in round 3
-BAMF3's EV: -0.104000
-BAMF3's Equity: 0.2435
-BAMF3's Implied Odds: -3
-BAMF3's maxBetFold: 17
-BAMF3's M ratio:18
-BAMF3's maxBetEV: 3
-
-BAMF3 folds.
-our bot's last action is FOLD for 0
-
-
-NEWHAND:23
-
-['NEWHAND', '23', '2', 'Ks', '9c', '546', '54', '0', 'Doppelganger3', 'BAMF3', 'Clone3', '2', 'true', 'true', 'false', '14.482147']
-Active Players:2
-
-Our hand: Ks 9c
-Doppelganger3's VPIP: 0.545455
-Doppelganger3's PFR: 0.045455
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 2.888889
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:1
-BAMF3's VPIP: 0.090909
-BAMF3's PFR: 0.045455
-BAMF3's estimated fold percentage is 0.277778
-BAMF3's AF flop/postflop: 1.142857
-BAMF3's Player Type: NIT
-BAMF3's Seat:2
-Clone3's VPIP: 0.090909
-Clone3's PFR: 0.045455
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
-
-Doppelganger3 posts small blind/and is dealer, stack size (545)
-BAMF3 posts big blind, stack size (52)
-
-['CHECK', 'RAISE:4:6']
-{}
-
-***PREFLOP***(4) Board:()
-Our hand: Ks 9c
-
-Doppelganger3 called 2.
-our last bet of 2 was in round 0
-BAMF3's EV: 2.220000
-BAMF3's Equity: 0.555
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:17
-BAMF3's maxBetEV: 4
-
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(8s 9d 3s)
-Our hand: Ks 9c
-
-our last bet of 0 was in round 0
-BAMF3's EV: 3.220000
-BAMF3's Equity: 0.805
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:17
-BAMF3's maxBetEV: 16
-
-line 1
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF3 bets 4.
-our bot's last action is BET for 4
-Doppelganger3 folds.
-
-
-NEWHAND:24
-
-['NEWHAND', '24', '1', 'Jd', '8s', '56', '544', '0', 'BAMF3', 'Doppelganger3', 'Clone3', '2', 'true', 'true', 'false', '14.464088']
-Active Players:2
-
-Our hand: Jd 8s
-BAMF3's VPIP: 0.086957
-BAMF3's PFR: 0.043478
-BAMF3's estimated fold percentage is 0.277778
-BAMF3's AF flop/postflop: 1.214286
-BAMF3's Player Type: NIT
-BAMF3's Seat:1
-Doppelganger3's VPIP: 0.565217
-Doppelganger3's PFR: 0.043478
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 2.888889
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:2
-Clone3's VPIP: 0.086957
-Clone3's PFR: 0.043478
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
-
-BAMF3 posts small blind/and is dealer, stack size (55)
-Doppelganger3 posts big blind, stack size (542)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: Jd 8s
-
-our last bet of 1 was in round 0
-BAMF3's EV: 1.146000
-BAMF3's Equity: 0.5365
-BAMF3's Implied Odds: -3
-BAMF3's maxBetFold: 4
-BAMF3's M ratio:18
-BAMF3's maxBetEV: 3
-
-BAMF3 calls 2.
-our bot's last action is CALL for 2
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(8d 4h 9d)
-Our hand: Jd 8s
-
-Doppelganger3 checks.
-Doppelganger3 checks.
-our last bet of 2 was in round 0
-BAMF3's EV: 2.732000
-BAMF3's Equity: 0.683
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:18
-BAMF3's maxBetEV: 8
-
-line 1
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF3 bets 4.
-our bot's last action is BET for 4
-Doppelganger3 folds.
-
-
-NEWHAND:25
-
-['NEWHAND', '25', '2', '5c', 'Ks', '542', '58', '0', 'Doppelganger3', 'BAMF3', 'Clone3', '2', 'true', 'true', 'false', '14.447761']
-Active Players:2
-
-Our hand: 5c Ks
-Doppelganger3's VPIP: 0.541667
-Doppelganger3's PFR: 0.041667
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 2.888889
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:1
-BAMF3's VPIP: 0.083333
-BAMF3's PFR: 0.041667
-BAMF3's estimated fold percentage is 0.277778
-BAMF3's AF flop/postflop: 1.200000
-BAMF3's Player Type: NIT
-BAMF3's Seat:2
-Clone3's VPIP: 0.083333
-Clone3's PFR: 0.041667
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
-
-Doppelganger3 posts small blind/and is dealer, stack size (541)
-BAMF3 posts big blind, stack size (56)
-
-['CHECK', 'RAISE:4:6']
-{}
-
-***PREFLOP***(4) Board:()
-Our hand: 5c Ks
-
-Doppelganger3 called 2.
-our last bet of 2 was in round 0
-BAMF3's EV: 2.072000
-BAMF3's Equity: 0.518
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:18
-BAMF3's maxBetEV: 4
-
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(2s 7h 4h)
-Our hand: 5c Ks
-
-our last bet of 0 was in round 0
-BAMF3's EV: 1.614000
-BAMF3's Equity: 0.4035
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:18
-BAMF3's maxBetEV: 2
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:2', 'RAISE:4:10']
-{}
-
-***FLOP***(6) Board:(2s 7h 4h)
-Our hand: 5c Ks
-
-Doppelganger3 bet 2.
-our last bet of 0 was in round 3
-BAMF3's EV: 1.228000
-BAMF3's Equity: 0.4035
-BAMF3's Implied Odds: -5
-BAMF3's maxBetFold: 8
-BAMF3's M ratio:18
-BAMF3's maxBetEV: 4
-
-line 6
-BAMF3 calls 2.
-our bot's last action is CALL for 2
-['CHECK', 'BET:2:8']
-{}
-
-***TURN***(8) Board:(2s 7h 4h 9s)
-Our hand: 5c Ks
-
-our last bet of 2 was in round 3
-BAMF3's EV: 2.608000
-BAMF3's Equity: 0.326
-BAMF3's Implied Odds: -8
-BAMF3's maxBetFold: 11
-BAMF3's M ratio:18
-BAMF3's maxBetEV: 3
-
-line 4
-final max bet:8
-final min bet:8
-Bet range: 2 8
-BAMF3 bets 8.
-our bot's last action is BET for 8
-Doppelganger3 folds.
-
-
-NEWHAND:26
-
-['NEWHAND', '26', '1', 'As', '2d', '62', '538', '0', 'BAMF3', 'Doppelganger3', 'Clone3', '2', 'true', 'true', 'false', '14.423640']
-Active Players:2
-
-Our hand: As 2d
-BAMF3's VPIP: 0.080000
-BAMF3's PFR: 0.040000
-BAMF3's estimated fold percentage is 0.277778
-BAMF3's AF flop/postflop: 1.187500
-BAMF3's Player Type: NIT
-BAMF3's Seat:1
-Doppelganger3's VPIP: 0.560000
-Doppelganger3's PFR: 0.040000
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 3.000000
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:2
-Clone3's VPIP: 0.080000
-Clone3's PFR: 0.040000
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
-
-BAMF3 posts small blind/and is dealer, stack size (61)
-Doppelganger3 posts big blind, stack size (536)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: As 2d
-
-our last bet of 1 was in round 0
-BAMF3's EV: 1.166000
-BAMF3's Equity: 0.5415
-BAMF3's Implied Odds: -3
-BAMF3's maxBetFold: 4
-BAMF3's M ratio:20
-BAMF3's maxBetEV: 3
-
-BAMF3 calls 2.
-our bot's last action is CALL for 2
-['FOLD', 'CALL:2', 'RAISE:4:10']
-{}
-
-***FLOP***(6) Board:(4s 2s Jd)
-Our hand: As 2d
-
-Doppelganger3 checks.
-Doppelganger3 bet 2.
-our last bet of 2 was in round 0
-BAMF3's EV: 2.744000
-BAMF3's Equity: 0.593
-BAMF3's Implied Odds: -6
-BAMF3's maxBetFold: 8
-BAMF3's M ratio:20
-BAMF3's maxBetEV: 8
-
-line 4
-final max raise:8
-final min raise:8
-Raise range: 4 10
-BAMF3 raises to 8.
-our bot's last action is RAISE for 8
-['FOLD', 'CALL:25', 'RAISE:42:60']
-{}
-
-***FLOP***(37) Board:(4s 2s Jd)
-Our hand: As 2d
-
-Doppelganger3 raised to 25.
-our last bet of 8 was in round 3
-BAMF3's EV: 15.022000
-BAMF3's Equity: 0.593
-BAMF3's Implied Odds: -42
-BAMF3's maxBetFold: 55
-BAMF3's M ratio:17
-BAMF3's maxBetEV: 53
-
-line 4
-final max raise:52
-final min raise:42
-Raise range: 42 60
-BAMF3 calls 25.
-our bot's last action is CALL for 25
-['FOLD', 'CALL:16', 'RAISE:32:35']
-{}
-
-***TURN***(70) Board:(4s 2s Jd 7d)
-Our hand: As 2d
-
-Doppelganger3 bet 16.
-our last bet of 25 was in round 3
-BAMF3's EV: 29.537000
-BAMF3's Equity: 0.5295
-BAMF3's Implied Odds: -71
-BAMF3's maxBetFold: 105
-BAMF3's M ratio:11
-BAMF3's maxBetEV: 78
-
-line 6
-BAMF3 calls 16.
-our bot's last action is CALL for 16
-['FOLD', 'CALL:17', 'RAISE:19:19']
-{}
-
-***RIVER***(103) Board:(4s 2s Jd 7d 6d)
-Our hand: As 2d
-
-Doppelganger3 bet 17.
-our last bet of 16 was in round 4
-BAMF3's EV: 34.030303
-BAMF3's Equity: 0.425252525253
-BAMF3's Implied Odds: -97
-BAMF3's maxBetFold: 154
-BAMF3's M ratio:6
-BAMF3's maxBetEV: 76
-
-no all in, fold
-BAMF3 folds.
-our bot's last action is FOLD for 0
-
-
-NEWHAND:27
-
-['NEWHAND', '27', '2', '5h', '9h', '581', '19', '0', 'Doppelganger3', 'BAMF3', 'Clone3', '2', 'true', 'true', 'false', '14.396442']
-Active Players:2
-
-Our hand: 5h 9h
-Doppelganger3's VPIP: 0.538462
-Doppelganger3's PFR: 0.038462
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 3.444444
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:1
-BAMF3's VPIP: 0.076923
-BAMF3's PFR: 0.038462
-BAMF3's estimated fold percentage is 0.277778
-BAMF3's AF flop/postflop: 1.052632
-BAMF3's Player Type: NIT
-BAMF3's Seat:2
-Clone3's VPIP: 0.076923
-Clone3's PFR: 0.038462
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
-
-Doppelganger3 posts small blind/and is dealer, stack size (580)
-BAMF3 posts big blind, stack size (17)
-
-['CHECK', 'RAISE:4:6']
-{}
-
-***PREFLOP***(4) Board:()
-Our hand: 5h 9h
-
-Doppelganger3 called 2.
-our last bet of 2 was in round 0
-BAMF3's EV: 1.708000
-BAMF3's Equity: 0.427
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:5
-BAMF3's maxBetEV: 2
-
-no all in, fold
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(4h Ac 6s)
-Our hand: 5h 9h
-
-our last bet of 0 was in round 0
-BAMF3's EV: 1.160000
-BAMF3's Equity: 0.29
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:5
-BAMF3's maxBetEV: 1
-
-no all in, fold
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:2', 'RAISE:4:10']
-{}
-
-***FLOP***(6) Board:(4h Ac 6s)
-Our hand: 5h 9h
-
-Doppelganger3 bet 2.
-our last bet of 0 was in round 3
-BAMF3's EV: 0.320000
-BAMF3's Equity: 0.29
-BAMF3's Implied Odds: -3
-BAMF3's maxBetFold: 8
-BAMF3's M ratio:5
-BAMF3's maxBetEV: 2
-
-no all in, fold
-BAMF3 folds.
-our bot's last action is FOLD for 0
-
-
-NEWHAND:28
-
-['NEWHAND', '28', '1', 'Ad', 'Td', '17', '583', '0', 'BAMF3', 'Doppelganger3', 'Clone3', '2', 'true', 'true', 'false', '14.377657']
-Active Players:2
-
-Our hand: Ad Td
-BAMF3's VPIP: 0.074074
-BAMF3's PFR: 0.037037
-BAMF3's estimated fold percentage is 0.277778
-BAMF3's AF flop/postflop: 1.052632
-BAMF3's Player Type: NIT
-BAMF3's Seat:1
-Doppelganger3's VPIP: 0.555556
-Doppelganger3's PFR: 0.037037
-Doppelganger3's estimated fold percentage is 0.000000
-Doppelganger3's AF flop/postflop: 3.555556
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:2
-Clone3's VPIP: 0.074074
-Clone3's PFR: 0.037037
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
-
-BAMF3 posts small blind/and is dealer, stack size (16)
-Doppelganger3 posts big blind, stack size (581)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: Ad Td
-
-our last bet of 1 was in round 0
-BAMF3's EV: 1.540000
-BAMF3's Equity: 0.635
-BAMF3's Implied Odds: -3
-BAMF3's maxBetFold: 4
-BAMF3's M ratio:5
-BAMF3's maxBetEV: 5
-
-all in 1
-final max raise:6
-final min raise:6
-Raise range: 4 6
-BAMF3 raises to 6.
-our bot's last action is RAISE for 6
-Doppelganger3 folds.
-
-
-NEWHAND:29
-
-['NEWHAND', '29', '2', 'Qs', '6d', '581', '19', '0', 'Doppelganger3', 'BAMF3', 'Clone3', '2', 'true', 'true', 'false', '14.368436']
-Active Players:2
-
-Our hand: Qs 6d
-Doppelganger3's VPIP: 0.535714
-Doppelganger3's PFR: 0.035714
-Doppelganger3's estimated fold percentage is 0.035714
-Doppelganger3's AF flop/postflop: 3.555556
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:1
-BAMF3's VPIP: 0.107143
-BAMF3's PFR: 0.035714
-BAMF3's estimated fold percentage is 0.277778
-BAMF3's AF flop/postflop: 1.052632
-BAMF3's Player Type: NIT
-BAMF3's Seat:2
-Clone3's VPIP: 0.071429
-Clone3's PFR: 0.035714
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
-
-Doppelganger3 posts small blind/and is dealer, stack size (580)
-BAMF3 posts big blind, stack size (17)
-
-['CHECK', 'RAISE:4:6']
-{}
-
-***PREFLOP***(4) Board:()
-Our hand: Qs 6d
-
-Doppelganger3 called 2.
-our last bet of 2 was in round 0
-BAMF3's EV: 2.066000
-BAMF3's Equity: 0.5165
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:5
-BAMF3's maxBetEV: 4
-
-no all in, fold
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(6s 7d 3d)
-Our hand: Qs 6d
-
-our last bet of 0 was in round 0
-BAMF3's EV: 2.596000
-BAMF3's Equity: 0.649
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:5
-BAMF3's maxBetEV: 7
-
-all in 1
-final max bet:4
-final min bet:4
-Bet range: 2 4
-BAMF3 bets 4.
-our bot's last action is BET for 4
-Doppelganger3 folds.
-
-
-NEWHAND:30
-
-['NEWHAND', '30', '1', '9s', 'Kh', '21', '579', '0', 'BAMF3', 'Doppelganger3', 'Clone3', '2', 'true', 'true', 'false', '14.356201']
-Active Players:2
-
-Our hand: 9s Kh
-BAMF3's VPIP: 0.103448
-BAMF3's PFR: 0.034483
-BAMF3's estimated fold percentage is 0.277778
-BAMF3's AF flop/postflop: 1.105263
-BAMF3's Player Type: NIT
-BAMF3's Seat:1
-Doppelganger3's VPIP: 0.551724
-Doppelganger3's PFR: 0.034483
-Doppelganger3's estimated fold percentage is 0.035714
-Doppelganger3's AF flop/postflop: 3.555556
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:2
-Clone3's VPIP: 0.068966
-Clone3's PFR: 0.034483
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
-
-BAMF3 posts small blind/and is dealer, stack size (20)
-Doppelganger3 posts big blind, stack size (577)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 9s Kh
-
-our last bet of 1 was in round 0
-BAMF3's EV: 1.298000
-BAMF3's Equity: 0.5745
-BAMF3's Implied Odds: -3
-BAMF3's maxBetFold: 4
-BAMF3's M ratio:6
-BAMF3's maxBetEV: 4
-
-no all in, fold
-BAMF3 folds.
-our bot's last action is FOLD for 0
-
-
-NEWHAND:31
-
-['NEWHAND', '31', '2', 'Js', 'Jd', '580', '20', '0', 'Doppelganger3', 'BAMF3', 'Clone3', '2', 'true', 'true', 'false', '14.349620']
-Active Players:2
-
-Our hand: Js Jd
-Doppelganger3's VPIP: 0.533333
-Doppelganger3's PFR: 0.033333
-Doppelganger3's estimated fold percentage is 0.035714
-Doppelganger3's AF flop/postflop: 3.555556
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:1
-BAMF3's VPIP: 0.100000
-BAMF3's PFR: 0.033333
-BAMF3's estimated fold percentage is 0.200000
-BAMF3's AF flop/postflop: 1.105263
-BAMF3's Player Type: NIT
-BAMF3's Seat:2
-Clone3's VPIP: 0.066667
-Clone3's PFR: 0.033333
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
-
-Doppelganger3 posts small blind/and is dealer, stack size (579)
+BAMF3's Seat:3
+BAMF3's preflop raises:0.000000
+BAMF3's hands played:11.000000
+
+V4One3 posts small blind, stack size (333)
 BAMF3 posts big blind, stack size (18)
 
-['CHECK', 'RAISE:4:6']
+['CHECK', 'RAISE:4:7']
 {}
 
-***PREFLOP***(4) Board:()
-Our hand: Js Jd
+***PREFLOP***(5) Board:()
+Our hand: 9h Qc
 
-Doppelganger3 called 2.
+V4Two3 called 2.
+V4One3 folds.
 our last bet of 2 was in round 0
-BAMF3's EV: 3.072000
-BAMF3's Equity: 0.768
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:6
-BAMF3's maxBetEV: 13
+BAMF3's EV: 2.772500
+BAMF3's Equity: 0.5545
+BAMF3's Implied Odds: -5
+BAMF3's Pot odds: 0.000000
+BAMF3's maxBetFold: 1
+BAMF3's M ratio:6.000000
+BAMF3's maxBetEV: 6
 
-all in 1
-final max raise:6
-final min raise:6
-Raise range: 4 6
-BAMF3 raises to 6.
-our bot's last action is RAISE for 6
-['CHECK', 'BET:2:12']
+no all in, fold
+BAMF3 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:5']
 {}
 
-***FLOP***(12) Board:(Kh 5c 3h)
-Our hand: Js Jd
+***FLOP***(5) Board:(Jd 2s Td)
+Our hand: 9h Qc
 
-Doppelganger3 called 6.
-our last bet of 6 was in round 0
-BAMF3's EV: 8.484000
-BAMF3's Equity: 0.707
-BAMF3's Implied Odds: -12
-BAMF3's maxBetFold: 17
-BAMF3's M ratio:4
-BAMF3's maxBetEV: 28
+our last bet of 0 was in round 0
+BAMF3's EV: 2.715000
+BAMF3's Equity: 0.543
+BAMF3's Implied Odds: -5
+BAMF3's Pot odds: 0.000000
+BAMF3's maxBetFold: 1
+BAMF3's M ratio:6.000000
+BAMF3's maxBetEV: 5
+
+no all in, fold
+BAMF3 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:5']
+{}
+
+***TURN***(5) Board:(Jd 2s Td Qs)
+Our hand: 9h Qc
+
+V4Two3 checks.
+our last bet of 0 was in round 3
+BAMF3's EV: 3.992500
+BAMF3's Equity: 0.7985
+BAMF3's Implied Odds: -5
+BAMF3's Pot odds: 0.000000
+BAMF3's maxBetFold: 1
+BAMF3's M ratio:6.000000
+BAMF3's maxBetEV: 19
 
 all in 1
-final max bet:12
-final min bet:12
-Bet range: 2 12
-BAMF3 bets 12.
-our bot's last action is BET for 12
+final max bet:5
+final min bet:5
+Bet range: 2 5
+BAMF3 bets 5.
+our bot's last action is BET for 5
+['FOLD', 'CALL:16', 'RAISE:18:18']
+{}
+
+***TURN***(26) Board:(Jd 2s Td Qs)
+Our hand: 9h Qc
+
+V4Two3 raised to 16.
+our last bet of 5 was in round 4
+BAMF3's EV: 18.544500
+BAMF3's Equity: 0.7985
+BAMF3's Implied Odds: -34
+BAMF3's Pot odds: 0.423077
+BAMF3's maxBetFold: 9
+BAMF3's M ratio:4.333333
+BAMF3's maxBetEV: 103
+
+all in 1
+final max raise:18
+final min raise:18
+Raise range: 18 18
+BAMF3 calls 16.
+our bot's last action is CALL for 16
 ['CHECK', 'BET:2:2']
 {}
 
-***TURN***(36) Board:(Kh 5c 3h Ks)
-Our hand: Js Jd
+***RIVER***(37) Board:(Jd 2s Td Qs Jh)
+Our hand: 9h Qc
 
-Doppelganger3 called 12.
-our last bet of 12 was in round 3
-BAMF3's EV: 30.690000
-BAMF3's Equity: 0.8525
-BAMF3's Implied Odds: -36
-BAMF3's maxBetFold: 53
-BAMF3's M ratio:0
-BAMF3's maxBetEV: 208
+our last bet of 16 was in round 4
+BAMF3's EV: 29.712121
+BAMF3's Equity: 0.80303030303
+BAMF3's Implied Odds: -37
+BAMF3's Pot odds: 0.000000
+BAMF3's maxBetFold: 13
+BAMF3's M ratio:0.666667
+BAMF3's maxBetEV: 150
 
 all in2
 final max bet:2
@@ -2858,586 +1068,627 @@ final min bet:2
 Bet range: 2 2
 BAMF3 bets 2.
 our bot's last action is BET for 2
-Doppelganger3 called 2.
-BAMF3 WTSD percentage is: 0.258065
-Doppelganger3 WTSD percentage is: 0.322581
-BAMF3 W$SD percentage is: 0.375000
+V4Two3 called 2.
+V4Two3 WTSD percentage is: 0.636364
+BAMF3 WTSD percentage is: 0.363636
+V4Two3 W$SD percentage is: 0.857143
+BAMF3 W$SD percentage is: 0.500000
 
 
-NEWHAND:32
+NEWHAND:12
 
-['NEWHAND', '32', '1', '9h', '4s', '40', '560', '0', 'BAMF3', 'Doppelganger3', 'Clone3', '2', 'true', 'true', 'false', '14.321902']
-Active Players:2
+['NEWHAND', '12', '1', 'Jd', '2h', '20', '247', '333', 'BAMF3', 'V4Two3', 'V4One3', '3', 'true', 'true', 'true', '14.777533']
+Active Players:3
 
-Our hand: 9h 4s
-BAMF3's VPIP: 0.096774
-BAMF3's PFR: 0.032258
-BAMF3's estimated fold percentage is 0.200000
-BAMF3's AF flop/postflop: 1.263158
+Our hand: Jd 2h
+BAMF3's VPIP: 0.090909
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 0.400000
 BAMF3's Player Type: NIT
 BAMF3's Seat:1
-Doppelganger3's VPIP: 0.548387
-Doppelganger3's PFR: 0.032258
-Doppelganger3's estimated fold percentage is 0.035714
-Doppelganger3's AF flop/postflop: 2.666667
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:2
-Clone3's VPIP: 0.064516
-Clone3's PFR: 0.032258
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
+BAMF3's preflop raises:0.000000
+BAMF3's hands played:12.000000
+V4Two3's VPIP: 0.454545
+V4Two3's PFR: 0.000000
+V4Two3's estimated fold percentage is 0.166667
+V4Two3's AF flop/postflop: 2.250000
+V4Two3's Player Type: UNKNOWN
+V4Two3's Seat:2
+V4Two3's preflop raises:0.000000
+V4Two3's hands played:12.000000
+V4One3's VPIP: 0.545455
+V4One3's PFR: 0.000000
+V4One3's estimated fold percentage is 0.272727
+V4One3's AF flop/postflop: 0.727273
+V4One3's Player Type: UNKNOWN
+V4One3's Seat:3
+V4One3's preflop raises:0.000000
+V4One3's hands played:12.000000
 
-BAMF3 posts small blind/and is dealer, stack size (39)
-Doppelganger3 posts big blind, stack size (558)
+V4Two3 posts small blind, stack size (246)
+V4One3 posts big blind, stack size (331)
 
-['CALL:2', 'FOLD', 'RAISE:4:6']
+['CALL:2', 'FOLD', 'RAISE:4:7']
 {}
 
 ***PREFLOP***(3) Board:()
-Our hand: 9h 4s
+Our hand: Jd 2h
 
-our last bet of 1 was in round 0
-BAMF3's EV: 0.548000
-BAMF3's Equity: 0.387
+our last bet of 0 was in round 0
+BAMF3's EV: 0.170000
+BAMF3's Equity: 0.434
 BAMF3's Implied Odds: -2
-BAMF3's maxBetFold: 4
-BAMF3's M ratio:13
-BAMF3's maxBetEV: 1
+BAMF3's Pot odds: 0.666667
+BAMF3's maxBetFold: 1
+BAMF3's M ratio:6.666667
+BAMF3's maxBetEV: 2
 
-NOT BLUFFING FOLD
+no all in, fold
 BAMF3 folds.
 our bot's last action is FOLD for 0
-
-
-NEWHAND:33
-
-['NEWHAND', '33', '2', 'Ac', '7d', '561', '39', '0', 'Doppelganger3', 'BAMF3', 'Clone3', '2', 'true', 'true', 'false', '14.313276']
-Active Players:2
-
-Our hand: Ac 7d
-Doppelganger3's VPIP: 0.531250
-Doppelganger3's PFR: 0.031250
-Doppelganger3's estimated fold percentage is 0.035714
-Doppelganger3's AF flop/postflop: 2.666667
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:1
-BAMF3's VPIP: 0.093750
-BAMF3's PFR: 0.031250
-BAMF3's estimated fold percentage is 0.218750
-BAMF3's AF flop/postflop: 1.263158
-BAMF3's Player Type: NIT
-BAMF3's Seat:2
-Clone3's VPIP: 0.062500
-Clone3's PFR: 0.031250
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
-
-Doppelganger3 posts small blind/and is dealer, stack size (560)
-BAMF3 posts big blind, stack size (37)
-
-['CHECK', 'RAISE:4:6']
-{}
-
-***PREFLOP***(4) Board:()
-Our hand: Ac 7d
-
-Doppelganger3 called 2.
-our last bet of 2 was in round 0
-BAMF3's EV: 2.350000
-BAMF3's Equity: 0.5875
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:12
-BAMF3's maxBetEV: 5
-
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(5h 9h 4d)
-Our hand: Ac 7d
-
-our last bet of 0 was in round 0
-BAMF3's EV: 1.850000
-BAMF3's Equity: 0.4625
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:12
-BAMF3's maxBetEV: 3
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***TURN***(4) Board:(5h 9h 4d Kd)
-Our hand: Ac 7d
-
-Doppelganger3 checks.
-our last bet of 0 was in round 3
-BAMF3's EV: 1.658000
-BAMF3's Equity: 0.4145
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:12
-BAMF3's maxBetEV: 2
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***RIVER***(4) Board:(5h 9h 4d Kd Qs)
-Our hand: Ac 7d
-
-Doppelganger3 checks.
-our last bet of 0 was in round 4
-BAMF3's EV: 1.359596
-BAMF3's Equity: 0.339898989899
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:12
-BAMF3's maxBetEV: 2
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['FOLD', 'CALL:4', 'RAISE:8:16']
-{}
-
-***RIVER***(8) Board:(5h 9h 4d Kd Qs)
-Our hand: Ac 7d
-
-Doppelganger3 bet 4.
-our last bet of 0 was in round 5
-BAMF3's EV: 0.078788
-BAMF3's Equity: 0.339898989899
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 11
-BAMF3's M ratio:12
-BAMF3's maxBetEV: 4
-
-line 6
-BAMF3 calls 4.
-our bot's last action is CALL for 4
-BAMF3 WTSD percentage is: 0.272727
-Doppelganger3 WTSD percentage is: 0.333333
-Doppelganger3 W$SD percentage is: 0.818182
-
-
-NEWHAND:34
-
-['NEWHAND', '34', '1', '8c', '7d', '33', '567', '0', 'BAMF3', 'Doppelganger3', 'Clone3', '2', 'true', 'true', 'false', '14.273157']
-Active Players:2
-
-Our hand: 8c 7d
-BAMF3's VPIP: 0.090909
-BAMF3's PFR: 0.030303
-BAMF3's estimated fold percentage is 0.218750
-BAMF3's AF flop/postflop: 1.200000
-BAMF3's Player Type: NIT
-BAMF3's Seat:1
-Doppelganger3's VPIP: 0.545455
-Doppelganger3's PFR: 0.030303
-Doppelganger3's estimated fold percentage is 0.035714
-Doppelganger3's AF flop/postflop: 2.750000
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:2
-Clone3's VPIP: 0.060606
-Clone3's PFR: 0.030303
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
-
-BAMF3 posts small blind/and is dealer, stack size (32)
-Doppelganger3 posts big blind, stack size (565)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: 8c 7d
-
-our last bet of 1 was in round 0
-BAMF3's EV: 0.880000
-BAMF3's Equity: 0.47
-BAMF3's Implied Odds: -2
-BAMF3's maxBetFold: 4
-BAMF3's M ratio:10
-BAMF3's maxBetEV: 2
-
-BAMF3 calls 2.
-our bot's last action is CALL for 2
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(7c Ts 8d)
-Our hand: 8c 7d
-
-Doppelganger3 checks.
-Doppelganger3 checks.
-our last bet of 2 was in round 0
-BAMF3's EV: 3.154000
-BAMF3's Equity: 0.7885
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:10
-BAMF3's maxBetEV: 14
-
-line 1
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF3 bets 2.
-our bot's last action is BET for 2
-['CHECK', 'BET:2:8']
-{}
-
-***TURN***(8) Board:(7c Ts 8d 5h)
-Our hand: 8c 7d
-
-Doppelganger3 called 2.
-Doppelganger3 checks.
-our last bet of 2 was in round 3
-BAMF3's EV: 6.684000
-BAMF3's Equity: 0.8355
-BAMF3's Implied Odds: -8
-BAMF3's maxBetFold: 11
-BAMF3's M ratio:9
-BAMF3's maxBetEV: 40
-
-line 1
-final max bet:8
-final min bet:2
-Bet range: 2 8
-BAMF3 bets 5.
-our bot's last action is BET for 5
-['CHECK', 'BET:2:18']
-{}
-
-***RIVER***(18) Board:(7c Ts 8d 5h Th)
-Our hand: 8c 7d
-
-Doppelganger3 called 5.
-Doppelganger3 checks.
-our last bet of 5 was in round 4
-BAMF3's EV: 13.800000
-BAMF3's Equity: 0.766666666667
-BAMF3's Implied Odds: -18
-BAMF3's maxBetFold: 26
-BAMF3's M ratio:8
-BAMF3's maxBetEV: 59
-
-line 1
-final max bet:18
-final min bet:2
-Bet range: 2 18
-BAMF3 bets 7.
-our bot's last action is BET for 7
-Doppelganger3 folds.
-
-
-NEWHAND:35
-
-['NEWHAND', '35', '2', '2c', '9d', '558', '42', '0', 'Doppelganger3', 'BAMF3', 'Clone3', '2', 'true', 'true', 'false', '14.247436']
-Active Players:2
-
-Our hand: 2c 9d
-Doppelganger3's VPIP: 0.529412
-Doppelganger3's PFR: 0.029412
-Doppelganger3's estimated fold percentage is 0.035714
-Doppelganger3's AF flop/postflop: 2.357143
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:1
-BAMF3's VPIP: 0.088235
-BAMF3's PFR: 0.029412
-BAMF3's estimated fold percentage is 0.218750
-BAMF3's AF flop/postflop: 1.285714
-BAMF3's Player Type: NIT
-BAMF3's Seat:2
-Clone3's VPIP: 0.058824
-Clone3's PFR: 0.029412
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
-
-Doppelganger3 posts small blind/and is dealer, stack size (557)
-BAMF3 posts big blind, stack size (40)
-
-['CHECK', 'RAISE:4:6']
-{}
-
-***PREFLOP***(4) Board:()
-Our hand: 2c 9d
-
-Doppelganger3 called 2.
-our last bet of 2 was in round 0
-BAMF3's EV: 1.590000
-BAMF3's Equity: 0.3975
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:13
-BAMF3's maxBetEV: 2
-
-NOT BLUFFING FOLD
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***FLOP***(4) Board:(Ac 5c 8c)
-Our hand: 2c 9d
-
-our last bet of 0 was in round 0
-BAMF3's EV: 1.492000
-BAMF3's Equity: 0.373
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:13
-BAMF3's maxBetEV: 2
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***TURN***(4) Board:(Ac 5c 8c 3h)
-Our hand: 2c 9d
-
-Doppelganger3 checks.
-our last bet of 0 was in round 3
-BAMF3's EV: 1.184000
-BAMF3's Equity: 0.296
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:13
-BAMF3's maxBetEV: 1
-
-line 6
-BAMF3 checks.
-our bot's last action is CHECK for 0
-['CHECK', 'BET:2:4']
-{}
-
-***RIVER***(4) Board:(Ac 5c 8c 3h 4h)
-Our hand: 2c 9d
-
-Doppelganger3 checks.
-our last bet of 0 was in round 4
-BAMF3's EV: 3.509091
-BAMF3's Equity: 0.877272727273
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:13
-BAMF3's maxBetEV: 28
-
-line 1
-final max bet:4
-final min bet:2
-Bet range: 2 4
-BAMF3 bets 4.
-our bot's last action is BET for 4
-Doppelganger3 called 4.
-Doppelganger3 WTSD percentage is: 0.342857
-BAMF3 WTSD percentage is: 0.285714
-BAMF3 W$SD percentage is: 0.400000
-
-
-NEWHAND:36
-
-['NEWHAND', '36', '1', 'Tc', 'Ks', '48', '552', '0', 'BAMF3', 'Doppelganger3', 'Clone3', '2', 'true', 'true', 'false', '14.221141']
-Active Players:2
-
-Our hand: Tc Ks
-BAMF3's VPIP: 0.085714
-BAMF3's PFR: 0.028571
-BAMF3's estimated fold percentage is 0.218750
-BAMF3's AF flop/postflop: 1.333333
-BAMF3's Player Type: NIT
-BAMF3's Seat:1
-Doppelganger3's VPIP: 0.542857
-Doppelganger3's PFR: 0.028571
-Doppelganger3's estimated fold percentage is 0.035714
-Doppelganger3's AF flop/postflop: 2.200000
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:2
-Clone3's VPIP: 0.057143
-Clone3's PFR: 0.028571
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
-
-BAMF3 posts small blind/and is dealer, stack size (47)
-Doppelganger3 posts big blind, stack size (550)
-
-['CALL:2', 'FOLD', 'RAISE:4:6']
-{}
-
-***PREFLOP***(3) Board:()
-Our hand: Tc Ks
-
-our last bet of 1 was in round 0
-BAMF3's EV: 1.430000
-BAMF3's Equity: 0.6075
-BAMF3's Implied Odds: -3
-BAMF3's maxBetFold: 4
-BAMF3's M ratio:15
-BAMF3's maxBetEV: 4
-
-BAMF3 calls 2.
-our bot's last action is CALL for 2
-['FOLD', 'CALL:4', 'RAISE:8:16']
-{}
-
-***FLOP***(8) Board:(Qs 2h 2c)
-Our hand: Tc Ks
-
-Doppelganger3 checks.
-Doppelganger3 bet 4.
-our last bet of 2 was in round 0
-BAMF3's EV: 1.982000
-BAMF3's Equity: 0.4985
-BAMF3's Implied Odds: -7
-BAMF3's maxBetFold: 11
-BAMF3's M ratio:15
-BAMF3's maxBetEV: 7
-
-line 6
-BAMF3 calls 4.
-our bot's last action is CALL for 4
-['FOLD', 'CALL:8', 'RAISE:16:36']
-{}
-
-***TURN***(20) Board:(Qs 2h 2c 6s)
-Our hand: Tc Ks
-
-Doppelganger3 bet 8.
-our last bet of 4 was in round 3
-BAMF3's EV: 4.138000
-BAMF3's Equity: 0.4335
-BAMF3's Implied Odds: -17
-BAMF3's maxBetFold: 30
-BAMF3's M ratio:14
-BAMF3's maxBetEV: 15
-
-line 6
-BAMF3 calls 8.
-our bot's last action is CALL for 8
-['FOLD', 'CALL:22', 'RAISE:34:34']
-{}
-
-***RIVER***(50) Board:(Qs 2h 2c 6s Td)
-Our hand: Tc Ks
-
-Doppelganger3 bet 22.
-our last bet of 8 was in round 4
-BAMF3's EV: 32.109091
-BAMF3's Equity: 0.751515151515
-BAMF3's Implied Odds: -64
-BAMF3's maxBetFold: 75
-BAMF3's M ratio:11
-BAMF3's maxBetEV: 151
-
-line 1
-final max raise:34
-final min raise:34
-Raise range: 34 34
-BAMF3 calls 22.
-our bot's last action is CALL for 22
-BAMF3 WTSD percentage is: 0.305556
-Doppelganger3 WTSD percentage is: 0.361111
-Doppelganger3 W$SD percentage is: 0.769231
-
-
-NEWHAND:37
-
-['NEWHAND', '37', '2', 'As', '9s', '588', '12', '0', 'Doppelganger3', 'BAMF3', 'Clone3', '2', 'true', 'true', 'false', '14.194818']
-Active Players:2
-
-Our hand: As 9s
-Doppelganger3's VPIP: 0.527778
-Doppelganger3's PFR: 0.027778
-Doppelganger3's estimated fold percentage is 0.035714
-Doppelganger3's AF flop/postflop: 2.400000
-Doppelganger3's Player Type: UNKNOWN
-Doppelganger3's Seat:1
+V4Two3 called 2.
+V4One3 checks.
+V4Two3 checks.
+V4One3 checks.
+V4Two3 bet 4.
+V4One3 folds.
+
+
+NEWHAND:13
+
+['NEWHAND', '13', '2', 'Tc', 'Jh', '331', '20', '249', 'V4One3', 'BAMF3', 'V4Two3', '3', 'true', 'true', 'true', '14.770094']
+Active Players:3
+
+Our hand: Tc Jh
+V4One3's VPIP: 0.500000
+V4One3's PFR: 0.000000
+V4One3's estimated fold percentage is 0.272727
+V4One3's AF flop/postflop: 0.727273
+V4One3's Player Type: UNKNOWN
+V4One3's Seat:1
+V4One3's preflop raises:0.000000
+V4One3's hands played:13.000000
 BAMF3's VPIP: 0.083333
-BAMF3's PFR: 0.027778
-BAMF3's estimated fold percentage is 0.218750
-BAMF3's AF flop/postflop: 1.120000
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 0.400000
 BAMF3's Player Type: NIT
 BAMF3's Seat:2
-Clone3's VPIP: 0.055556
-Clone3's PFR: 0.027778
-Clone3's estimated fold percentage is 0.600000
-Clone3's AF flop/postflop: 1.333333
-Clone3's Player Type: NIT
-Clone3's Seat:3
-Clone3 is eliminated
+BAMF3's preflop raises:0.000000
+BAMF3's hands played:13.000000
+V4Two3's VPIP: 0.416667
+V4Two3's PFR: 0.000000
+V4Two3's estimated fold percentage is 0.166667
+V4Two3's AF flop/postflop: 2.111111
+V4Two3's Player Type: UNKNOWN
+V4Two3's Seat:3
+V4Two3's preflop raises:0.000000
+V4Two3's hands played:13.000000
 
-Doppelganger3 posts small blind/and is dealer, stack size (587)
-BAMF3 posts big blind, stack size (10)
+BAMF3 posts small blind, stack size (19)
+V4Two3 posts big blind, stack size (247)
 
-['CHECK', 'RAISE:4:6']
+['FOLD', 'CALL:2', 'RAISE:4:8']
 {}
 
-***PREFLOP***(4) Board:()
-Our hand: As 9s
+***PREFLOP***(5) Board:()
+Our hand: Tc Jh
 
-Doppelganger3 called 2.
-our last bet of 2 was in round 0
-BAMF3's EV: 2.522000
-BAMF3's Equity: 0.6305
-BAMF3's Implied Odds: -4
-BAMF3's maxBetFold: 5
-BAMF3's M ratio:3
+V4One3 called 2.
+our last bet of 1 was in round 0
+BAMF3's EV: 2.339000
+BAMF3's Equity: 0.5565
+BAMF3's Implied Odds: -5
+BAMF3's Pot odds: 0.200000
+BAMF3's maxBetFold: 1
+BAMF3's M ratio:6.333333
 BAMF3's maxBetEV: 6
 
-all in2
-final max raise:6
-final min raise:6
-Raise range: 4 6
-BAMF3 raises to 6.
-our bot's last action is RAISE for 6
-['CHECK', 'BET:2:6']
+no all in, fold
+BAMF3 folds.
+our bot's last action is FOLD for 0
+V4Two3 checks.
+V4Two3 bet 2.
+V4One3 called 2.
+V4Two3 bet 6.
+V4One3 called 6.
+V4Two3 bet 4.
+V4One3 folds.
+
+
+NEWHAND:14
+
+['NEWHAND', '14', '3', '4d', '7h', '260', '321', '19', 'V4Two3', 'V4One3', 'BAMF3', '3', 'true', 'true', 'true', '14.762559']
+Active Players:3
+
+Our hand: 4d 7h
+V4Two3's VPIP: 0.384615
+V4Two3's PFR: 0.000000
+V4Two3's estimated fold percentage is 0.166667
+V4Two3's AF flop/postflop: 2.444444
+V4Two3's Player Type: CALLING STATION
+V4Two3's Seat:1
+V4Two3's preflop raises:0.000000
+V4Two3's hands played:14.000000
+V4One3's VPIP: 0.538462
+V4One3's PFR: 0.000000
+V4One3's estimated fold percentage is 0.272727
+V4One3's AF flop/postflop: 0.615385
+V4One3's Player Type: UNKNOWN
+V4One3's Seat:2
+V4One3's preflop raises:0.000000
+V4One3's hands played:14.000000
+BAMF3's VPIP: 0.076923
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 0.400000
+BAMF3's Player Type: NIT
+BAMF3's Seat:3
+BAMF3's preflop raises:0.000000
+BAMF3's hands played:14.000000
+
+V4One3 posts small blind, stack size (320)
+BAMF3 posts big blind, stack size (17)
+
+['CHECK', 'RAISE:4:6']
 {}
 
-***FLOP***(12) Board:(5c 2d 2h)
-Our hand: As 9s
+***PREFLOP***(4) Board:()
+Our hand: 4d 7h
 
-Doppelganger3 called 6.
-our last bet of 6 was in round 0
-BAMF3's EV: 6.942000
-BAMF3's Equity: 0.5785
-BAMF3's Implied Odds: -12
-BAMF3's maxBetFold: 17
-BAMF3's M ratio:2
-BAMF3's maxBetEV: 16
+V4Two3 folds.
+V4One3 called 2.
+our last bet of 2 was in round 0
+BAMF3's EV: 1.726000
+BAMF3's Equity: 0.4315
+BAMF3's Implied Odds: -4
+BAMF3's Pot odds: 0.000000
+BAMF3's maxBetFold: 1
+BAMF3's M ratio:5.666667
+BAMF3's maxBetEV: 3
+
+no all in, fold
+BAMF3 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(2c 8h Ts)
+Our hand: 4d 7h
+
+V4One3 checks.
+our last bet of 0 was in round 0
+BAMF3's EV: 1.030000
+BAMF3's Equity: 0.2575
+BAMF3's Implied Odds: -4
+BAMF3's Pot odds: 0.000000
+BAMF3's maxBetFold: 1
+BAMF3's M ratio:5.666667
+BAMF3's maxBetEV: 1
+
+no all in, fold
+BAMF3 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(2c 8h Ts Jd)
+Our hand: 4d 7h
+
+V4One3 checks.
+our last bet of 0 was in round 3
+BAMF3's EV: 0.798000
+BAMF3's Equity: 0.1995
+BAMF3's Implied Odds: -4
+BAMF3's Pot odds: 0.000000
+BAMF3's maxBetFold: 0
+BAMF3's M ratio:5.666667
+BAMF3's maxBetEV: 0
+
+no all in, fold
+BAMF3 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(2c 8h Ts Jd 8c)
+Our hand: 4d 7h
+
+V4One3 checks.
+our last bet of 0 was in round 4
+BAMF3's EV: 0.430303
+BAMF3's Equity: 0.107575757576
+BAMF3's Implied Odds: -4
+BAMF3's Pot odds: 0.000000
+BAMF3's maxBetFold: 0
+BAMF3's M ratio:5.666667
+BAMF3's maxBetEV: 0
+
+no all in, fold
+BAMF3 checks.
+our bot's last action is CHECK for 0
+V4One3 WTSD percentage is: 0.357143
+BAMF3 WTSD percentage is: 0.357143
+V4One3 W$SD percentage is: 0.800000
+
+
+NEWHAND:15
+
+['NEWHAND', '15', '1', '9h', 'Ks', '17', '260', '323', 'BAMF3', 'V4Two3', 'V4One3', '3', 'true', 'true', 'true', '14.741337']
+Active Players:3
+
+Our hand: 9h Ks
+BAMF3's VPIP: 0.071429
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 0.400000
+BAMF3's Player Type: NIT
+BAMF3's Seat:1
+BAMF3's preflop raises:0.000000
+BAMF3's hands played:15.000000
+V4Two3's VPIP: 0.357143
+V4Two3's PFR: 0.000000
+V4Two3's estimated fold percentage is 0.142857
+V4Two3's AF flop/postflop: 2.444444
+V4Two3's Player Type: CALLING STATION
+V4Two3's Seat:2
+V4Two3's preflop raises:0.000000
+V4Two3's hands played:15.000000
+V4One3's VPIP: 0.571429
+V4One3's PFR: 0.000000
+V4One3's estimated fold percentage is 0.272727
+V4One3's AF flop/postflop: 0.615385
+V4One3's Player Type: UNKNOWN
+V4One3's Seat:3
+V4One3's preflop raises:0.000000
+V4One3's hands played:15.000000
+
+V4Two3 posts small blind, stack size (259)
+V4One3 posts big blind, stack size (321)
+
+['CALL:2', 'FOLD', 'RAISE:4:7']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 9h Ks
+
+our last bet of 0 was in round 0
+BAMF3's EV: 0.845000
+BAMF3's Equity: 0.569
+BAMF3's Implied Odds: -3
+BAMF3's Pot odds: 0.666667
+BAMF3's maxBetFold: 1
+BAMF3's M ratio:5.666667
+BAMF3's maxBetEV: 3
+
+no all in, fold
+BAMF3 folds.
+our bot's last action is FOLD for 0
+V4Two3 called 2.
+V4One3 checks.
+V4Two3 checks.
+V4One3 checks.
+V4Two3 checks.
+V4One3 checks.
+V4Two3 checks.
+V4One3 checks.
+V4Two3 WTSD percentage is: 0.533333
+V4One3 WTSD percentage is: 0.400000
+V4Two3 W$SD percentage is: 0.875000
+
+
+NEWHAND:16
+
+['NEWHAND', '16', '2', 'Jd', '6s', '321', '17', '262', 'V4One3', 'BAMF3', 'V4Two3', '3', 'true', 'true', 'true', '14.733475']
+Active Players:3
+
+Our hand: Jd 6s
+V4One3's VPIP: 0.533333
+V4One3's PFR: 0.000000
+V4One3's estimated fold percentage is 0.272727
+V4One3's AF flop/postflop: 0.615385
+V4One3's Player Type: UNKNOWN
+V4One3's Seat:1
+V4One3's preflop raises:0.000000
+V4One3's hands played:16.000000
+BAMF3's VPIP: 0.066667
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 0.400000
+BAMF3's Player Type: NIT
+BAMF3's Seat:2
+BAMF3's preflop raises:0.000000
+BAMF3's hands played:16.000000
+V4Two3's VPIP: 0.333333
+V4Two3's PFR: 0.000000
+V4Two3's estimated fold percentage is 0.142857
+V4Two3's AF flop/postflop: 2.200000
+V4Two3's Player Type: CALLING STATION
+V4Two3's Seat:3
+V4Two3's preflop raises:0.000000
+V4Two3's hands played:16.000000
+
+BAMF3 posts small blind, stack size (16)
+V4Two3 posts big blind, stack size (260)
+
+['FOLD', 'CALL:2', 'RAISE:4:8']
+{}
+
+***PREFLOP***(5) Board:()
+Our hand: Jd 6s
+
+V4One3 called 2.
+our last bet of 1 was in round 0
+BAMF3's EV: 2.063000
+BAMF3's Equity: 0.5105
+BAMF3's Implied Odds: -5
+BAMF3's Pot odds: 0.200000
+BAMF3's maxBetFold: 1
+BAMF3's M ratio:5.333333
+BAMF3's maxBetEV: 5
+
+no all in, fold
+BAMF3 folds.
+our bot's last action is FOLD for 0
+V4Two3 checks.
+V4Two3 bet 5.
+V4One3 called 5.
+V4Two3 checks.
+V4One3 checks.
+V4Two3 bet 9.
+V4One3 raised to 20.
+V4Two3 raised to 57.
+V4One3 raised to 162.
+V4Two3 called 162.
+V4One3 WTSD percentage is: 0.437500
+V4Two3 WTSD percentage is: 0.562500
+V4Two3 W$SD percentage is: 0.888889
+
+
+NEWHAND:17
+
+['NEWHAND', '17', '3', 'Jd', 'Ts', '432', '152', '16', 'V4Two3', 'V4One3', 'BAMF3', '3', 'true', 'true', 'true', '14.720018']
+Active Players:3
+
+Our hand: Jd Ts
+V4Two3's VPIP: 0.312500
+V4Two3's PFR: 0.000000
+V4Two3's estimated fold percentage is 0.142857
+V4Two3's AF flop/postflop: 2.272727
+V4Two3's Player Type: CALLING STATION
+V4Two3's Seat:1
+V4Two3's preflop raises:0.000000
+V4Two3's hands played:17.000000
+V4One3's VPIP: 0.562500
+V4One3's PFR: 0.000000
+V4One3's estimated fold percentage is 0.272727
+V4One3's AF flop/postflop: 0.714286
+V4One3's Player Type: UNKNOWN
+V4One3's Seat:2
+V4One3's preflop raises:0.000000
+V4One3's hands played:17.000000
+BAMF3's VPIP: 0.062500
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 0.400000
+BAMF3's Player Type: NIT
+BAMF3's Seat:3
+BAMF3's preflop raises:0.000000
+BAMF3's hands played:17.000000
+
+V4One3 posts small blind, stack size (151)
+BAMF3 posts big blind, stack size (14)
+
+['CHECK', 'RAISE:4:7']
+{}
+
+***PREFLOP***(5) Board:()
+Our hand: Jd Ts
+
+V4Two3 called 2.
+V4One3 folds.
+our last bet of 2 was in round 0
+BAMF3's EV: 2.832500
+BAMF3's Equity: 0.5665
+BAMF3's Implied Odds: -5
+BAMF3's Pot odds: 0.000000
+BAMF3's maxBetFold: 1
+BAMF3's M ratio:4.666667
+BAMF3's maxBetEV: 6
+
+no all in, fold
+BAMF3 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:5']
+{}
+
+***FLOP***(5) Board:(8c Tc Qd)
+Our hand: Jd Ts
+
+our last bet of 0 was in round 0
+BAMF3's EV: 3.737500
+BAMF3's Equity: 0.7475
+BAMF3's Implied Odds: -5
+BAMF3's Pot odds: 0.000000
+BAMF3's maxBetFold: 1
+BAMF3's M ratio:4.666667
+BAMF3's maxBetEV: 14
+
+all in 1
+final max bet:5
+final min bet:5
+Bet range: 2 5
+BAMF3 bets 5.
+our bot's last action is BET for 5
+['FOLD', 'CALL:13', 'RAISE:14:14']
+{}
+
+***FLOP***(23) Board:(8c Tc Qd)
+Our hand: Jd Ts
+
+V4Two3 raised to 13.
+our last bet of 5 was in round 3
+BAMF3's EV: 15.172500
+BAMF3's Equity: 0.7475
+BAMF3's Implied Odds: -28
+BAMF3's Pot odds: 0.347826
+BAMF3's maxBetFold: 7
+BAMF3's M ratio:3.000000
+BAMF3's maxBetEV: 68
 
 all in2
-final max bet:6
-final min bet:6
-Bet range: 2 6
-BAMF3 bets 6.
-our bot's last action is BET for 6
-Doppelganger3 called 6.
-BAMF3 WTSD percentage is: 0.324324
-Doppelganger3 WTSD percentage is: 0.378378
-Doppelganger3 W$SD percentage is: 0.785714
+final max raise:14
+final min raise:14
+Raise range: 14 14
+BAMF3 calls 13.
+our bot's last action is CALL for 13
+['CHECK', 'BET:1:1']
+{}
+
+***TURN***(31) Board:(8c Tc Qd 9s)
+Our hand: Jd Ts
+
+our last bet of 13 was in round 3
+BAMF3's EV: 27.497000
+BAMF3's Equity: 0.887
+BAMF3's Implied Odds: -31
+BAMF3's Pot odds: 0.000000
+BAMF3's maxBetFold: 9
+BAMF3's M ratio:0.333333
+BAMF3's maxBetEV: 243
+
+all in2
+final max bet:1
+final min bet:1
+Bet range: 1 1
+BAMF3 bets 1.
+our bot's last action is BET for 1
+V4Two3 called 1.
+V4Two3 WTSD percentage is: 0.588235
+BAMF3 WTSD percentage is: 0.352941
+BAMF3 W$SD percentage is: 0.500000
+
+
+NEWHAND:18
+
+['NEWHAND', '18', '1', 'Ad', 'Td', '33', '416', '151', 'BAMF3', 'V4Two3', 'V4One3', '3', 'true', 'true', 'true', '14.690619']
+Active Players:3
+
+Our hand: Ad Td
+BAMF3's VPIP: 0.058824
+BAMF3's PFR: 0.000000
+BAMF3's estimated fold percentage is 0.333333
+BAMF3's AF flop/postflop: 0.545455
+BAMF3's Player Type: NIT
+BAMF3's Seat:1
+BAMF3's preflop raises:0.000000
+BAMF3's hands played:18.000000
+V4Two3's VPIP: 0.352941
+V4Two3's PFR: 0.000000
+V4Two3's estimated fold percentage is 0.142857
+V4Two3's AF flop/postflop: 2.166667
+V4Two3's Player Type: CALLING STATION
+V4Two3's Seat:2
+V4Two3's preflop raises:0.000000
+V4Two3's hands played:18.000000
+V4One3's VPIP: 0.529412
+V4One3's PFR: 0.000000
+V4One3's estimated fold percentage is 0.235294
+V4One3's AF flop/postflop: 0.714286
+V4One3's Player Type: UNKNOWN
+V4One3's Seat:3
+V4One3's preflop raises:0.000000
+V4One3's hands played:18.000000
+
+V4Two3 posts small blind, stack size (415)
+V4One3 posts big blind, stack size (149)
+
+['CALL:2', 'FOLD', 'RAISE:4:7']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Ad Td
+
+our last bet of 0 was in round 0
+BAMF3's EV: 1.215000
+BAMF3's Equity: 0.643
+BAMF3's Implied Odds: -3
+BAMF3's Pot odds: 0.666667
+BAMF3's maxBetFold: 0
+BAMF3's M ratio:11.000000
+BAMF3's maxBetEV: 5
+
+BAMF3 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:2', 'RAISE:4:14']
+{}
+
+***FLOP***(10) Board:(Ks Qd 9d)
+Our hand: Ad Td
+
+V4Two3 called 2.
+V4One3 checks.
+V4Two3 bet 2.
+V4One3 called 2.
+our last bet of 2 was in round 0
+BAMF3's EV: 6.910000
+BAMF3's Equity: 0.7425
+BAMF3's Implied Odds: -11
+BAMF3's Pot odds: 0.200000
+BAMF3's maxBetFold: 3
+BAMF3's M ratio:10.333333
+BAMF3's maxBetEV: 28
+
+line 2
+BAMF3 calls 2.
+our bot's last action is CALL for 2
+['FOLD', 'CALL:17', 'RAISE:29:29']
+{}
+
+***TURN***(33) Board:(Ks Qd 9d 7c)
+Our hand: Ad Td
+
+V4Two3 bet 4.
+V4One3 raised to 17.
+our last bet of 2 was in round 3
+BAMF3's EV: 12.100000
+BAMF3's Equity: 0.582
+BAMF3's Implied Odds: -37
+BAMF3's Pot odds: 0.515152
+BAMF3's maxBetFold: 10
+BAMF3's M ratio:9.666667
+BAMF3's maxBetEV: 45
+
+line 2
+BAMF3 calls 17.
+our bot's last action is CALL for 17
+['FOLD', 'CALL:29']
+{}
+
+***TURN***(156) Board:(Ks Qd 9d 7c)
+Our hand: Ad Td
+
+V4Two3 raised to 33.
+V4One3 raised to 94.
+our last bet of 17 was in round 4
+BAMF3's EV: 85.776000
+BAMF3's Equity: 0.582
+BAMF3's Implied Odds: -159
+BAMF3's Pot odds: 0.076923
+BAMF3's maxBetFold: 48
+BAMF3's M ratio:4.000000
+BAMF3's maxBetEV: 217
+
+all in2
+final call min:29
+BAMF3 calls 29.
+our bot's last action is CALL for 29
+V4Two3 raised to 147.
+V4One3 called 147.
+BAMF3 WTSD percentage is: 0.388889
+V4Two3 WTSD percentage is: 0.611111
+V4One3 WTSD percentage is: 0.444444
+V4Two3 W$SD percentage is: 0.818182
+V4Two3 W$SD percentage is: 0.909091
 Gameover, engine disconnected.

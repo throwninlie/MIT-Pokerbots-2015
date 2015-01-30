@@ -1,0 +1,7474 @@
+
+C:\Users\Er\Dropbox\Pokerbot\Versions\v4>python Player.py 3001 
+Connecting to localhost:3001
+Our name: V4One
+Opp1 name: V4Two
+Opp2 name: BAMF
+
+
+NEWHAND:1
+
+['NEWHAND', '1', '2', '2h', '4h', '200', '200', '200', 'BAMF', 'V4One', 'V4Two', '3', 'true', 'true', 'true', '15.000000']
+Active Players:3
+
+Our hand: 2h 4h
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.000000
+BAMF's AF flop/postflop: 0.000000
+BAMF's Player Type: NIT
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.000000
+V4One's AF flop/postflop: 0.000000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.000000
+V4Two's AF flop/postflop: 0.000000
+V4Two's Player Type: NIT
+V4Two's Seat:3
+
+V4One posts small blind, stack size (199)
+V4Two posts big blind, stack size (198)
+
+['FOLD', 'CALL:2', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 2h 4h
+
+BAMF folds.
+our last bet of 1 was in round 0
+V4One's EV: 0.462000
+V4One's Equity: 0.3655
+V4One's Implied Odds: -2
+V4One's maxBetFold: 199
+V4One's maxBetEV: 1
+
+NOT BLUFFING FOLD
+V4One folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:2
+
+['NEWHAND', '2', '3', '9d', '2d', '201', '200', '199', 'V4Two', 'BAMF', 'V4One', '3', 'true', 'true', 'true', '14.993511']
+Active Players:3
+
+Our hand: 9d 2d
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.000000
+V4Two's AF flop/postflop: 0.000000
+V4Two's Player Type: NIT
+V4Two's Seat:1
+BAMF's VPIP: 0.000000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 1.000000
+BAMF's AF flop/postflop: 0.000000
+BAMF's Player Type: NIT
+BAMF's Seat:2
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 1.000000
+V4One's AF flop/postflop: 0.000000
+V4One's Player Type: NIT
+V4One's Seat:3
+
+BAMF posts small blind, stack size (199)
+V4One posts big blind, stack size (197)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 9d 2d
+
+V4Two folds.
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 1.664000
+V4One's Equity: 0.416
+V4One's Implied Odds: -4
+V4One's maxBetFold: 197
+V4One's maxBetEV: 2
+
+final max raise:6
+final min raise:6
+Raise range: 4 6
+V4One raises to 6.
+our bot's last action is RAISE for 6
+['CHECK', 'BET:2:12']
+{}
+
+***FLOP***(12) Board:(7d Ad Ac)
+Our hand: 9d 2d
+
+BAMF called 6.
+BAMF checks.
+our last bet of 6 was in round 0
+V4One's EV: 6.444000
+V4One's Equity: 0.537
+V4One's Implied Odds: -12
+V4One's maxBetFold: 193
+V4One's maxBetEV: 13
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:12']
+{}
+
+***TURN***(12) Board:(7d Ad Ac Ks)
+Our hand: 9d 2d
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 4.992000
+V4One's Equity: 0.416
+V4One's Implied Odds: -12
+V4One's maxBetFold: 193
+V4One's maxBetEV: 8
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:12']
+{}
+
+***RIVER***(12) Board:(7d Ad Ac Ks 6s)
+Our hand: 9d 2d
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 2.018182
+V4One's Equity: 0.168181818182
+V4One's Implied Odds: -12
+V4One's maxBetFold: 193
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF WTSD percentage is: 0.500000
+V4One WTSD percentage is: 0.500000
+BAMF W$SD percentage is: 1.000000
+
+
+NEWHAND:3
+
+['NEWHAND', '3', '1', 'Tc', 'Kh', '193', '201', '206', 'V4One', 'V4Two', 'BAMF', '3', 'true', 'true', 'true', '14.971201']
+Active Players:3
+
+Our hand: Tc Kh
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 1.000000
+V4One's AF flop/postflop: 1.000000
+V4One's Player Type: NIT
+V4One's Seat:1
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.000000
+V4Two's Player Type: NIT
+V4Two's Seat:2
+BAMF's VPIP: 0.500000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 1.000000
+BAMF's AF flop/postflop: 0.000000
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:3
+
+V4Two posts small blind, stack size (200)
+BAMF posts big blind, stack size (204)
+
+['CALL:2', 'FOLD', 'RAISE:4:7']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Tc Kh
+
+our last bet of 0 was in round 0
+V4One's EV: 1.065000
+V4One's Equity: 0.613
+V4One's Implied Odds: -3
+V4One's maxBetFold: 193
+V4One's maxBetEV: 4
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:5']
+{}
+
+***FLOP***(5) Board:(3c 9h Ah)
+Our hand: Tc Kh
+
+V4Two folds.
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 2.597500
+V4One's Equity: 0.5195
+V4One's Implied Odds: -5
+V4One's maxBetFold: 191
+V4One's maxBetEV: 5
+
+line 4
+final max bet:5
+final min bet:5
+Bet range: 2 5
+V4One bets 5.
+our bot's last action is BET for 5
+['CHECK', 'BET:2:15']
+{}
+
+***TURN***(15) Board:(3c 9h Ah 8s)
+Our hand: Tc Kh
+
+BAMF called 5.
+BAMF checks.
+our last bet of 5 was in round 3
+V4One's EV: 6.097500
+V4One's Equity: 0.4065
+V4One's Implied Odds: -15
+V4One's maxBetFold: 186
+V4One's maxBetEV: 10
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:15']
+{}
+
+***RIVER***(15) Board:(3c 9h Ah 8s 6c)
+Our hand: Tc Kh
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 5.098485
+V4One's Equity: 0.339898989899
+V4One's Implied Odds: -15
+V4One's maxBetFold: 186
+V4One's maxBetEV: 7
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+V4One WTSD percentage is: 0.666667
+BAMF WTSD percentage is: 0.666667
+BAMF W$SD percentage is: 1.000000
+
+
+NEWHAND:4
+
+['NEWHAND', '4', '2', '7h', '9h', '214', '186', '200', 'BAMF', 'V4One', 'V4Two', '3', 'true', 'true', 'true', '14.946812']
+Active Players:3
+
+Our hand: 7h 9h
+BAMF's VPIP: 0.333333
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 1.000000
+BAMF's AF flop/postflop: 0.000000
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 1.000000
+V4One's AF flop/postflop: 2.000000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.000000
+V4Two's Player Type: NIT
+V4Two's Seat:3
+
+V4One posts small blind, stack size (185)
+V4Two posts big blind, stack size (198)
+
+['FOLD', 'CALL:2', 'RAISE:4:8']
+{}
+
+***PREFLOP***(5) Board:()
+Our hand: 7h 9h
+
+BAMF called 2.
+our last bet of 1 was in round 0
+V4One's EV: 2.018000
+V4One's Equity: 0.503
+V4One's Implied Odds: -5
+V4One's maxBetFold: 185
+V4One's maxBetEV: 5
+
+final max raise:8
+final min raise:8
+Raise range: 4 8
+V4One raises to 8.
+our bot's last action is RAISE for 8
+['CHECK', 'BET:2:24']
+{}
+
+***FLOP***(24) Board:(Jd 3h 2c)
+Our hand: 7h 9h
+
+V4Two called 8.
+BAMF called 8.
+our last bet of 8 was in round 0
+V4One's EV: 7.464000
+V4One's Equity: 0.311
+V4One's Implied Odds: -24
+V4One's maxBetFold: 178
+V4One's maxBetEV: 10
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:23', 'RAISE:46:93']
+{}
+
+***FLOP***(47) Board:(Jd 3h 2c)
+Our hand: 7h 9h
+
+V4Two checks.
+BAMF bet 23.
+our last bet of 0 was in round 3
+V4One's EV: -1.230000
+V4One's Equity: 0.311
+V4One's Implied Odds: -19
+V4One's maxBetFold: 178
+V4One's maxBetEV: 21
+
+V4One folds.
+our bot's last action is FOLD for 0
+V4Two called 23.
+V4Two checks.
+BAMF bet 45.
+V4Two raised to 123.
+BAMF called 123.
+V4Two checks.
+BAMF bet 4.
+V4Two raised to 17.
+BAMF raised to 46.
+V4Two called 46.
+BAMF WTSD percentage is: 0.750000
+V4Two WTSD percentage is: 0.250000
+BAMF W$SD percentage is: 1.000000
+
+
+NEWHAND:5
+
+['NEWHAND', '5', '1', 'Jc', '5d', '178', '422', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '14.922584']
+Active Players:2
+
+Our hand: Jc 5d
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 1.000000
+V4One's AF flop/postflop: 3.000000
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.500000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 1.000000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (177)
+BAMF posts big blind, stack size (420)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Jc 5d
+
+our last bet of 1 was in round 0
+V4One's EV: 0.744000
+V4One's Equity: 0.436
+V4One's Implied Odds: -2
+V4One's maxBetFold: 177
+V4One's maxBetEV: 2
+
+NOT BLUFFING FOLD
+V4One folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:6
+
+['NEWHAND', '6', '2', '2s', '4c', '423', '177', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '14.902547']
+Active Players:2
+
+Our hand: 2s 4c
+BAMF's VPIP: 0.400000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 1.000000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.400000
+V4One's AF flop/postflop: 3.000000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (422)
+V4One posts big blind, stack size (175)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 2s 4c
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 1.238000
+V4One's Equity: 0.3095
+V4One's Implied Odds: -4
+V4One's maxBetFold: 175
+V4One's maxBetEV: 1
+
+NOT BLUFFING FOLD
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(3s 5c 7s)
+Our hand: 2s 4c
+
+our last bet of 0 was in round 0
+V4One's EV: 1.454000
+V4One's Equity: 0.3635
+V4One's Implied Odds: -4
+V4One's maxBetFold: 175
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(3s 5c 7s 2h)
+Our hand: 2s 4c
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 2.046000
+V4One's Equity: 0.5115
+V4One's Implied Odds: -4
+V4One's maxBetFold: 175
+V4One's maxBetEV: 4
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(3s 5c 7s 2h 5h)
+Our hand: 2s 4c
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 2.129293
+V4One's Equity: 0.532323232323
+V4One's Implied Odds: -4
+V4One's maxBetFold: 175
+V4One's maxBetEV: 4
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+V4One WTSD percentage is: 0.500000
+BAMF WTSD percentage is: 0.666667
+V4One W$SD percentage is: 0.333333
+
+
+NEWHAND:7
+
+['NEWHAND', '7', '1', '7s', '2d', '179', '421', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '14.877995']
+Active Players:2
+
+Our hand: 7s 2d
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.400000
+V4One's AF flop/postflop: 3.000000
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.500000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 1.000000
+BAMF's AF flop/postflop: 1.000000
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (178)
+BAMF posts big blind, stack size (419)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 7s 2d
+
+our last bet of 1 was in round 0
+V4One's EV: 0.356000
+V4One's Equity: 0.339
+V4One's Implied Odds: -2
+V4One's maxBetFold: 178
+V4One's maxBetEV: 1
+
+final max raise:6
+final min raise:6
+Raise range: 4 6
+V4One raises to 6.
+our bot's last action is RAISE for 6
+['CHECK', 'BET:2:12']
+{}
+
+***FLOP***(12) Board:(2c 6h 5c)
+Our hand: 7s 2d
+
+BAMF called 6.
+BAMF checks.
+our last bet of 6 was in round 0
+V4One's EV: 6.162000
+V4One's Equity: 0.5135
+V4One's Implied Odds: -12
+V4One's maxBetFold: 173
+V4One's maxBetEV: 12
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:12']
+{}
+
+***TURN***(12) Board:(2c 6h 5c 4c)
+Our hand: 7s 2d
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 4.950000
+V4One's Equity: 0.4125
+V4One's Implied Odds: -12
+V4One's maxBetFold: 173
+V4One's maxBetEV: 8
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:12']
+{}
+
+***RIVER***(12) Board:(2c 6h 5c 4c 3d)
+Our hand: 7s 2d
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 10.660606
+V4One's Equity: 0.888383838384
+V4One's Implied Odds: -12
+V4One's maxBetFold: 173
+V4One's maxBetEV: 95
+
+line 1
+final max bet:12
+final min bet:2
+Bet range: 2 12
+V4One bets 4.
+our bot's last action is BET for 4
+BAMF called 4.
+BAMF WTSD percentage is: 0.714286
+V4One WTSD percentage is: 0.571429
+V4One W$SD percentage is: 0.500000
+
+
+NEWHAND:8
+
+['NEWHAND', '8', '2', '2c', '2h', '411', '189', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '14.851458']
+Active Players:2
+
+Our hand: 2c 2h
+BAMF's VPIP: 0.428571
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 1.000000
+BAMF's AF flop/postflop: 0.666667
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.400000
+V4One's AF flop/postflop: 5.000000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (410)
+V4One posts big blind, stack size (187)
+
+BAMF folds.
+
+
+NEWHAND:9
+
+['NEWHAND', '9', '1', '2c', 'Tc', '190', '410', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '14.851458']
+Active Players:2
+
+Our hand: 2c Tc
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.400000
+V4One's AF flop/postflop: 5.000000
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.375000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.666667
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (189)
+BAMF posts big blind, stack size (408)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 2c Tc
+
+our last bet of 1 was in round 0
+V4One's EV: 0.762000
+V4One's Equity: 0.4405
+V4One's Implied Odds: -2
+V4One's maxBetFold: 1
+V4One's maxBetEV: 2
+
+NOT BLUFFING FOLD
+V4One folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:10
+
+['NEWHAND', '10', '2', '6c', '9s', '411', '189', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '14.842260']
+Active Players:2
+
+Our hand: 6c 9s
+BAMF's VPIP: 0.333333
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.666667
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 5.000000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (410)
+V4One posts big blind, stack size (187)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 6c 9s
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 1.778000
+V4One's Equity: 0.4445
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 3
+
+NOT BLUFFING FOLD
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Qs 8s 7h)
+Our hand: 6c 9s
+
+our last bet of 0 was in round 0
+V4One's EV: 1.910000
+V4One's Equity: 0.4775
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 3
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Qs 8s 7h Ts)
+Our hand: 6c 9s
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 3.722000
+V4One's Equity: 0.9305
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 53
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 2.
+our bot's last action is BET for 2
+['CHECK', 'BET:2:8']
+{}
+
+***RIVER***(8) Board:(Qs 8s 7h Ts Jh)
+Our hand: 6c 9s
+
+BAMF called 2.
+our last bet of 2 was in round 4
+V4One's EV: 7.018182
+V4One's Equity: 0.877272727273
+V4One's Implied Odds: -8
+V4One's maxBetFold: 2
+V4One's maxBetEV: 57
+
+line 1
+final max bet:8
+final min bet:2
+Bet range: 2 8
+V4One bets 3.
+our bot's last action is BET for 3
+BAMF folds.
+
+
+NEWHAND:11
+
+['NEWHAND', '11', '1', '9h', 'Qc', '193', '407', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '14.815507']
+Active Players:2
+
+Our hand: 9h Qc
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 7.000000
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.400000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.571429
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (192)
+BAMF posts big blind, stack size (405)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 9h Qc
+
+our last bet of 1 was in round 0
+V4One's EV: 1.170000
+V4One's Equity: 0.5425
+V4One's Implied Odds: -3
+V4One's maxBetFold: 1
+V4One's maxBetEV: 3
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Jd 2s Td)
+Our hand: 9h Qc
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 2.216000
+V4One's Equity: 0.554
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 4
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Jd 2s Td Qs)
+Our hand: 9h Qc
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 3.074000
+V4One's Equity: 0.7685
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 13
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 3.
+our bot's last action is BET for 3
+['CHECK', 'BET:2:10']
+{}
+
+***RIVER***(10) Board:(Jd 2s Td Qs Jh)
+Our hand: 9h Qc
+
+BAMF called 3.
+BAMF checks.
+our last bet of 3 was in round 4
+V4One's EV: 8.030303
+V4One's Equity: 0.80303030303
+V4One's Implied Odds: -10
+V4One's maxBetFold: 3
+V4One's maxBetEV: 40
+
+line 1
+final max bet:10
+final min bet:2
+Bet range: 2 10
+V4One bets 5.
+our bot's last action is BET for 5
+BAMF called 5.
+BAMF WTSD percentage is: 0.545455
+V4One WTSD percentage is: 0.454545
+V4One W$SD percentage is: 0.600000
+
+
+NEWHAND:12
+
+['NEWHAND', '12', '2', 'Jd', '2h', '397', '203', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '14.786515']
+Active Players:2
+
+Our hand: Jd 2h
+BAMF's VPIP: 0.363636
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.444444
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 4.500000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (396)
+V4One posts big blind, stack size (201)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: Jd 2h
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 1.746000
+V4One's Equity: 0.4365
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 3
+
+final max raise:4
+final min raise:4
+Raise range: 4 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(9h Th Ah)
+Our hand: Jd 2h
+
+our last bet of 0 was in round 0
+V4One's EV: 1.748000
+V4One's Equity: 0.437
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 3
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(9h Th Ah 9c)
+Our hand: Jd 2h
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.574000
+V4One's Equity: 0.3935
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(9h Th Ah 9c Td)
+Our hand: Jd 2h
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 1.317172
+V4One's Equity: 0.329292929293
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+V4One WTSD percentage is: 0.500000
+BAMF WTSD percentage is: 0.583333
+V4One W$SD percentage is: 0.666667
+BAMF W$SD percentage is: 0.571429
+
+
+NEWHAND:13
+
+['NEWHAND', '13', '1', 'Tc', 'Jh', '203', '397', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '14.759169']
+Active Players:2
+
+Our hand: Tc Jh
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 4.500000
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.416667
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.444444
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (202)
+BAMF posts big blind, stack size (395)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Tc Jh
+
+our last bet of 1 was in round 0
+V4One's EV: 1.242000
+V4One's Equity: 0.5605
+V4One's Implied Odds: -3
+V4One's maxBetFold: 1
+V4One's maxBetEV: 3
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(7c 9d Qc)
+Our hand: Tc Jh
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 2.298000
+V4One's Equity: 0.5745
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 5
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(7c 9d Qc Qs)
+Our hand: Tc Jh
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.978000
+V4One's Equity: 0.4945
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 3
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(7c 9d Qc Qs 7h)
+Our hand: Tc Jh
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 1.545455
+V4One's Equity: 0.386363636364
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF WTSD percentage is: 0.615385
+V4One WTSD percentage is: 0.538462
+V4One W$SD percentage is: 0.714286
+
+
+NEWHAND:14
+
+['NEWHAND', '14', '2', '4d', '7h', '395', '205', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '14.708178']
+Active Players:2
+
+Our hand: 4d 7h
+BAMF's VPIP: 0.384615
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.444444
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 3.000000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (394)
+V4One posts big blind, stack size (203)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 4d 7h
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 1.502000
+V4One's Equity: 0.3755
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 2
+
+NOT BLUFFING FOLD
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(2c 8h Ts)
+Our hand: 4d 7h
+
+our last bet of 0 was in round 0
+V4One's EV: 0.914000
+V4One's Equity: 0.2285
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(2c 8h Ts Jd)
+Our hand: 4d 7h
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 0.766000
+V4One's Equity: 0.1915
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 0
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(2c 8h Ts Jd 8c)
+Our hand: 4d 7h
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 0.430303
+V4One's Equity: 0.107575757576
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 0
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+BAMF WTSD percentage is: 0.642857
+V4One WTSD percentage is: 0.571429
+BAMF W$SD percentage is: 0.555556
+
+
+NEWHAND:15
+
+['NEWHAND', '15', '1', '9h', 'Ks', '203', '397', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '14.638992']
+Active Players:2
+
+Our hand: 9h Ks
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 3.000000
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.428571
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.444444
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (202)
+BAMF posts big blind, stack size (395)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 9h Ks
+
+our last bet of 1 was in round 0
+V4One's EV: 1.166000
+V4One's Equity: 0.5415
+V4One's Implied Odds: -3
+V4One's maxBetFold: 1
+V4One's maxBetEV: 3
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(2s Ad Ac)
+Our hand: 9h Ks
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 2.292000
+V4One's Equity: 0.573
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 5
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(2s Ad Ac Kc)
+Our hand: 9h Ks
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 3.398000
+V4One's Equity: 0.8495
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 22
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 4.
+our bot's last action is BET for 4
+BAMF folds.
+
+
+NEWHAND:16
+
+['NEWHAND', '16', '2', 'Jd', '6s', '395', '205', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '14.602004']
+Active Players:2
+
+Our hand: Jd 6s
+BAMF's VPIP: 0.400000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.444444
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 2.500000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (394)
+V4One posts big blind, stack size (203)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: Jd 6s
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 1.866000
+V4One's Equity: 0.4665
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 3
+
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(7s Th 5s)
+Our hand: Jd 6s
+
+our last bet of 0 was in round 0
+V4One's EV: 1.312000
+V4One's Equity: 0.328
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(7s Th 5s 9h)
+Our hand: Jd 6s
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.046000
+V4One's Equity: 0.2615
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(7s Th 5s 9h Qh)
+Our hand: Jd 6s
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 0.579798
+V4One's Equity: 0.144949494949
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 0
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+BAMF WTSD percentage is: 0.625000
+V4One WTSD percentage is: 0.562500
+BAMF W$SD percentage is: 0.600000
+
+
+NEWHAND:17
+
+['NEWHAND', '17', '1', 'Jd', 'Ts', '203', '397', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '14.540869']
+Active Players:2
+
+Our hand: Jd Ts
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 2.500000
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.437500
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.444444
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (202)
+BAMF posts big blind, stack size (395)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Jd Ts
+
+our last bet of 1 was in round 0
+V4One's EV: 1.236000
+V4One's Equity: 0.559
+V4One's Implied Odds: -3
+V4One's maxBetFold: 1
+V4One's maxBetEV: 3
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(8c Tc Qd)
+Our hand: Jd Ts
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 2.994000
+V4One's Equity: 0.7485
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 11
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 2.
+our bot's last action is BET for 2
+['CHECK', 'BET:2:8']
+{}
+
+***TURN***(8) Board:(8c Tc Qd 9s)
+Our hand: Jd Ts
+
+BAMF called 2.
+BAMF checks.
+our last bet of 2 was in round 3
+V4One's EV: 7.004000
+V4One's Equity: 0.8755
+V4One's Implied Odds: -8
+V4One's maxBetFold: 2
+V4One's maxBetEV: 56
+
+line 1
+final max bet:8
+final min bet:2
+Bet range: 2 8
+V4One bets 2.
+our bot's last action is BET for 2
+['FOLD', 'CALL:5', 'RAISE:10:27']
+{}
+
+***RIVER***(17) Board:(8c Tc Qd 9s Kh)
+Our hand: Jd Ts
+
+BAMF called 2.
+BAMF bet 5.
+our last bet of 2 was in round 4
+V4One's EV: 15.433333
+V4One's Equity: 0.928787878788
+V4One's Implied Odds: -21
+V4One's maxBetFold: 5
+V4One's maxBetEV: 221
+
+line 1
+final max raise:27
+final min raise:10
+Raise range: 10 27
+V4One raises to 13.
+our bot's last action is RAISE for 13
+['FOLD', 'CALL:44', 'RAISE:75:144']
+{}
+
+***RIVER***(69) Board:(8c Tc Qd 9s Kh)
+Our hand: Jd Ts
+
+BAMF raised to 44.
+our last bet of 13 was in round 5
+V4One's EV: 61.878788
+V4One's Equity: 0.928787878788
+V4One's Implied Odds: -97
+V4One's maxBetFold: 23
+V4One's maxBetEV: 899
+
+line 1
+final max raise:144
+final min raise:75
+Raise range: 75 144
+V4One raises to 86.
+our bot's last action is RAISE for 86
+['FOLD', 'CALL:165', 'RAISE:197:197']
+{}
+
+***RIVER***(263) Board:(8c Tc Qd 9s Kh)
+Our hand: Jd Ts
+
+BAMF raised to 165.
+our last bet of 86 was in round 5
+V4One's EV: 238.645455
+V4One's Equity: 0.928787878788
+V4One's Implied Odds: -335
+V4One's maxBetFold: 87
+V4One's maxBetEV: 3430
+
+line 1
+final max raise:197
+final min raise:197
+Raise range: 197 197
+V4One calls 165.
+our bot's last action is CALL for 165
+BAMF WTSD percentage is: 0.647059
+V4One WTSD percentage is: 0.588235
+BAMF W$SD percentage is: 0.636364
+V4One W$SD percentage is: 0.600000
+
+
+NEWHAND:18
+
+['NEWHAND', '18', '2', 'Ad', 'Td', '397', '203', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '14.505654']
+Active Players:2
+
+Our hand: Ad Td
+BAMF's VPIP: 0.411765
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.636364
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 2.333333
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (396)
+V4One posts big blind, stack size (201)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: Ad Td
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 2.556000
+V4One's Equity: 0.639
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 7
+
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Ks Qd 9d)
+Our hand: Ad Td
+
+our last bet of 0 was in round 0
+V4One's EV: 2.848000
+V4One's Equity: 0.712
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 9
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 2.
+our bot's last action is BET for 2
+['CHECK', 'BET:2:8']
+{}
+
+***TURN***(8) Board:(Ks Qd 9d 7c)
+Our hand: Ad Td
+
+BAMF called 2.
+our last bet of 2 was in round 3
+V4One's EV: 4.756000
+V4One's Equity: 0.5945
+V4One's Implied Odds: -8
+V4One's maxBetFold: 2
+V4One's maxBetEV: 11
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:8']
+{}
+
+***RIVER***(8) Board:(Ks Qd 9d 7c 6c)
+Our hand: Ad Td
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 2.719192
+V4One's Equity: 0.339898989899
+V4One's Implied Odds: -8
+V4One's maxBetFold: 2
+V4One's maxBetEV: 4
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+V4One WTSD percentage is: 0.611111
+BAMF WTSD percentage is: 0.666667
+BAMF W$SD percentage is: 0.666667
+
+
+NEWHAND:19
+
+['NEWHAND', '19', '1', 'Kd', '6c', '199', '401', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '14.477875']
+Active Players:2
+
+Our hand: Kd 6c
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 2.500000
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.444444
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.583333
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (198)
+BAMF posts big blind, stack size (399)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Kd 6c
+
+our last bet of 1 was in round 0
+V4One's EV: 1.188000
+V4One's Equity: 0.547
+V4One's Implied Odds: -3
+V4One's maxBetFold: 1
+V4One's maxBetEV: 3
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(3d 7s 7h)
+Our hand: Kd 6c
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 2.060000
+V4One's Equity: 0.515
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 4
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(3d 7s 7h Ts)
+Our hand: Kd 6c
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.648000
+V4One's Equity: 0.412
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(3d 7s 7h Ts 9c)
+Our hand: Kd 6c
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 1.262626
+V4One's Equity: 0.315656565657
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF WTSD percentage is: 0.684211
+V4One WTSD percentage is: 0.631579
+V4One W$SD percentage is: 0.583333
+
+
+NEWHAND:20
+
+['NEWHAND', '20', '2', 'Qh', '4h', '399', '201', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '14.442340']
+Active Players:2
+
+Our hand: Qh 4h
+BAMF's VPIP: 0.421053
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.583333
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 2.142857
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (398)
+V4One posts big blind, stack size (199)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: Qh 4h
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 2.064000
+V4One's Equity: 0.516
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 4
+
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Tc 8c Td)
+Our hand: Qh 4h
+
+our last bet of 0 was in round 0
+V4One's EV: 1.568000
+V4One's Equity: 0.392
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Tc 8c Td 3d)
+Our hand: Qh 4h
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.462000
+V4One's Equity: 0.3655
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(Tc 8c Td 3d Js)
+Our hand: Qh 4h
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 0.939394
+V4One's Equity: 0.234848484848
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+BAMF WTSD percentage is: 0.700000
+V4One WTSD percentage is: 0.650000
+BAMF W$SD percentage is: 0.642857
+
+
+NEWHAND:21
+
+['NEWHAND', '21', '1', 'Ad', '3c', '199', '401', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '14.412657']
+Active Players:2
+
+Our hand: Ad 3c
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 2.142857
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.450000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.583333
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (198)
+BAMF posts big blind, stack size (399)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Ad 3c
+
+our last bet of 1 was in round 0
+V4One's EV: 1.190000
+V4One's Equity: 0.5475
+V4One's Implied Odds: -3
+V4One's maxBetFold: 1
+V4One's maxBetEV: 3
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(9h 6s 7s)
+Our hand: Ad 3c
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 1.454000
+V4One's Equity: 0.3635
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(9h 6s 7s Jd)
+Our hand: Ad 3c
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.296000
+V4One's Equity: 0.324
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(9h 6s 7s Jd 9s)
+Our hand: Ad 3c
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 1.545455
+V4One's Equity: 0.386363636364
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+V4One WTSD percentage is: 0.666667
+BAMF WTSD percentage is: 0.714286
+BAMF W$SD percentage is: 0.666667
+
+
+NEWHAND:22
+
+['NEWHAND', '22', '2', 'Tc', '8d', '403', '197', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '14.344580']
+Active Players:2
+
+Our hand: Tc 8d
+BAMF's VPIP: 0.428571
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.583333
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 1.875000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (402)
+V4One posts big blind, stack size (195)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: Tc 8d
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 2.024000
+V4One's Equity: 0.506
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 4
+
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(9s 2s 3d)
+Our hand: Tc 8d
+
+our last bet of 0 was in round 0
+V4One's EV: 1.270000
+V4One's Equity: 0.3175
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(9s 2s 3d Jh)
+Our hand: Tc 8d
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.482000
+V4One's Equity: 0.3705
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(9s 2s 3d Jh Qh)
+Our hand: Tc 8d
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 3.933333
+V4One's Equity: 0.983333333333
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 235
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 4.
+our bot's last action is BET for 4
+BAMF folds.
+
+
+NEWHAND:23
+
+['NEWHAND', '23', '1', 'Ad', '8d', '199', '401', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '14.315626']
+Active Players:2
+
+Our hand: Ad 8d
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 2.000000
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.454545
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.583333
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (198)
+BAMF posts big blind, stack size (399)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Ad 8d
+
+our last bet of 1 was in round 0
+V4One's EV: 1.392000
+V4One's Equity: 0.598
+V4One's Implied Odds: -3
+V4One's maxBetFold: 1
+V4One's maxBetEV: 4
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Td 5c Th)
+Our hand: Ad 8d
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 2.418000
+V4One's Equity: 0.6045
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 6
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 2.
+our bot's last action is BET for 2
+['CHECK', 'BET:2:8']
+{}
+
+***TURN***(8) Board:(Td 5c Th 5h)
+Our hand: Ad 8d
+
+BAMF called 2.
+BAMF checks.
+our last bet of 2 was in round 3
+V4One's EV: 4.948000
+V4One's Equity: 0.6185
+V4One's Implied Odds: -8
+V4One's maxBetFold: 2
+V4One's maxBetEV: 12
+
+line 1
+final max bet:8
+final min bet:2
+Bet range: 2 8
+V4One bets 2.
+our bot's last action is BET for 2
+['CHECK', 'BET:2:12']
+{}
+
+***RIVER***(12) Board:(Td 5c Th 5h Ts)
+Our hand: Ad 8d
+
+BAMF called 2.
+BAMF checks.
+our last bet of 2 was in round 4
+V4One's EV: 5.472727
+V4One's Equity: 0.456060606061
+V4One's Implied Odds: -12
+V4One's maxBetFold: 4
+V4One's maxBetEV: 10
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF WTSD percentage is: 0.695652
+V4One WTSD percentage is: 0.652174
+BAMF W$SD percentage is: 0.687500
+V4One W$SD percentage is: 0.533333
+
+
+NEWHAND:24
+
+['NEWHAND', '24', '2', '6d', '4c', '401', '199', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '14.287567']
+Active Players:2
+
+Our hand: 6d 4c
+BAMF's VPIP: 0.434783
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.500000
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 2.000000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (400)
+V4One posts big blind, stack size (197)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 6d 4c
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 1.558000
+V4One's Equity: 0.3895
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 2
+
+NOT BLUFFING FOLD
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(9s 9c 7s)
+Our hand: 6d 4c
+
+our last bet of 0 was in round 0
+V4One's EV: 0.846000
+V4One's Equity: 0.2115
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(9s 9c 7s Js)
+Our hand: 6d 4c
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 0.474000
+V4One's Equity: 0.1185
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 0
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(9s 9c 7s Js 2s)
+Our hand: 6d 4c
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 0.117172
+V4One's Equity: 0.0292929292929
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 0
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+V4One WTSD percentage is: 0.666667
+BAMF WTSD percentage is: 0.708333
+BAMF W$SD percentage is: 0.705882
+
+
+NEWHAND:25
+
+['NEWHAND', '25', '1', 'Qd', 'Kd', '197', '403', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '14.265115']
+Active Players:2
+
+Our hand: Qd Kd
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 2.000000
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.458333
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.500000
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (196)
+BAMF posts big blind, stack size (401)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Qd Kd
+
+our last bet of 1 was in round 0
+V4One's EV: 1.476000
+V4One's Equity: 0.619
+V4One's Implied Odds: -3
+V4One's maxBetFold: 1
+V4One's maxBetEV: 4
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(7d Ah 6s)
+Our hand: Qd Kd
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 2.168000
+V4One's Equity: 0.542
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 4
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(7d Ah 6s Js)
+Our hand: Qd Kd
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 2.046000
+V4One's Equity: 0.5115
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 4
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(7d Ah 6s Js 2h)
+Our hand: Qd Kd
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 1.569697
+V4One's Equity: 0.392424242424
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF WTSD percentage is: 0.720000
+V4One WTSD percentage is: 0.680000
+BAMF W$SD percentage is: 0.722222
+
+
+NEWHAND:26
+
+['NEWHAND', '26', '2', 'Kh', 'As', '405', '195', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '14.243003']
+Active Players:2
+
+Our hand: Kh As
+BAMF's VPIP: 0.440000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.500000
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 1.800000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (404)
+V4One posts big blind, stack size (193)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: Kh As
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 2.642000
+V4One's Equity: 0.6605
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 7
+
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Jh 5c 5d)
+Our hand: Kh As
+
+our last bet of 0 was in round 0
+V4One's EV: 2.432000
+V4One's Equity: 0.608
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 6
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 2.
+our bot's last action is BET for 2
+['CHECK', 'BET:2:8']
+{}
+
+***TURN***(8) Board:(Jh 5c 5d 2c)
+Our hand: Kh As
+
+BAMF called 2.
+our last bet of 2 was in round 3
+V4One's EV: 4.540000
+V4One's Equity: 0.5675
+V4One's Implied Odds: -8
+V4One's maxBetFold: 2
+V4One's maxBetEV: 10
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:8']
+{}
+
+***RIVER***(8) Board:(Jh 5c 5d 2c 2s)
+Our hand: Kh As
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 4.820202
+V4One's Equity: 0.602525252525
+V4One's Implied Odds: -8
+V4One's maxBetFold: 2
+V4One's maxBetEV: 12
+
+line 1
+final max bet:8
+final min bet:2
+Bet range: 2 8
+V4One bets 2.
+our bot's last action is BET for 2
+BAMF called 2.
+BAMF WTSD percentage is: 0.730769
+V4One WTSD percentage is: 0.692308
+V4One W$SD percentage is: 0.500000
+
+
+NEWHAND:27
+
+['NEWHAND', '27', '1', '8h', 'As', '201', '399', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '14.222547']
+Active Players:2
+
+Our hand: 8h As
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 2.000000
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.461538
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.437500
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (200)
+BAMF posts big blind, stack size (397)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 8h As
+
+our last bet of 1 was in round 0
+V4One's EV: 1.388000
+V4One's Equity: 0.597
+V4One's Implied Odds: -3
+V4One's maxBetFold: 1
+V4One's maxBetEV: 4
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(6s 6d 4c)
+Our hand: 8h As
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 2.308000
+V4One's Equity: 0.577
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 5
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(6s 6d 4c Qd)
+Our hand: 8h As
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 2.026000
+V4One's Equity: 0.5065
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 4
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(6s 6d 4c Qd Jh)
+Our hand: 8h As
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 1.860606
+V4One's Equity: 0.465151515152
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 3
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+V4One WTSD percentage is: 0.703704
+BAMF WTSD percentage is: 0.740741
+V4One W$SD percentage is: 0.526316
+BAMF W$SD percentage is: 0.700000
+
+
+NEWHAND:28
+
+['NEWHAND', '28', '2', 'Th', 'Kd', '399', '201', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '14.201146']
+Active Players:2
+
+Our hand: Th Kd
+BAMF's VPIP: 0.444444
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.437500
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 1.818182
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (398)
+V4One posts big blind, stack size (199)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: Th Kd
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 2.302000
+V4One's Equity: 0.5755
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 5
+
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Qc 5s Jd)
+Our hand: Th Kd
+
+our last bet of 0 was in round 0
+V4One's EV: 2.422000
+V4One's Equity: 0.6055
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 6
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 4.
+our bot's last action is BET for 4
+['CHECK', 'BET:2:12']
+{}
+
+***TURN***(12) Board:(Qc 5s Jd 3d)
+Our hand: Th Kd
+
+BAMF called 4.
+our last bet of 4 was in round 3
+V4One's EV: 5.526000
+V4One's Equity: 0.4605
+V4One's Implied Odds: -12
+V4One's maxBetFold: 4
+V4One's maxBetEV: 10
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:12']
+{}
+
+***RIVER***(12) Board:(Qc 5s Jd 3d 6h)
+Our hand: Th Kd
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 3.060606
+V4One's Equity: 0.255050505051
+V4One's Implied Odds: -12
+V4One's maxBetFold: 4
+V4One's maxBetEV: 4
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+BAMF WTSD percentage is: 0.750000
+V4One WTSD percentage is: 0.714286
+BAMF W$SD percentage is: 0.714286
+
+
+NEWHAND:29
+
+['NEWHAND', '29', '1', 'Qh', 'Jc', '195', '405', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '14.180401']
+Active Players:2
+
+Our hand: Qh Jc
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 1.909091
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.464286
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.411765
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (194)
+BAMF posts big blind, stack size (403)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Qh Jc
+
+our last bet of 1 was in round 0
+V4One's EV: 1.246000
+V4One's Equity: 0.5615
+V4One's Implied Odds: -3
+V4One's maxBetFold: 1
+V4One's maxBetEV: 3
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(4s 4c Ks)
+Our hand: Qh Jc
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 1.710000
+V4One's Equity: 0.4275
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(4s 4c Ks 6s)
+Our hand: Qh Jc
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.420000
+V4One's Equity: 0.355
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(4s 4c Ks 6s 8c)
+Our hand: Qh Jc
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 1.397980
+V4One's Equity: 0.349494949495
+V4One's Implied Odds: -4
+V4One's maxBetFold: 1
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF WTSD percentage is: 0.758621
+V4One WTSD percentage is: 0.724138
+BAMF W$SD percentage is: 0.727273
+
+
+NEWHAND:30
+
+['NEWHAND', '30', '2', 'Js', 'As', '407', '193', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '14.153863']
+Active Players:2
+
+Our hand: Js As
+BAMF's VPIP: 0.448276
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.250000
+BAMF's AF flop/postflop: 0.411765
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 1.750000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (406)
+V4One posts big blind, stack size (191)
+
+BAMF folds.
+
+
+NEWHAND:31
+
+['NEWHAND', '31', '1', 'Ah', '8d', '194', '406', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '14.153863']
+Active Players:2
+
+Our hand: Ah 8d
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 1.750000
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.433333
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.100000
+BAMF's AF flop/postflop: 0.411765
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (193)
+BAMF posts big blind, stack size (404)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Ah 8d
+
+our last bet of 1 was in round 0
+V4One's EV: 1.490000
+V4One's Equity: 0.6225
+V4One's Implied Odds: -3
+V4One's maxBetFold: 0
+V4One's maxBetEV: 4
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Jh 4s Ks)
+Our hand: Ah 8d
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 1.914000
+V4One's Equity: 0.4785
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Jh 4s Ks 5c)
+Our hand: Ah 8d
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.758000
+V4One's Equity: 0.4395
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(Jh 4s Ks 5c Th)
+Our hand: Ah 8d
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 1.408081
+V4One's Equity: 0.35202020202
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF WTSD percentage is: 0.741935
+V4One WTSD percentage is: 0.709677
+BAMF W$SD percentage is: 0.739130
+
+
+NEWHAND:32
+
+['NEWHAND', '32', '2', '4c', '2s', '408', '192', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '14.132307']
+Active Players:2
+
+Our hand: 4c 2s
+BAMF's VPIP: 0.419355
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.100000
+BAMF's AF flop/postflop: 0.411765
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 1.615385
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (407)
+V4One posts big blind, stack size (190)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 4c 2s
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 1.368000
+V4One's Equity: 0.342
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+NOT BLUFFING FOLD
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Jc Qd Js)
+Our hand: 4c 2s
+
+our last bet of 0 was in round 0
+V4One's EV: 0.828000
+V4One's Equity: 0.207
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Jc Qd Js 9h)
+Our hand: 4c 2s
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 0.634000
+V4One's Equity: 0.1585
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 0
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(Jc Qd Js 9h Qs)
+Our hand: 4c 2s
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 0.814141
+V4One's Equity: 0.203535353535
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+BAMF WTSD percentage is: 0.750000
+V4One WTSD percentage is: 0.718750
+BAMF W$SD percentage is: 0.750000
+V4One W$SD percentage is: 0.478261
+
+
+NEWHAND:33
+
+['NEWHAND', '33', '1', '7d', 'Td', '192', '408', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '14.107555']
+Active Players:2
+
+Our hand: 7d Td
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 1.615385
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.437500
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.100000
+BAMF's AF flop/postflop: 0.411765
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (191)
+BAMF posts big blind, stack size (406)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 7d Td
+
+our last bet of 1 was in round 0
+V4One's EV: 0.944000
+V4One's Equity: 0.486
+V4One's Implied Odds: -2
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(8c 9h 4d)
+Our hand: 7d Td
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 2.152000
+V4One's Equity: 0.538
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 4
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(8c 9h 4d Kc)
+Our hand: 7d Td
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.364000
+V4One's Equity: 0.341
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(8c 9h 4d Kc 2c)
+Our hand: 7d Td
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 0.464646
+V4One's Equity: 0.116161616162
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 0
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+V4One WTSD percentage is: 0.727273
+BAMF WTSD percentage is: 0.757576
+BAMF W$SD percentage is: 0.760000
+
+
+NEWHAND:34
+
+['NEWHAND', '34', '2', 'Qh', '2d', '410', '190', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '14.076954']
+Active Players:2
+
+Our hand: Qh 2d
+BAMF's VPIP: 0.424242
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.100000
+BAMF's AF flop/postflop: 0.411765
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 1.500000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (409)
+V4One posts big blind, stack size (188)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: Qh 2d
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 1.956000
+V4One's Equity: 0.489
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Ks As 5d)
+Our hand: Qh 2d
+
+our last bet of 0 was in round 0
+V4One's EV: 1.656000
+V4One's Equity: 0.414
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Ks As 5d 6c)
+Our hand: Qh 2d
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.576000
+V4One's Equity: 0.394
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(Ks As 5d 6c Js)
+Our hand: Qh 2d
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 1.236364
+V4One's Equity: 0.309090909091
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+BAMF WTSD percentage is: 0.764706
+V4One WTSD percentage is: 0.735294
+BAMF W$SD percentage is: 0.769231
+
+
+NEWHAND:35
+
+['NEWHAND', '35', '1', '5d', '3d', '188', '412', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '14.036759']
+Active Players:2
+
+Our hand: 5d 3d
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.333333
+V4One's AF flop/postflop: 1.500000
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.441176
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.100000
+BAMF's AF flop/postflop: 0.411765
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (187)
+BAMF posts big blind, stack size (410)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 5d 3d
+
+our last bet of 1 was in round 0
+V4One's EV: 0.606000
+V4One's Equity: 0.4015
+V4One's Implied Odds: -2
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+NOT BLUFFING FOLD
+V4One folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:36
+
+['NEWHAND', '36', '2', '7c', '6d', '413', '187', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '14.028145']
+Active Players:2
+
+Our hand: 7c 6d
+BAMF's VPIP: 0.428571
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.100000
+BAMF's AF flop/postflop: 0.411765
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.114286
+V4One's AF flop/postflop: 1.500000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (412)
+V4One posts big blind, stack size (185)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 7c 6d
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 1.702000
+V4One's Equity: 0.4255
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+NOT BLUFFING FOLD
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Kh 2s 4d)
+Our hand: 7c 6d
+
+our last bet of 0 was in round 0
+V4One's EV: 0.954000
+V4One's Equity: 0.2385
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Kh 2s 4d 6c)
+Our hand: 7c 6d
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 2.640000
+V4One's Equity: 0.66
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 7
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 3.
+our bot's last action is BET for 3
+['CHECK', 'BET:2:10']
+{}
+
+***RIVER***(10) Board:(Kh 2s 4d 6c 4c)
+Our hand: 7c 6d
+
+BAMF called 3.
+our last bet of 3 was in round 4
+V4One's EV: 6.858586
+V4One's Equity: 0.685858585859
+V4One's Implied Odds: -10
+V4One's maxBetFold: 1
+V4One's maxBetEV: 21
+
+line 1
+final max bet:10
+final min bet:2
+Bet range: 2 10
+V4One bets 2.
+our bot's last action is BET for 2
+BAMF called 2.
+V4One WTSD percentage is: 0.722222
+BAMF WTSD percentage is: 0.750000
+V4One W$SD percentage is: 0.461538
+
+
+NEWHAND:37
+
+['NEWHAND', '37', '1', 'Ac', '2h', '194', '406', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '14.005087']
+Active Players:2
+
+Our hand: Ac 2h
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.114286
+V4One's AF flop/postflop: 1.642857
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.444444
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.100000
+BAMF's AF flop/postflop: 0.368421
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (193)
+BAMF posts big blind, stack size (404)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Ac 2h
+
+our last bet of 1 was in round 0
+V4One's EV: 1.144000
+V4One's Equity: 0.536
+V4One's Implied Odds: -3
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(9s 4d 8d)
+Our hand: Ac 2h
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 1.744000
+V4One's Equity: 0.436
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(9s 4d 8d 4c)
+Our hand: Ac 2h
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.950000
+V4One's Equity: 0.4875
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(9s 4d 8d 4c 2c)
+Our hand: Ac 2h
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 2.468687
+V4One's Equity: 0.617171717172
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 6
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 4.
+our bot's last action is BET for 4
+BAMF called 4.
+BAMF WTSD percentage is: 0.756757
+V4One WTSD percentage is: 0.729730
+BAMF W$SD percentage is: 0.750000
+
+
+NEWHAND:38
+
+['NEWHAND', '38', '2', '3c', 'Td', '412', '188', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.979499']
+Active Players:2
+
+Our hand: 3c Td
+BAMF's VPIP: 0.432432
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.100000
+BAMF's AF flop/postflop: 0.350000
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.114286
+V4One's AF flop/postflop: 1.600000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (411)
+V4One posts big blind, stack size (186)
+
+BAMF folds.
+
+
+NEWHAND:39
+
+['NEWHAND', '39', '1', 'Kh', '5d', '189', '411', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.979499']
+Active Players:2
+
+Our hand: Kh 5d
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.114286
+V4One's AF flop/postflop: 1.600000
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.421053
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.105263
+BAMF's AF flop/postflop: 0.350000
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (188)
+BAMF posts big blind, stack size (409)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Kh 5d
+
+our last bet of 1 was in round 0
+V4One's EV: 1.034000
+V4One's Equity: 0.5085
+V4One's Implied Odds: -3
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Tc 3s 5s)
+Our hand: Kh 5d
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 2.546000
+V4One's Equity: 0.6365
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 7
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 3.
+our bot's last action is BET for 3
+['CHECK', 'BET:2:10']
+{}
+
+***TURN***(10) Board:(Tc 3s 5s 2c)
+Our hand: Kh 5d
+
+BAMF called 3.
+BAMF checks.
+our last bet of 3 was in round 3
+V4One's EV: 6.190000
+V4One's Equity: 0.619
+V4One's Implied Odds: -10
+V4One's maxBetFold: 1
+V4One's maxBetEV: 16
+
+line 1
+final max bet:10
+final min bet:2
+Bet range: 2 10
+V4One bets 3.
+our bot's last action is BET for 3
+['CHECK', 'BET:2:16']
+{}
+
+***RIVER***(16) Board:(Tc 3s 5s 2c Td)
+Our hand: Kh 5d
+
+BAMF called 3.
+BAMF checks.
+our last bet of 3 was in round 4
+V4One's EV: 13.058586
+V4One's Equity: 0.816161616162
+V4One's Implied Odds: -16
+V4One's maxBetFold: 1
+V4One's maxBetEV: 71
+
+line 1
+final max bet:16
+final min bet:2
+Bet range: 2 16
+V4One bets 5.
+our bot's last action is BET for 5
+BAMF folds.
+
+
+NEWHAND:40
+
+['NEWHAND', '40', '2', 'Js', '4h', '403', '197', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.953717']
+Active Players:2
+
+Our hand: Js 4h
+BAMF's VPIP: 0.410256
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.105263
+BAMF's AF flop/postflop: 0.318182
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.114286
+V4One's AF flop/postflop: 1.687500
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (402)
+V4One posts big blind, stack size (195)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: Js 4h
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 1.886000
+V4One's Equity: 0.4715
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(3s 8c Ks)
+Our hand: Js 4h
+
+our last bet of 0 was in round 0
+V4One's EV: 1.424000
+V4One's Equity: 0.356
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(3s 8c Ks 5s)
+Our hand: Js 4h
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.446000
+V4One's Equity: 0.3615
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(3s 8c Ks 5s Tc)
+Our hand: Js 4h
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 0.583838
+V4One's Equity: 0.14595959596
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 0
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+BAMF WTSD percentage is: 0.725000
+V4One WTSD percentage is: 0.700000
+BAMF W$SD percentage is: 0.758621
+
+
+NEWHAND:41
+
+['NEWHAND', '41', '1', '6d', 'Th', '195', '405', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.926506']
+Active Players:2
+
+Our hand: 6d Th
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.114286
+V4One's AF flop/postflop: 1.687500
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.425000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.105263
+BAMF's AF flop/postflop: 0.318182
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (194)
+BAMF posts big blind, stack size (403)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 6d Th
+
+our last bet of 1 was in round 0
+V4One's EV: 0.858000
+V4One's Equity: 0.4645
+V4One's Implied Odds: -2
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Qh 7s Kd)
+Our hand: 6d Th
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 1.388000
+V4One's Equity: 0.347
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Qh 7s Kd 4d)
+Our hand: 6d Th
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.014000
+V4One's Equity: 0.2535
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(Qh 7s Kd 4d 3s)
+Our hand: 6d Th
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 0.648485
+V4One's Equity: 0.162121212121
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 0
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF WTSD percentage is: 0.731707
+V4One WTSD percentage is: 0.707317
+BAMF W$SD percentage is: 0.766667
+
+
+NEWHAND:42
+
+['NEWHAND', '42', '2', '4h', '7d', '407', '193', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.898492']
+Active Players:2
+
+Our hand: 4h 7d
+BAMF's VPIP: 0.414634
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.105263
+BAMF's AF flop/postflop: 0.318182
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.114286
+V4One's AF flop/postflop: 1.588235
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (406)
+V4One posts big blind, stack size (191)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 4h 7d
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 1.592000
+V4One's Equity: 0.398
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+NOT BLUFFING FOLD
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Ts Td Qc)
+Our hand: 4h 7d
+
+our last bet of 0 was in round 0
+V4One's EV: 0.978000
+V4One's Equity: 0.2445
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Ts Td Qc Th)
+Our hand: 4h 7d
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.032000
+V4One's Equity: 0.258
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(Ts Td Qc Th Ac)
+Our hand: 4h 7d
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 1.036364
+V4One's Equity: 0.259090909091
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+V4One WTSD percentage is: 0.714286
+BAMF WTSD percentage is: 0.738095
+BAMF W$SD percentage is: 0.774194
+
+
+NEWHAND:43
+
+['NEWHAND', '43', '1', '4s', '7d', '191', '409', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.872651']
+Active Players:2
+
+Our hand: 4s 7d
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.114286
+V4One's AF flop/postflop: 1.588235
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.428571
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.105263
+BAMF's AF flop/postflop: 0.318182
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (190)
+BAMF posts big blind, stack size (407)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 4s 7d
+
+our last bet of 1 was in round 0
+V4One's EV: 0.508000
+V4One's Equity: 0.377
+V4One's Implied Odds: -2
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+NOT BLUFFING FOLD
+V4One folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:44
+
+['NEWHAND', '44', '2', 'Th', '9d', '410', '190', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.863779']
+Active Players:2
+
+Our hand: Th 9d
+BAMF's VPIP: 0.418605
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.105263
+BAMF's AF flop/postflop: 0.318182
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.116279
+V4One's AF flop/postflop: 1.588235
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (409)
+V4One posts big blind, stack size (188)
+
+BAMF folds.
+
+
+NEWHAND:45
+
+['NEWHAND', '45', '1', 'Ts', 'Tc', '191', '409', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.863779']
+Active Players:2
+
+Our hand: Ts Tc
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.116279
+V4One's AF flop/postflop: 1.588235
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.409091
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.113636
+BAMF's AF flop/postflop: 0.318182
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (190)
+BAMF posts big blind, stack size (407)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Ts Tc
+
+our last bet of 1 was in round 0
+V4One's EV: 2.022000
+V4One's Equity: 0.7555
+V4One's Implied Odds: -3
+V4One's maxBetFold: 0
+V4One's maxBetEV: 9
+
+BETTING LOOSE2
+final max raise:6
+final min raise:4
+Raise range: 4 6
+V4One raises to 4.
+our bot's last action is RAISE for 4
+['CHECK', 'BET:2:8']
+{}
+
+***FLOP***(8) Board:(Qs Qd 4s)
+Our hand: Ts Tc
+
+BAMF called 4.
+BAMF checks.
+our last bet of 4 was in round 0
+V4One's EV: 6.620000
+V4One's Equity: 0.8275
+V4One's Implied Odds: -8
+V4One's maxBetFold: 1
+V4One's maxBetEV: 38
+
+line 1
+final max bet:8
+final min bet:2
+Bet range: 2 8
+V4One bets 4.
+our bot's last action is BET for 4
+['CHECK', 'BET:2:16']
+{}
+
+***TURN***(16) Board:(Qs Qd 4s 3d)
+Our hand: Ts Tc
+
+BAMF called 4.
+BAMF checks.
+our last bet of 4 was in round 3
+V4One's EV: 12.984000
+V4One's Equity: 0.8115
+V4One's Implied Odds: -16
+V4One's maxBetFold: 2
+V4One's maxBetEV: 68
+
+line 1
+final max bet:16
+final min bet:2
+Bet range: 2 16
+V4One bets 13.
+our bot's last action is BET for 13
+['CHECK', 'BET:2:42']
+{}
+
+***RIVER***(42) Board:(Qs Qd 4s 3d Ac)
+Our hand: Ts Tc
+
+BAMF called 13.
+BAMF checks.
+our last bet of 13 was in round 4
+V4One's EV: 31.627273
+V4One's Equity: 0.75303030303
+V4One's Implied Odds: -42
+V4One's maxBetFold: 5
+V4One's maxBetEV: 128
+
+line 1
+final max bet:42
+final min bet:2
+Bet range: 2 42
+V4One bets 39.
+our bot's last action is BET for 39
+BAMF called 39.
+V4One WTSD percentage is: 0.688889
+BAMF WTSD percentage is: 0.711111
+V4One W$SD percentage is: 0.419355
+
+
+NEWHAND:46
+
+['NEWHAND', '46', '2', 'Td', 'Js', '349', '251', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.812148']
+Active Players:2
+
+Our hand: Td Js
+BAMF's VPIP: 0.400000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.113636
+BAMF's AF flop/postflop: 0.269231
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.116279
+V4One's AF flop/postflop: 1.823529
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (348)
+V4One posts big blind, stack size (249)
+
+BAMF folds.
+
+
+NEWHAND:47
+
+['NEWHAND', '47', '1', 'Qh', '4s', '252', '348', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.812148']
+Active Players:2
+
+Our hand: Qh 4s
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.116279
+V4One's AF flop/postflop: 1.823529
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.391304
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.130435
+BAMF's AF flop/postflop: 0.269231
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (251)
+BAMF posts big blind, stack size (346)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Qh 4s
+
+our last bet of 1 was in round 0
+V4One's EV: 0.918000
+V4One's Equity: 0.4795
+V4One's Implied Odds: -2
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(3h 9h Td)
+Our hand: Qh 4s
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 1.434000
+V4One's Equity: 0.3585
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(3h 9h Td Jc)
+Our hand: Qh 4s
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.430000
+V4One's Equity: 0.3575
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(3h 9h Td Jc Jd)
+Our hand: Qh 4s
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 0.939394
+V4One's Equity: 0.234848484848
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF WTSD percentage is: 0.702128
+V4One WTSD percentage is: 0.680851
+BAMF W$SD percentage is: 0.757576
+
+
+NEWHAND:48
+
+['NEWHAND', '48', '2', '8s', '5d', '350', '250', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.785771']
+Active Players:2
+
+Our hand: 8s 5d
+BAMF's VPIP: 0.382979
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.130435
+BAMF's AF flop/postflop: 0.269231
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.116279
+V4One's AF flop/postflop: 1.722222
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (349)
+V4One posts big blind, stack size (248)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 8s 5d
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 1.596000
+V4One's Equity: 0.399
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+NOT BLUFFING FOLD
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(9c 3c Jd)
+Our hand: 8s 5d
+
+our last bet of 0 was in round 0
+V4One's EV: 1.036000
+V4One's Equity: 0.259
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(9c 3c Jd Qd)
+Our hand: 8s 5d
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 0.894000
+V4One's Equity: 0.2235
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(9c 3c Jd Qd 5h)
+Our hand: 8s 5d
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 2.084848
+V4One's Equity: 0.521212121212
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 4
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+V4One WTSD percentage is: 0.687500
+BAMF WTSD percentage is: 0.708333
+BAMF W$SD percentage is: 0.764706
+
+
+NEWHAND:49
+
+['NEWHAND', '49', '1', '4h', '6h', '248', '352', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.759075']
+Active Players:2
+
+Our hand: 4h 6h
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.116279
+V4One's AF flop/postflop: 1.722222
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.395833
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.130435
+BAMF's AF flop/postflop: 0.269231
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (247)
+BAMF posts big blind, stack size (350)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 4h 6h
+
+our last bet of 1 was in round 0
+V4One's EV: 0.540000
+V4One's Equity: 0.385
+V4One's Implied Odds: -2
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+NOT BLUFFING FOLD
+V4One folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:50
+
+['NEWHAND', '50', '2', 'Ah', 'Tc', '353', '247', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.745271']
+Active Players:2
+
+Our hand: Ah Tc
+BAMF's VPIP: 0.387755
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.130435
+BAMF's AF flop/postflop: 0.269231
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.122449
+V4One's AF flop/postflop: 1.722222
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (352)
+V4One posts big blind, stack size (245)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: Ah Tc
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 2.518000
+V4One's Equity: 0.6295
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 6
+
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(7d 7c Ad)
+Our hand: Ah Tc
+
+our last bet of 0 was in round 0
+V4One's EV: 3.332000
+V4One's Equity: 0.833
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 19
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 3.
+our bot's last action is BET for 3
+['CHECK', 'BET:2:10']
+{}
+
+***TURN***(10) Board:(7d 7c Ad 3d)
+Our hand: Ah Tc
+
+BAMF called 3.
+our last bet of 3 was in round 3
+V4One's EV: 7.580000
+V4One's Equity: 0.758
+V4One's Implied Odds: -10
+V4One's maxBetFold: 1
+V4One's maxBetEV: 31
+
+line 1
+final max bet:10
+final min bet:2
+Bet range: 2 10
+V4One bets 9.
+our bot's last action is BET for 9
+['FOLD', 'CALL:18', 'RAISE:27:64']
+{}
+
+***TURN***(37) Board:(7d 7c Ad 3d)
+Our hand: Ah Tc
+
+BAMF raised to 18.
+our last bet of 9 was in round 4
+V4One's EV: 25.868000
+V4One's Equity: 0.758
+V4One's Implied Odds: -43
+V4One's maxBetFold: 5
+V4One's maxBetEV: 115
+
+line 1
+final max raise:64
+final min raise:27
+Raise range: 27 64
+V4One raises to 43.
+our bot's last action is RAISE for 43
+['FOLD', 'CALL:116', 'RAISE:189:242']
+{}
+
+***TURN***(169) Board:(7d 7c Ad 3d)
+Our hand: Ah Tc
+
+BAMF raised to 116.
+our last bet of 43 was in round 4
+V4One's EV: 110.436000
+V4One's Equity: 0.758
+V4One's Implied Odds: -218
+V4One's maxBetFold: 25
+V4One's maxBetEV: 529
+
+line 1
+final max raise:199
+final min raise:189
+Raise range: 189 242
+V4One calls 116.
+our bot's last action is CALL for 116
+['CHECK', 'BET:2:126']
+{}
+
+***RIVER***(242) Board:(7d 7c Ad 3d 3s)
+Our hand: Ah Tc
+
+our last bet of 116 was in round 4
+V4One's EV: 182.600000
+V4One's Equity: 0.754545454545
+V4One's Implied Odds: -242
+V4One's maxBetFold: 36
+V4One's maxBetEV: 743
+
+line 1
+final max bet:126
+final min bet:2
+Bet range: 2 126
+V4One bets 120.
+our bot's last action is BET for 120
+BAMF called 120.
+BAMF WTSD percentage is: 0.700000
+V4One WTSD percentage is: 0.680000
+V4One W$SD percentage is: 0.411765
+
+
+NEWHAND:51
+
+['NEWHAND', '51', '1', 'Qc', '3h', '488', '112', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.702559']
+Active Players:2
+
+Our hand: Qc 3h
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.122449
+V4One's AF flop/postflop: 1.842105
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.400000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.130435
+BAMF's AF flop/postflop: 0.321429
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (487)
+BAMF posts big blind, stack size (110)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Qc 3h
+
+our last bet of 1 was in round 0
+V4One's EV: 1.076000
+V4One's Equity: 0.519
+V4One's Implied Odds: -3
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(5h Kc Ks)
+Our hand: Qc 3h
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 1.978000
+V4One's Equity: 0.4945
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(5h Kc Ks 2h)
+Our hand: Qc 3h
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.574000
+V4One's Equity: 0.3935
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(5h Kc Ks 2h Th)
+Our hand: Qc 3h
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 1.240404
+V4One's Equity: 0.310101010101
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+V4One WTSD percentage is: 0.686275
+BAMF WTSD percentage is: 0.705882
+BAMF W$SD percentage is: 0.750000
+
+
+NEWHAND:52
+
+['NEWHAND', '52', '2', '8d', '8h', '114', '486', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.675568']
+Active Players:2
+
+Our hand: 8d 8h
+BAMF's VPIP: 0.392157
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.130435
+BAMF's AF flop/postflop: 0.321429
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.122449
+V4One's AF flop/postflop: 1.750000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (113)
+V4One posts big blind, stack size (484)
+
+BAMF folds.
+
+
+NEWHAND:53
+
+['NEWHAND', '53', '1', '6h', '2c', '487', '113', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.675568']
+Active Players:2
+
+Our hand: 6h 2c
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.122449
+V4One's AF flop/postflop: 1.750000
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.384615
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.134615
+BAMF's AF flop/postflop: 0.321429
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (486)
+BAMF posts big blind, stack size (111)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 6h 2c
+
+our last bet of 1 was in round 0
+V4One's EV: 0.418000
+V4One's Equity: 0.3545
+V4One's Implied Odds: -2
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+NOT BLUFFING FOLD
+V4One folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:54
+
+['NEWHAND', '54', '2', '6d', '3d', '114', '486', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.653625']
+Active Players:2
+
+Our hand: 6d 3d
+BAMF's VPIP: 0.377358
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.134615
+BAMF's AF flop/postflop: 0.321429
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.132075
+V4One's AF flop/postflop: 1.750000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (113)
+V4One posts big blind, stack size (484)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 6d 3d
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 1.524000
+V4One's Equity: 0.381
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+NOT BLUFFING FOLD
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(7c Js Ac)
+Our hand: 6d 3d
+
+our last bet of 0 was in round 0
+V4One's EV: 0.586000
+V4One's Equity: 0.1465
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 0
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(7c Js Ac 5d)
+Our hand: 6d 3d
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 0.690000
+V4One's Equity: 0.1725
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 0
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(7c Js Ac 5d Kh)
+Our hand: 6d 3d
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 0.228283
+V4One's Equity: 0.0570707070707
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 0
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+V4One WTSD percentage is: 0.666667
+BAMF WTSD percentage is: 0.685185
+BAMF W$SD percentage is: 0.756757
+
+
+NEWHAND:55
+
+['NEWHAND', '55', '1', 'Kd', '2s', '484', '116', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.624122']
+Active Players:2
+
+Our hand: Kd 2s
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.132075
+V4One's AF flop/postflop: 1.750000
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.388889
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.134615
+BAMF's AF flop/postflop: 0.321429
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (483)
+BAMF posts big blind, stack size (114)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Kd 2s
+
+our last bet of 1 was in round 0
+V4One's EV: 1.082000
+V4One's Equity: 0.5205
+V4One's Implied Odds: -3
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(2h 9d Kc)
+Our hand: Kd 2s
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 3.680000
+V4One's Equity: 0.92
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 46
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 3.
+our bot's last action is BET for 3
+BAMF folds.
+
+
+NEWHAND:56
+
+['NEWHAND', '56', '2', 'As', '9c', '114', '486', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.555214']
+Active Players:2
+
+Our hand: As 9c
+BAMF's VPIP: 0.381818
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.134615
+BAMF's AF flop/postflop: 0.321429
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.132075
+V4One's AF flop/postflop: 1.714286
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (113)
+V4One posts big blind, stack size (484)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: As 9c
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 2.364000
+V4One's Equity: 0.591
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 5
+
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Qs 7c 7h)
+Our hand: As 9c
+
+our last bet of 0 was in round 0
+V4One's EV: 2.276000
+V4One's Equity: 0.569
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 5
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Qs 7c 7h Td)
+Our hand: As 9c
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 2.188000
+V4One's Equity: 0.547
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 4
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(Qs 7c 7h Td Ts)
+Our hand: As 9c
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 2.531313
+V4One's Equity: 0.632828282828
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 6
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 4.
+our bot's last action is BET for 4
+BAMF called 4.
+BAMF WTSD percentage is: 0.678571
+V4One WTSD percentage is: 0.660714
+BAMF W$SD percentage is: 0.763158
+V4One W$SD percentage is: 0.405405
+
+
+NEWHAND:57
+
+['NEWHAND', '57', '1', '5c', 'Jc', '486', '114', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.524049']
+Active Players:2
+
+Our hand: 5c Jc
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.132075
+V4One's AF flop/postflop: 1.761905
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.392857
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.134615
+BAMF's AF flop/postflop: 0.310345
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (485)
+BAMF posts big blind, stack size (112)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 5c Jc
+
+our last bet of 1 was in round 0
+V4One's EV: 1.052000
+V4One's Equity: 0.513
+V4One's Implied Odds: -3
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(2s 3h Qc)
+Our hand: 5c Jc
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 1.486000
+V4One's Equity: 0.3715
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(2s 3h Qc 3d)
+Our hand: 5c Jc
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.300000
+V4One's Equity: 0.325
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(2s 3h Qc 3d Qd)
+Our hand: 5c Jc
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 1.769697
+V4One's Equity: 0.442424242424
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+V4One WTSD percentage is: 0.666667
+BAMF WTSD percentage is: 0.684211
+BAMF W$SD percentage is: 0.769231
+
+
+NEWHAND:58
+
+['NEWHAND', '58', '2', '5d', 'Kc', '116', '484', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.494122']
+Active Players:2
+
+Our hand: 5d Kc
+BAMF's VPIP: 0.385965
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.134615
+BAMF's AF flop/postflop: 0.310345
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.132075
+V4One's AF flop/postflop: 1.681818
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (115)
+V4One posts big blind, stack size (482)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 5d Kc
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 2.174000
+V4One's Equity: 0.5435
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 4
+
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Th Jh 5c)
+Our hand: 5d Kc
+
+our last bet of 0 was in round 0
+V4One's EV: 2.432000
+V4One's Equity: 0.608
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 6
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 3.
+our bot's last action is BET for 3
+['CHECK', 'BET:2:10']
+{}
+
+***TURN***(10) Board:(Th Jh 5c Jd)
+Our hand: 5d Kc
+
+BAMF called 3.
+our last bet of 3 was in round 3
+V4One's EV: 6.690000
+V4One's Equity: 0.669
+V4One's Implied Odds: -10
+V4One's maxBetFold: 1
+V4One's maxBetEV: 20
+
+line 1
+final max bet:10
+final min bet:2
+Bet range: 2 10
+V4One bets 4.
+our bot's last action is BET for 4
+['CHECK', 'BET:2:18']
+{}
+
+***RIVER***(18) Board:(Th Jh 5c Jd 9s)
+Our hand: 5d Kc
+
+BAMF called 4.
+our last bet of 4 was in round 4
+V4One's EV: 10.490909
+V4One's Equity: 0.582828282828
+V4One's Implied Odds: -18
+V4One's maxBetFold: 2
+V4One's maxBetEV: 25
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+BAMF WTSD percentage is: 0.689655
+V4One WTSD percentage is: 0.672414
+V4One W$SD percentage is: 0.410256
+
+
+NEWHAND:59
+
+['NEWHAND', '59', '1', '5c', '3s', '493', '107', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.463935']
+Active Players:2
+
+Our hand: 5c 3s
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.132075
+V4One's AF flop/postflop: 1.772727
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.396552
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.134615
+BAMF's AF flop/postflop: 0.290323
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (492)
+BAMF posts big blind, stack size (105)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 5c 3s
+
+our last bet of 1 was in round 0
+V4One's EV: 0.506000
+V4One's Equity: 0.3765
+V4One's Implied Odds: -2
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+NOT BLUFFING FOLD
+V4One folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:60
+
+['NEWHAND', '60', '2', '4c', '5d', '108', '492', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.454879']
+Active Players:2
+
+Our hand: 4c 5d
+BAMF's VPIP: 0.389831
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.134615
+BAMF's AF flop/postflop: 0.290323
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.135593
+V4One's AF flop/postflop: 1.772727
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (107)
+V4One posts big blind, stack size (490)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 4c 5d
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 1.558000
+V4One's Equity: 0.3895
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+NOT BLUFFING FOLD
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(3d Kh 5h)
+Our hand: 4c 5d
+
+our last bet of 0 was in round 0
+V4One's EV: 2.592000
+V4One's Equity: 0.648
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 7
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 2.
+our bot's last action is BET for 2
+['CHECK', 'BET:2:8']
+{}
+
+***TURN***(8) Board:(3d Kh 5h 9s)
+Our hand: 4c 5d
+
+BAMF called 2.
+our last bet of 2 was in round 3
+V4One's EV: 4.812000
+V4One's Equity: 0.6015
+V4One's Implied Odds: -8
+V4One's maxBetFold: 1
+V4One's maxBetEV: 12
+
+line 1
+final max bet:8
+final min bet:2
+Bet range: 2 8
+V4One bets 5.
+our bot's last action is BET for 5
+['CHECK', 'BET:2:18']
+{}
+
+***RIVER***(18) Board:(3d Kh 5h 9s Ks)
+Our hand: 4c 5d
+
+BAMF called 5.
+our last bet of 5 was in round 4
+V4One's EV: 12.363636
+V4One's Equity: 0.686868686869
+V4One's Implied Odds: -18
+V4One's maxBetFold: 2
+V4One's maxBetEV: 39
+
+line 1
+final max bet:18
+final min bet:2
+Bet range: 2 18
+V4One bets 10.
+our bot's last action is BET for 10
+BAMF called 10.
+V4One WTSD percentage is: 0.666667
+BAMF WTSD percentage is: 0.683333
+V4One W$SD percentage is: 0.425000
+
+
+NEWHAND:61
+
+['NEWHAND', '61', '1', '6d', '8h', '511', '89', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.429056']
+Active Players:2
+
+Our hand: 6d 8h
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.135593
+V4One's AF flop/postflop: 1.909091
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.400000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.134615
+BAMF's AF flop/postflop: 0.264706
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (510)
+BAMF posts big blind, stack size (87)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 6d 8h
+
+our last bet of 1 was in round 0
+V4One's EV: 0.684000
+V4One's Equity: 0.421
+V4One's Implied Odds: -2
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+NOT BLUFFING FOLD
+V4One folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:62
+
+['NEWHAND', '62', '2', 'Qd', 'Kd', '90', '510', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.420812']
+Active Players:2
+
+Our hand: Qd Kd
+BAMF's VPIP: 0.393443
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.134615
+BAMF's AF flop/postflop: 0.264706
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.147541
+V4One's AF flop/postflop: 1.909091
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (89)
+V4One posts big blind, stack size (508)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: Qd Kd
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 2.564000
+V4One's Equity: 0.641
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 7
+
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(3c 5d Jc)
+Our hand: Qd Kd
+
+our last bet of 0 was in round 0
+V4One's EV: 1.932000
+V4One's Equity: 0.483
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(3c 5d Jc 2s)
+Our hand: Qd Kd
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.414000
+V4One's Equity: 0.3535
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(3c 5d Jc 2s 8c)
+Our hand: Qd Kd
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 1.006061
+V4One's Equity: 0.251515151515
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+BAMF WTSD percentage is: 0.677419
+V4One WTSD percentage is: 0.661290
+BAMF W$SD percentage is: 0.738095
+
+
+NEWHAND:63
+
+['NEWHAND', '63', '1', 'Ac', '9c', '508', '92', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.394715']
+Active Players:2
+
+Our hand: Ac 9c
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.147541
+V4One's AF flop/postflop: 1.909091
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.403226
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.134615
+BAMF's AF flop/postflop: 0.264706
+BAMF's Player Type: UNKNOWN
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (507)
+BAMF posts big blind, stack size (90)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Ac 9c
+
+our last bet of 1 was in round 0
+V4One's EV: 1.500000
+V4One's Equity: 0.625
+V4One's Implied Odds: -3
+V4One's maxBetFold: 0
+V4One's maxBetEV: 5
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Ad 3c Qs)
+Our hand: Ac 9c
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 3.476000
+V4One's Equity: 0.869
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 26
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 2.
+our bot's last action is BET for 2
+['CHECK', 'BET:2:8']
+{}
+
+***TURN***(8) Board:(Ad 3c Qs 6s)
+Our hand: Ac 9c
+
+BAMF called 2.
+BAMF checks.
+our last bet of 2 was in round 3
+V4One's EV: 6.988000
+V4One's Equity: 0.8735
+V4One's Implied Odds: -8
+V4One's maxBetFold: 1
+V4One's maxBetEV: 55
+
+line 1
+final max bet:8
+final min bet:2
+Bet range: 2 8
+V4One bets 2.
+our bot's last action is BET for 2
+['CHECK', 'BET:2:12']
+{}
+
+***RIVER***(12) Board:(Ad 3c Qs 6s 8d)
+Our hand: Ac 9c
+
+BAMF called 2.
+BAMF checks.
+our last bet of 2 was in round 4
+V4One's EV: 10.569697
+V4One's Equity: 0.880808080808
+V4One's Implied Odds: -12
+V4One's maxBetFold: 1
+V4One's maxBetEV: 88
+
+line 1
+final max bet:12
+final min bet:2
+Bet range: 2 12
+V4One bets 5.
+our bot's last action is BET for 5
+BAMF folds.
+
+
+NEWHAND:64
+
+['NEWHAND', '64', '2', '6h', '5d', '86', '514', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.368468']
+Active Players:2
+
+Our hand: 6h 5d
+BAMF's VPIP: 0.396825
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.134615
+BAMF's AF flop/postflop: 0.250000
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.147541
+V4One's AF flop/postflop: 1.956522
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (85)
+V4One posts big blind, stack size (512)
+
+BAMF folds.
+
+
+NEWHAND:65
+
+['NEWHAND', '65', '1', 'Qd', '8s', '515', '85', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.368468']
+Active Players:2
+
+Our hand: Qd 8s
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.147541
+V4One's AF flop/postflop: 1.956522
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.390625
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.125000
+BAMF's AF flop/postflop: 0.250000
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (514)
+BAMF posts big blind, stack size (83)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Qd 8s
+
+our last bet of 1 was in round 0
+V4One's EV: 1.092000
+V4One's Equity: 0.523
+V4One's Implied Odds: -3
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(9c 6d Td)
+Our hand: Qd 8s
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 2.220000
+V4One's Equity: 0.555
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 4
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(9c 6d Td 3d)
+Our hand: Qd 8s
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.916000
+V4One's Equity: 0.479
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(9c 6d Td 3d Jd)
+Our hand: Qd 8s
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 3.648485
+V4One's Equity: 0.912121212121
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 41
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 4.
+our bot's last action is BET for 4
+BAMF folds.
+
+
+NEWHAND:66
+
+['NEWHAND', '66', '2', '6d', 'Ah', '83', '517', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.282713']
+Active Players:2
+
+Our hand: 6d Ah
+BAMF's VPIP: 0.384615
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.125000
+BAMF's AF flop/postflop: 0.250000
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.147541
+V4One's AF flop/postflop: 1.916667
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (82)
+V4One posts big blind, stack size (515)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 6d Ah
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 2.306000
+V4One's Equity: 0.5765
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 5
+
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Ts 8h 6s)
+Our hand: 6d Ah
+
+our last bet of 0 was in round 0
+V4One's EV: 2.378000
+V4One's Equity: 0.5945
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 5
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Ts 8h 6s Qh)
+Our hand: 6d Ah
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 2.046000
+V4One's Equity: 0.5115
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 4
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(Ts 8h 6s Qh 3h)
+Our hand: 6d Ah
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 2.149495
+V4One's Equity: 0.537373737374
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 4
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+V4One WTSD percentage is: 0.636364
+BAMF WTSD percentage is: 0.651515
+V4One W$SD percentage is: 0.428571
+
+
+NEWHAND:67
+
+['NEWHAND', '67', '1', '2c', '9c', '519', '81', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.255954']
+Active Players:2
+
+Our hand: 2c 9c
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.147541
+V4One's AF flop/postflop: 1.916667
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.393939
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.125000
+BAMF's AF flop/postflop: 0.250000
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (518)
+BAMF posts big blind, stack size (79)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 2c 9c
+
+our last bet of 1 was in round 0
+V4One's EV: 0.714000
+V4One's Equity: 0.4285
+V4One's Implied Odds: -2
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+NOT BLUFFING FOLD
+V4One folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:68
+
+['NEWHAND', '68', '2', '7s', 'Tc', '82', '518', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.246078']
+Active Players:2
+
+Our hand: 7s Tc
+BAMF's VPIP: 0.388060
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.125000
+BAMF's AF flop/postflop: 0.250000
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.149254
+V4One's AF flop/postflop: 1.916667
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (81)
+V4One posts big blind, stack size (516)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 7s Tc
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 1.920000
+V4One's Equity: 0.48
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(8h 5d 2s)
+Our hand: 7s Tc
+
+our last bet of 0 was in round 0
+V4One's EV: 1.172000
+V4One's Equity: 0.293
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(8h 5d 2s As)
+Our hand: 7s Tc
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 0.788000
+V4One's Equity: 0.197
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 0
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(8h 5d 2s As 4h)
+Our hand: 7s Tc
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 0.179798
+V4One's Equity: 0.0449494949495
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 0
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+BAMF WTSD percentage is: 0.647059
+V4One WTSD percentage is: 0.632353
+BAMF W$SD percentage is: 0.727273
+
+
+NEWHAND:69
+
+['NEWHAND', '69', '1', '4h', '3d', '516', '84', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.219335']
+Active Players:2
+
+Our hand: 4h 3d
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.149254
+V4One's AF flop/postflop: 1.916667
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.397059
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.125000
+BAMF's AF flop/postflop: 0.250000
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (515)
+BAMF posts big blind, stack size (82)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 4h 3d
+
+our last bet of 1 was in round 0
+V4One's EV: 0.368000
+V4One's Equity: 0.342
+V4One's Implied Odds: -2
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+NOT BLUFFING FOLD
+V4One folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:70
+
+['NEWHAND', '70', '2', '3h', '3d', '85', '515', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.211407']
+Active Players:2
+
+Our hand: 3h 3d
+BAMF's VPIP: 0.391304
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.125000
+BAMF's AF flop/postflop: 0.250000
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.159420
+V4One's AF flop/postflop: 1.916667
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (84)
+V4One posts big blind, stack size (513)
+
+BAMF folds.
+
+
+NEWHAND:71
+
+['NEWHAND', '71', '1', '3d', '6h', '516', '84', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.211407']
+Active Players:2
+
+Our hand: 3d 6h
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.159420
+V4One's AF flop/postflop: 1.916667
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.385714
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.128571
+BAMF's AF flop/postflop: 0.250000
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (515)
+BAMF posts big blind, stack size (82)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 3d 6h
+
+our last bet of 1 was in round 0
+V4One's EV: 0.408000
+V4One's Equity: 0.352
+V4One's Implied Odds: -2
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+NOT BLUFFING FOLD
+V4One folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:72
+
+['NEWHAND', '72', '2', '6c', '3c', '85', '515', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.200309']
+Active Players:2
+
+Our hand: 6c 3c
+BAMF's VPIP: 0.380282
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.128571
+BAMF's AF flop/postflop: 0.250000
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.169014
+V4One's AF flop/postflop: 1.916667
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (84)
+V4One posts big blind, stack size (513)
+
+BAMF folds.
+
+
+NEWHAND:73
+
+['NEWHAND', '73', '1', '6d', 'Qh', '516', '84', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.200309']
+Active Players:2
+
+Our hand: 6d Qh
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.169014
+V4One's AF flop/postflop: 1.916667
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.375000
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.138889
+BAMF's AF flop/postflop: 0.250000
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (515)
+BAMF posts big blind, stack size (82)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 6d Qh
+
+our last bet of 1 was in round 0
+V4One's EV: 1.132000
+V4One's Equity: 0.533
+V4One's Implied Odds: -3
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Jc Ks 2h)
+Our hand: 6d Qh
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 1.610000
+V4One's Equity: 0.4025
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Jc Ks 2h 7s)
+Our hand: 6d Qh
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.244000
+V4One's Equity: 0.311
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(Jc Ks 2h 7s Jd)
+Our hand: 6d Qh
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 1.351515
+V4One's Equity: 0.337878787879
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF WTSD percentage is: 0.616438
+V4One WTSD percentage is: 0.602740
+BAMF W$SD percentage is: 0.733333
+
+
+NEWHAND:74
+
+['NEWHAND', '74', '2', 'Ac', '7s', '86', '514', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.170815']
+Active Players:2
+
+Our hand: Ac 7s
+BAMF's VPIP: 0.369863
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.138889
+BAMF's AF flop/postflop: 0.250000
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.169014
+V4One's AF flop/postflop: 1.840000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (85)
+V4One posts big blind, stack size (512)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: Ac 7s
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 2.376000
+V4One's Equity: 0.594
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 5
+
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(7c Th Qh)
+Our hand: Ac 7s
+
+our last bet of 0 was in round 0
+V4One's EV: 2.638000
+V4One's Equity: 0.6595
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 7
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 3.
+our bot's last action is BET for 3
+['CHECK', 'BET:2:10']
+{}
+
+***TURN***(10) Board:(7c Th Qh Kc)
+Our hand: Ac 7s
+
+BAMF called 3.
+our last bet of 3 was in round 3
+V4One's EV: 5.995000
+V4One's Equity: 0.5995
+V4One's Implied Odds: -10
+V4One's maxBetFold: 1
+V4One's maxBetEV: 14
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:10']
+{}
+
+***RIVER***(10) Board:(7c Th Qh Kc Jc)
+Our hand: Ac 7s
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 8.984848
+V4One's Equity: 0.898484848485
+V4One's Implied Odds: -10
+V4One's maxBetFold: 1
+V4One's maxBetEV: 88
+
+line 1
+final max bet:10
+final min bet:2
+Bet range: 2 10
+V4One bets 5.
+our bot's last action is BET for 5
+['FOLD', 'CALL:13', 'RAISE:21:49']
+{}
+
+***RIVER***(28) Board:(7c Th Qh Kc Jc)
+Our hand: Ac 7s
+
+BAMF raised to 13.
+our last bet of 5 was in round 5
+V4One's EV: 24.345455
+V4One's Equity: 0.898484848485
+V4One's Implied Odds: -35
+V4One's maxBetFold: 4
+V4One's maxBetEV: 247
+
+line 1
+final max raise:49
+final min raise:21
+Raise range: 21 49
+V4One raises to 43.
+our bot's last action is RAISE for 43
+BAMF called 43.
+BAMF WTSD percentage is: 0.621622
+V4One WTSD percentage is: 0.608108
+BAMF W$SD percentage is: 0.739130
+V4One W$SD percentage is: 0.422222
+
+
+NEWHAND:75
+
+['NEWHAND', '75', '1', '4d', '9d', '514', '86', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.140076']
+Active Players:2
+
+Our hand: 4d 9d
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.169014
+V4One's AF flop/postflop: 1.960000
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.378378
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.138889
+BAMF's AF flop/postflop: 0.263158
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (513)
+BAMF posts big blind, stack size (84)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 4d 9d
+
+our last bet of 1 was in round 0
+V4One's EV: 0.720000
+V4One's Equity: 0.43
+V4One's Implied Odds: -2
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+NOT BLUFFING FOLD
+V4One folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:76
+
+['NEWHAND', '76', '2', '2c', '2h', '87', '513', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.131249']
+Active Players:2
+
+Our hand: 2c 2h
+BAMF's VPIP: 0.373333
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.138889
+BAMF's AF flop/postflop: 0.263158
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.173333
+V4One's AF flop/postflop: 1.960000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (86)
+V4One posts big blind, stack size (511)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 2c 2h
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 2.060000
+V4One's Equity: 0.515
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 4
+
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Jd Jc 8c)
+Our hand: 2c 2h
+
+our last bet of 0 was in round 0
+V4One's EV: 1.970000
+V4One's Equity: 0.4925
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Jd Jc 8c Kc)
+Our hand: 2c 2h
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.988000
+V4One's Equity: 0.497
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(Jd Jc 8c Kc As)
+Our hand: 2c 2h
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 1.896970
+V4One's Equity: 0.474242424242
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+BAMF WTSD percentage is: 0.618421
+V4One WTSD percentage is: 0.605263
+V4One W$SD percentage is: 0.434783
+
+
+NEWHAND:77
+
+['NEWHAND', '77', '1', '6d', '9h', '515', '85', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.104895']
+Active Players:2
+
+Our hand: 6d 9h
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.173333
+V4One's AF flop/postflop: 1.960000
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.381579
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.138889
+BAMF's AF flop/postflop: 0.263158
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (514)
+BAMF posts big blind, stack size (83)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 6d 9h
+
+our last bet of 1 was in round 0
+V4One's EV: 0.870000
+V4One's Equity: 0.4675
+V4One's Implied Odds: -2
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(6s 6h 7h)
+Our hand: 6d 9h
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 3.630000
+V4One's Equity: 0.9075
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 39
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 3.
+our bot's last action is BET for 3
+['CHECK', 'BET:2:10']
+{}
+
+***TURN***(10) Board:(6s 6h 7h 4c)
+Our hand: 6d 9h
+
+BAMF called 3.
+BAMF checks.
+our last bet of 3 was in round 3
+V4One's EV: 8.830000
+V4One's Equity: 0.883
+V4One's Implied Odds: -10
+V4One's maxBetFold: 1
+V4One's maxBetEV: 75
+
+line 1
+final max bet:10
+final min bet:2
+Bet range: 2 10
+V4One bets 7.
+our bot's last action is BET for 7
+['CHECK', 'BET:2:24']
+{}
+
+***RIVER***(24) Board:(6s 6h 7h 4c 7c)
+Our hand: 6d 9h
+
+BAMF called 7.
+BAMF checks.
+our last bet of 7 was in round 4
+V4One's EV: 21.381818
+V4One's Equity: 0.890909090909
+V4One's Implied Odds: -24
+V4One's maxBetFold: 3
+V4One's maxBetEV: 195
+
+line 1
+final max bet:24
+final min bet:2
+Bet range: 2 24
+V4One bets 14.
+our bot's last action is BET for 14
+BAMF called 14.
+BAMF WTSD percentage is: 0.623377
+V4One WTSD percentage is: 0.610390
+V4One W$SD percentage is: 0.446809
+
+
+NEWHAND:78
+
+['NEWHAND', '78', '2', '3h', 'Jd', '59', '541', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.076443']
+Active Players:2
+
+Our hand: 3h Jd
+BAMF's VPIP: 0.376623
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.138889
+BAMF's AF flop/postflop: 0.243902
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.173333
+V4One's AF flop/postflop: 2.000000
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (58)
+V4One posts big blind, stack size (539)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 3h Jd
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 1.826000
+V4One's Equity: 0.4565
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+NOT BLUFFING FOLD
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(Tc 5s 7s)
+Our hand: 3h Jd
+
+our last bet of 0 was in round 0
+V4One's EV: 1.036000
+V4One's Equity: 0.259
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(Tc 5s 7s Ac)
+Our hand: 3h Jd
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 0.984000
+V4One's Equity: 0.246
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(Tc 5s 7s Ac 7h)
+Our hand: 3h Jd
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 1.028283
+V4One's Equity: 0.257070707071
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+V4One WTSD percentage is: 0.615385
+BAMF WTSD percentage is: 0.628205
+BAMF W$SD percentage is: 0.714286
+
+
+NEWHAND:79
+
+['NEWHAND', '79', '1', '6h', 'Jd', '539', '61', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '13.050994']
+Active Players:2
+
+Our hand: 6h Jd
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.173333
+V4One's AF flop/postflop: 2.000000
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.384615
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.138889
+BAMF's AF flop/postflop: 0.243902
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (538)
+BAMF posts big blind, stack size (59)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 6h Jd
+
+our last bet of 1 was in round 0
+V4One's EV: 0.870000
+V4One's Equity: 0.4675
+V4One's Implied Odds: -2
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(9c 7d 3d)
+Our hand: 6h Jd
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 1.306000
+V4One's Equity: 0.3265
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(9c 7d 3d Kh)
+Our hand: 6h Jd
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 0.968000
+V4One's Equity: 0.242
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(9c 7d 3d Kh Kc)
+Our hand: 6h Jd
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 0.979798
+V4One's Equity: 0.244949494949
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF WTSD percentage is: 0.632911
+V4One WTSD percentage is: 0.620253
+BAMF W$SD percentage is: 0.720000
+
+
+NEWHAND:80
+
+['NEWHAND', '80', '2', '2s', '9h', '63', '537', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '13.025081']
+Active Players:2
+
+Our hand: 2s 9h
+BAMF's VPIP: 0.379747
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.138889
+BAMF's AF flop/postflop: 0.243902
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.173333
+V4One's AF flop/postflop: 1.925926
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (62)
+V4One posts big blind, stack size (535)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 2s 9h
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 1.616000
+V4One's Equity: 0.404
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+NOT BLUFFING FOLD
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(6h Th Tc)
+Our hand: 2s 9h
+
+our last bet of 0 was in round 0
+V4One's EV: 1.278000
+V4One's Equity: 0.3195
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(6h Th Tc 4s)
+Our hand: 2s 9h
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 0.942000
+V4One's Equity: 0.2355
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 1
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(6h Th Tc 4s 9d)
+Our hand: 2s 9h
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 3.195960
+V4One's Equity: 0.79898989899
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 15
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 4.
+our bot's last action is BET for 4
+BAMF folds.
+
+
+NEWHAND:81
+
+['NEWHAND', '81', '1', 'Kc', 'Ks', '539', '61', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '12.997611']
+Active Players:2
+
+Our hand: Kc Ks
+V4One's VPIP: 0.000000
+V4One's PFR: 0.000000
+V4One's estimated fold percentage is 0.173333
+V4One's AF flop/postflop: 1.962963
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.387500
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.138889
+BAMF's AF flop/postflop: 0.243902
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (538)
+BAMF posts big blind, stack size (59)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Kc Ks
+
+our last bet of 1 was in round 0
+V4One's EV: 2.354000
+V4One's Equity: 0.8385
+V4One's Implied Odds: -3
+V4One's maxBetFold: 0
+V4One's maxBetEV: 15
+
+BETTING LOOSE2
+final max raise:6
+final min raise:4
+Raise range: 4 6
+V4One raises to 4.
+our bot's last action is RAISE for 4
+BAMF folds.
+
+
+NEWHAND:82
+
+['NEWHAND', '82', '2', '6h', 'Ks', '59', '541', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '12.989196']
+Active Players:2
+
+Our hand: 6h Ks
+BAMF's VPIP: 0.382716
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.135802
+BAMF's AF flop/postflop: 0.243902
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.012346
+V4One's PFR: 0.012346
+V4One's estimated fold percentage is 0.173333
+V4One's AF flop/postflop: 1.962963
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (58)
+V4One posts big blind, stack size (539)
+
+BAMF folds.
+
+
+NEWHAND:83
+
+['NEWHAND', '83', '1', '8d', '6h', '542', '58', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '12.989196']
+Active Players:2
+
+Our hand: 8d 6h
+V4One's VPIP: 0.012195
+V4One's PFR: 0.012195
+V4One's estimated fold percentage is 0.173333
+V4One's AF flop/postflop: 1.962963
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.378049
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.146341
+BAMF's AF flop/postflop: 0.243902
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (541)
+BAMF posts big blind, stack size (56)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 8d 6h
+
+our last bet of 1 was in round 0
+V4One's EV: 0.802000
+V4One's Equity: 0.4505
+V4One's Implied Odds: -2
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+NOT BLUFFING FOLD
+V4One folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:84
+
+['NEWHAND', '84', '2', '9c', '2d', '59', '541', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '12.980810']
+Active Players:2
+
+Our hand: 9c 2d
+BAMF's VPIP: 0.373494
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.146341
+BAMF's AF flop/postflop: 0.243902
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.012048
+V4One's PFR: 0.012048
+V4One's estimated fold percentage is 0.168675
+V4One's AF flop/postflop: 1.962963
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (58)
+V4One posts big blind, stack size (539)
+
+['CHECK', 'RAISE:4:6']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: 9c 2d
+
+BAMF called 2.
+our last bet of 2 was in round 0
+V4One's EV: 1.616000
+V4One's Equity: 0.404
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+NOT BLUFFING FOLD
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(6h 3h 8h)
+Our hand: 9c 2d
+
+our last bet of 0 was in round 0
+V4One's EV: 0.764000
+V4One's Equity: 0.191
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 0
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(6h 3h 8h 6d)
+Our hand: 9c 2d
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 0.524000
+V4One's Equity: 0.131
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 0
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(6h 3h 8h 6d 5c)
+Our hand: 9c 2d
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 0.082828
+V4One's Equity: 0.0207070707071
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 0
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF checks.
+V4One WTSD percentage is: 0.595238
+BAMF WTSD percentage is: 0.607143
+BAMF W$SD percentage is: 0.725490
+
+
+NEWHAND:85
+
+['NEWHAND', '85', '1', '5s', 'Jc', '539', '61', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '12.954138']
+Active Players:2
+
+Our hand: 5s Jc
+V4One's VPIP: 0.011905
+V4One's PFR: 0.011905
+V4One's estimated fold percentage is 0.168675
+V4One's AF flop/postflop: 1.962963
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.380952
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.146341
+BAMF's AF flop/postflop: 0.243902
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (538)
+BAMF posts big blind, stack size (59)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 5s Jc
+
+our last bet of 1 was in round 0
+V4One's EV: 0.908000
+V4One's Equity: 0.477
+V4One's Implied Odds: -2
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(4s Ac 9d)
+Our hand: 5s Jc
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 1.524000
+V4One's Equity: 0.381
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(4s Ac 9d 9c)
+Our hand: 5s Jc
+
+BAMF checks.
+our last bet of 0 was in round 3
+V4One's EV: 1.414000
+V4One's Equity: 0.3535
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(4s Ac 9d 9c As)
+Our hand: 5s Jc
+
+BAMF checks.
+our last bet of 0 was in round 4
+V4One's EV: 1.903030
+V4One's Equity: 0.475757575758
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 3
+
+line 6
+V4One checks.
+our bot's last action is CHECK for 0
+BAMF WTSD percentage is: 0.611765
+V4One WTSD percentage is: 0.600000
+BAMF W$SD percentage is: 0.730769
+
+
+NEWHAND:86
+
+['NEWHAND', '86', '2', '4d', 'Ah', '63', '537', '0', 'BAMF', 'V4One', 'V4Two', '2', 'true', 'true', 'false', '12.927823']
+Active Players:2
+
+Our hand: 4d Ah
+BAMF's VPIP: 0.376471
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.146341
+BAMF's AF flop/postflop: 0.243902
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:1
+V4One's VPIP: 0.011765
+V4One's PFR: 0.011765
+V4One's estimated fold percentage is 0.168675
+V4One's AF flop/postflop: 1.892857
+V4One's Player Type: NIT
+V4One's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+BAMF posts small blind/and is dealer, stack size (62)
+V4One posts big blind, stack size (535)
+
+BAMF folds.
+
+
+NEWHAND:87
+
+['NEWHAND', '87', '1', 'Jc', '7h', '538', '62', '0', 'V4One', 'BAMF', 'V4Two', '2', 'true', 'true', 'false', '12.927823']
+Active Players:2
+
+Our hand: Jc 7h
+V4One's VPIP: 0.011628
+V4One's PFR: 0.011628
+V4One's estimated fold percentage is 0.168675
+V4One's AF flop/postflop: 1.892857
+V4One's Player Type: NIT
+V4One's Seat:1
+BAMF's VPIP: 0.372093
+BAMF's PFR: 0.000000
+BAMF's estimated fold percentage is 0.151163
+BAMF's AF flop/postflop: 0.243902
+BAMF's Player Type: CALLING STATION
+BAMF's Seat:2
+V4Two's VPIP: 0.000000
+V4Two's PFR: 0.000000
+V4Two's estimated fold percentage is 0.500000
+V4Two's AF flop/postflop: 0.666667
+V4Two's Player Type: NIT
+V4Two's Seat:3
+V4Two is eliminated
+
+V4One posts small blind/and is dealer, stack size (537)
+BAMF posts big blind, stack size (60)
+
+['CALL:2', 'FOLD', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: Jc 7h
+
+our last bet of 1 was in round 0
+V4One's EV: 0.920000
+V4One's Equity: 0.48
+V4One's Implied Odds: -2
+V4One's maxBetFold: 0
+V4One's maxBetEV: 2
+
+V4One calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(5d Jh Kh)
+Our hand: Jc 7h
+
+BAMF checks.
+BAMF checks.
+our last bet of 2 was in round 0
+V4One's EV: 2.992000
+V4One's Equity: 0.748
+V4One's Implied Odds: -4
+V4One's maxBetFold: 0
+V4One's maxBetEV: 11
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4One bets 2.
+our bot's last action is BET for 2
+['CHECK', 'BET:2:8']
+{}
+
+***TURN***(8) Board:(5d Jh Kh 7s)
+Our hand: Jc 7h
+
+BAMF called 2.
+BAMF checks.
+our last bet of 2 was in round 3
+V4One's EV: 7.264000
+V4One's Equity: 0.908
+V4One's Implied Odds: -8
+V4One's maxBetFold: 1
+V4One's maxBetEV: 78
+
+line 1
+final max bet:8
+final min bet:2
+Bet range: 2 8
+V4One bets 8.
+our bot's last action is BET for 8
+['FOLD', 'CALL:17', 'RAISE:26:58']
+{}
+
+***TURN***(33) Board:(5d Jh Kh 7s)
+Our hand: Jc 7h
+
+BAMF raised to 17.
+our last bet of 8 was in round 4
+V4One's EV: 29.136000
+V4One's Equity: 0.908
+V4One's Implied Odds: -41
+V4One's maxBetFold: 5
+V4One's maxBetEV: 325
+
+line 1
+final max raise:58
+final min raise:26
+Raise range: 26 58
+V4One raises to 43.
+our bot's last action is RAISE for 43
+['FOLD', 'CALL:15']
+{}
+
+***RIVER***(109) Board:(5d Jh Kh 7s 8c)
+Our hand: Jc 7h
+
+BAMF called 43.
+BAMF bet 15.
+our last bet of 43 was in round 4
+V4One's EV: 96.850505
+V4One's Equity: 0.90202020202
+V4One's Implied Odds: -122
+V4One's maxBetFold: 19
+V4One's maxBetEV: 1003
+
+line 1
+final call min:15
+V4One calls 15.
+our bot's last action is CALL for 15
+V4One WTSD percentage is: 0.597701
+BAMF WTSD percentage is: 0.609195
+V4One W$SD percentage is: 0.423077
+Gameover, engine disconnected.

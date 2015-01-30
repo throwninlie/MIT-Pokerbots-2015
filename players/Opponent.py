@@ -139,6 +139,8 @@ class Opponent:
         self.playingHand = playingHand
         #reset this to false every new hand (preflop hasn't been called yet)
         self.preFlopCalled = False
+        #reset this to false every new hand
+        self.preFlopRaised = False
         if not playingHand:
             self.updateEliminated()
         else:
@@ -155,7 +157,7 @@ class Opponent:
             pass
         else:
             self.preFlopCall += 1.0
-        self.preFlopCalled = True
+            self.preFlopCalled = True
 
     #besides bb and sb, number of times raise/call preflop (if bb or sb raises they count)
     def updateVPIP(self):
@@ -187,6 +189,10 @@ class Opponent:
         return self.PFR
     def updatePFR(self):
         self.PFR = float(self.preFlopRaises) / self.handsPlayed
+    def getHandsPlayed(self):
+        return self.handsPlayed
+    def getPreFlopRaises(self):
+        return self.preFlopRaises
 
     def preFlopRaise(self):
         #so as to not double count
@@ -194,7 +200,7 @@ class Opponent:
             pass
         else:
             self.preFlopRaises +=1.0
-        self.preFlopRaised = True
+            self.preFlopRaised = True
 
     #gets aggression factor
     def getAFflop(self):
