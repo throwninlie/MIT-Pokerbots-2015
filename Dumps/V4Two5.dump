@@ -1,0 +1,514 @@
+
+C:\Users\Er\Dropbox\Pokerbot\Versions\v4>python Player.py 3002 
+Connecting to localhost:3002
+Our name: V4Two5
+Opp1 name: BAMF5
+Opp2 name: V4One5
+
+
+NEWHAND:1
+
+['NEWHAND', '1', '1', '8c', '6d', '200', '200', '200', 'V4Two5', 'BAMF5', 'V4One5', '3', 'true', 'true', 'true', '15.000000']
+Active Players:3
+
+Our hand: 8c 6d
+V4Two5's VPIP: 0.000000
+V4Two5's PFR: 0.000000
+V4Two5's estimated fold percentage is 0.000000
+V4Two5's AF flop/postflop: 0.000000
+V4Two5's Player Type: NIT
+V4Two5's Seat:1
+BAMF5's VPIP: 0.000000
+BAMF5's PFR: 0.000000
+BAMF5's estimated fold percentage is 0.000000
+BAMF5's AF flop/postflop: 0.000000
+BAMF5's Player Type: NIT
+BAMF5's Seat:2
+V4One5's VPIP: 0.000000
+V4One5's PFR: 0.000000
+V4One5's estimated fold percentage is 0.000000
+V4One5's AF flop/postflop: 0.000000
+V4One5's Player Type: NIT
+V4One5's Seat:3
+
+BAMF5 posts small blind, stack size (199)
+V4One5 posts big blind, stack size (198)
+
+['CALL:2', 'FOLD', 'RAISE:4:7']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 8c 6d
+
+our last bet of 0 was in round 0
+V4Two5's EV: 0.160000
+V4Two5's Equity: 0.432
+V4Two5's Implied Odds: -2
+V4Two5's maxBetFold: 0
+V4Two5's maxBetEV: 2
+
+NOT BLUFFING FOLD
+V4Two5 folds.
+our bot's last action is FOLD for 0
+BAMF5 folds.
+
+
+NEWHAND:2
+
+['NEWHAND', '2', '2', '6d', 'Js', '201', '200', '199', 'V4One5', 'V4Two5', 'BAMF5', '3', 'true', 'true', 'true', '14.991158']
+Active Players:3
+
+Our hand: 6d Js
+V4One5's VPIP: 0.000000
+V4One5's PFR: 0.000000
+V4One5's estimated fold percentage is 0.000000
+V4One5's AF flop/postflop: 0.000000
+V4One5's Player Type: NIT
+V4One5's Seat:1
+V4Two5's VPIP: 0.000000
+V4Two5's PFR: 0.000000
+V4Two5's estimated fold percentage is 1.000000
+V4Two5's AF flop/postflop: 0.000000
+V4Two5's Player Type: NIT
+V4Two5's Seat:2
+BAMF5's VPIP: 0.000000
+BAMF5's PFR: 0.000000
+BAMF5's estimated fold percentage is 1.000000
+BAMF5's AF flop/postflop: 0.000000
+BAMF5's Player Type: NIT
+BAMF5's Seat:3
+
+V4Two5 posts small blind, stack size (199)
+BAMF5 posts big blind, stack size (197)
+
+['FOLD', 'CALL:2', 'RAISE:4:6']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 6d Js
+
+V4One5 folds.
+our last bet of 1 was in round 0
+V4Two5's EV: 0.910000
+V4Two5's Equity: 0.4775
+V4Two5's Implied Odds: -2
+V4Two5's maxBetFold: 3
+V4Two5's maxBetEV: 2
+
+V4Two5 calls 2.
+our bot's last action is CALL for 2
+['CHECK', 'BET:2:4']
+{}
+
+***FLOP***(4) Board:(7d Ad Ac)
+Our hand: 6d Js
+
+BAMF5 checks.
+our last bet of 2 was in round 0
+V4Two5's EV: 1.720000
+V4Two5's Equity: 0.43
+V4Two5's Implied Odds: -4
+V4Two5's maxBetFold: 4
+V4Two5's maxBetEV: 3
+
+line 6
+V4Two5 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***TURN***(4) Board:(7d Ad Ac Ks)
+Our hand: 6d Js
+
+BAMF5 checks.
+our last bet of 0 was in round 3
+V4Two5's EV: 1.638000
+V4Two5's Equity: 0.4095
+V4Two5's Implied Odds: -4
+V4Two5's maxBetFold: 4
+V4Two5's maxBetEV: 2
+
+line 6
+V4Two5 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:2:4']
+{}
+
+***RIVER***(4) Board:(7d Ad Ac Ks 6s)
+Our hand: 6d Js
+
+BAMF5 checks.
+our last bet of 0 was in round 4
+V4Two5's EV: 2.436364
+V4Two5's Equity: 0.609090909091
+V4Two5's Implied Odds: -4
+V4Two5's maxBetFold: 4
+V4Two5's maxBetEV: 6
+
+line 1
+final max bet:4
+final min bet:2
+Bet range: 2 4
+V4Two5 bets 3.
+our bot's last action is BET for 3
+BAMF5 folds.
+
+
+NEWHAND:3
+
+['NEWHAND', '3', '3', 'Jh', '6h', '197', '201', '202', 'BAMF5', 'V4One5', 'V4Two5', '3', 'true', 'true', 'true', '14.963510']
+Active Players:3
+
+Our hand: Jh 6h
+BAMF5's VPIP: 0.000000
+BAMF5's PFR: 0.000000
+BAMF5's estimated fold percentage is 1.000000
+BAMF5's AF flop/postflop: 0.000000
+BAMF5's Player Type: NIT
+BAMF5's Seat:1
+V4One5's VPIP: 0.000000
+V4One5's PFR: 0.000000
+V4One5's estimated fold percentage is 0.500000
+V4One5's AF flop/postflop: 0.000000
+V4One5's Player Type: NIT
+V4One5's Seat:2
+V4Two5's VPIP: 0.000000
+V4Two5's PFR: 0.000000
+V4Two5's estimated fold percentage is 1.000000
+V4Two5's AF flop/postflop: 1.000000
+V4Two5's Player Type: NIT
+V4Two5's Seat:3
+
+V4One5 posts small blind, stack size (200)
+V4Two5 posts big blind, stack size (200)
+
+['CHECK', 'RAISE:4:8']
+{}
+
+***PREFLOP***(6) Board:()
+Our hand: Jh 6h
+
+BAMF5 called 2.
+V4One5 called 2.
+our last bet of 2 was in round 0
+V4Two5's EV: 3.003000
+V4Two5's Equity: 0.5005
+V4Two5's Implied Odds: -6
+V4Two5's maxBetFold: 6
+V4Two5's maxBetEV: 6
+
+V4Two5 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:5', 'RAISE:10:21']
+{}
+
+***FLOP***(11) Board:(3c 9h Ah)
+Our hand: Jh 6h
+
+V4One5 bet 5.
+our last bet of 0 was in round 0
+V4Two5's EV: 4.240000
+V4Two5's Equity: 0.5775
+V4Two5's Implied Odds: -12
+V4Two5's maxBetFold: 11
+V4Two5's maxBetEV: 15
+
+line 6
+V4Two5 calls 5.
+our bot's last action is CALL for 5
+['FOLD', 'CALL:20', 'RAISE:40:81']
+{}
+
+***TURN***(41) Board:(3c 9h Ah 8s)
+Our hand: Jh 6h
+
+BAMF5 called 5.
+V4One5 bet 20.
+our last bet of 5 was in round 3
+V4Two5's EV: 4.217000
+V4Two5's Equity: 0.397
+V4Two5's Implied Odds: -30
+V4Two5's maxBetFold: 41
+V4Two5's maxBetEV: 26
+
+line 4
+final max raise:41
+final min raise:40
+Raise range: 40 81
+V4Two5 raises to 41.
+our bot's last action is RAISE for 41
+['FOLD', 'CALL:104', 'RAISE:167:194']
+{}
+
+***TURN***(207) Board:(3c 9h Ah 8s)
+Our hand: Jh 6h
+
+BAMF5 called 41.
+V4One5 raised to 104.
+our last bet of 41 was in round 4
+V4Two5's EV: 44.190000
+V4Two5's Equity: 0.397
+V4Two5's Implied Odds: -174
+V4Two5's maxBetFold: 207
+V4Two5's maxBetEV: 136
+
+line 4
+final max raise:167
+final min raise:167
+Raise range: 167 194
+V4Two5 calls 104.
+our bot's last action is CALL for 104
+['FOLD', 'CALL:8', 'RAISE:16:90']
+{}
+
+***RIVER***(341) Board:(3c 9h Ah 8s 6c)
+Our hand: Jh 6h
+
+BAMF5 called 104.
+V4One5 bet 8.
+our last bet of 104 was in round 4
+V4Two5's EV: 183.068687
+V4Two5's Equity: 0.547474747475
+V4Two5's Implied Odds: -342
+V4Two5's maxBetFold: 341
+V4Two5's maxBetEV: 412
+
+line 4
+final max raise:90
+final min raise:16
+Raise range: 16 90
+V4Two5 raises to 89.
+our bot's last action is RAISE for 89
+BAMF5 called 86.
+V4One5 called 89.
+BAMF5 WTSD percentage is: 0.333333
+V4One5 WTSD percentage is: 0.333333
+V4Two5 WTSD percentage is: 0.333333
+V4One5 W$SD percentage is: 1.000000
+V4One5 W$SD percentage is: 2.000000
+
+
+NEWHAND:4
+
+['NEWHAND', '4', '2', '5h', 'Jc', '598', '2', '0', 'V4One5', 'V4Two5', 'BAMF5', '2', 'true', 'true', 'false', '14.927084']
+Active Players:2
+
+Our hand: 5h Jc
+V4One5's VPIP: 0.333333
+V4One5's PFR: 0.000000
+V4One5's estimated fold percentage is 0.500000
+V4One5's AF flop/postflop: 4.000000
+V4One5's Player Type: UNKNOWN
+V4One5's Seat:1
+V4Two5's VPIP: 0.000000
+V4Two5's PFR: 0.000000
+V4Two5's estimated fold percentage is 1.000000
+V4Two5's AF flop/postflop: 1.000000
+V4Two5's Player Type: NIT
+V4Two5's Seat:2
+BAMF5's VPIP: 0.333333
+BAMF5's PFR: 0.000000
+BAMF5's estimated fold percentage is 1.000000
+BAMF5's AF flop/postflop: 0.000000
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:3
+BAMF5 is eliminated
+
+V4One5 posts small blind/and is dealer, stack size (597)
+V4Two5 posts big blind, stack size (0)
+
+V4One5 called 2.
+V4Two5 WTSD percentage is: 0.500000
+V4One5 WTSD percentage is: 0.500000
+V4Two5 W$SD percentage is: 0.500000
+
+
+NEWHAND:5
+
+['NEWHAND', '5', '1', '6s', 'Qs', '4', '596', '0', 'V4Two5', 'V4One5', 'BAMF5', '2', 'true', 'true', 'false', '14.927084']
+Active Players:2
+
+Our hand: 6s Qs
+V4Two5's VPIP: 0.000000
+V4Two5's PFR: 0.000000
+V4Two5's estimated fold percentage is 1.000000
+V4Two5's AF flop/postflop: 1.000000
+V4Two5's Player Type: NIT
+V4Two5's Seat:1
+V4One5's VPIP: 0.250000
+V4One5's PFR: 0.000000
+V4One5's estimated fold percentage is 0.500000
+V4One5's AF flop/postflop: 2.000000
+V4One5's Player Type: CALLING STATION
+V4One5's Seat:2
+BAMF5's VPIP: 0.250000
+BAMF5's PFR: 0.000000
+BAMF5's estimated fold percentage is 1.000000
+BAMF5's AF flop/postflop: 0.000000
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:3
+BAMF5 is eliminated
+
+V4Two5 posts small blind/and is dealer, stack size (3)
+V4One5 posts big blind, stack size (594)
+
+['CALL:2', 'FOLD', 'RAISE:4:4']
+{}
+
+***PREFLOP***(3) Board:()
+Our hand: 6s Qs
+
+our last bet of 1 was in round 0
+V4Two5's EV: 1.182000
+V4Two5's Equity: 0.5455
+V4Two5's Implied Odds: -3
+V4Two5's maxBetFold: 3
+V4Two5's maxBetEV: 3
+
+V4Two5 folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:6
+
+['NEWHAND', '6', '2', 'Jc', '9h', '597', '3', '0', 'V4One5', 'V4Two5', 'BAMF5', '2', 'true', 'true', 'false', '14.917975']
+Active Players:2
+
+Our hand: Jc 9h
+V4One5's VPIP: 0.200000
+V4One5's PFR: 0.000000
+V4One5's estimated fold percentage is 0.500000
+V4One5's AF flop/postflop: 2.000000
+V4One5's Player Type: CALLING STATION
+V4One5's Seat:1
+V4Two5's VPIP: 0.000000
+V4Two5's PFR: 0.000000
+V4Two5's estimated fold percentage is 0.400000
+V4Two5's AF flop/postflop: 1.000000
+V4Two5's Player Type: NIT
+V4Two5's Seat:2
+BAMF5's VPIP: 0.200000
+BAMF5's PFR: 0.000000
+BAMF5's estimated fold percentage is 1.000000
+BAMF5's AF flop/postflop: 0.000000
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:3
+BAMF5 is eliminated
+
+V4One5 posts small blind/and is dealer, stack size (596)
+V4Two5 posts big blind, stack size (1)
+
+['CHECK', 'RAISE:3:3']
+{}
+
+***PREFLOP***(4) Board:()
+Our hand: Jc 9h
+
+V4One5 called 2.
+our last bet of 2 was in round 0
+V4Two5's EV: 2.004000
+V4Two5's Equity: 0.501
+V4Two5's Implied Odds: -4
+V4Two5's maxBetFold: 4
+V4Two5's maxBetEV: 4
+
+V4Two5 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:1:1']
+{}
+
+***FLOP***(4) Board:(3s 5c 7s)
+Our hand: Jc 9h
+
+our last bet of 0 was in round 0
+V4Two5's EV: 1.312000
+V4Two5's Equity: 0.328
+V4Two5's Implied Odds: -4
+V4Two5's maxBetFold: 4
+V4Two5's maxBetEV: 1
+
+V4Two5 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:1:1']
+{}
+
+***TURN***(4) Board:(3s 5c 7s 2h)
+Our hand: Jc 9h
+
+V4One5 checks.
+our last bet of 0 was in round 3
+V4Two5's EV: 0.858000
+V4Two5's Equity: 0.2145
+V4Two5's Implied Odds: -4
+V4Two5's maxBetFold: 4
+V4Two5's maxBetEV: 1
+
+V4Two5 checks.
+our bot's last action is CHECK for 0
+['CHECK', 'BET:1:1']
+{}
+
+***RIVER***(4) Board:(3s 5c 7s 2h 5h)
+Our hand: Jc 9h
+
+V4One5 checks.
+our last bet of 0 was in round 4
+V4Two5's EV: 0.680808
+V4Two5's Equity: 0.170202020202
+V4Two5's Implied Odds: -4
+V4Two5's maxBetFold: 4
+V4Two5's maxBetEV: 0
+
+V4Two5 checks.
+our bot's last action is CHECK for 0
+['FOLD', 'CALL:1']
+{}
+
+***RIVER***(5) Board:(3s 5c 7s 2h 5h)
+Our hand: Jc 9h
+
+V4One5 bet 1.
+our last bet of 0 was in round 5
+V4Two5's EV: 0.021212
+V4Two5's Equity: 0.170202020202
+V4Two5's Implied Odds: -1
+V4Two5's maxBetFold: 5
+V4Two5's maxBetEV: 1
+
+V4Two5 folds.
+our bot's last action is FOLD for 0
+
+
+NEWHAND:7
+
+['NEWHAND', '7', '1', '3h', 'Ad', '1', '599', '0', 'V4Two5', 'V4One5', 'BAMF5', '2', 'true', 'true', 'false', '14.886757']
+Active Players:2
+
+Our hand: 3h Ad
+V4Two5's VPIP: 0.000000
+V4Two5's PFR: 0.000000
+V4Two5's estimated fold percentage is 0.400000
+V4Two5's AF flop/postflop: 1.000000
+V4Two5's Player Type: NIT
+V4Two5's Seat:1
+V4One5's VPIP: 0.333333
+V4One5's PFR: 0.000000
+V4One5's estimated fold percentage is 0.500000
+V4One5's AF flop/postflop: 2.500000
+V4One5's Player Type: CALLING STATION
+V4One5's Seat:2
+BAMF5's VPIP: 0.166667
+BAMF5's PFR: 0.000000
+BAMF5's estimated fold percentage is 1.000000
+BAMF5's AF flop/postflop: 0.000000
+BAMF5's Player Type: UNKNOWN
+BAMF5's Seat:3
+BAMF5 is eliminated
+
+V4Two5 posts small blind/and is dealer, stack size (0)
+V4One5 posts big blind, stack size (597)
+
+V4Two5 WTSD percentage is: 0.428571
+V4One5 WTSD percentage is: 0.428571
+V4One5 W$SD percentage is: 1.000000
+Gameover, engine disconnected.

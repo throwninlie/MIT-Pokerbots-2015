@@ -1,18 +1,18 @@
 \documentclass{article}
-\usepackage[margin=1.5in]{geometry}
+\usepackage[margin=1in]{geometry}
 \usepackage{amsmath}
 \usepackage{indentfirst}
 
 \title{6.176 Strategy Report}
 \author{Str8Rippin \\
-Erwin Hilton, Richard Spence, Gabriel Esayas, Vincent Anioke}
+Erwin Hilton, Richard Spence, Gabriel Esayas}
 \date{\today}
 
 \begin{document}
 \maketitle
 
 \section*{Introduction}
-This strategy report outlines the strategies that our pokerbot used for the 6.176 Pokerbots competition, including how we exploited other opponents to determine when to bet, raise, check, or fold.
+This strategy report outlines the strategies that our pokerbot used for the 6.176 Pokerbots competition, including how we classified other opponents to determine whether to raise, check, call, or fold.
 
 \section*{The \texttt{Opponent} class}
 We created a Python class \texttt{Opponent} that keeps track of player stats throughout the game. Thus, whenever \texttt{NEWGAME} is received, we create three \texttt{Opponent} objects, including one for our own player. Each opponent has several basic attributes, including name, stack size, what seat the opponent is at (1, 2, or 3), whether the opponent is playing the current hand, and whether the opponent is eliminated from the game. Additionally, each \texttt{Opponent} has the following attributes: \\
@@ -24,19 +24,93 @@ We created a Python class \texttt{Opponent} that keeps track of player stats thr
 \texttt{bot.PFR} & percentage of hands in which opp. raised pre-flop \\ \hline
 \texttt{bot.WTSD} & percentage of hands in which opp. went to showdown \\ \hline
 \texttt{bot.WMSD} & percentage of showdowns in which opp. goes and wins \\ \hline
+\texttt{bot.AFflop} & aggression factor - flop, defined as (\# bets+ \# raises)/(\# calls) \\ \hline
 
 \end{tabular} \\
+\vspace{0.5in}
 
-These attributes allow us to classify an opponent one of several categories: calling machine (one who calls very often, easy to win money from), rock (conservative player, usually only plays premium hands), fish (poor player who often likes to go to showdown), tight-aggressive (TAG), loose-aggressive (LAG). Because playing styles might change, we also evaluate based on the last $h$ hands. 
+These attributes allow us to classify an opponent one of several categories: nit, shark, bomb, maniac, calling station, cashcow, loose, and unknown. 
 
 %http://www.myholdempokertips.com/hud-stats-wtsd-won-money-at-showdown
 %http://www.thepokerbank.com/articles/software/vpip/
 
+We classified players as follows:
+
+\[ \texttt{bot.playerType} = \begin{cases}
+\text{NIT} & bot.VPIP \le .13 \text{ and } bot.PFR \le .13 \\\\
+\text{SHARK} & .1 < bot.VPIP < .3 \text{ and } 0.05 \le bot.PFR \le .25 \text{ and } \\
+& bot.AFflop \ge 2.5 \text{ and } bot.WMSD \ge .4 \\\\
+\text{BOMB} & self.VPIP \ge .4 \text{ and } self.PFR \ge .13 \text{ and } self.AFflop \ge 5 \\\\
+\text{MANIAC} & self.VPIP \ge .35 \text{ and } self.PFR \ge .25 \text{ and } bot.AFq \ge .5 \\\\
+\text{CALLING STATION} & .2 \le bot.VPIP \le .4 \text{ and } bot.PFR \le .15 \text{ and } \\
+& bot.WTSD \ge .35 \text{ and } bot.AFflop \le 3 \\\\
+\text{CASHCOW} & bot.VPIP \ge .35 \text{ and } bot.PFR \ge .25 \text{ and } bot.WTSD \le .38 \\
+& \text{ and } bot.AFq \le .5 \\\\
+\text{LOOSE} & bot.AFq \ge .4 \text{ and } bot.PFT \ge .13 \\\\
+\text{UNKNOWN} & \text{otherwise}
+\end{cases}
+\] \\
+
+The following table gives a brief description of each player type: \\
+
+\begin{tabular}{|l|l|} \hline
+NIT & based off VPIP and PFR, nits voluntarily bet a low percentage preflop; \\
+ & usually only play premium hands \\ \hline
+SHARK & hard to exploit; choose hands well and are aggressive about them postflop; \\
+&  have a bit wider range of playing hands than a nit, but still tight \\ \hline
+BOMB & loves to play hands aggressively; plays very loosely \\ \hline
+MANIAC & similar, very, very loose player, usually know they will play their hand \\ \hline
+CALLING STATION & love to call, but usually do not bet or raise; usually never bluff \\
+& (only bet/raise on very good hands) \\ \hline
+CASHCOW & play loosely but not aggressive postflop; can usually make them fold postflop \\ \hline
+LOOSE & general term for a player who plays a large amount of hands but was not classified \\
+& any of the above types \\ \hline
+\end{tabular}
+
+\vspace{.5in}
+
+We decided to only take player types into account after 10 hands have elapsed, since it is difficult to make choices based on player type early on.
+
+
+
+
+
 We also use the M-ratio, so a player's M-ratio (denoted \texttt{bot.MRatio}) is defined by
 \[ M = \frac{\text{stack}}{\text{small blind} + \text{big blind} + \text{total antes}} \]
-However, the M-ratio simplifies in this game, since the antes are zero, and the small blind is always 1 and the big blind is always 2. Hence, the M-ratio is simply $\frac{\text{stack}}{3}$.
+However, the M-ratio simplifies in this game, since the antes are zero, and the small blind is always 1 and the big blind is always 2. Hence, the M-ratio is simply $\frac{\text{stack}}{3}$. Even though M-ratio is not very interesting in this tournament, it gives some indication of how many hands we can survive.
 
+\section*{The equity calculator}
+We used the given equity calculator, which takes in an input our hole cards, any community cards, as well as possibly the opponents' hole cards, and outputs a number in $[0,1]$ indicating the expected amount of the pot we should win with our hand.
+
+Afterwards, we computed the estimated value ($EV$) for each hand, given by
+\[ EV = \text{equity} \cdot \text{winAmt} - (1-\text{equity}) \cdot \text{loseAmt} \]
+where winAmt equals the sum of the opponents' contributions to the pot, and loseAmt is the amount we have contributed to the pot.
+
+Fold expected value is equal to
+\[ \text{Fold EV} =  \text{opp's fold \%} \cdot \text{potSize} + (1 - \text{opp's fold \%}) \cdot EV \]
+This is essentially our expected value, if the opponent folds in the current round. We solved for the maximum bet amount so that Fold EV > 0, and used this as our maximum bluff amount. We usually bluffed when our opponents were classified NIT, and they were not raising, or if they were classified CASHCOW and were not raising after the flop, since we believed we can make them fold postflop.
 \section*{Strategy}
-First, we parse the inputs from each \texttt{GETACTION} packet. Then we use the given equity calculator to determine the hand equity, given our hole cards, the board, and possibly what the opponent has.
+At the end of each hand, we update the stats that were described above, for each player, if that person played that hand.
 
+First, we parse the inputs from each \texttt{GETACTION} packet. Then we use the given equity calculator to determine the hand equity.
+
+\subsection*{Preflop}
+We mostly based our decision on our equity during preflop. If our equity is low, then we faced a few options:
+\begin{itemize}
+\item If a nit is raising, then he must have an excellent hand, so we check/fold.
+\item Otherwise, with probability 0.35 and if the minimum bet amount is small, we bluff.
+\item Otherwise, we check/fold.
+\end{itemize}
+Otherwise, if $EV > 0$, we look at equity. If our equity is larger than a threshold, we bet or raise. If $EV < 0$, we check/fold.
+
+
+\subsection*{Postflop}
+Generally, we will always bet, raise, check, or call when $EV \ge 0$. We exploited cashcows if they were the only players left in the hand by bluffing.
+
+If $EV < 0$ and earlier this round, a shark, nit, or calling station bets or raises, we will check/fold, since the bet/raise likely indicates he has a very strong hand.
+
+\subsection*{All-in} We made an exception on our strategy when our $M$-ratio becomes very low. We decided to go all-in if our M-ratio is less than 4, or if our M-ratio is between 4 and 7 and our equity is at least 0.6. If our M-ratio is less than 7 and we have poor hand equity, we simply fold.
+
+\section*{Reflections}
+Our bot played well with certain hands, but further improvements to our bot in the future could include: better classification so that all player types are classified appropriately, and storing player information from previous matches so that we can use the information in future matches to classify them better.
 \end{document}
